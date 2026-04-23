@@ -1,0 +1,2001 @@
+car_id,brand,model,price_lakh,fuel_type,mileage_kmpl,city,sales_person_rating,customer_review
+1,Mahindra,Swift,22.02,Electric,26.4,Chennai,4.4,Amazing experience overall
+2,BMW,City,51.55,Hybrid,23.28,Pune,4.7,Value for money car
+3,Kia,i20,67.09,Hybrid,12.6,Chennai,3.2,Could be better in terms of features
+4,Honda,XUV700,5.4,Diesel,25.2,Ahmedabad,4.9,Not satisfied with service
+5,Hyundai,Nexon,43.24,Diesel,24.59,Delhi,2.9,Value for money car
+6,Kia,City,72.14,Electric,19.4,Mumbai,3.7,Mileage is decent but price is high
+7,Honda,i20,10.86,Petrol,15.82,Delhi,3.4,Not satisfied with service
+8,Tata,Fortuner,31.14,Electric,23.67,Delhi,5.0,Not satisfied with service
+9,Toyota,i20,66.12,Electric,26.43,Chennai,2.7,Not satisfied with service
+10,Maruti,i20,39.49,Electric,12.34,Bangalore,2.8,Amazing experience overall
+11,Mahindra,i20,79.18,Hybrid,14.45,Ahmedabad,4.1,Not satisfied with service
+12,Maruti,Seltos,45.88,Hybrid,29.09,Pune,3.6,Not satisfied with service
+13,Maruti,Swift,11.76,Petrol,22.75,Pune,3.0,Mileage is decent but price is high
+14,Hyundai,X5,47.61,Electric,14.78,Delhi,3.1,Great performance and smooth drive
+15,BMW,City,75.23,Electric,22.6,Mumbai,4.3,Could be better in terms of features
+16,Honda,Seltos,69.22,Diesel,11.28,Delhi,4.4,Amazing experience overall
+17,BMW,Seltos,42.84,Hybrid,14.51,Chennai,3.1,Great performance and smooth drive
+18,Tata,City,16.77,Electric,24.76,Bangalore,4.1,Value for money car
+19,Honda,Swift,35.05,Petrol,17.83,Chennai,4.4,Amazing experience overall
+20,Maruti,City,72.29,Electric,14.29,Pune,3.0,Value for money car
+21,Honda,X5,23.74,Hybrid,29.47,Chennai,4.2,Could be better in terms of features
+22,Toyota,Fortuner,7.18,Hybrid,15.81,Mumbai,4.9,Excellent features and comfort
+23,Mahindra,i20,20.54,Hybrid,11.28,Bangalore,3.5,Value for money car
+24,Honda,Fortuner,28.11,Petrol,22.27,Bangalore,3.6,Could be better in terms of features
+25,Kia,Swift,50.56,Electric,23.7,Pune,2.8,Amazing experience overall
+26,Maruti,i20,40.69,Hybrid,19.38,Delhi,4.5,Great performance and smooth drive
+27,Tata,City,60.7,Diesel,22.33,Bangalore,4.3,Excellent features and comfort
+28,Hyundai,XUV700,17.46,Hybrid,25.23,Pune,4.6,Not satisfied with service
+29,Hyundai,Nexon,28.55,Electric,14.1,Ahmedabad,3.2,Amazing experience overall
+30,Tata,Fortuner,28.5,Diesel,16.22,Chennai,3.9,Not satisfied with service
+31,Hyundai,Swift,20.06,Petrol,22.22,Mumbai,4.0,Could be better in terms of features
+32,Mahindra,City,21.36,Hybrid,24.21,Ahmedabad,3.8,Could be better in terms of features
+33,Maruti,X5,68.77,Electric,29.21,Bangalore,4.8,Excellent features and comfort
+34,Maruti,Seltos,65.69,Electric,24.17,Mumbai,3.1,Amazing experience overall
+35,BMW,Seltos,72.35,Petrol,27.35,Bangalore,3.8,Could be better in terms of features
+36,BMW,X5,43.39,Diesel,25.38,Ahmedabad,3.8,Mileage is decent but price is high
+37,Maruti,Fortuner,66.16,Petrol,11.74,Pune,3.2,Excellent features and comfort
+38,BMW,X5,5.37,Petrol,20.99,Chennai,4.7,Not satisfied with service
+39,BMW,X5,61.89,Petrol,10.61,Pune,3.4,Could be better in terms of features
+40,BMW,i20,18.24,Diesel,17.96,Chennai,4.3,Not satisfied with service
+41,BMW,City,29.32,Electric,27.22,Mumbai,3.7,Not satisfied with service
+42,Toyota,City,6.06,Petrol,27.95,Pune,3.3,Mileage is decent but price is high
+43,Tata,X5,30.85,Hybrid,28.28,Mumbai,3.8,Amazing experience overall
+44,Tata,XUV700,12.95,Petrol,16.38,Chennai,3.3,Not satisfied with service
+45,Maruti,Seltos,78.67,Diesel,13.07,Mumbai,3.5,Amazing experience overall
+46,Mahindra,Nexon,63.0,Electric,28.3,Ahmedabad,4.2,Could be better in terms of features
+47,Tata,Fortuner,5.72,Petrol,22.67,Ahmedabad,2.5,Could be better in terms of features
+48,Mahindra,Nexon,40.32,Hybrid,20.01,Ahmedabad,4.8,Excellent features and comfort
+49,Maruti,Swift,25.68,Electric,22.64,Pune,3.7,Value for money car
+50,BMW,Fortuner,54.81,Electric,15.59,Chennai,4.6,Value for money car
+51,Maruti,XUV700,72.64,Electric,18.42,Pune,3.9,Not satisfied with service
+52,Mahindra,Nexon,5.37,Diesel,10.67,Delhi,4.5,Not satisfied with service
+53,Honda,Swift,78.77,Hybrid,26.02,Chennai,4.0,Could be better in terms of features
+54,Hyundai,Nexon,54.28,Electric,26.89,Pune,3.3,Amazing experience overall
+55,Honda,Seltos,71.17,Petrol,23.18,Mumbai,3.5,Mileage is decent but price is high
+56,Toyota,XUV700,77.76,Diesel,27.64,Mumbai,2.8,Excellent features and comfort
+57,Mahindra,Swift,73.69,Petrol,28.06,Chennai,3.8,Could be better in terms of features
+58,Tata,X5,76.5,Diesel,23.33,Mumbai,2.8,Not satisfied with service
+59,Mahindra,XUV700,9.13,Diesel,25.36,Mumbai,3.3,Great performance and smooth drive
+60,Kia,i20,65.12,Electric,28.26,Pune,4.7,Excellent features and comfort
+61,Toyota,Nexon,49.86,Electric,17.0,Delhi,3.9,Amazing experience overall
+62,Honda,Swift,49.99,Hybrid,15.1,Delhi,4.6,Amazing experience overall
+63,Mahindra,Nexon,67.95,Electric,13.55,Ahmedabad,4.3,Amazing experience overall
+64,Tata,City,15.62,Hybrid,19.5,Delhi,4.9,Not satisfied with service
+65,Toyota,City,36.93,Hybrid,10.63,Pune,4.2,Amazing experience overall
+66,Honda,X5,13.07,Petrol,11.74,Bangalore,3.0,Not satisfied with service
+67,Mahindra,Swift,43.16,Hybrid,26.32,Pune,3.7,Value for money car
+68,BMW,Seltos,14.51,Electric,21.0,Chennai,3.4,Not satisfied with service
+69,Maruti,City,28.21,Hybrid,26.18,Mumbai,3.4,Excellent features and comfort
+70,Toyota,i20,56.08,Diesel,10.6,Pune,2.6,Could be better in terms of features
+71,Hyundai,City,6.6,Hybrid,22.32,Delhi,2.6,Excellent features and comfort
+72,Tata,Swift,25.3,Electric,26.8,Bangalore,4.2,Value for money car
+73,Maruti,Nexon,27.42,Hybrid,27.5,Mumbai,3.8,Value for money car
+74,BMW,i20,27.96,Diesel,16.52,Mumbai,4.7,Amazing experience overall
+75,Kia,i20,25.63,Hybrid,15.2,Chennai,4.6,Excellent features and comfort
+76,BMW,i20,35.07,Diesel,23.65,Ahmedabad,3.0,Could be better in terms of features
+77,Maruti,Nexon,58.87,Electric,17.72,Pune,2.6,Could be better in terms of features
+78,Toyota,Seltos,45.09,Diesel,18.44,Pune,5.0,Mileage is decent but price is high
+79,Tata,Fortuner,36.28,Petrol,17.44,Pune,4.7,Could be better in terms of features
+80,Hyundai,Fortuner,18.79,Hybrid,26.0,Bangalore,3.1,Value for money car
+81,Maruti,i20,63.7,Diesel,27.66,Chennai,4.0,Excellent features and comfort
+82,Honda,i20,42.05,Electric,18.61,Delhi,4.8,Excellent features and comfort
+83,Kia,Nexon,46.41,Diesel,26.61,Delhi,3.8,Not satisfied with service
+84,Hyundai,Seltos,75.74,Petrol,24.8,Bangalore,3.5,Amazing experience overall
+85,Maruti,XUV700,48.26,Electric,10.71,Bangalore,4.2,Great performance and smooth drive
+86,Honda,City,43.99,Hybrid,18.34,Ahmedabad,4.0,Amazing experience overall
+87,Tata,Nexon,39.53,Hybrid,15.63,Ahmedabad,3.8,Could be better in terms of features
+88,BMW,i20,70.72,Diesel,19.58,Mumbai,3.0,Value for money car
+89,Maruti,Fortuner,5.05,Petrol,16.5,Chennai,3.2,Could be better in terms of features
+90,Honda,Nexon,14.13,Hybrid,26.34,Chennai,4.5,Excellent features and comfort
+91,Kia,Nexon,67.29,Diesel,24.86,Pune,4.2,Value for money car
+92,BMW,i20,46.71,Diesel,20.1,Pune,4.7,Could be better in terms of features
+93,Honda,Swift,74.56,Electric,27.12,Mumbai,2.8,Not satisfied with service
+94,Mahindra,Swift,19.39,Electric,26.78,Mumbai,3.2,Amazing experience overall
+95,Mahindra,i20,21.38,Petrol,16.52,Mumbai,2.8,Amazing experience overall
+96,Mahindra,XUV700,71.25,Diesel,19.53,Ahmedabad,3.0,Amazing experience overall
+97,Mahindra,i20,31.8,Electric,18.96,Mumbai,4.9,Could be better in terms of features
+98,Kia,Seltos,13.3,Electric,17.17,Pune,4.9,Not satisfied with service
+99,Kia,X5,11.82,Petrol,23.96,Pune,2.9,Mileage is decent but price is high
+100,Hyundai,Fortuner,54.73,Electric,11.82,Mumbai,4.1,Not satisfied with service
+101,Honda,X5,27.96,Petrol,20.4,Delhi,3.1,Great performance and smooth drive
+102,Hyundai,City,21.83,Hybrid,13.17,Bangalore,4.3,Mileage is decent but price is high
+103,Mahindra,X5,22.24,Hybrid,11.6,Chennai,4.1,Excellent features and comfort
+104,Honda,X5,11.85,Hybrid,13.32,Ahmedabad,4.5,Could be better in terms of features
+105,Maruti,Seltos,26.32,Diesel,23.76,Mumbai,4.9,Value for money car
+106,Hyundai,Swift,11.86,Petrol,29.54,Bangalore,4.4,Great performance and smooth drive
+107,Hyundai,City,35.91,Diesel,22.03,Chennai,4.5,Amazing experience overall
+108,Kia,Nexon,55.7,Diesel,22.52,Delhi,4.0,Amazing experience overall
+109,Kia,City,6.52,Hybrid,20.36,Pune,4.5,Mileage is decent but price is high
+110,Toyota,X5,34.75,Electric,22.17,Chennai,3.8,Could be better in terms of features
+111,Mahindra,Swift,64.25,Diesel,14.29,Bangalore,3.6,Mileage is decent but price is high
+112,Honda,X5,62.67,Electric,17.19,Chennai,4.4,Amazing experience overall
+113,Mahindra,XUV700,17.04,Petrol,20.57,Bangalore,2.7,Could be better in terms of features
+114,Hyundai,Seltos,35.28,Petrol,15.87,Mumbai,4.7,Mileage is decent but price is high
+115,Tata,Nexon,48.4,Hybrid,11.17,Pune,4.5,Mileage is decent but price is high
+116,Honda,XUV700,24.41,Diesel,26.88,Chennai,2.8,Great performance and smooth drive
+117,Honda,X5,69.51,Diesel,16.84,Pune,3.8,Value for money car
+118,Maruti,i20,56.82,Hybrid,16.64,Chennai,4.5,Great performance and smooth drive
+119,Honda,Nexon,5.95,Electric,15.27,Delhi,2.9,Amazing experience overall
+120,BMW,Seltos,59.17,Hybrid,13.28,Bangalore,2.8,Excellent features and comfort
+121,Mahindra,Seltos,19.69,Diesel,23.0,Pune,3.1,Great performance and smooth drive
+122,BMW,XUV700,62.47,Diesel,26.09,Pune,3.2,Amazing experience overall
+123,Hyundai,XUV700,40.3,Diesel,20.39,Mumbai,4.2,Value for money car
+124,Hyundai,Swift,54.28,Petrol,13.29,Delhi,4.8,Excellent features and comfort
+125,Kia,X5,77.65,Diesel,27.6,Ahmedabad,4.4,Amazing experience overall
+126,Tata,City,47.22,Petrol,22.41,Chennai,4.6,Great performance and smooth drive
+127,Tata,Nexon,31.33,Petrol,18.27,Bangalore,2.9,Excellent features and comfort
+128,Maruti,Swift,51.51,Hybrid,14.55,Ahmedabad,3.0,Value for money car
+129,Tata,Seltos,74.92,Electric,21.89,Delhi,4.0,Mileage is decent but price is high
+130,Kia,Fortuner,13.29,Electric,26.78,Chennai,2.8,Amazing experience overall
+131,Toyota,X5,59.69,Petrol,27.91,Bangalore,2.6,Mileage is decent but price is high
+132,Kia,Seltos,47.52,Hybrid,24.56,Ahmedabad,4.8,Value for money car
+133,Honda,X5,39.61,Hybrid,23.71,Chennai,4.6,Amazing experience overall
+134,Tata,Seltos,49.03,Diesel,26.83,Pune,3.0,Excellent features and comfort
+135,Mahindra,XUV700,69.62,Petrol,12.49,Mumbai,3.7,Great performance and smooth drive
+136,Toyota,Swift,70.42,Electric,11.54,Bangalore,4.7,Value for money car
+137,Toyota,X5,29.63,Electric,24.95,Mumbai,3.3,Great performance and smooth drive
+138,Hyundai,City,69.2,Hybrid,15.07,Chennai,3.4,Not satisfied with service
+139,Toyota,Nexon,7.11,Petrol,13.01,Ahmedabad,4.7,Great performance and smooth drive
+140,Kia,XUV700,18.26,Diesel,17.07,Delhi,3.8,Value for money car
+141,Toyota,Fortuner,60.94,Electric,10.43,Mumbai,2.6,Mileage is decent but price is high
+142,Hyundai,Seltos,57.86,Diesel,10.1,Ahmedabad,3.5,Not satisfied with service
+143,Hyundai,Swift,66.01,Diesel,14.51,Mumbai,3.8,Excellent features and comfort
+144,Tata,Nexon,66.72,Hybrid,21.55,Chennai,3.7,Not satisfied with service
+145,Mahindra,City,30.38,Electric,17.02,Bangalore,3.5,Great performance and smooth drive
+146,Maruti,Seltos,19.85,Electric,23.83,Mumbai,2.7,Could be better in terms of features
+147,Hyundai,Fortuner,14.56,Diesel,14.39,Mumbai,4.2,Not satisfied with service
+148,BMW,Seltos,50.45,Hybrid,11.55,Ahmedabad,3.3,Amazing experience overall
+149,Maruti,XUV700,21.12,Petrol,11.65,Chennai,3.7,Could be better in terms of features
+150,BMW,Nexon,5.54,Hybrid,13.11,Chennai,4.8,Great performance and smooth drive
+151,Honda,Fortuner,24.1,Diesel,13.74,Delhi,2.5,Value for money car
+152,Mahindra,Seltos,21.21,Hybrid,15.64,Pune,3.4,Value for money car
+153,Maruti,Seltos,79.51,Electric,25.7,Ahmedabad,4.1,Mileage is decent but price is high
+154,Kia,City,12.58,Hybrid,12.06,Mumbai,4.2,Excellent features and comfort
+155,Maruti,City,7.52,Hybrid,18.57,Chennai,3.5,Not satisfied with service
+156,Honda,XUV700,6.58,Electric,29.83,Delhi,4.1,Value for money car
+157,Honda,Nexon,26.16,Hybrid,17.84,Pune,3.0,Value for money car
+158,Mahindra,i20,12.67,Hybrid,18.72,Chennai,3.0,Value for money car
+159,Toyota,X5,62.2,Diesel,20.25,Delhi,2.7,Could be better in terms of features
+160,Maruti,i20,19.27,Diesel,22.66,Mumbai,4.5,Value for money car
+161,Hyundai,XUV700,78.87,Electric,18.64,Pune,3.8,Not satisfied with service
+162,Honda,i20,32.81,Electric,21.99,Chennai,4.1,Mileage is decent but price is high
+163,Maruti,Swift,70.54,Hybrid,23.0,Delhi,4.5,Value for money car
+164,Toyota,Nexon,43.29,Hybrid,24.99,Ahmedabad,3.8,Not satisfied with service
+165,Kia,X5,32.17,Electric,14.41,Chennai,4.5,Value for money car
+166,Kia,City,69.53,Diesel,21.58,Ahmedabad,5.0,Not satisfied with service
+167,Toyota,Seltos,29.04,Petrol,29.87,Delhi,3.5,Amazing experience overall
+168,Maruti,XUV700,15.82,Petrol,24.9,Chennai,4.6,Could be better in terms of features
+169,Kia,Swift,57.66,Hybrid,25.23,Bangalore,3.7,Could be better in terms of features
+170,Maruti,X5,71.5,Hybrid,12.35,Pune,3.8,Could be better in terms of features
+171,Kia,City,72.78,Hybrid,20.67,Pune,2.7,Excellent features and comfort
+172,Honda,Nexon,12.7,Diesel,26.57,Bangalore,4.8,Excellent features and comfort
+173,Maruti,i20,17.71,Diesel,13.22,Ahmedabad,4.5,Not satisfied with service
+174,Toyota,Fortuner,20.76,Petrol,22.33,Delhi,3.2,Excellent features and comfort
+175,BMW,XUV700,59.52,Electric,23.45,Pune,2.8,Not satisfied with service
+176,Kia,i20,77.09,Diesel,27.29,Pune,4.6,Not satisfied with service
+177,Kia,i20,41.74,Hybrid,22.62,Pune,4.0,Excellent features and comfort
+178,Hyundai,Swift,64.01,Diesel,25.84,Bangalore,3.7,Value for money car
+179,Kia,Swift,21.14,Electric,19.42,Pune,4.4,Value for money car
+180,Maruti,Seltos,63.03,Hybrid,20.72,Delhi,2.5,Excellent features and comfort
+181,Hyundai,Swift,8.24,Electric,27.63,Chennai,3.1,Mileage is decent but price is high
+182,Honda,Seltos,29.24,Diesel,25.17,Chennai,3.0,Amazing experience overall
+183,Honda,X5,13.49,Hybrid,22.66,Bangalore,3.0,Mileage is decent but price is high
+184,Tata,X5,8.86,Petrol,28.05,Pune,4.3,Great performance and smooth drive
+185,Toyota,i20,6.34,Petrol,28.4,Pune,3.1,Could be better in terms of features
+186,Mahindra,Swift,42.22,Hybrid,27.67,Delhi,2.9,Mileage is decent but price is high
+187,Toyota,Seltos,67.8,Hybrid,12.83,Delhi,3.6,Amazing experience overall
+188,Mahindra,XUV700,46.85,Diesel,24.49,Chennai,4.2,Not satisfied with service
+189,Kia,Fortuner,63.31,Electric,28.18,Pune,3.8,Great performance and smooth drive
+190,Mahindra,X5,62.99,Diesel,14.41,Ahmedabad,3.5,Great performance and smooth drive
+191,Toyota,i20,38.18,Diesel,13.62,Delhi,2.9,Value for money car
+192,Kia,Nexon,79.17,Electric,10.82,Chennai,4.3,Amazing experience overall
+193,Toyota,Swift,55.04,Diesel,12.84,Pune,2.8,Could be better in terms of features
+194,Honda,i20,65.15,Diesel,13.51,Bangalore,2.6,Great performance and smooth drive
+195,Kia,Nexon,47.27,Hybrid,23.57,Bangalore,4.1,Mileage is decent but price is high
+196,Hyundai,X5,48.5,Hybrid,12.78,Bangalore,4.8,Value for money car
+197,Toyota,Seltos,15.48,Diesel,26.72,Mumbai,4.0,Not satisfied with service
+198,Toyota,Nexon,16.64,Electric,20.52,Delhi,3.8,Not satisfied with service
+199,Toyota,Seltos,34.48,Petrol,27.88,Bangalore,3.9,Could be better in terms of features
+200,Tata,City,19.75,Electric,22.18,Delhi,3.1,Mileage is decent but price is high
+201,Tata,Nexon,17.14,Petrol,23.5,Bangalore,3.8,Mileage is decent but price is high
+202,Toyota,i20,19.46,Electric,24.03,Ahmedabad,3.2,Value for money car
+203,Maruti,Swift,10.55,Petrol,28.28,Bangalore,4.1,Mileage is decent but price is high
+204,Toyota,XUV700,36.43,Hybrid,16.32,Ahmedabad,2.6,Could be better in terms of features
+205,Mahindra,X5,20.36,Electric,27.15,Chennai,4.4,Could be better in terms of features
+206,Maruti,Nexon,46.63,Hybrid,16.85,Chennai,4.4,Mileage is decent but price is high
+207,Honda,Seltos,61.28,Petrol,16.63,Chennai,3.1,Great performance and smooth drive
+208,BMW,Fortuner,15.41,Petrol,19.08,Delhi,4.5,Value for money car
+209,Toyota,X5,20.35,Petrol,27.75,Ahmedabad,3.6,Excellent features and comfort
+210,Tata,City,59.35,Diesel,14.05,Bangalore,3.2,Amazing experience overall
+211,Kia,Nexon,17.24,Electric,24.32,Pune,2.8,Mileage is decent but price is high
+212,BMW,i20,54.17,Hybrid,29.9,Chennai,3.2,Not satisfied with service
+213,Mahindra,Swift,70.03,Hybrid,14.88,Delhi,2.6,Could be better in terms of features
+214,Honda,Nexon,30.58,Hybrid,14.94,Chennai,3.1,Value for money car
+215,Hyundai,Fortuner,7.77,Electric,28.36,Delhi,2.8,Excellent features and comfort
+216,BMW,City,61.77,Hybrid,22.18,Mumbai,3.1,Could be better in terms of features
+217,Mahindra,XUV700,27.18,Petrol,23.43,Pune,4.6,Great performance and smooth drive
+218,Hyundai,Swift,60.01,Electric,16.72,Pune,4.0,Amazing experience overall
+219,Tata,Swift,73.89,Diesel,27.95,Mumbai,4.6,Value for money car
+220,Honda,i20,44.99,Petrol,18.51,Pune,4.3,Mileage is decent but price is high
+221,Toyota,Seltos,51.34,Petrol,21.04,Chennai,4.7,Great performance and smooth drive
+222,BMW,Swift,23.07,Hybrid,17.39,Bangalore,3.4,Value for money car
+223,Toyota,i20,7.99,Hybrid,16.47,Bangalore,4.5,Not satisfied with service
+224,Tata,Swift,45.99,Hybrid,22.67,Delhi,4.9,Great performance and smooth drive
+225,Honda,XUV700,65.99,Petrol,13.43,Chennai,4.7,Not satisfied with service
+226,Hyundai,City,66.85,Hybrid,12.06,Bangalore,3.7,Mileage is decent but price is high
+227,Maruti,X5,67.86,Hybrid,10.35,Ahmedabad,4.8,Could be better in terms of features
+228,Mahindra,i20,57.27,Hybrid,25.43,Pune,5.0,Value for money car
+229,Toyota,Swift,28.93,Petrol,24.95,Pune,4.7,Amazing experience overall
+230,Mahindra,Seltos,15.2,Hybrid,24.99,Chennai,4.8,Value for money car
+231,Honda,Seltos,25.45,Diesel,14.43,Chennai,4.7,Great performance and smooth drive
+232,Maruti,Seltos,53.44,Diesel,14.68,Mumbai,4.8,Excellent features and comfort
+233,Toyota,Nexon,31.66,Hybrid,23.46,Delhi,4.0,Could be better in terms of features
+234,Kia,Swift,19.13,Electric,27.42,Bangalore,2.8,Amazing experience overall
+235,Mahindra,Nexon,24.36,Petrol,13.21,Pune,2.8,Could be better in terms of features
+236,Toyota,Seltos,67.22,Petrol,12.68,Mumbai,4.0,Could be better in terms of features
+237,Mahindra,XUV700,13.97,Petrol,22.59,Delhi,4.5,Could be better in terms of features
+238,Mahindra,City,7.29,Petrol,22.9,Bangalore,2.6,Amazing experience overall
+239,Mahindra,XUV700,36.55,Petrol,24.04,Mumbai,3.3,Could be better in terms of features
+240,Toyota,Seltos,18.44,Hybrid,11.53,Chennai,4.3,Excellent features and comfort
+241,Maruti,i20,15.48,Diesel,10.33,Delhi,4.2,Not satisfied with service
+242,Toyota,i20,5.84,Petrol,28.89,Chennai,3.7,Excellent features and comfort
+243,Maruti,Swift,43.59,Diesel,27.64,Bangalore,3.2,Could be better in terms of features
+244,Kia,Fortuner,6.03,Diesel,27.29,Bangalore,3.4,Value for money car
+245,Tata,Nexon,62.2,Electric,20.79,Pune,4.2,Not satisfied with service
+246,Kia,i20,32.08,Diesel,12.33,Delhi,4.1,Great performance and smooth drive
+247,Hyundai,Swift,23.49,Electric,16.03,Pune,3.3,Value for money car
+248,Toyota,Seltos,71.46,Electric,24.57,Ahmedabad,3.0,Amazing experience overall
+249,Honda,Swift,45.63,Diesel,27.1,Ahmedabad,4.9,Excellent features and comfort
+250,Hyundai,Nexon,68.4,Petrol,27.96,Mumbai,3.0,Not satisfied with service
+251,Mahindra,Swift,40.29,Diesel,26.17,Pune,2.8,Mileage is decent but price is high
+252,Maruti,i20,59.92,Diesel,14.61,Chennai,3.3,Value for money car
+253,Kia,Seltos,43.8,Hybrid,15.54,Delhi,3.0,Amazing experience overall
+254,Mahindra,Nexon,39.73,Petrol,11.55,Delhi,3.8,Great performance and smooth drive
+255,Tata,XUV700,18.12,Electric,16.92,Pune,4.4,Great performance and smooth drive
+256,Mahindra,Swift,76.31,Hybrid,10.09,Mumbai,3.8,Could be better in terms of features
+257,Hyundai,City,69.25,Petrol,19.21,Mumbai,2.7,Mileage is decent but price is high
+258,Maruti,Swift,67.04,Electric,26.7,Bangalore,4.5,Great performance and smooth drive
+259,Honda,Swift,77.58,Petrol,12.42,Pune,3.3,Not satisfied with service
+260,Tata,XUV700,46.13,Diesel,13.94,Ahmedabad,4.0,Not satisfied with service
+261,Mahindra,X5,24.03,Electric,29.4,Ahmedabad,3.9,Could be better in terms of features
+262,BMW,Seltos,26.25,Petrol,17.58,Pune,2.5,Not satisfied with service
+263,Tata,City,32.2,Electric,28.85,Pune,4.0,Not satisfied with service
+264,Toyota,XUV700,13.53,Electric,10.65,Mumbai,3.1,Mileage is decent but price is high
+265,Toyota,City,9.64,Petrol,29.3,Pune,2.6,Value for money car
+266,Mahindra,City,33.84,Diesel,10.09,Bangalore,2.6,Could be better in terms of features
+267,Tata,Seltos,46.8,Hybrid,10.92,Delhi,3.5,Not satisfied with service
+268,Kia,City,27.41,Diesel,28.97,Bangalore,2.9,Not satisfied with service
+269,Honda,City,64.95,Diesel,17.37,Delhi,4.3,Mileage is decent but price is high
+270,Kia,Nexon,65.4,Hybrid,27.2,Ahmedabad,2.6,Not satisfied with service
+271,Mahindra,Nexon,62.21,Electric,29.38,Delhi,4.7,Not satisfied with service
+272,Kia,Seltos,59.93,Electric,24.78,Ahmedabad,2.9,Value for money car
+273,Toyota,Seltos,15.79,Diesel,12.05,Chennai,4.3,Amazing experience overall
+274,Maruti,i20,43.68,Electric,15.78,Chennai,2.7,Great performance and smooth drive
+275,Mahindra,Seltos,5.8,Diesel,10.23,Ahmedabad,4.6,Excellent features and comfort
+276,Kia,i20,40.74,Petrol,21.7,Pune,2.8,Excellent features and comfort
+277,Maruti,i20,52.43,Diesel,17.54,Chennai,4.5,Mileage is decent but price is high
+278,Maruti,XUV700,12.04,Hybrid,22.93,Mumbai,4.4,Great performance and smooth drive
+279,Toyota,Seltos,79.94,Hybrid,17.34,Delhi,5.0,Could be better in terms of features
+280,Mahindra,i20,60.14,Hybrid,15.63,Mumbai,4.6,Could be better in terms of features
+281,Kia,XUV700,29.28,Electric,17.63,Mumbai,3.2,Value for money car
+282,Mahindra,i20,43.81,Electric,25.73,Pune,3.5,Amazing experience overall
+283,Kia,X5,15.6,Hybrid,27.61,Mumbai,4.0,Value for money car
+284,Tata,Swift,45.35,Diesel,20.3,Bangalore,4.2,Amazing experience overall
+285,Mahindra,City,35.88,Electric,27.21,Chennai,4.5,Could be better in terms of features
+286,Hyundai,X5,39.04,Diesel,29.23,Mumbai,2.5,Value for money car
+287,Maruti,i20,51.37,Petrol,19.25,Chennai,2.5,Not satisfied with service
+288,Mahindra,Nexon,64.32,Hybrid,16.04,Chennai,3.8,Could be better in terms of features
+289,Honda,Fortuner,55.51,Diesel,28.13,Chennai,4.1,Mileage is decent but price is high
+290,Mahindra,XUV700,9.14,Hybrid,13.89,Pune,3.4,Not satisfied with service
+291,Hyundai,City,30.79,Electric,18.36,Bangalore,2.8,Amazing experience overall
+292,Honda,Nexon,53.4,Diesel,13.53,Ahmedabad,2.6,Mileage is decent but price is high
+293,BMW,Swift,39.72,Diesel,22.21,Mumbai,3.9,Could be better in terms of features
+294,Mahindra,Swift,39.61,Electric,10.42,Mumbai,2.6,Not satisfied with service
+295,Toyota,X5,16.94,Hybrid,25.79,Mumbai,4.3,Mileage is decent but price is high
+296,Toyota,City,10.7,Hybrid,27.76,Ahmedabad,3.4,Not satisfied with service
+297,BMW,City,41.45,Petrol,19.01,Chennai,3.6,Amazing experience overall
+298,Mahindra,City,62.57,Petrol,18.65,Pune,4.4,Could be better in terms of features
+299,Mahindra,Fortuner,59.71,Electric,14.28,Mumbai,4.3,Excellent features and comfort
+300,Hyundai,Nexon,51.21,Hybrid,16.55,Delhi,4.8,Amazing experience overall
+301,Toyota,X5,22.1,Petrol,11.38,Delhi,2.9,Amazing experience overall
+302,Toyota,Nexon,45.62,Diesel,21.35,Bangalore,3.1,Excellent features and comfort
+303,Honda,X5,29.7,Petrol,17.7,Delhi,4.6,Amazing experience overall
+304,Toyota,i20,72.68,Hybrid,20.44,Bangalore,3.8,Excellent features and comfort
+305,BMW,XUV700,17.01,Diesel,16.35,Bangalore,4.6,Mileage is decent but price is high
+306,Kia,XUV700,21.4,Diesel,21.06,Delhi,4.4,Great performance and smooth drive
+307,Honda,Fortuner,14.13,Petrol,14.39,Bangalore,4.9,Great performance and smooth drive
+308,Maruti,Swift,8.86,Hybrid,27.66,Mumbai,2.8,Could be better in terms of features
+309,Mahindra,City,50.5,Electric,24.61,Delhi,4.9,Could be better in terms of features
+310,Toyota,Swift,24.31,Electric,10.51,Pune,3.7,Could be better in terms of features
+311,Maruti,X5,5.13,Diesel,16.59,Bangalore,3.0,Could be better in terms of features
+312,Toyota,Swift,51.57,Petrol,15.91,Ahmedabad,3.3,Great performance and smooth drive
+313,Tata,City,26.38,Electric,11.32,Bangalore,4.7,Value for money car
+314,Maruti,X5,18.03,Petrol,28.49,Pune,4.3,Excellent features and comfort
+315,Mahindra,XUV700,45.93,Hybrid,13.8,Delhi,4.8,Value for money car
+316,Mahindra,i20,48.0,Diesel,15.83,Pune,3.7,Could be better in terms of features
+317,BMW,Swift,22.27,Hybrid,12.01,Chennai,4.2,Not satisfied with service
+318,Mahindra,i20,72.12,Electric,11.33,Mumbai,4.5,Value for money car
+319,BMW,Swift,33.42,Electric,12.11,Mumbai,2.7,Value for money car
+320,Toyota,XUV700,67.01,Diesel,19.98,Chennai,4.2,Mileage is decent but price is high
+321,Hyundai,Fortuner,73.39,Electric,22.49,Pune,4.8,Could be better in terms of features
+322,Maruti,Swift,11.98,Petrol,24.43,Bangalore,2.8,Amazing experience overall
+323,Tata,Seltos,16.72,Diesel,19.13,Pune,4.1,Excellent features and comfort
+324,Tata,Swift,22.9,Hybrid,17.28,Mumbai,3.3,Mileage is decent but price is high
+325,Maruti,Nexon,48.33,Electric,17.54,Pune,3.1,Amazing experience overall
+326,BMW,Fortuner,62.16,Hybrid,19.69,Ahmedabad,4.2,Could be better in terms of features
+327,Honda,X5,54.99,Diesel,28.35,Ahmedabad,4.4,Amazing experience overall
+328,Mahindra,XUV700,64.25,Electric,14.56,Mumbai,3.9,Not satisfied with service
+329,Kia,Nexon,50.48,Petrol,27.07,Chennai,4.7,Mileage is decent but price is high
+330,Tata,Fortuner,26.82,Hybrid,20.13,Delhi,2.9,Could be better in terms of features
+331,Maruti,XUV700,65.06,Petrol,25.14,Mumbai,4.7,Amazing experience overall
+332,BMW,Fortuner,70.33,Petrol,14.53,Pune,4.3,Amazing experience overall
+333,Tata,Nexon,43.48,Electric,22.64,Chennai,4.1,Amazing experience overall
+334,Kia,City,6.54,Diesel,10.36,Mumbai,3.8,Excellent features and comfort
+335,BMW,Nexon,30.24,Diesel,17.07,Mumbai,3.5,Amazing experience overall
+336,Toyota,Swift,70.96,Petrol,15.54,Pune,2.6,Value for money car
+337,Tata,i20,53.41,Hybrid,29.63,Delhi,3.7,Value for money car
+338,Honda,Swift,63.79,Diesel,18.82,Mumbai,3.2,Amazing experience overall
+339,Hyundai,Fortuner,35.53,Hybrid,13.35,Pune,4.1,Amazing experience overall
+340,Kia,XUV700,37.16,Hybrid,25.85,Chennai,4.4,Amazing experience overall
+341,Mahindra,Fortuner,58.83,Electric,27.04,Bangalore,4.9,Not satisfied with service
+342,BMW,X5,35.03,Electric,24.37,Delhi,3.4,Mileage is decent but price is high
+343,Mahindra,i20,32.41,Hybrid,16.63,Mumbai,4.8,Great performance and smooth drive
+344,Kia,City,51.46,Electric,29.05,Chennai,3.9,Could be better in terms of features
+345,Hyundai,City,30.72,Diesel,12.19,Ahmedabad,3.6,Excellent features and comfort
+346,Honda,Swift,54.09,Electric,22.14,Pune,4.4,Excellent features and comfort
+347,Honda,Seltos,62.33,Diesel,22.26,Bangalore,3.0,Value for money car
+348,Hyundai,Swift,17.52,Diesel,27.78,Chennai,3.0,Excellent features and comfort
+349,BMW,i20,26.31,Electric,11.66,Chennai,2.5,Amazing experience overall
+350,Toyota,Swift,68.01,Petrol,27.37,Mumbai,4.3,Value for money car
+351,Honda,X5,45.64,Electric,26.93,Bangalore,3.7,Value for money car
+352,Tata,Nexon,26.31,Hybrid,17.25,Chennai,2.8,Value for money car
+353,Toyota,XUV700,24.81,Hybrid,12.36,Mumbai,3.8,Not satisfied with service
+354,Tata,XUV700,8.48,Diesel,10.75,Bangalore,5.0,Excellent features and comfort
+355,Toyota,X5,5.04,Petrol,23.33,Ahmedabad,4.6,Great performance and smooth drive
+356,Maruti,City,55.0,Hybrid,17.9,Chennai,2.8,Not satisfied with service
+357,Mahindra,XUV700,46.34,Diesel,28.4,Delhi,3.0,Great performance and smooth drive
+358,Hyundai,Fortuner,12.34,Diesel,11.29,Chennai,3.4,Could be better in terms of features
+359,BMW,X5,29.22,Diesel,20.73,Bangalore,4.6,Excellent features and comfort
+360,Kia,Nexon,53.21,Hybrid,16.15,Delhi,2.7,Could be better in terms of features
+361,Kia,Nexon,15.01,Petrol,27.85,Pune,2.6,Value for money car
+362,Tata,Swift,18.31,Hybrid,21.27,Pune,2.6,Mileage is decent but price is high
+363,Honda,i20,49.3,Petrol,29.72,Bangalore,4.9,Amazing experience overall
+364,Tata,XUV700,19.69,Petrol,27.25,Mumbai,3.4,Amazing experience overall
+365,Hyundai,XUV700,7.43,Hybrid,14.88,Ahmedabad,2.9,Not satisfied with service
+366,Toyota,Fortuner,27.32,Petrol,13.71,Delhi,3.8,Not satisfied with service
+367,Honda,XUV700,20.07,Electric,14.05,Delhi,5.0,Mileage is decent but price is high
+368,Mahindra,City,34.7,Electric,24.85,Mumbai,2.7,Amazing experience overall
+369,Mahindra,XUV700,48.08,Petrol,10.02,Bangalore,4.3,Could be better in terms of features
+370,Toyota,i20,29.75,Hybrid,28.16,Pune,4.8,Mileage is decent but price is high
+371,Maruti,Nexon,32.07,Diesel,29.28,Mumbai,3.6,Great performance and smooth drive
+372,Kia,XUV700,18.33,Diesel,19.61,Delhi,3.3,Could be better in terms of features
+373,Hyundai,Nexon,42.48,Petrol,19.52,Mumbai,2.8,Not satisfied with service
+374,Maruti,XUV700,73.52,Petrol,17.74,Ahmedabad,4.2,Excellent features and comfort
+375,Maruti,Seltos,70.17,Petrol,12.68,Chennai,3.0,Excellent features and comfort
+376,Hyundai,X5,74.7,Diesel,23.45,Ahmedabad,3.7,Great performance and smooth drive
+377,Toyota,X5,40.67,Diesel,25.44,Ahmedabad,4.2,Great performance and smooth drive
+378,Honda,Seltos,74.42,Hybrid,12.24,Pune,3.1,Could be better in terms of features
+379,Honda,Seltos,51.73,Petrol,27.0,Bangalore,3.4,Could be better in terms of features
+380,BMW,City,39.12,Hybrid,22.37,Ahmedabad,2.8,Value for money car
+381,Maruti,Swift,7.33,Hybrid,21.43,Ahmedabad,2.9,Value for money car
+382,BMW,X5,11.36,Electric,16.98,Bangalore,4.8,Excellent features and comfort
+383,Maruti,Seltos,30.46,Diesel,21.16,Ahmedabad,4.9,Excellent features and comfort
+384,Mahindra,Nexon,5.65,Electric,21.68,Pune,2.9,Great performance and smooth drive
+385,Honda,Nexon,22.25,Electric,29.23,Ahmedabad,4.6,Excellent features and comfort
+386,Toyota,Nexon,56.6,Hybrid,12.78,Bangalore,4.5,Amazing experience overall
+387,BMW,X5,77.39,Diesel,13.53,Bangalore,4.3,Could be better in terms of features
+388,Toyota,Nexon,73.96,Diesel,15.01,Ahmedabad,4.1,Excellent features and comfort
+389,Toyota,Nexon,31.02,Hybrid,27.16,Chennai,2.9,Could be better in terms of features
+390,Tata,XUV700,65.04,Diesel,12.21,Bangalore,3.4,Mileage is decent but price is high
+391,Hyundai,i20,8.54,Diesel,22.28,Bangalore,2.9,Excellent features and comfort
+392,Honda,XUV700,27.5,Diesel,14.36,Chennai,2.6,Value for money car
+393,Kia,Nexon,76.67,Petrol,28.46,Mumbai,4.9,Excellent features and comfort
+394,Toyota,City,39.1,Diesel,16.25,Chennai,3.7,Could be better in terms of features
+395,BMW,Nexon,5.15,Petrol,20.67,Pune,4.0,Amazing experience overall
+396,Kia,Nexon,47.1,Petrol,13.15,Pune,2.6,Could be better in terms of features
+397,Honda,i20,79.74,Electric,24.61,Pune,4.1,Could be better in terms of features
+398,Tata,XUV700,66.83,Diesel,13.83,Delhi,2.6,Value for money car
+399,Hyundai,X5,9.78,Hybrid,28.5,Delhi,3.1,Amazing experience overall
+400,Mahindra,City,12.16,Diesel,18.96,Pune,4.0,Excellent features and comfort
+401,Mahindra,Nexon,9.73,Hybrid,27.85,Mumbai,2.7,Great performance and smooth drive
+402,Toyota,City,8.3,Hybrid,10.46,Pune,3.9,Value for money car
+403,Kia,i20,54.17,Diesel,19.34,Chennai,3.3,Could be better in terms of features
+404,Maruti,X5,77.97,Petrol,18.94,Mumbai,3.4,Amazing experience overall
+405,Kia,XUV700,43.55,Diesel,15.94,Pune,4.3,Mileage is decent but price is high
+406,Hyundai,Swift,12.78,Hybrid,14.64,Delhi,4.9,Not satisfied with service
+407,Maruti,X5,69.52,Electric,23.42,Delhi,3.8,Great performance and smooth drive
+408,Tata,Swift,43.64,Electric,24.65,Ahmedabad,4.4,Amazing experience overall
+409,BMW,X5,50.65,Electric,27.86,Pune,4.1,Mileage is decent but price is high
+410,Mahindra,Nexon,57.88,Diesel,15.04,Ahmedabad,4.3,Mileage is decent but price is high
+411,BMW,i20,56.99,Petrol,28.92,Bangalore,3.3,Amazing experience overall
+412,Kia,Swift,45.79,Petrol,16.17,Bangalore,3.7,Value for money car
+413,Mahindra,Fortuner,25.77,Diesel,17.13,Chennai,2.6,Great performance and smooth drive
+414,Maruti,X5,70.84,Petrol,23.39,Ahmedabad,3.2,Amazing experience overall
+415,Honda,XUV700,67.74,Electric,29.29,Chennai,3.0,Amazing experience overall
+416,BMW,City,51.94,Diesel,29.85,Chennai,3.6,Value for money car
+417,Maruti,City,71.37,Hybrid,13.16,Delhi,4.8,Excellent features and comfort
+418,Maruti,Nexon,58.28,Petrol,19.6,Chennai,2.8,Excellent features and comfort
+419,Toyota,XUV700,30.34,Petrol,18.83,Chennai,4.6,Amazing experience overall
+420,Hyundai,Nexon,56.89,Hybrid,22.97,Ahmedabad,5.0,Value for money car
+421,Kia,X5,24.43,Petrol,28.31,Bangalore,3.0,Value for money car
+422,Mahindra,Seltos,30.2,Electric,24.41,Chennai,2.5,Could be better in terms of features
+423,Maruti,Fortuner,39.34,Hybrid,13.73,Chennai,4.1,Not satisfied with service
+424,Mahindra,Swift,10.26,Petrol,10.49,Chennai,3.8,Could be better in terms of features
+425,BMW,Swift,8.7,Petrol,18.38,Ahmedabad,2.9,Great performance and smooth drive
+426,Kia,X5,68.25,Diesel,13.61,Chennai,4.8,Not satisfied with service
+427,Hyundai,Nexon,31.24,Hybrid,28.39,Delhi,2.7,Not satisfied with service
+428,Hyundai,Fortuner,79.31,Electric,15.98,Delhi,2.7,Value for money car
+429,Mahindra,City,34.34,Petrol,28.27,Bangalore,3.7,Great performance and smooth drive
+430,BMW,Seltos,65.92,Diesel,25.53,Mumbai,3.7,Excellent features and comfort
+431,Honda,Seltos,64.36,Electric,29.88,Ahmedabad,3.9,Not satisfied with service
+432,BMW,Nexon,30.67,Petrol,14.68,Pune,4.3,Amazing experience overall
+433,Tata,Swift,61.49,Hybrid,13.93,Delhi,4.9,Excellent features and comfort
+434,Toyota,Fortuner,20.5,Diesel,16.16,Pune,4.6,Value for money car
+435,Tata,XUV700,21.2,Hybrid,16.11,Pune,4.2,Mileage is decent but price is high
+436,Mahindra,Swift,55.0,Diesel,28.4,Bangalore,3.7,Excellent features and comfort
+437,Honda,i20,12.23,Hybrid,19.84,Bangalore,2.7,Great performance and smooth drive
+438,Kia,XUV700,37.64,Diesel,29.63,Ahmedabad,4.0,Mileage is decent but price is high
+439,BMW,i20,44.84,Hybrid,25.14,Delhi,4.9,Great performance and smooth drive
+440,Toyota,Nexon,9.17,Electric,14.7,Ahmedabad,2.6,Value for money car
+441,BMW,X5,75.35,Petrol,13.5,Delhi,2.8,Value for money car
+442,Toyota,i20,53.38,Hybrid,23.12,Chennai,3.7,Not satisfied with service
+443,BMW,Seltos,26.47,Petrol,20.38,Bangalore,3.1,Mileage is decent but price is high
+444,Honda,XUV700,58.9,Hybrid,29.77,Bangalore,4.3,Value for money car
+445,BMW,Swift,67.74,Petrol,16.09,Bangalore,2.7,Great performance and smooth drive
+446,Mahindra,Seltos,41.89,Hybrid,27.39,Ahmedabad,4.1,Mileage is decent but price is high
+447,Maruti,City,31.38,Hybrid,25.2,Chennai,2.9,Great performance and smooth drive
+448,Hyundai,XUV700,30.82,Petrol,18.44,Ahmedabad,4.5,Could be better in terms of features
+449,Mahindra,Nexon,43.84,Electric,17.77,Mumbai,3.3,Could be better in terms of features
+450,BMW,Nexon,46.17,Diesel,14.84,Bangalore,4.4,Could be better in terms of features
+451,Maruti,Swift,23.3,Electric,15.46,Bangalore,4.5,Could be better in terms of features
+452,Toyota,XUV700,52.85,Petrol,11.34,Pune,2.6,Excellent features and comfort
+453,BMW,Fortuner,40.3,Diesel,22.05,Bangalore,3.2,Mileage is decent but price is high
+454,Mahindra,XUV700,56.02,Petrol,29.87,Ahmedabad,3.8,Not satisfied with service
+455,Tata,Nexon,52.13,Hybrid,24.75,Chennai,3.3,Excellent features and comfort
+456,Hyundai,X5,7.65,Petrol,18.44,Mumbai,3.9,Not satisfied with service
+457,Toyota,City,78.75,Hybrid,11.02,Bangalore,4.2,Value for money car
+458,Mahindra,Seltos,21.99,Petrol,10.04,Chennai,3.8,Great performance and smooth drive
+459,Honda,City,63.3,Electric,23.33,Delhi,4.5,Great performance and smooth drive
+460,Maruti,XUV700,9.73,Diesel,14.92,Ahmedabad,2.6,Could be better in terms of features
+461,Tata,Nexon,66.26,Diesel,13.89,Delhi,3.1,Could be better in terms of features
+462,Honda,Seltos,49.15,Hybrid,18.11,Delhi,3.0,Mileage is decent but price is high
+463,Hyundai,i20,69.26,Hybrid,12.25,Pune,4.2,Mileage is decent but price is high
+464,Tata,Swift,79.63,Hybrid,15.71,Ahmedabad,3.5,Excellent features and comfort
+465,Maruti,XUV700,69.45,Electric,23.51,Mumbai,4.4,Excellent features and comfort
+466,Tata,i20,28.48,Petrol,28.89,Bangalore,4.0,Excellent features and comfort
+467,Maruti,Seltos,30.38,Petrol,26.06,Pune,4.1,Mileage is decent but price is high
+468,Mahindra,City,22.88,Electric,14.19,Ahmedabad,3.4,Great performance and smooth drive
+469,BMW,XUV700,51.34,Diesel,14.92,Pune,3.3,Great performance and smooth drive
+470,Maruti,City,5.7,Diesel,20.57,Ahmedabad,3.9,Mileage is decent but price is high
+471,Hyundai,X5,63.15,Petrol,24.92,Mumbai,3.6,Mileage is decent but price is high
+472,Tata,Swift,6.82,Electric,19.5,Pune,4.9,Great performance and smooth drive
+473,Honda,City,64.6,Electric,10.33,Ahmedabad,4.5,Excellent features and comfort
+474,Kia,Nexon,33.71,Electric,24.42,Mumbai,4.4,Mileage is decent but price is high
+475,Maruti,Nexon,7.21,Petrol,22.89,Pune,3.5,Mileage is decent but price is high
+476,Honda,XUV700,35.49,Diesel,14.1,Mumbai,4.3,Mileage is decent but price is high
+477,Toyota,Swift,52.75,Petrol,17.45,Chennai,3.9,Excellent features and comfort
+478,Toyota,Swift,52.76,Hybrid,16.97,Pune,3.9,Great performance and smooth drive
+479,Tata,Swift,70.51,Petrol,23.28,Ahmedabad,3.0,Value for money car
+480,Maruti,City,36.34,Electric,13.12,Ahmedabad,3.7,Great performance and smooth drive
+481,Mahindra,Nexon,52.16,Petrol,23.45,Pune,4.9,Not satisfied with service
+482,Honda,City,16.86,Petrol,14.98,Mumbai,3.8,Mileage is decent but price is high
+483,Tata,i20,43.79,Diesel,28.82,Delhi,3.8,Value for money car
+484,Mahindra,Seltos,53.27,Diesel,19.04,Delhi,3.7,Excellent features and comfort
+485,BMW,City,74.32,Hybrid,10.55,Delhi,3.0,Could be better in terms of features
+486,Hyundai,Swift,51.33,Diesel,28.37,Pune,3.5,Could be better in terms of features
+487,Hyundai,XUV700,62.84,Diesel,27.23,Ahmedabad,2.9,Could be better in terms of features
+488,Mahindra,XUV700,74.97,Hybrid,19.28,Chennai,3.7,Excellent features and comfort
+489,Tata,Nexon,15.02,Hybrid,15.18,Pune,3.3,Not satisfied with service
+490,Tata,Fortuner,31.28,Electric,17.84,Chennai,4.9,Not satisfied with service
+491,Tata,Seltos,35.23,Electric,28.46,Pune,3.3,Mileage is decent but price is high
+492,Maruti,X5,77.82,Petrol,13.9,Pune,3.4,Not satisfied with service
+493,BMW,Fortuner,30.66,Petrol,23.42,Bangalore,3.1,Excellent features and comfort
+494,Kia,Nexon,16.62,Diesel,18.09,Ahmedabad,3.7,Not satisfied with service
+495,Toyota,i20,75.85,Electric,28.6,Delhi,2.9,Excellent features and comfort
+496,Hyundai,X5,53.76,Diesel,26.33,Chennai,4.0,Excellent features and comfort
+497,Honda,Swift,14.55,Petrol,27.02,Chennai,3.8,Could be better in terms of features
+498,Hyundai,X5,58.21,Electric,11.43,Chennai,3.2,Value for money car
+499,Hyundai,City,41.26,Petrol,17.29,Chennai,4.8,Great performance and smooth drive
+500,Toyota,X5,76.66,Hybrid,23.98,Chennai,3.8,Mileage is decent but price is high
+501,Mahindra,Nexon,62.43,Diesel,22.8,Mumbai,3.8,Could be better in terms of features
+502,Tata,Nexon,53.59,Electric,25.61,Pune,4.7,Great performance and smooth drive
+503,Hyundai,XUV700,12.86,Diesel,22.86,Pune,3.5,Great performance and smooth drive
+504,Maruti,i20,64.12,Electric,12.11,Bangalore,3.7,Great performance and smooth drive
+505,Toyota,Swift,53.41,Diesel,28.24,Chennai,2.6,Excellent features and comfort
+506,Maruti,Nexon,6.96,Hybrid,14.38,Bangalore,4.7,Mileage is decent but price is high
+507,Toyota,X5,52.33,Petrol,21.3,Chennai,3.9,Great performance and smooth drive
+508,Honda,X5,15.57,Electric,21.07,Mumbai,3.5,Value for money car
+509,Mahindra,City,70.13,Diesel,19.47,Chennai,3.1,Not satisfied with service
+510,Tata,i20,19.86,Petrol,13.77,Delhi,5.0,Mileage is decent but price is high
+511,Kia,i20,11.94,Electric,12.52,Pune,3.8,Not satisfied with service
+512,Hyundai,Swift,73.25,Petrol,17.57,Pune,4.4,Mileage is decent but price is high
+513,Toyota,Fortuner,16.81,Electric,18.4,Bangalore,4.2,Could be better in terms of features
+514,Tata,X5,15.24,Hybrid,18.02,Mumbai,4.8,Great performance and smooth drive
+515,Maruti,Seltos,22.83,Petrol,17.4,Chennai,2.7,Mileage is decent but price is high
+516,Maruti,City,19.15,Petrol,15.48,Pune,4.4,Not satisfied with service
+517,BMW,X5,63.25,Hybrid,16.16,Delhi,3.5,Value for money car
+518,BMW,Swift,16.78,Electric,24.96,Pune,4.1,Not satisfied with service
+519,BMW,X5,18.83,Electric,16.83,Bangalore,3.6,Amazing experience overall
+520,Hyundai,Nexon,55.32,Electric,11.32,Bangalore,4.1,Amazing experience overall
+521,Mahindra,X5,59.72,Electric,18.99,Bangalore,2.9,Amazing experience overall
+522,Maruti,X5,28.0,Electric,13.89,Bangalore,3.9,Great performance and smooth drive
+523,Maruti,Seltos,19.03,Electric,23.96,Chennai,2.7,Value for money car
+524,Hyundai,Nexon,15.96,Hybrid,29.01,Bangalore,3.7,Great performance and smooth drive
+525,Tata,Fortuner,60.34,Electric,17.2,Delhi,4.1,Excellent features and comfort
+526,Honda,Fortuner,19.99,Electric,27.34,Ahmedabad,3.9,Great performance and smooth drive
+527,Tata,X5,61.3,Hybrid,18.06,Delhi,2.7,Amazing experience overall
+528,Tata,X5,43.13,Electric,13.77,Ahmedabad,3.3,Mileage is decent but price is high
+529,Tata,i20,41.13,Petrol,15.87,Mumbai,4.4,Not satisfied with service
+530,Toyota,X5,50.31,Electric,21.75,Delhi,2.6,Not satisfied with service
+531,Maruti,Seltos,9.86,Hybrid,29.08,Ahmedabad,4.6,Great performance and smooth drive
+532,Mahindra,Seltos,76.85,Petrol,14.03,Delhi,3.1,Mileage is decent but price is high
+533,Mahindra,X5,50.33,Hybrid,20.22,Bangalore,4.5,Excellent features and comfort
+534,Honda,i20,41.69,Hybrid,14.51,Pune,4.7,Excellent features and comfort
+535,Tata,Fortuner,42.75,Hybrid,24.52,Ahmedabad,4.9,Could be better in terms of features
+536,Hyundai,Fortuner,20.85,Electric,25.98,Bangalore,2.8,Mileage is decent but price is high
+537,Hyundai,XUV700,41.03,Electric,20.4,Chennai,4.6,Not satisfied with service
+538,BMW,X5,14.82,Electric,27.22,Chennai,4.4,Excellent features and comfort
+539,BMW,Seltos,14.37,Petrol,26.68,Bangalore,4.2,Amazing experience overall
+540,Maruti,i20,38.55,Hybrid,18.03,Delhi,4.5,Mileage is decent but price is high
+541,BMW,City,14.6,Hybrid,15.97,Chennai,4.4,Excellent features and comfort
+542,Tata,City,79.56,Petrol,15.13,Chennai,2.5,Excellent features and comfort
+543,BMW,City,78.52,Hybrid,24.17,Mumbai,4.3,Could be better in terms of features
+544,BMW,i20,46.48,Petrol,23.41,Delhi,4.0,Not satisfied with service
+545,Toyota,XUV700,26.62,Electric,19.83,Ahmedabad,3.2,Great performance and smooth drive
+546,BMW,XUV700,40.59,Hybrid,10.02,Mumbai,4.8,Excellent features and comfort
+547,Honda,Fortuner,33.8,Hybrid,11.55,Delhi,4.0,Could be better in terms of features
+548,Toyota,X5,73.69,Electric,20.37,Mumbai,3.6,Could be better in terms of features
+549,Mahindra,Swift,17.83,Diesel,26.08,Pune,4.0,Excellent features and comfort
+550,Maruti,XUV700,23.18,Diesel,14.15,Chennai,3.1,Excellent features and comfort
+551,Maruti,XUV700,28.66,Diesel,16.24,Pune,4.7,Could be better in terms of features
+552,BMW,i20,77.44,Diesel,28.16,Pune,3.4,Value for money car
+553,Toyota,Swift,32.27,Hybrid,18.1,Bangalore,3.4,Amazing experience overall
+554,Kia,X5,74.28,Petrol,25.12,Mumbai,4.9,Great performance and smooth drive
+555,Hyundai,Fortuner,47.88,Electric,18.43,Ahmedabad,4.0,Could be better in terms of features
+556,Honda,Nexon,5.27,Electric,13.75,Bangalore,4.8,Not satisfied with service
+557,Maruti,XUV700,40.74,Electric,28.02,Ahmedabad,4.6,Not satisfied with service
+558,Hyundai,Seltos,6.23,Electric,17.37,Ahmedabad,5.0,Not satisfied with service
+559,Toyota,Seltos,25.95,Electric,23.78,Mumbai,2.8,Amazing experience overall
+560,Honda,Fortuner,15.82,Electric,15.99,Delhi,4.9,Not satisfied with service
+561,BMW,City,14.05,Petrol,26.95,Mumbai,3.4,Amazing experience overall
+562,Honda,Nexon,56.45,Petrol,23.67,Pune,4.7,Value for money car
+563,Toyota,i20,21.53,Petrol,20.81,Mumbai,2.8,Value for money car
+564,Mahindra,Nexon,68.16,Hybrid,11.17,Bangalore,4.0,Could be better in terms of features
+565,Kia,X5,52.31,Petrol,20.25,Chennai,4.8,Excellent features and comfort
+566,Mahindra,XUV700,50.45,Petrol,23.86,Mumbai,4.8,Great performance and smooth drive
+567,Toyota,Seltos,69.22,Petrol,10.8,Mumbai,3.5,Amazing experience overall
+568,Honda,i20,24.0,Electric,12.62,Ahmedabad,3.0,Amazing experience overall
+569,Honda,i20,22.33,Hybrid,27.35,Mumbai,3.3,Excellent features and comfort
+570,Honda,i20,35.77,Diesel,18.36,Delhi,4.5,Could be better in terms of features
+571,Kia,i20,78.59,Petrol,14.52,Bangalore,4.7,Mileage is decent but price is high
+572,Tata,Fortuner,25.27,Hybrid,17.31,Bangalore,3.8,Not satisfied with service
+573,Tata,Swift,68.07,Electric,17.22,Bangalore,3.4,Great performance and smooth drive
+574,Mahindra,i20,41.26,Petrol,26.92,Ahmedabad,4.6,Great performance and smooth drive
+575,Kia,X5,15.9,Electric,23.8,Ahmedabad,3.6,Mileage is decent but price is high
+576,Mahindra,i20,30.1,Petrol,27.69,Ahmedabad,3.1,Not satisfied with service
+577,Tata,i20,24.92,Petrol,27.76,Pune,4.0,Value for money car
+578,Toyota,Fortuner,14.64,Petrol,13.38,Pune,3.0,Great performance and smooth drive
+579,Maruti,Swift,18.46,Electric,18.93,Mumbai,4.5,Mileage is decent but price is high
+580,Tata,City,8.48,Electric,11.6,Bangalore,3.3,Value for money car
+581,BMW,Swift,34.59,Diesel,28.93,Pune,3.3,Mileage is decent but price is high
+582,Kia,City,15.29,Electric,15.12,Ahmedabad,2.9,Not satisfied with service
+583,BMW,Swift,57.06,Petrol,29.41,Bangalore,3.9,Amazing experience overall
+584,Hyundai,i20,30.51,Petrol,22.86,Bangalore,4.2,Value for money car
+585,Kia,i20,22.88,Hybrid,15.76,Chennai,4.7,Not satisfied with service
+586,BMW,XUV700,26.75,Diesel,12.12,Delhi,4.8,Could be better in terms of features
+587,Hyundai,i20,25.66,Hybrid,26.43,Ahmedabad,5.0,Not satisfied with service
+588,BMW,City,79.49,Petrol,20.47,Chennai,3.0,Value for money car
+589,Kia,XUV700,8.06,Petrol,11.49,Mumbai,3.9,Not satisfied with service
+590,Mahindra,i20,6.93,Petrol,27.24,Pune,3.5,Could be better in terms of features
+591,Maruti,Swift,52.85,Petrol,29.19,Mumbai,4.8,Great performance and smooth drive
+592,Hyundai,Seltos,60.3,Hybrid,12.71,Mumbai,3.5,Great performance and smooth drive
+593,Honda,City,8.78,Petrol,28.49,Mumbai,3.5,Could be better in terms of features
+594,Hyundai,Swift,78.64,Diesel,15.82,Chennai,4.4,Value for money car
+595,Mahindra,XUV700,36.02,Hybrid,20.77,Delhi,2.8,Amazing experience overall
+596,Mahindra,City,55.14,Diesel,16.11,Chennai,3.8,Great performance and smooth drive
+597,Kia,i20,71.93,Hybrid,15.07,Chennai,4.2,Great performance and smooth drive
+598,Tata,Fortuner,8.97,Hybrid,15.06,Pune,4.4,Not satisfied with service
+599,Maruti,Fortuner,9.83,Diesel,27.47,Bangalore,3.5,Excellent features and comfort
+600,Tata,X5,47.61,Petrol,13.97,Chennai,3.0,Mileage is decent but price is high
+601,Hyundai,XUV700,79.81,Electric,28.04,Ahmedabad,4.7,Could be better in terms of features
+602,Honda,Seltos,71.55,Hybrid,21.74,Chennai,3.8,Value for money car
+603,Honda,Swift,54.84,Electric,27.65,Bangalore,4.6,Excellent features and comfort
+604,Toyota,i20,69.73,Diesel,28.22,Bangalore,4.1,Excellent features and comfort
+605,BMW,X5,67.88,Hybrid,22.2,Chennai,2.5,Mileage is decent but price is high
+606,Toyota,Nexon,65.45,Diesel,20.57,Pune,4.8,Amazing experience overall
+607,Honda,XUV700,29.5,Petrol,10.98,Ahmedabad,4.9,Not satisfied with service
+608,BMW,X5,67.38,Diesel,22.6,Mumbai,4.8,Could be better in terms of features
+609,Kia,Nexon,19.7,Electric,21.41,Chennai,5.0,Excellent features and comfort
+610,Maruti,i20,16.95,Hybrid,28.96,Bangalore,4.9,Excellent features and comfort
+611,Toyota,Fortuner,36.31,Diesel,12.48,Ahmedabad,3.5,Amazing experience overall
+612,Hyundai,Fortuner,71.89,Hybrid,27.1,Bangalore,2.9,Could be better in terms of features
+613,Kia,Nexon,42.27,Hybrid,15.94,Chennai,4.1,Value for money car
+614,BMW,City,44.63,Diesel,26.73,Mumbai,4.6,Excellent features and comfort
+615,Tata,Swift,52.92,Electric,14.05,Pune,2.7,Could be better in terms of features
+616,Hyundai,Nexon,54.16,Hybrid,17.63,Pune,3.5,Amazing experience overall
+617,Honda,City,59.78,Electric,10.33,Chennai,3.3,Could be better in terms of features
+618,Mahindra,Fortuner,78.3,Electric,19.57,Ahmedabad,3.4,Excellent features and comfort
+619,Toyota,i20,39.04,Petrol,29.82,Mumbai,4.7,Could be better in terms of features
+620,Toyota,i20,18.49,Electric,19.69,Ahmedabad,3.3,Great performance and smooth drive
+621,Kia,Fortuner,46.31,Petrol,28.05,Delhi,3.4,Mileage is decent but price is high
+622,Hyundai,X5,46.76,Petrol,23.53,Pune,3.2,Not satisfied with service
+623,Maruti,Seltos,44.49,Petrol,25.57,Chennai,3.3,Great performance and smooth drive
+624,Mahindra,City,30.55,Electric,21.19,Chennai,4.7,Value for money car
+625,Honda,Fortuner,73.08,Petrol,25.04,Bangalore,4.2,Excellent features and comfort
+626,Toyota,i20,75.41,Petrol,14.37,Delhi,4.1,Mileage is decent but price is high
+627,Hyundai,Seltos,62.9,Hybrid,13.11,Mumbai,4.2,Could be better in terms of features
+628,Mahindra,XUV700,43.15,Petrol,29.18,Delhi,3.0,Excellent features and comfort
+629,Toyota,Fortuner,35.29,Petrol,11.42,Pune,3.8,Not satisfied with service
+630,Hyundai,XUV700,38.27,Diesel,11.62,Mumbai,4.4,Mileage is decent but price is high
+631,Maruti,City,75.6,Hybrid,24.43,Ahmedabad,4.8,Mileage is decent but price is high
+632,Tata,City,64.08,Electric,14.31,Pune,3.9,Great performance and smooth drive
+633,Maruti,X5,10.8,Diesel,29.53,Mumbai,5.0,Mileage is decent but price is high
+634,Mahindra,X5,47.38,Electric,11.8,Pune,3.2,Not satisfied with service
+635,Toyota,Nexon,21.18,Hybrid,19.95,Mumbai,4.6,Mileage is decent but price is high
+636,Toyota,Nexon,73.39,Diesel,14.27,Pune,2.8,Great performance and smooth drive
+637,Tata,Nexon,30.57,Diesel,12.08,Bangalore,3.8,Excellent features and comfort
+638,Tata,Seltos,63.49,Electric,16.24,Mumbai,2.6,Great performance and smooth drive
+639,Kia,City,19.92,Diesel,25.26,Bangalore,3.7,Amazing experience overall
+640,Maruti,City,78.88,Electric,20.63,Chennai,4.5,Amazing experience overall
+641,Tata,Swift,36.8,Petrol,26.6,Chennai,4.6,Could be better in terms of features
+642,Mahindra,i20,37.42,Hybrid,25.27,Delhi,2.7,Value for money car
+643,Honda,Seltos,12.04,Diesel,22.77,Mumbai,2.6,Amazing experience overall
+644,Hyundai,City,74.43,Electric,19.07,Bangalore,3.8,Mileage is decent but price is high
+645,Kia,Nexon,17.92,Hybrid,13.66,Mumbai,2.7,Could be better in terms of features
+646,Mahindra,Nexon,39.02,Diesel,19.45,Bangalore,2.8,Could be better in terms of features
+647,BMW,Swift,23.92,Diesel,27.79,Bangalore,3.2,Excellent features and comfort
+648,Honda,Nexon,67.38,Petrol,15.59,Ahmedabad,4.6,Could be better in terms of features
+649,Toyota,Swift,31.76,Diesel,18.47,Bangalore,3.3,Great performance and smooth drive
+650,Hyundai,Fortuner,59.35,Electric,29.47,Mumbai,3.4,Amazing experience overall
+651,Maruti,X5,43.33,Diesel,26.73,Delhi,3.2,Value for money car
+652,Toyota,X5,25.86,Hybrid,26.38,Bangalore,3.4,Value for money car
+653,Maruti,Fortuner,47.18,Diesel,11.83,Mumbai,4.8,Not satisfied with service
+654,Mahindra,X5,15.61,Hybrid,20.73,Delhi,4.8,Great performance and smooth drive
+655,Tata,Swift,72.91,Petrol,24.05,Pune,3.6,Not satisfied with service
+656,Hyundai,Fortuner,73.8,Petrol,16.14,Chennai,4.9,Excellent features and comfort
+657,Hyundai,i20,71.69,Electric,24.95,Ahmedabad,4.7,Could be better in terms of features
+658,Honda,Swift,73.78,Petrol,19.52,Bangalore,3.9,Not satisfied with service
+659,Maruti,Nexon,51.6,Hybrid,26.59,Ahmedabad,4.0,Value for money car
+660,Toyota,XUV700,17.72,Petrol,16.86,Delhi,4.7,Could be better in terms of features
+661,Mahindra,City,67.77,Electric,20.6,Mumbai,3.5,Not satisfied with service
+662,Toyota,Seltos,30.66,Hybrid,13.15,Pune,4.3,Great performance and smooth drive
+663,Honda,City,59.22,Hybrid,22.93,Mumbai,4.7,Value for money car
+664,Tata,City,31.51,Hybrid,11.19,Chennai,4.2,Could be better in terms of features
+665,Honda,i20,57.84,Hybrid,13.25,Bangalore,3.4,Excellent features and comfort
+666,Toyota,Seltos,67.35,Hybrid,28.4,Chennai,4.3,Value for money car
+667,Toyota,XUV700,64.4,Diesel,27.29,Bangalore,4.6,Could be better in terms of features
+668,Mahindra,Fortuner,76.17,Electric,23.15,Chennai,4.6,Value for money car
+669,Toyota,Nexon,51.8,Hybrid,23.28,Bangalore,4.3,Could be better in terms of features
+670,Toyota,i20,14.9,Diesel,17.84,Ahmedabad,4.6,Not satisfied with service
+671,Mahindra,Nexon,37.56,Hybrid,10.74,Mumbai,4.9,Mileage is decent but price is high
+672,BMW,Fortuner,62.4,Diesel,25.19,Chennai,4.1,Value for money car
+673,BMW,XUV700,16.91,Electric,22.67,Bangalore,4.9,Great performance and smooth drive
+674,Kia,X5,51.13,Petrol,16.19,Chennai,4.2,Not satisfied with service
+675,Kia,Swift,74.83,Hybrid,12.75,Pune,5.0,Great performance and smooth drive
+676,BMW,XUV700,66.28,Diesel,19.19,Ahmedabad,4.9,Could be better in terms of features
+677,Hyundai,XUV700,76.75,Electric,20.35,Delhi,4.3,Amazing experience overall
+678,Toyota,X5,56.5,Hybrid,10.34,Mumbai,4.9,Value for money car
+679,BMW,X5,66.57,Electric,25.77,Mumbai,4.5,Excellent features and comfort
+680,BMW,Fortuner,79.9,Hybrid,21.59,Chennai,3.9,Excellent features and comfort
+681,Honda,XUV700,5.65,Hybrid,26.84,Ahmedabad,2.6,Amazing experience overall
+682,Maruti,Seltos,21.96,Electric,14.4,Ahmedabad,3.3,Great performance and smooth drive
+683,Toyota,XUV700,67.07,Hybrid,14.64,Chennai,5.0,Value for money car
+684,Hyundai,City,11.62,Diesel,12.87,Pune,4.3,Could be better in terms of features
+685,Maruti,Swift,54.89,Petrol,13.11,Chennai,2.7,Value for money car
+686,Tata,Fortuner,29.63,Hybrid,28.35,Mumbai,4.7,Value for money car
+687,Toyota,X5,59.41,Diesel,13.91,Chennai,4.0,Mileage is decent but price is high
+688,Hyundai,Swift,68.76,Petrol,11.22,Mumbai,3.0,Mileage is decent but price is high
+689,Kia,XUV700,66.16,Electric,19.32,Bangalore,3.9,Value for money car
+690,BMW,Seltos,24.95,Diesel,29.51,Ahmedabad,4.4,Mileage is decent but price is high
+691,Honda,City,73.06,Hybrid,26.49,Ahmedabad,4.3,Amazing experience overall
+692,Mahindra,Swift,17.03,Petrol,18.62,Pune,4.0,Excellent features and comfort
+693,Hyundai,City,45.45,Diesel,15.18,Bangalore,3.7,Amazing experience overall
+694,Hyundai,Nexon,59.55,Petrol,26.41,Bangalore,3.4,Could be better in terms of features
+695,Hyundai,City,30.36,Petrol,22.76,Ahmedabad,3.6,Not satisfied with service
+696,BMW,X5,56.96,Diesel,18.87,Pune,4.1,Great performance and smooth drive
+697,BMW,Fortuner,56.54,Petrol,20.44,Delhi,3.5,Amazing experience overall
+698,Mahindra,Swift,26.64,Hybrid,23.41,Pune,3.7,Could be better in terms of features
+699,BMW,X5,71.64,Hybrid,11.94,Ahmedabad,4.8,Great performance and smooth drive
+700,Maruti,X5,38.61,Diesel,21.16,Pune,2.8,Could be better in terms of features
+701,Hyundai,Swift,24.54,Hybrid,20.31,Mumbai,2.9,Excellent features and comfort
+702,Hyundai,X5,60.14,Electric,15.61,Pune,3.8,Value for money car
+703,BMW,City,50.44,Electric,13.36,Delhi,2.6,Mileage is decent but price is high
+704,BMW,Seltos,51.57,Electric,12.59,Mumbai,3.3,Could be better in terms of features
+705,Mahindra,Swift,14.88,Electric,15.08,Delhi,3.1,Could be better in terms of features
+706,Kia,Swift,73.66,Petrol,21.92,Delhi,3.0,Value for money car
+707,Toyota,City,52.25,Hybrid,23.49,Bangalore,4.5,Mileage is decent but price is high
+708,Maruti,X5,39.1,Hybrid,16.67,Chennai,4.4,Could be better in terms of features
+709,Toyota,City,61.0,Diesel,27.02,Delhi,3.1,Mileage is decent but price is high
+710,Maruti,City,22.76,Diesel,11.04,Mumbai,2.7,Could be better in terms of features
+711,Mahindra,X5,26.15,Petrol,29.98,Delhi,2.7,Excellent features and comfort
+712,Kia,XUV700,67.0,Hybrid,21.89,Bangalore,3.9,Mileage is decent but price is high
+713,Honda,Seltos,21.14,Petrol,23.38,Ahmedabad,4.6,Not satisfied with service
+714,Maruti,Nexon,42.41,Diesel,20.83,Bangalore,3.2,Excellent features and comfort
+715,Maruti,City,21.45,Petrol,10.02,Pune,3.0,Mileage is decent but price is high
+716,Tata,Fortuner,46.95,Electric,11.18,Pune,4.8,Excellent features and comfort
+717,Kia,XUV700,29.87,Petrol,28.3,Ahmedabad,2.8,Value for money car
+718,Mahindra,i20,39.07,Electric,19.84,Pune,3.2,Value for money car
+719,Tata,Seltos,72.33,Diesel,13.98,Chennai,3.5,Great performance and smooth drive
+720,BMW,Fortuner,20.89,Diesel,22.92,Delhi,3.8,Mileage is decent but price is high
+721,Tata,Swift,74.13,Hybrid,24.32,Mumbai,4.4,Excellent features and comfort
+722,Tata,Seltos,14.24,Petrol,18.06,Chennai,3.9,Great performance and smooth drive
+723,Toyota,X5,27.21,Hybrid,23.5,Bangalore,4.3,Value for money car
+724,Mahindra,X5,65.79,Petrol,28.87,Ahmedabad,3.4,Value for money car
+725,Toyota,X5,47.5,Diesel,20.14,Mumbai,4.6,Value for money car
+726,Kia,X5,65.47,Diesel,25.61,Delhi,3.1,Value for money car
+727,Toyota,City,10.15,Hybrid,21.75,Chennai,3.6,Not satisfied with service
+728,Kia,X5,14.27,Electric,21.28,Mumbai,3.9,Could be better in terms of features
+729,BMW,Nexon,45.27,Hybrid,10.94,Pune,4.7,Could be better in terms of features
+730,Kia,Seltos,13.01,Electric,12.28,Mumbai,4.1,Not satisfied with service
+731,BMW,Seltos,39.91,Electric,15.18,Chennai,3.4,Excellent features and comfort
+732,Kia,Nexon,14.66,Hybrid,24.27,Mumbai,4.8,Excellent features and comfort
+733,Kia,City,41.5,Petrol,29.21,Mumbai,3.8,Mileage is decent but price is high
+734,Tata,Seltos,69.91,Electric,12.35,Pune,3.4,Excellent features and comfort
+735,Maruti,XUV700,62.37,Electric,27.87,Pune,4.4,Amazing experience overall
+736,Hyundai,Seltos,76.44,Hybrid,14.32,Bangalore,4.4,Could be better in terms of features
+737,Mahindra,XUV700,44.16,Electric,16.28,Bangalore,3.7,Amazing experience overall
+738,Toyota,Seltos,61.83,Petrol,22.48,Ahmedabad,4.9,Mileage is decent but price is high
+739,Honda,Nexon,25.93,Electric,12.61,Chennai,2.6,Not satisfied with service
+740,BMW,X5,5.34,Hybrid,16.92,Ahmedabad,3.5,Amazing experience overall
+741,Mahindra,X5,55.08,Petrol,14.16,Chennai,3.9,Amazing experience overall
+742,BMW,Swift,35.32,Petrol,26.78,Bangalore,2.7,Not satisfied with service
+743,Hyundai,City,57.06,Hybrid,29.65,Chennai,2.7,Great performance and smooth drive
+744,BMW,i20,57.16,Diesel,29.89,Mumbai,3.9,Mileage is decent but price is high
+745,Honda,Seltos,38.65,Electric,29.85,Pune,3.9,Could be better in terms of features
+746,Toyota,Swift,29.22,Diesel,28.51,Delhi,4.3,Amazing experience overall
+747,Honda,X5,37.69,Petrol,18.48,Chennai,3.9,Could be better in terms of features
+748,Maruti,XUV700,37.83,Electric,11.56,Bangalore,4.2,Great performance and smooth drive
+749,Toyota,Seltos,75.05,Hybrid,29.18,Ahmedabad,4.0,Not satisfied with service
+750,Hyundai,i20,47.68,Hybrid,15.78,Chennai,5.0,Not satisfied with service
+751,Hyundai,XUV700,23.35,Diesel,29.95,Pune,4.0,Could be better in terms of features
+752,BMW,Fortuner,29.0,Electric,14.04,Pune,4.0,Amazing experience overall
+753,BMW,X5,65.66,Diesel,20.19,Bangalore,4.0,Not satisfied with service
+754,Hyundai,Nexon,27.56,Petrol,13.54,Bangalore,4.4,Excellent features and comfort
+755,Mahindra,XUV700,15.71,Electric,15.32,Chennai,4.8,Value for money car
+756,Mahindra,Seltos,46.1,Petrol,29.38,Delhi,2.7,Great performance and smooth drive
+757,Kia,X5,10.12,Petrol,20.12,Ahmedabad,4.2,Excellent features and comfort
+758,Mahindra,Fortuner,29.92,Petrol,14.82,Chennai,2.6,Amazing experience overall
+759,Tata,i20,27.75,Hybrid,12.28,Bangalore,3.3,Mileage is decent but price is high
+760,Mahindra,i20,62.89,Electric,24.68,Ahmedabad,3.0,Great performance and smooth drive
+761,Toyota,Nexon,39.64,Hybrid,20.11,Chennai,4.2,Excellent features and comfort
+762,Kia,X5,76.99,Electric,16.79,Delhi,3.9,Value for money car
+763,Mahindra,Nexon,43.53,Petrol,16.2,Pune,4.8,Great performance and smooth drive
+764,Toyota,Nexon,18.5,Electric,26.22,Delhi,3.9,Value for money car
+765,Mahindra,XUV700,51.89,Diesel,24.04,Delhi,4.2,Excellent features and comfort
+766,Honda,i20,15.33,Electric,26.15,Bangalore,2.6,Excellent features and comfort
+767,Tata,Swift,38.58,Petrol,13.74,Bangalore,4.5,Great performance and smooth drive
+768,Honda,Nexon,62.93,Petrol,29.32,Mumbai,3.3,Not satisfied with service
+769,Hyundai,i20,74.59,Diesel,25.33,Chennai,4.5,Amazing experience overall
+770,Honda,XUV700,61.35,Hybrid,30.0,Delhi,2.8,Value for money car
+771,Hyundai,Nexon,69.17,Hybrid,18.87,Pune,3.5,Mileage is decent but price is high
+772,Tata,Swift,12.04,Petrol,17.77,Bangalore,3.8,Value for money car
+773,BMW,X5,40.33,Petrol,12.63,Pune,3.8,Not satisfied with service
+774,Kia,Seltos,9.34,Electric,15.69,Mumbai,3.1,Mileage is decent but price is high
+775,Honda,X5,8.23,Hybrid,23.01,Chennai,4.2,Excellent features and comfort
+776,Hyundai,XUV700,18.15,Diesel,23.82,Delhi,3.2,Could be better in terms of features
+777,Tata,Swift,9.98,Electric,12.33,Chennai,3.2,Value for money car
+778,Honda,Nexon,58.23,Electric,28.08,Ahmedabad,2.9,Mileage is decent but price is high
+779,Maruti,Fortuner,46.07,Petrol,29.69,Ahmedabad,4.0,Excellent features and comfort
+780,Maruti,Nexon,6.88,Petrol,15.53,Pune,4.4,Value for money car
+781,Mahindra,X5,43.54,Petrol,20.18,Pune,4.3,Mileage is decent but price is high
+782,Mahindra,Fortuner,46.68,Electric,12.72,Pune,3.0,Excellent features and comfort
+783,Maruti,Fortuner,69.48,Diesel,21.08,Bangalore,3.5,Mileage is decent but price is high
+784,Tata,XUV700,12.39,Electric,21.63,Chennai,4.6,Excellent features and comfort
+785,Mahindra,i20,69.19,Petrol,25.54,Chennai,3.1,Great performance and smooth drive
+786,Honda,i20,44.96,Petrol,11.36,Ahmedabad,3.4,Excellent features and comfort
+787,Maruti,Swift,55.86,Hybrid,10.26,Bangalore,3.8,Not satisfied with service
+788,Toyota,City,56.71,Hybrid,16.69,Ahmedabad,2.9,Excellent features and comfort
+789,Toyota,Fortuner,7.17,Petrol,26.74,Pune,2.7,Amazing experience overall
+790,Maruti,Seltos,31.94,Hybrid,11.79,Bangalore,4.5,Amazing experience overall
+791,Honda,Nexon,44.3,Petrol,17.45,Delhi,5.0,Excellent features and comfort
+792,Maruti,Seltos,65.07,Hybrid,14.29,Delhi,3.4,Could be better in terms of features
+793,Honda,Nexon,22.58,Hybrid,24.65,Bangalore,3.4,Not satisfied with service
+794,Toyota,i20,47.45,Petrol,11.6,Chennai,3.6,Could be better in terms of features
+795,Honda,Fortuner,20.49,Diesel,27.73,Delhi,2.5,Excellent features and comfort
+796,BMW,Swift,33.98,Diesel,11.05,Bangalore,4.2,Value for money car
+797,BMW,Nexon,10.7,Electric,11.28,Chennai,2.6,Not satisfied with service
+798,Mahindra,City,35.7,Hybrid,24.67,Bangalore,3.2,Not satisfied with service
+799,Mahindra,Seltos,29.67,Electric,13.67,Bangalore,3.1,Not satisfied with service
+800,Tata,i20,31.72,Petrol,20.65,Chennai,2.7,Could be better in terms of features
+801,Honda,Seltos,42.75,Petrol,21.01,Chennai,4.9,Mileage is decent but price is high
+802,Mahindra,X5,48.78,Electric,22.64,Pune,3.4,Could be better in terms of features
+803,Toyota,X5,26.88,Hybrid,23.23,Mumbai,2.8,Excellent features and comfort
+804,Tata,i20,76.86,Hybrid,28.55,Bangalore,2.6,Great performance and smooth drive
+805,Honda,Nexon,51.77,Petrol,22.26,Chennai,3.1,Not satisfied with service
+806,BMW,XUV700,17.81,Petrol,28.5,Bangalore,2.8,Great performance and smooth drive
+807,Tata,Nexon,37.94,Diesel,28.9,Pune,4.8,Could be better in terms of features
+808,Hyundai,Fortuner,70.59,Petrol,12.99,Pune,4.9,Amazing experience overall
+809,Honda,Swift,31.78,Diesel,24.6,Delhi,4.1,Excellent features and comfort
+810,Tata,X5,18.79,Diesel,23.36,Mumbai,3.0,Amazing experience overall
+811,BMW,i20,65.26,Electric,12.25,Bangalore,3.9,Mileage is decent but price is high
+812,Mahindra,X5,34.56,Petrol,28.57,Chennai,3.0,Value for money car
+813,Toyota,Fortuner,61.31,Electric,15.56,Delhi,3.9,Amazing experience overall
+814,Honda,XUV700,31.24,Hybrid,21.02,Pune,4.3,Mileage is decent but price is high
+815,Hyundai,Fortuner,51.31,Electric,26.38,Ahmedabad,3.2,Amazing experience overall
+816,Toyota,Swift,71.86,Diesel,11.19,Ahmedabad,3.3,Value for money car
+817,BMW,Swift,18.85,Hybrid,13.29,Pune,3.3,Not satisfied with service
+818,Hyundai,Swift,15.72,Electric,27.42,Delhi,3.9,Value for money car
+819,Tata,X5,9.36,Diesel,18.69,Ahmedabad,4.8,Could be better in terms of features
+820,Kia,XUV700,12.25,Petrol,11.7,Delhi,3.8,Amazing experience overall
+821,Honda,Swift,24.35,Petrol,10.97,Chennai,4.7,Great performance and smooth drive
+822,Maruti,XUV700,40.24,Hybrid,14.79,Ahmedabad,2.8,Great performance and smooth drive
+823,Toyota,i20,24.13,Hybrid,23.05,Delhi,2.7,Excellent features and comfort
+824,BMW,XUV700,30.19,Electric,21.11,Ahmedabad,3.2,Great performance and smooth drive
+825,Maruti,i20,71.97,Electric,27.35,Ahmedabad,4.8,Amazing experience overall
+826,Kia,X5,77.41,Petrol,24.79,Pune,3.5,Could be better in terms of features
+827,Maruti,Seltos,68.66,Petrol,21.29,Delhi,3.7,Value for money car
+828,Maruti,i20,37.09,Diesel,21.02,Mumbai,2.7,Mileage is decent but price is high
+829,Tata,Nexon,10.7,Diesel,28.08,Mumbai,4.3,Value for money car
+830,Hyundai,Nexon,42.13,Diesel,21.46,Chennai,5.0,Excellent features and comfort
+831,Honda,i20,71.95,Hybrid,18.42,Ahmedabad,4.6,Great performance and smooth drive
+832,Kia,Fortuner,11.97,Diesel,12.88,Pune,4.8,Could be better in terms of features
+833,BMW,Fortuner,29.27,Hybrid,16.6,Mumbai,3.4,Great performance and smooth drive
+834,Kia,City,68.34,Hybrid,28.77,Bangalore,3.2,Great performance and smooth drive
+835,Honda,XUV700,35.05,Hybrid,26.76,Ahmedabad,3.5,Not satisfied with service
+836,Honda,Fortuner,7.29,Petrol,22.6,Mumbai,5.0,Great performance and smooth drive
+837,Toyota,i20,11.21,Diesel,16.64,Pune,2.7,Not satisfied with service
+838,Tata,XUV700,29.89,Hybrid,18.85,Pune,4.0,Value for money car
+839,Honda,Fortuner,55.18,Petrol,10.61,Ahmedabad,4.1,Not satisfied with service
+840,Tata,XUV700,45.16,Hybrid,17.75,Ahmedabad,4.0,Amazing experience overall
+841,Toyota,City,61.87,Petrol,27.93,Chennai,3.1,Mileage is decent but price is high
+842,Toyota,City,73.02,Electric,26.97,Delhi,4.8,Could be better in terms of features
+843,Mahindra,Swift,17.95,Petrol,26.25,Delhi,4.9,Mileage is decent but price is high
+844,Hyundai,XUV700,13.69,Petrol,20.5,Pune,3.5,Not satisfied with service
+845,Tata,i20,39.12,Electric,19.66,Bangalore,4.7,Value for money car
+846,Hyundai,X5,48.76,Diesel,17.03,Bangalore,4.1,Great performance and smooth drive
+847,Toyota,Swift,34.57,Hybrid,12.69,Delhi,3.2,Amazing experience overall
+848,Tata,Fortuner,15.68,Petrol,14.3,Mumbai,3.9,Value for money car
+849,Hyundai,Nexon,72.26,Hybrid,24.07,Bangalore,2.8,Excellent features and comfort
+850,Maruti,XUV700,10.77,Electric,22.12,Delhi,4.3,Excellent features and comfort
+851,Tata,Nexon,33.06,Petrol,12.27,Bangalore,4.1,Not satisfied with service
+852,Hyundai,Seltos,17.32,Electric,13.96,Bangalore,4.7,Amazing experience overall
+853,Tata,Fortuner,50.24,Diesel,20.47,Chennai,4.1,Value for money car
+854,Mahindra,XUV700,60.72,Electric,28.83,Mumbai,4.1,Excellent features and comfort
+855,Mahindra,Nexon,28.26,Hybrid,12.96,Ahmedabad,3.1,Mileage is decent but price is high
+856,Honda,XUV700,44.42,Hybrid,22.52,Pune,3.8,Mileage is decent but price is high
+857,BMW,XUV700,38.36,Hybrid,18.71,Delhi,4.4,Excellent features and comfort
+858,Hyundai,City,8.78,Petrol,29.28,Ahmedabad,2.7,Mileage is decent but price is high
+859,Honda,i20,46.46,Hybrid,19.89,Bangalore,3.1,Excellent features and comfort
+860,Tata,X5,32.15,Petrol,28.42,Ahmedabad,2.6,Mileage is decent but price is high
+861,Honda,City,58.86,Electric,19.88,Ahmedabad,3.3,Excellent features and comfort
+862,Hyundai,Nexon,66.61,Electric,25.57,Chennai,3.3,Excellent features and comfort
+863,Kia,XUV700,25.36,Electric,21.06,Chennai,4.4,Could be better in terms of features
+864,BMW,Swift,22.26,Hybrid,14.5,Delhi,3.8,Could be better in terms of features
+865,Honda,X5,22.5,Electric,20.22,Ahmedabad,4.6,Value for money car
+866,Honda,Fortuner,29.59,Hybrid,12.84,Delhi,4.0,Mileage is decent but price is high
+867,Toyota,Nexon,38.47,Electric,20.04,Delhi,2.8,Mileage is decent but price is high
+868,Tata,XUV700,30.84,Petrol,19.14,Pune,3.0,Mileage is decent but price is high
+869,Tata,i20,69.52,Diesel,15.11,Chennai,3.3,Excellent features and comfort
+870,Kia,X5,48.61,Petrol,29.48,Mumbai,2.6,Not satisfied with service
+871,Honda,XUV700,18.49,Petrol,12.3,Mumbai,2.9,Could be better in terms of features
+872,Honda,Swift,76.36,Petrol,29.26,Pune,3.6,Not satisfied with service
+873,Honda,Seltos,35.94,Hybrid,18.86,Pune,3.2,Mileage is decent but price is high
+874,Honda,Nexon,15.45,Diesel,10.75,Bangalore,4.9,Amazing experience overall
+875,Honda,Seltos,29.28,Petrol,11.35,Delhi,3.2,Not satisfied with service
+876,Honda,XUV700,12.6,Electric,11.89,Pune,4.5,Mileage is decent but price is high
+877,BMW,City,76.62,Hybrid,11.65,Ahmedabad,3.0,Not satisfied with service
+878,BMW,X5,36.72,Electric,19.56,Ahmedabad,4.8,Value for money car
+879,Hyundai,Fortuner,35.61,Hybrid,19.6,Delhi,4.2,Not satisfied with service
+880,Kia,X5,35.78,Electric,26.0,Bangalore,3.8,Great performance and smooth drive
+881,Toyota,Swift,78.08,Electric,29.76,Mumbai,3.7,Great performance and smooth drive
+882,Mahindra,Seltos,19.62,Hybrid,16.27,Ahmedabad,5.0,Not satisfied with service
+883,Honda,Swift,25.88,Diesel,22.42,Mumbai,3.4,Excellent features and comfort
+884,Maruti,Nexon,20.27,Diesel,14.23,Mumbai,3.1,Great performance and smooth drive
+885,BMW,Nexon,78.0,Diesel,15.47,Chennai,4.1,Amazing experience overall
+886,Mahindra,City,18.23,Hybrid,21.21,Delhi,4.5,Could be better in terms of features
+887,Tata,Seltos,79.35,Diesel,27.22,Pune,2.9,Value for money car
+888,Maruti,Seltos,49.92,Electric,21.3,Pune,5.0,Value for money car
+889,Tata,City,22.46,Hybrid,24.79,Mumbai,3.3,Excellent features and comfort
+890,Toyota,Seltos,34.21,Petrol,26.9,Bangalore,4.5,Could be better in terms of features
+891,Toyota,Seltos,10.37,Electric,16.82,Ahmedabad,4.6,Value for money car
+892,Toyota,City,33.81,Hybrid,16.0,Delhi,3.7,Could be better in terms of features
+893,Tata,Fortuner,7.82,Diesel,10.89,Pune,3.4,Amazing experience overall
+894,Maruti,XUV700,74.25,Hybrid,18.34,Delhi,3.0,Great performance and smooth drive
+895,BMW,X5,74.23,Petrol,16.26,Pune,4.0,Value for money car
+896,Honda,Seltos,75.03,Petrol,18.31,Bangalore,3.6,Amazing experience overall
+897,BMW,XUV700,23.51,Electric,22.47,Mumbai,3.4,Excellent features and comfort
+898,Toyota,Nexon,72.67,Hybrid,29.96,Chennai,4.9,Could be better in terms of features
+899,Kia,X5,11.25,Electric,28.89,Chennai,4.7,Not satisfied with service
+900,Honda,City,38.03,Electric,24.18,Bangalore,2.6,Amazing experience overall
+901,Honda,i20,51.82,Electric,19.82,Pune,3.5,Not satisfied with service
+902,Maruti,Seltos,6.84,Diesel,19.17,Delhi,4.4,Value for money car
+903,Honda,XUV700,69.94,Diesel,11.67,Delhi,3.5,Could be better in terms of features
+904,Hyundai,Fortuner,78.88,Electric,23.67,Bangalore,3.4,Excellent features and comfort
+905,Tata,Swift,18.47,Hybrid,22.51,Pune,3.5,Could be better in terms of features
+906,BMW,Fortuner,21.57,Petrol,26.11,Ahmedabad,4.6,Great performance and smooth drive
+907,Tata,Fortuner,32.31,Petrol,21.89,Delhi,4.7,Value for money car
+908,BMW,XUV700,9.74,Hybrid,18.69,Bangalore,3.7,Great performance and smooth drive
+909,Kia,Swift,12.88,Petrol,27.99,Mumbai,4.9,Mileage is decent but price is high
+910,Maruti,X5,20.22,Petrol,26.55,Ahmedabad,4.0,Excellent features and comfort
+911,BMW,Seltos,8.37,Petrol,16.82,Delhi,3.1,Amazing experience overall
+912,Toyota,Swift,21.78,Electric,10.59,Pune,4.2,Mileage is decent but price is high
+913,Kia,i20,77.46,Hybrid,21.18,Bangalore,4.4,Mileage is decent but price is high
+914,BMW,XUV700,34.4,Electric,20.14,Pune,3.0,Could be better in terms of features
+915,Maruti,Nexon,75.47,Hybrid,20.88,Ahmedabad,3.7,Excellent features and comfort
+916,Toyota,XUV700,60.62,Petrol,14.06,Pune,2.9,Great performance and smooth drive
+917,Maruti,X5,29.8,Hybrid,17.02,Delhi,4.3,Not satisfied with service
+918,Toyota,XUV700,76.15,Hybrid,12.52,Chennai,4.8,Amazing experience overall
+919,Mahindra,City,13.11,Diesel,15.59,Delhi,3.2,Mileage is decent but price is high
+920,Tata,i20,67.99,Hybrid,19.89,Bangalore,3.8,Excellent features and comfort
+921,Maruti,City,33.24,Diesel,12.32,Mumbai,3.6,Could be better in terms of features
+922,BMW,Fortuner,6.62,Diesel,17.85,Ahmedabad,3.6,Excellent features and comfort
+923,Mahindra,Seltos,26.42,Hybrid,28.4,Bangalore,3.0,Could be better in terms of features
+924,Hyundai,Fortuner,24.51,Electric,27.69,Chennai,3.6,Great performance and smooth drive
+925,Hyundai,City,20.91,Hybrid,21.24,Bangalore,3.4,Not satisfied with service
+926,BMW,X5,54.73,Electric,27.69,Bangalore,4.5,Mileage is decent but price is high
+927,Hyundai,City,66.5,Petrol,13.92,Mumbai,3.8,Could be better in terms of features
+928,BMW,Swift,68.33,Electric,16.93,Delhi,3.9,Mileage is decent but price is high
+929,Tata,XUV700,38.09,Diesel,16.53,Chennai,3.8,Not satisfied with service
+930,Honda,Swift,10.17,Diesel,15.58,Pune,3.6,Excellent features and comfort
+931,Tata,XUV700,19.89,Petrol,24.01,Bangalore,3.4,Excellent features and comfort
+932,Toyota,Nexon,51.06,Diesel,24.72,Pune,3.2,Great performance and smooth drive
+933,Mahindra,Seltos,24.77,Diesel,23.9,Delhi,4.8,Could be better in terms of features
+934,Hyundai,i20,67.77,Hybrid,25.79,Mumbai,4.8,Could be better in terms of features
+935,Honda,Nexon,32.35,Petrol,26.65,Mumbai,4.4,Amazing experience overall
+936,Tata,Seltos,59.22,Petrol,11.16,Bangalore,4.5,Value for money car
+937,Toyota,i20,65.38,Petrol,10.16,Ahmedabad,4.2,Mileage is decent but price is high
+938,BMW,Swift,9.18,Hybrid,28.6,Ahmedabad,4.6,Great performance and smooth drive
+939,Tata,i20,43.63,Hybrid,23.18,Bangalore,4.9,Great performance and smooth drive
+940,Mahindra,Seltos,34.08,Diesel,23.22,Bangalore,2.9,Excellent features and comfort
+941,Maruti,Nexon,51.24,Hybrid,23.5,Chennai,3.1,Mileage is decent but price is high
+942,Honda,Nexon,13.8,Hybrid,28.74,Pune,3.6,Great performance and smooth drive
+943,Toyota,Fortuner,34.32,Hybrid,17.61,Chennai,3.6,Value for money car
+944,Maruti,Fortuner,17.64,Electric,27.74,Ahmedabad,3.3,Not satisfied with service
+945,Honda,Fortuner,72.16,Electric,14.61,Pune,4.9,Excellent features and comfort
+946,BMW,i20,62.02,Petrol,19.63,Bangalore,5.0,Great performance and smooth drive
+947,BMW,Nexon,72.97,Electric,29.42,Chennai,4.0,Value for money car
+948,Tata,Nexon,59.74,Hybrid,12.87,Ahmedabad,4.5,Great performance and smooth drive
+949,Toyota,Fortuner,46.94,Hybrid,16.09,Ahmedabad,3.6,Great performance and smooth drive
+950,Tata,X5,70.19,Diesel,15.32,Bangalore,3.3,Not satisfied with service
+951,Maruti,Seltos,29.88,Hybrid,16.99,Pune,3.6,Could be better in terms of features
+952,BMW,XUV700,52.46,Hybrid,15.14,Delhi,3.6,Mileage is decent but price is high
+953,Kia,XUV700,12.06,Hybrid,15.64,Bangalore,4.3,Amazing experience overall
+954,Tata,Seltos,36.75,Electric,25.28,Delhi,3.9,Could be better in terms of features
+955,Toyota,Fortuner,47.41,Diesel,11.68,Pune,3.9,Excellent features and comfort
+956,Mahindra,Seltos,12.78,Diesel,21.56,Chennai,3.5,Great performance and smooth drive
+957,BMW,Fortuner,47.02,Electric,12.01,Bangalore,3.7,Great performance and smooth drive
+958,Hyundai,City,17.72,Electric,13.14,Mumbai,3.5,Value for money car
+959,Maruti,Seltos,54.86,Hybrid,18.14,Pune,4.2,Great performance and smooth drive
+960,Maruti,Seltos,62.2,Electric,20.59,Pune,4.6,Value for money car
+961,Mahindra,Nexon,43.69,Electric,28.48,Ahmedabad,4.5,Amazing experience overall
+962,Mahindra,Nexon,73.29,Electric,28.51,Mumbai,4.4,Excellent features and comfort
+963,Tata,X5,27.04,Petrol,15.52,Ahmedabad,3.3,Mileage is decent but price is high
+964,Tata,Fortuner,51.92,Electric,27.43,Ahmedabad,2.5,Could be better in terms of features
+965,Toyota,i20,61.79,Hybrid,14.5,Bangalore,3.4,Could be better in terms of features
+966,Honda,i20,28.7,Petrol,17.24,Ahmedabad,3.3,Amazing experience overall
+967,Toyota,X5,13.04,Electric,22.9,Mumbai,3.5,Mileage is decent but price is high
+968,Toyota,Nexon,62.18,Petrol,29.4,Pune,2.7,Could be better in terms of features
+969,Maruti,X5,29.96,Hybrid,16.71,Ahmedabad,3.9,Could be better in terms of features
+970,BMW,Swift,18.19,Hybrid,20.7,Bangalore,4.0,Not satisfied with service
+971,Hyundai,i20,6.84,Diesel,22.31,Delhi,2.8,Great performance and smooth drive
+972,Honda,Fortuner,9.86,Diesel,25.62,Pune,3.2,Amazing experience overall
+973,Toyota,Swift,57.14,Diesel,27.54,Bangalore,3.2,Amazing experience overall
+974,Tata,XUV700,51.9,Electric,22.59,Chennai,3.2,Excellent features and comfort
+975,Toyota,X5,10.19,Electric,13.37,Pune,3.0,Great performance and smooth drive
+976,Honda,City,31.42,Hybrid,13.62,Bangalore,2.9,Not satisfied with service
+977,Toyota,Nexon,50.37,Hybrid,23.17,Ahmedabad,4.5,Could be better in terms of features
+978,Toyota,XUV700,60.22,Hybrid,12.3,Delhi,2.9,Mileage is decent but price is high
+979,Tata,Swift,59.99,Petrol,25.66,Delhi,2.9,Excellent features and comfort
+980,BMW,Swift,55.54,Petrol,23.52,Mumbai,4.6,Could be better in terms of features
+981,Kia,Nexon,5.33,Diesel,20.77,Pune,2.5,Amazing experience overall
+982,Honda,Fortuner,34.24,Diesel,17.94,Mumbai,2.8,Excellent features and comfort
+983,BMW,Seltos,62.6,Diesel,29.15,Chennai,3.8,Mileage is decent but price is high
+984,Maruti,Seltos,55.59,Petrol,26.61,Delhi,3.8,Excellent features and comfort
+985,Toyota,i20,26.54,Electric,28.77,Delhi,4.7,Great performance and smooth drive
+986,Maruti,City,34.41,Electric,20.83,Ahmedabad,2.9,Great performance and smooth drive
+987,Toyota,i20,61.17,Electric,10.52,Delhi,3.0,Excellent features and comfort
+988,Honda,Fortuner,49.64,Petrol,12.51,Delhi,3.3,Great performance and smooth drive
+989,Maruti,Fortuner,62.99,Petrol,20.54,Mumbai,3.4,Not satisfied with service
+990,Hyundai,i20,19.57,Hybrid,15.89,Chennai,4.1,Value for money car
+991,Toyota,City,46.53,Hybrid,20.78,Mumbai,4.3,Could be better in terms of features
+992,Honda,X5,39.65,Diesel,14.71,Mumbai,3.1,Amazing experience overall
+993,BMW,Seltos,7.33,Petrol,19.85,Bangalore,2.7,Mileage is decent but price is high
+994,Toyota,Swift,31.9,Electric,10.51,Ahmedabad,4.1,Mileage is decent but price is high
+995,Mahindra,Nexon,63.63,Petrol,25.94,Delhi,2.7,Amazing experience overall
+996,Hyundai,Fortuner,79.17,Hybrid,19.72,Ahmedabad,2.7,Not satisfied with service
+997,Mahindra,Fortuner,55.61,Petrol,11.84,Chennai,3.1,Amazing experience overall
+998,Maruti,City,5.04,Petrol,24.75,Ahmedabad,3.1,Value for money car
+999,Hyundai,Nexon,55.22,Petrol,13.71,Bangalore,3.4,Mileage is decent but price is high
+1000,Maruti,Nexon,71.18,Petrol,10.05,Chennai,3.4,Value for money car
+1001,Maruti,Nexon,48.24,Diesel,19.83,Chennai,4.7,Great performance and smooth drive
+1002,Honda,City,73.03,Diesel,10.78,Bangalore,3.7,Not satisfied with service
+1003,Toyota,XUV700,72.37,Diesel,27.63,Chennai,4.5,Value for money car
+1004,Hyundai,Fortuner,31.95,Petrol,15.81,Bangalore,3.1,Mileage is decent but price is high
+1005,Hyundai,Swift,53.19,Hybrid,18.16,Mumbai,3.2,Mileage is decent but price is high
+1006,Maruti,i20,79.04,Hybrid,25.14,Chennai,4.9,Could be better in terms of features
+1007,Honda,Fortuner,51.77,Petrol,24.97,Bangalore,3.8,Not satisfied with service
+1008,Kia,City,10.08,Petrol,27.84,Bangalore,2.8,Great performance and smooth drive
+1009,Tata,Nexon,27.04,Electric,15.87,Mumbai,3.4,Excellent features and comfort
+1010,Toyota,Swift,44.64,Hybrid,17.29,Chennai,4.9,Amazing experience overall
+1011,Honda,Nexon,23.14,Diesel,29.4,Chennai,4.1,Could be better in terms of features
+1012,Kia,XUV700,48.02,Petrol,21.87,Pune,2.6,Could be better in terms of features
+1013,Honda,XUV700,16.04,Electric,14.48,Pune,2.9,Amazing experience overall
+1014,BMW,XUV700,45.17,Petrol,15.14,Delhi,4.3,Not satisfied with service
+1015,Toyota,X5,65.59,Petrol,19.46,Mumbai,3.5,Not satisfied with service
+1016,Maruti,Swift,6.66,Hybrid,19.45,Bangalore,2.8,Could be better in terms of features
+1017,Mahindra,City,15.68,Electric,24.07,Pune,4.5,Great performance and smooth drive
+1018,Toyota,Nexon,24.59,Hybrid,23.49,Pune,4.7,Amazing experience overall
+1019,Maruti,XUV700,35.08,Petrol,12.56,Bangalore,3.6,Not satisfied with service
+1020,Honda,i20,13.27,Diesel,17.97,Bangalore,3.9,Mileage is decent but price is high
+1021,BMW,XUV700,60.61,Petrol,11.25,Delhi,4.7,Amazing experience overall
+1022,Tata,Fortuner,16.45,Petrol,28.31,Chennai,3.6,Excellent features and comfort
+1023,Mahindra,Nexon,26.42,Petrol,17.39,Ahmedabad,3.9,Value for money car
+1024,Toyota,Fortuner,61.23,Petrol,15.29,Chennai,3.5,Great performance and smooth drive
+1025,Toyota,X5,59.82,Diesel,21.39,Pune,4.2,Mileage is decent but price is high
+1026,Honda,X5,37.21,Diesel,24.51,Chennai,4.0,Amazing experience overall
+1027,Maruti,Swift,29.34,Diesel,12.76,Chennai,3.9,Great performance and smooth drive
+1028,Hyundai,X5,62.25,Electric,15.22,Ahmedabad,3.9,Amazing experience overall
+1029,Honda,Seltos,33.35,Petrol,26.23,Bangalore,4.8,Amazing experience overall
+1030,BMW,Nexon,59.5,Hybrid,24.55,Bangalore,4.2,Great performance and smooth drive
+1031,Tata,City,22.54,Petrol,18.28,Bangalore,4.9,Excellent features and comfort
+1032,Hyundai,Swift,36.93,Electric,19.85,Delhi,3.6,Could be better in terms of features
+1033,Mahindra,XUV700,30.23,Hybrid,17.75,Delhi,3.2,Mileage is decent but price is high
+1034,BMW,Seltos,11.36,Diesel,15.09,Delhi,3.3,Not satisfied with service
+1035,Mahindra,XUV700,63.26,Petrol,23.32,Bangalore,3.4,Value for money car
+1036,Tata,Fortuner,45.88,Petrol,13.08,Pune,4.0,Not satisfied with service
+1037,BMW,Swift,19.53,Diesel,21.65,Delhi,4.3,Amazing experience overall
+1038,Toyota,X5,40.68,Diesel,17.74,Pune,4.7,Excellent features and comfort
+1039,Kia,Nexon,37.74,Hybrid,20.94,Mumbai,3.9,Not satisfied with service
+1040,Kia,X5,38.64,Hybrid,16.49,Chennai,4.4,Value for money car
+1041,Hyundai,Nexon,74.45,Hybrid,14.75,Chennai,3.8,Value for money car
+1042,BMW,Nexon,57.54,Petrol,18.97,Delhi,3.8,Value for money car
+1043,Maruti,Fortuner,69.66,Petrol,23.43,Bangalore,3.1,Great performance and smooth drive
+1044,BMW,XUV700,22.13,Diesel,26.76,Mumbai,2.5,Amazing experience overall
+1045,BMW,X5,71.43,Hybrid,26.54,Delhi,4.6,Not satisfied with service
+1046,Honda,City,20.08,Electric,22.18,Ahmedabad,3.1,Excellent features and comfort
+1047,BMW,City,17.04,Diesel,25.94,Chennai,3.3,Great performance and smooth drive
+1048,Mahindra,Swift,20.66,Electric,17.38,Mumbai,4.7,Mileage is decent but price is high
+1049,Mahindra,XUV700,74.56,Diesel,22.11,Pune,4.7,Great performance and smooth drive
+1050,BMW,X5,75.13,Hybrid,27.74,Pune,3.8,Great performance and smooth drive
+1051,Maruti,City,52.51,Petrol,12.81,Mumbai,3.1,Amazing experience overall
+1052,Maruti,X5,44.53,Diesel,13.13,Pune,3.9,Great performance and smooth drive
+1053,Toyota,City,26.19,Electric,23.32,Mumbai,4.2,Value for money car
+1054,Toyota,Fortuner,27.52,Diesel,17.79,Ahmedabad,3.1,Mileage is decent but price is high
+1055,Honda,i20,52.92,Hybrid,17.63,Delhi,3.7,Excellent features and comfort
+1056,Hyundai,Fortuner,11.67,Petrol,19.32,Ahmedabad,4.7,Mileage is decent but price is high
+1057,Hyundai,Swift,47.14,Electric,15.96,Pune,3.0,Not satisfied with service
+1058,Tata,i20,7.37,Electric,16.29,Pune,4.1,Not satisfied with service
+1059,Hyundai,i20,42.04,Petrol,27.57,Bangalore,3.9,Excellent features and comfort
+1060,Kia,i20,21.42,Petrol,10.29,Bangalore,4.8,Not satisfied with service
+1061,Kia,i20,22.69,Hybrid,13.45,Bangalore,4.8,Could be better in terms of features
+1062,Mahindra,i20,39.4,Hybrid,17.01,Ahmedabad,3.5,Excellent features and comfort
+1063,Tata,i20,70.02,Electric,15.54,Delhi,3.1,Mileage is decent but price is high
+1064,Kia,X5,76.05,Diesel,15.13,Pune,2.6,Not satisfied with service
+1065,Hyundai,Nexon,20.03,Petrol,22.05,Mumbai,3.8,Mileage is decent but price is high
+1066,Toyota,X5,73.26,Electric,24.16,Ahmedabad,4.7,Great performance and smooth drive
+1067,Maruti,X5,52.36,Petrol,29.34,Bangalore,4.8,Not satisfied with service
+1068,BMW,Seltos,12.68,Hybrid,18.16,Pune,4.4,Excellent features and comfort
+1069,Mahindra,Nexon,54.49,Petrol,16.16,Pune,2.7,Amazing experience overall
+1070,BMW,Swift,8.04,Electric,23.7,Pune,3.1,Amazing experience overall
+1071,Toyota,Nexon,23.46,Hybrid,21.02,Mumbai,3.8,Not satisfied with service
+1072,BMW,Fortuner,13.28,Electric,10.91,Delhi,3.9,Could be better in terms of features
+1073,Toyota,Swift,39.11,Diesel,25.74,Delhi,2.7,Excellent features and comfort
+1074,Tata,Swift,26.17,Electric,14.56,Mumbai,4.0,Not satisfied with service
+1075,Toyota,Swift,59.35,Electric,18.88,Chennai,3.4,Mileage is decent but price is high
+1076,Tata,XUV700,44.97,Electric,19.68,Chennai,2.6,Could be better in terms of features
+1077,Tata,X5,68.39,Hybrid,17.74,Mumbai,3.2,Value for money car
+1078,Mahindra,i20,28.88,Hybrid,11.4,Ahmedabad,3.1,Value for money car
+1079,Mahindra,X5,17.99,Hybrid,26.39,Delhi,3.2,Not satisfied with service
+1080,Tata,XUV700,66.27,Diesel,19.0,Ahmedabad,4.2,Value for money car
+1081,Tata,Fortuner,55.52,Hybrid,14.71,Delhi,4.8,Great performance and smooth drive
+1082,Maruti,Swift,27.85,Diesel,24.27,Ahmedabad,4.4,Could be better in terms of features
+1083,Kia,X5,26.01,Hybrid,21.75,Mumbai,3.8,Great performance and smooth drive
+1084,Hyundai,X5,45.51,Hybrid,28.49,Delhi,4.2,Great performance and smooth drive
+1085,Toyota,Seltos,32.63,Hybrid,17.58,Pune,4.3,Mileage is decent but price is high
+1086,Maruti,i20,38.19,Diesel,28.78,Ahmedabad,3.7,Could be better in terms of features
+1087,Hyundai,Fortuner,71.54,Diesel,29.13,Mumbai,4.5,Excellent features and comfort
+1088,Toyota,X5,36.77,Diesel,14.11,Chennai,2.8,Amazing experience overall
+1089,BMW,City,21.57,Diesel,24.23,Delhi,2.5,Amazing experience overall
+1090,Mahindra,Nexon,54.46,Hybrid,13.75,Bangalore,3.9,Could be better in terms of features
+1091,BMW,i20,16.1,Hybrid,11.96,Ahmedabad,4.7,Mileage is decent but price is high
+1092,Hyundai,Swift,67.4,Hybrid,12.24,Ahmedabad,4.6,Value for money car
+1093,Tata,X5,28.41,Petrol,14.3,Chennai,3.9,Value for money car
+1094,Toyota,i20,20.25,Electric,21.4,Chennai,3.9,Value for money car
+1095,Toyota,Nexon,17.83,Petrol,14.79,Mumbai,2.8,Value for money car
+1096,BMW,i20,40.78,Electric,12.52,Bangalore,3.7,Mileage is decent but price is high
+1097,Honda,Seltos,73.98,Electric,24.99,Bangalore,3.9,Not satisfied with service
+1098,Mahindra,XUV700,16.71,Electric,12.83,Ahmedabad,3.0,Amazing experience overall
+1099,BMW,X5,19.17,Hybrid,12.64,Bangalore,3.2,Amazing experience overall
+1100,Toyota,Seltos,77.44,Diesel,22.65,Delhi,3.4,Great performance and smooth drive
+1101,Hyundai,City,8.95,Hybrid,16.75,Ahmedabad,4.7,Mileage is decent but price is high
+1102,Toyota,Seltos,73.98,Electric,23.56,Ahmedabad,4.8,Amazing experience overall
+1103,Hyundai,Swift,48.16,Electric,25.42,Delhi,4.6,Not satisfied with service
+1104,Hyundai,Nexon,5.79,Electric,22.33,Ahmedabad,3.1,Value for money car
+1105,Toyota,Seltos,31.69,Diesel,10.05,Ahmedabad,2.9,Not satisfied with service
+1106,BMW,City,49.69,Hybrid,18.36,Bangalore,2.5,Great performance and smooth drive
+1107,Hyundai,X5,29.04,Electric,24.67,Bangalore,4.6,Great performance and smooth drive
+1108,Honda,i20,30.91,Electric,19.85,Bangalore,4.6,Mileage is decent but price is high
+1109,Toyota,Seltos,25.83,Electric,11.02,Chennai,3.0,Mileage is decent but price is high
+1110,BMW,Seltos,70.71,Hybrid,27.46,Mumbai,3.9,Great performance and smooth drive
+1111,Honda,City,52.75,Petrol,24.01,Ahmedabad,3.6,Mileage is decent but price is high
+1112,BMW,i20,48.6,Diesel,28.76,Delhi,4.1,Excellent features and comfort
+1113,Honda,Seltos,32.41,Electric,28.23,Delhi,2.6,Amazing experience overall
+1114,Toyota,i20,44.89,Electric,18.3,Pune,4.9,Amazing experience overall
+1115,Toyota,Fortuner,9.94,Hybrid,13.54,Bangalore,2.9,Amazing experience overall
+1116,Toyota,Seltos,23.23,Petrol,12.67,Bangalore,2.7,Great performance and smooth drive
+1117,Tata,Fortuner,40.17,Petrol,16.13,Chennai,3.4,Great performance and smooth drive
+1118,BMW,Seltos,48.62,Hybrid,18.62,Chennai,3.4,Could be better in terms of features
+1119,Maruti,i20,45.22,Electric,19.8,Ahmedabad,4.6,Could be better in terms of features
+1120,Kia,Seltos,60.45,Hybrid,22.51,Bangalore,2.7,Not satisfied with service
+1121,Honda,i20,59.11,Petrol,11.82,Chennai,3.2,Mileage is decent but price is high
+1122,Toyota,Seltos,52.1,Petrol,24.65,Delhi,4.9,Excellent features and comfort
+1123,Kia,City,39.02,Petrol,18.84,Ahmedabad,3.2,Great performance and smooth drive
+1124,Hyundai,Swift,48.65,Electric,25.73,Bangalore,3.4,Excellent features and comfort
+1125,Toyota,City,69.73,Electric,10.62,Delhi,4.6,Excellent features and comfort
+1126,BMW,Fortuner,13.52,Diesel,29.41,Mumbai,2.8,Mileage is decent but price is high
+1127,Hyundai,Seltos,46.53,Diesel,22.91,Chennai,3.3,Great performance and smooth drive
+1128,Kia,City,28.78,Electric,29.35,Bangalore,2.9,Amazing experience overall
+1129,Toyota,City,65.19,Diesel,13.98,Chennai,4.7,Great performance and smooth drive
+1130,Toyota,X5,61.14,Electric,12.88,Bangalore,4.6,Amazing experience overall
+1131,Kia,Seltos,17.13,Petrol,25.24,Chennai,3.3,Great performance and smooth drive
+1132,Honda,XUV700,28.37,Petrol,26.76,Chennai,3.9,Could be better in terms of features
+1133,Mahindra,Seltos,31.59,Hybrid,12.54,Chennai,2.6,Mileage is decent but price is high
+1134,Mahindra,Fortuner,21.33,Petrol,22.22,Mumbai,3.6,Mileage is decent but price is high
+1135,Hyundai,i20,33.05,Petrol,16.4,Ahmedabad,3.1,Mileage is decent but price is high
+1136,Hyundai,Nexon,22.71,Electric,10.54,Delhi,4.4,Could be better in terms of features
+1137,Maruti,City,68.13,Hybrid,14.58,Ahmedabad,4.9,Mileage is decent but price is high
+1138,Toyota,Seltos,62.86,Diesel,19.71,Chennai,2.5,Great performance and smooth drive
+1139,BMW,Fortuner,54.9,Diesel,17.46,Chennai,4.3,Excellent features and comfort
+1140,Kia,City,8.52,Hybrid,27.34,Ahmedabad,3.1,Amazing experience overall
+1141,Honda,Fortuner,74.2,Electric,27.4,Ahmedabad,4.4,Mileage is decent but price is high
+1142,Maruti,Seltos,49.87,Electric,29.11,Mumbai,4.9,Not satisfied with service
+1143,Mahindra,X5,22.65,Petrol,29.03,Pune,3.1,Great performance and smooth drive
+1144,Mahindra,X5,56.01,Petrol,19.74,Ahmedabad,3.0,Not satisfied with service
+1145,Honda,City,27.2,Diesel,22.09,Ahmedabad,3.7,Great performance and smooth drive
+1146,Hyundai,X5,8.23,Petrol,13.99,Ahmedabad,4.4,Mileage is decent but price is high
+1147,BMW,Fortuner,50.92,Petrol,23.89,Delhi,3.2,Mileage is decent but price is high
+1148,Toyota,X5,8.07,Electric,11.79,Delhi,2.5,Could be better in terms of features
+1149,Maruti,City,9.58,Hybrid,24.81,Ahmedabad,3.3,Excellent features and comfort
+1150,Toyota,X5,71.52,Petrol,15.27,Pune,3.8,Could be better in terms of features
+1151,Mahindra,City,50.03,Diesel,24.31,Chennai,3.8,Great performance and smooth drive
+1152,Tata,Nexon,68.62,Petrol,27.17,Ahmedabad,4.5,Mileage is decent but price is high
+1153,Hyundai,Nexon,63.06,Electric,18.6,Chennai,3.5,Amazing experience overall
+1154,Mahindra,XUV700,60.22,Petrol,16.22,Delhi,3.3,Great performance and smooth drive
+1155,Honda,XUV700,64.35,Diesel,12.81,Delhi,4.9,Excellent features and comfort
+1156,Tata,Nexon,71.54,Petrol,13.89,Ahmedabad,3.1,Amazing experience overall
+1157,Maruti,City,19.06,Petrol,20.57,Chennai,4.7,Not satisfied with service
+1158,Toyota,Swift,11.56,Electric,10.5,Ahmedabad,2.8,Could be better in terms of features
+1159,Tata,Seltos,57.2,Diesel,11.3,Chennai,3.3,Value for money car
+1160,Kia,Swift,37.09,Diesel,15.39,Delhi,3.9,Amazing experience overall
+1161,Honda,Nexon,25.72,Electric,21.05,Ahmedabad,3.6,Amazing experience overall
+1162,Kia,City,68.08,Diesel,15.87,Delhi,3.2,Excellent features and comfort
+1163,BMW,Fortuner,10.67,Hybrid,28.63,Ahmedabad,4.5,Not satisfied with service
+1164,Honda,City,47.35,Electric,22.89,Bangalore,2.9,Mileage is decent but price is high
+1165,Tata,XUV700,45.84,Petrol,23.66,Bangalore,3.3,Value for money car
+1166,Honda,City,42.73,Petrol,27.65,Delhi,4.7,Excellent features and comfort
+1167,BMW,X5,37.4,Petrol,24.06,Mumbai,4.9,Great performance and smooth drive
+1168,Maruti,X5,62.75,Petrol,12.51,Pune,4.4,Amazing experience overall
+1169,Hyundai,Fortuner,53.55,Petrol,13.93,Delhi,3.9,Could be better in terms of features
+1170,Kia,Seltos,38.82,Hybrid,29.41,Mumbai,3.1,Value for money car
+1171,Kia,City,71.68,Hybrid,21.18,Bangalore,3.6,Value for money car
+1172,Toyota,Swift,72.42,Hybrid,25.18,Ahmedabad,4.5,Not satisfied with service
+1173,Tata,City,12.81,Electric,17.88,Pune,4.3,Great performance and smooth drive
+1174,BMW,XUV700,33.76,Hybrid,19.21,Delhi,3.6,Amazing experience overall
+1175,Tata,City,75.97,Electric,13.6,Delhi,4.9,Excellent features and comfort
+1176,Kia,City,23.9,Electric,18.95,Ahmedabad,4.1,Not satisfied with service
+1177,Kia,City,17.46,Diesel,21.59,Mumbai,2.7,Amazing experience overall
+1178,Honda,Seltos,32.97,Petrol,14.76,Chennai,3.3,Not satisfied with service
+1179,Tata,i20,73.44,Diesel,14.01,Bangalore,3.3,Mileage is decent but price is high
+1180,BMW,Swift,48.95,Hybrid,26.1,Mumbai,3.5,Not satisfied with service
+1181,Kia,Nexon,70.0,Petrol,18.55,Ahmedabad,3.1,Value for money car
+1182,Maruti,i20,79.58,Hybrid,26.16,Pune,4.6,Could be better in terms of features
+1183,Honda,XUV700,72.31,Diesel,20.17,Delhi,4.4,Value for money car
+1184,Hyundai,Seltos,11.97,Electric,12.32,Chennai,4.1,Excellent features and comfort
+1185,Maruti,City,68.43,Electric,15.23,Pune,2.7,Great performance and smooth drive
+1186,Mahindra,X5,52.86,Petrol,29.17,Ahmedabad,3.7,Amazing experience overall
+1187,Mahindra,City,57.05,Diesel,13.2,Ahmedabad,4.7,Could be better in terms of features
+1188,Toyota,Fortuner,28.03,Petrol,19.33,Mumbai,4.3,Great performance and smooth drive
+1189,Kia,Seltos,57.49,Petrol,27.0,Pune,4.6,Could be better in terms of features
+1190,Toyota,XUV700,48.76,Hybrid,18.79,Chennai,4.8,Amazing experience overall
+1191,Toyota,City,8.94,Diesel,22.82,Ahmedabad,4.5,Could be better in terms of features
+1192,BMW,i20,70.61,Electric,12.71,Delhi,3.9,Amazing experience overall
+1193,Toyota,Seltos,75.19,Petrol,10.4,Ahmedabad,3.7,Could be better in terms of features
+1194,Mahindra,X5,50.24,Diesel,12.43,Chennai,2.9,Excellent features and comfort
+1195,Toyota,Seltos,58.24,Diesel,24.77,Delhi,4.3,Excellent features and comfort
+1196,Kia,XUV700,9.23,Diesel,13.55,Mumbai,3.0,Amazing experience overall
+1197,Kia,City,52.13,Hybrid,16.42,Mumbai,4.4,Value for money car
+1198,Maruti,XUV700,29.48,Electric,17.03,Delhi,2.5,Value for money car
+1199,Tata,i20,30.26,Diesel,18.2,Ahmedabad,3.2,Excellent features and comfort
+1200,Tata,Fortuner,33.95,Electric,20.9,Mumbai,4.4,Not satisfied with service
+1201,Toyota,Fortuner,64.27,Diesel,16.1,Pune,3.4,Mileage is decent but price is high
+1202,BMW,Swift,64.67,Electric,18.38,Delhi,2.8,Amazing experience overall
+1203,Toyota,City,69.69,Electric,12.8,Ahmedabad,4.3,Amazing experience overall
+1204,Mahindra,City,21.24,Petrol,27.52,Chennai,3.6,Excellent features and comfort
+1205,Kia,i20,67.99,Hybrid,20.46,Ahmedabad,4.2,Value for money car
+1206,Maruti,XUV700,74.12,Petrol,26.53,Bangalore,4.5,Value for money car
+1207,Mahindra,Seltos,10.85,Diesel,14.9,Ahmedabad,3.2,Amazing experience overall
+1208,Kia,i20,72.5,Hybrid,13.1,Ahmedabad,3.3,Excellent features and comfort
+1209,Kia,City,72.22,Petrol,18.12,Pune,4.0,Value for money car
+1210,BMW,Fortuner,59.49,Petrol,16.96,Delhi,4.9,Value for money car
+1211,Kia,Swift,46.21,Hybrid,25.79,Bangalore,4.7,Not satisfied with service
+1212,Hyundai,i20,23.31,Hybrid,23.68,Mumbai,2.8,Not satisfied with service
+1213,Maruti,XUV700,18.92,Hybrid,10.99,Ahmedabad,3.7,Value for money car
+1214,Hyundai,Fortuner,47.39,Diesel,13.0,Mumbai,4.4,Not satisfied with service
+1215,Mahindra,Nexon,56.86,Electric,21.33,Pune,3.4,Excellent features and comfort
+1216,Honda,XUV700,66.51,Electric,25.23,Delhi,3.3,Could be better in terms of features
+1217,Mahindra,XUV700,42.94,Electric,21.84,Chennai,2.6,Value for money car
+1218,Tata,City,76.88,Hybrid,11.49,Mumbai,4.4,Could be better in terms of features
+1219,Kia,Fortuner,75.19,Hybrid,15.77,Mumbai,3.4,Could be better in terms of features
+1220,Honda,Seltos,53.0,Electric,20.49,Delhi,3.8,Mileage is decent but price is high
+1221,Mahindra,Fortuner,59.42,Diesel,10.95,Mumbai,3.9,Value for money car
+1222,Mahindra,i20,29.8,Petrol,25.22,Ahmedabad,3.4,Mileage is decent but price is high
+1223,Kia,City,51.7,Hybrid,19.77,Pune,4.1,Not satisfied with service
+1224,Honda,Nexon,23.94,Petrol,19.3,Chennai,4.9,Not satisfied with service
+1225,Honda,X5,41.29,Petrol,20.97,Pune,3.1,Excellent features and comfort
+1226,Maruti,City,44.8,Hybrid,16.94,Pune,3.1,Mileage is decent but price is high
+1227,BMW,X5,31.43,Diesel,22.98,Delhi,3.6,Excellent features and comfort
+1228,Toyota,Swift,70.02,Hybrid,13.33,Pune,3.1,Amazing experience overall
+1229,Toyota,X5,14.08,Electric,16.12,Mumbai,4.5,Could be better in terms of features
+1230,Kia,Seltos,15.29,Petrol,12.96,Mumbai,3.9,Value for money car
+1231,Honda,City,12.08,Hybrid,10.35,Delhi,4.9,Excellent features and comfort
+1232,BMW,Seltos,71.7,Electric,24.1,Mumbai,3.2,Amazing experience overall
+1233,Hyundai,i20,74.25,Petrol,20.84,Delhi,2.7,Could be better in terms of features
+1234,Honda,XUV700,21.9,Electric,28.65,Delhi,4.2,Amazing experience overall
+1235,Tata,Nexon,71.5,Electric,19.8,Chennai,2.9,Excellent features and comfort
+1236,Tata,Seltos,21.1,Petrol,15.04,Mumbai,3.8,Not satisfied with service
+1237,Tata,XUV700,51.19,Diesel,27.52,Pune,4.4,Value for money car
+1238,Honda,Swift,63.02,Petrol,12.27,Pune,4.6,Amazing experience overall
+1239,Mahindra,Nexon,13.89,Hybrid,26.08,Delhi,4.8,Not satisfied with service
+1240,Toyota,i20,14.01,Petrol,14.8,Delhi,3.6,Could be better in terms of features
+1241,Toyota,Swift,78.41,Diesel,25.26,Pune,3.5,Mileage is decent but price is high
+1242,BMW,City,50.99,Hybrid,24.09,Ahmedabad,4.8,Excellent features and comfort
+1243,Maruti,X5,51.16,Diesel,17.07,Delhi,2.7,Great performance and smooth drive
+1244,Toyota,XUV700,79.61,Petrol,24.88,Pune,4.9,Excellent features and comfort
+1245,Honda,Seltos,47.38,Diesel,17.85,Delhi,3.5,Great performance and smooth drive
+1246,Maruti,Nexon,17.8,Hybrid,25.17,Pune,3.6,Could be better in terms of features
+1247,Toyota,i20,55.42,Diesel,22.29,Delhi,3.9,Not satisfied with service
+1248,Hyundai,Nexon,42.02,Hybrid,20.07,Bangalore,3.6,Mileage is decent but price is high
+1249,Honda,Seltos,78.11,Hybrid,13.39,Mumbai,3.5,Not satisfied with service
+1250,Toyota,Fortuner,30.36,Diesel,13.07,Mumbai,4.3,Great performance and smooth drive
+1251,Tata,Seltos,39.65,Electric,29.57,Chennai,3.1,Amazing experience overall
+1252,BMW,City,67.2,Petrol,29.52,Bangalore,2.9,Great performance and smooth drive
+1253,Honda,Nexon,74.47,Petrol,11.19,Delhi,2.9,Amazing experience overall
+1254,Honda,Nexon,76.38,Petrol,11.73,Chennai,3.2,Great performance and smooth drive
+1255,Hyundai,i20,27.48,Hybrid,29.92,Pune,4.5,Value for money car
+1256,Tata,X5,59.43,Petrol,12.56,Mumbai,4.3,Could be better in terms of features
+1257,Honda,Nexon,50.99,Diesel,21.99,Ahmedabad,3.5,Value for money car
+1258,Hyundai,Seltos,49.52,Hybrid,19.86,Chennai,4.7,Mileage is decent but price is high
+1259,Toyota,XUV700,76.67,Hybrid,23.73,Bangalore,4.2,Excellent features and comfort
+1260,Hyundai,X5,58.45,Electric,19.77,Delhi,4.3,Not satisfied with service
+1261,Mahindra,i20,40.99,Petrol,20.87,Pune,4.5,Great performance and smooth drive
+1262,Tata,X5,16.52,Hybrid,28.03,Pune,3.4,Could be better in terms of features
+1263,BMW,Swift,18.78,Diesel,20.85,Delhi,3.9,Amazing experience overall
+1264,Toyota,City,38.41,Diesel,19.58,Pune,2.6,Great performance and smooth drive
+1265,Hyundai,Swift,58.12,Electric,20.05,Bangalore,2.6,Not satisfied with service
+1266,Hyundai,Nexon,40.85,Hybrid,22.89,Ahmedabad,3.8,Excellent features and comfort
+1267,Toyota,X5,44.2,Diesel,14.0,Bangalore,3.5,Not satisfied with service
+1268,Hyundai,Seltos,10.67,Hybrid,18.54,Pune,2.7,Excellent features and comfort
+1269,Toyota,XUV700,23.34,Electric,21.92,Mumbai,3.9,Mileage is decent but price is high
+1270,BMW,Seltos,7.25,Petrol,12.03,Mumbai,2.6,Amazing experience overall
+1271,Toyota,City,70.18,Petrol,28.05,Mumbai,4.7,Not satisfied with service
+1272,Hyundai,Fortuner,75.72,Diesel,22.18,Bangalore,4.3,Mileage is decent but price is high
+1273,Maruti,XUV700,73.23,Petrol,19.64,Ahmedabad,3.6,Great performance and smooth drive
+1274,Honda,X5,44.6,Electric,25.24,Chennai,3.1,Mileage is decent but price is high
+1275,Maruti,Swift,34.2,Hybrid,19.04,Chennai,3.0,Excellent features and comfort
+1276,Toyota,Fortuner,32.21,Electric,25.39,Ahmedabad,2.7,Not satisfied with service
+1277,Honda,i20,79.52,Hybrid,21.69,Bangalore,3.1,Value for money car
+1278,Honda,City,11.64,Electric,17.41,Bangalore,3.2,Amazing experience overall
+1279,BMW,Nexon,38.93,Petrol,26.97,Bangalore,4.7,Great performance and smooth drive
+1280,BMW,Nexon,37.6,Hybrid,25.46,Chennai,2.8,Could be better in terms of features
+1281,Mahindra,Seltos,7.51,Electric,10.33,Bangalore,2.5,Value for money car
+1282,Toyota,Fortuner,34.05,Diesel,14.4,Chennai,3.2,Great performance and smooth drive
+1283,Maruti,XUV700,16.96,Diesel,19.92,Chennai,4.3,Value for money car
+1284,Tata,XUV700,61.18,Hybrid,17.15,Chennai,3.8,Could be better in terms of features
+1285,Mahindra,i20,69.06,Electric,19.63,Chennai,3.9,Amazing experience overall
+1286,Honda,City,21.66,Hybrid,29.9,Mumbai,3.5,Could be better in terms of features
+1287,Toyota,Nexon,38.86,Electric,29.03,Mumbai,4.2,Excellent features and comfort
+1288,Tata,XUV700,14.3,Diesel,27.21,Bangalore,2.8,Value for money car
+1289,Toyota,i20,74.62,Petrol,15.76,Ahmedabad,4.5,Could be better in terms of features
+1290,BMW,i20,21.57,Diesel,17.74,Delhi,4.6,Mileage is decent but price is high
+1291,Honda,Nexon,60.58,Petrol,16.55,Delhi,3.5,Could be better in terms of features
+1292,Tata,XUV700,22.24,Petrol,18.32,Mumbai,4.2,Amazing experience overall
+1293,Maruti,Seltos,23.04,Diesel,27.37,Ahmedabad,3.5,Great performance and smooth drive
+1294,Kia,X5,78.93,Hybrid,18.94,Chennai,4.5,Mileage is decent but price is high
+1295,Tata,XUV700,23.83,Hybrid,19.79,Chennai,4.3,Value for money car
+1296,Tata,i20,69.12,Hybrid,16.36,Ahmedabad,3.6,Value for money car
+1297,BMW,City,76.0,Hybrid,14.12,Ahmedabad,4.9,Mileage is decent but price is high
+1298,Kia,X5,59.96,Electric,17.0,Bangalore,3.2,Mileage is decent but price is high
+1299,Hyundai,XUV700,22.9,Hybrid,20.84,Pune,5.0,Mileage is decent but price is high
+1300,BMW,Nexon,32.09,Hybrid,24.42,Mumbai,4.4,Great performance and smooth drive
+1301,Hyundai,City,33.66,Diesel,24.84,Ahmedabad,3.9,Could be better in terms of features
+1302,Hyundai,Swift,30.43,Electric,18.64,Chennai,3.7,Not satisfied with service
+1303,BMW,X5,6.08,Petrol,13.49,Mumbai,3.9,Amazing experience overall
+1304,Mahindra,City,18.12,Petrol,11.64,Bangalore,3.1,Not satisfied with service
+1305,BMW,Seltos,44.64,Hybrid,13.51,Ahmedabad,4.0,Value for money car
+1306,Toyota,i20,57.7,Petrol,29.07,Pune,4.8,Great performance and smooth drive
+1307,BMW,Seltos,72.3,Petrol,29.11,Chennai,4.2,Mileage is decent but price is high
+1308,Maruti,X5,11.66,Hybrid,20.16,Chennai,4.4,Could be better in terms of features
+1309,Kia,Fortuner,31.82,Petrol,26.05,Mumbai,2.6,Mileage is decent but price is high
+1310,Mahindra,X5,9.92,Petrol,23.3,Ahmedabad,3.5,Great performance and smooth drive
+1311,Kia,Fortuner,57.62,Diesel,24.36,Chennai,3.7,Amazing experience overall
+1312,Maruti,X5,61.26,Petrol,21.36,Ahmedabad,4.4,Not satisfied with service
+1313,Hyundai,Nexon,57.31,Petrol,14.09,Pune,5.0,Value for money car
+1314,Toyota,i20,60.21,Electric,13.99,Bangalore,4.6,Amazing experience overall
+1315,Hyundai,Seltos,22.18,Diesel,20.19,Pune,3.7,Amazing experience overall
+1316,Toyota,City,73.82,Hybrid,28.53,Bangalore,2.7,Great performance and smooth drive
+1317,Mahindra,Nexon,49.53,Diesel,23.59,Ahmedabad,3.5,Value for money car
+1318,Maruti,Seltos,5.59,Electric,17.17,Ahmedabad,3.2,Mileage is decent but price is high
+1319,Toyota,XUV700,48.48,Petrol,22.0,Chennai,3.2,Mileage is decent but price is high
+1320,BMW,Swift,38.3,Hybrid,16.28,Bangalore,3.9,Could be better in terms of features
+1321,Toyota,Nexon,21.3,Diesel,11.44,Mumbai,2.8,Amazing experience overall
+1322,Maruti,i20,12.68,Hybrid,14.39,Bangalore,2.7,Not satisfied with service
+1323,BMW,XUV700,38.53,Diesel,14.61,Bangalore,4.7,Amazing experience overall
+1324,BMW,XUV700,66.2,Hybrid,17.45,Delhi,4.9,Not satisfied with service
+1325,Hyundai,City,67.09,Hybrid,16.21,Delhi,4.6,Amazing experience overall
+1326,Hyundai,XUV700,32.68,Diesel,19.68,Chennai,2.6,Could be better in terms of features
+1327,BMW,Swift,11.74,Diesel,19.39,Ahmedabad,2.8,Excellent features and comfort
+1328,Maruti,XUV700,49.2,Diesel,28.87,Chennai,4.1,Excellent features and comfort
+1329,Honda,XUV700,52.96,Electric,16.43,Bangalore,4.3,Excellent features and comfort
+1330,Kia,Nexon,56.03,Electric,11.55,Mumbai,4.9,Excellent features and comfort
+1331,Hyundai,X5,7.47,Hybrid,12.96,Ahmedabad,4.8,Value for money car
+1332,Honda,Seltos,13.51,Hybrid,22.8,Mumbai,3.6,Amazing experience overall
+1333,Maruti,Fortuner,11.63,Diesel,23.43,Pune,4.1,Great performance and smooth drive
+1334,Honda,Swift,34.49,Petrol,21.55,Ahmedabad,2.9,Excellent features and comfort
+1335,Honda,Swift,65.92,Petrol,21.4,Bangalore,4.5,Could be better in terms of features
+1336,Maruti,Nexon,54.04,Electric,26.86,Bangalore,4.1,Value for money car
+1337,Toyota,Nexon,23.86,Hybrid,22.45,Chennai,5.0,Not satisfied with service
+1338,Mahindra,XUV700,6.79,Hybrid,23.2,Chennai,4.0,Excellent features and comfort
+1339,Hyundai,City,43.89,Hybrid,13.85,Bangalore,4.0,Great performance and smooth drive
+1340,Kia,City,41.6,Petrol,27.63,Bangalore,2.7,Could be better in terms of features
+1341,Kia,XUV700,31.7,Hybrid,13.3,Pune,4.0,Great performance and smooth drive
+1342,Tata,X5,68.63,Electric,27.61,Mumbai,4.7,Mileage is decent but price is high
+1343,Maruti,Nexon,19.96,Electric,18.06,Bangalore,2.9,Could be better in terms of features
+1344,Kia,City,46.24,Hybrid,19.74,Mumbai,3.1,Excellent features and comfort
+1345,Tata,Seltos,33.71,Petrol,29.65,Pune,4.9,Could be better in terms of features
+1346,Maruti,Swift,45.39,Diesel,15.53,Bangalore,4.8,Excellent features and comfort
+1347,Toyota,X5,64.48,Diesel,25.39,Mumbai,4.7,Great performance and smooth drive
+1348,Toyota,Fortuner,56.68,Diesel,16.99,Mumbai,2.5,Mileage is decent but price is high
+1349,Honda,Seltos,54.15,Hybrid,22.51,Chennai,2.9,Mileage is decent but price is high
+1350,Hyundai,Fortuner,42.56,Hybrid,18.81,Bangalore,5.0,Amazing experience overall
+1351,Kia,Fortuner,36.66,Hybrid,23.19,Ahmedabad,3.7,Value for money car
+1352,Kia,i20,16.53,Hybrid,20.47,Delhi,4.8,Not satisfied with service
+1353,Tata,XUV700,32.39,Hybrid,20.6,Pune,3.0,Value for money car
+1354,Hyundai,XUV700,11.9,Diesel,22.14,Pune,3.5,Value for money car
+1355,Tata,XUV700,74.36,Diesel,17.51,Delhi,3.5,Value for money car
+1356,Kia,City,77.84,Diesel,24.02,Chennai,4.9,Amazing experience overall
+1357,Honda,X5,36.28,Electric,21.7,Mumbai,3.4,Great performance and smooth drive
+1358,Hyundai,X5,6.6,Diesel,22.45,Pune,2.6,Great performance and smooth drive
+1359,Kia,Swift,7.11,Diesel,22.07,Mumbai,2.8,Could be better in terms of features
+1360,BMW,X5,29.43,Hybrid,13.56,Bangalore,3.9,Mileage is decent but price is high
+1361,Tata,Fortuner,56.34,Electric,16.71,Bangalore,3.8,Excellent features and comfort
+1362,Maruti,X5,36.26,Hybrid,17.91,Ahmedabad,2.7,Not satisfied with service
+1363,Honda,XUV700,64.32,Electric,25.44,Delhi,2.7,Mileage is decent but price is high
+1364,Kia,Fortuner,73.28,Diesel,11.78,Delhi,3.5,Excellent features and comfort
+1365,Hyundai,Seltos,26.93,Electric,19.79,Bangalore,3.8,Not satisfied with service
+1366,Maruti,City,22.07,Hybrid,11.81,Pune,4.9,Amazing experience overall
+1367,Maruti,Nexon,24.52,Diesel,14.06,Chennai,4.0,Excellent features and comfort
+1368,Honda,Fortuner,35.4,Electric,14.04,Pune,3.9,Great performance and smooth drive
+1369,Kia,Fortuner,42.09,Petrol,18.89,Ahmedabad,4.2,Value for money car
+1370,Toyota,Seltos,70.96,Electric,19.85,Bangalore,2.8,Amazing experience overall
+1371,Toyota,X5,68.28,Hybrid,26.26,Pune,3.5,Value for money car
+1372,Kia,Fortuner,78.34,Diesel,12.17,Mumbai,4.4,Great performance and smooth drive
+1373,Tata,Fortuner,46.31,Petrol,16.58,Delhi,3.8,Value for money car
+1374,Toyota,City,8.8,Electric,14.91,Delhi,4.1,Value for money car
+1375,Mahindra,Fortuner,13.31,Petrol,26.63,Delhi,3.0,Value for money car
+1376,Honda,Fortuner,68.83,Petrol,20.21,Bangalore,3.8,Value for money car
+1377,Hyundai,i20,60.09,Diesel,18.09,Pune,3.0,Not satisfied with service
+1378,Hyundai,X5,64.36,Hybrid,24.99,Ahmedabad,4.7,Excellent features and comfort
+1379,Hyundai,Nexon,59.37,Diesel,19.69,Ahmedabad,2.7,Not satisfied with service
+1380,Honda,City,74.53,Hybrid,15.44,Delhi,3.5,Mileage is decent but price is high
+1381,Toyota,XUV700,22.01,Hybrid,18.45,Ahmedabad,2.8,Mileage is decent but price is high
+1382,Tata,XUV700,21.62,Petrol,13.22,Chennai,3.7,Could be better in terms of features
+1383,Mahindra,Seltos,43.24,Diesel,12.19,Delhi,2.6,Value for money car
+1384,Kia,Swift,53.7,Diesel,12.73,Bangalore,4.7,Great performance and smooth drive
+1385,Maruti,Swift,63.1,Petrol,26.84,Pune,3.6,Could be better in terms of features
+1386,Hyundai,XUV700,41.34,Petrol,23.28,Bangalore,3.7,Not satisfied with service
+1387,Mahindra,Fortuner,59.34,Petrol,14.16,Chennai,2.9,Excellent features and comfort
+1388,Hyundai,X5,68.17,Diesel,24.15,Mumbai,2.5,Amazing experience overall
+1389,Tata,XUV700,46.04,Hybrid,10.08,Chennai,2.9,Not satisfied with service
+1390,Toyota,i20,47.73,Electric,27.14,Ahmedabad,2.8,Could be better in terms of features
+1391,Honda,City,69.51,Diesel,25.21,Chennai,3.0,Mileage is decent but price is high
+1392,Toyota,X5,43.75,Petrol,26.07,Ahmedabad,4.0,Value for money car
+1393,Toyota,XUV700,48.15,Electric,22.85,Mumbai,3.5,Great performance and smooth drive
+1394,BMW,Fortuner,78.74,Electric,26.57,Chennai,4.3,Not satisfied with service
+1395,Toyota,City,63.15,Electric,29.57,Ahmedabad,4.5,Not satisfied with service
+1396,BMW,Fortuner,63.26,Electric,15.95,Ahmedabad,4.3,Amazing experience overall
+1397,Toyota,Fortuner,58.38,Electric,26.8,Ahmedabad,4.0,Value for money car
+1398,Tata,Nexon,9.49,Hybrid,14.03,Pune,4.4,Could be better in terms of features
+1399,Tata,Seltos,13.68,Hybrid,23.61,Bangalore,3.5,Mileage is decent but price is high
+1400,Maruti,XUV700,27.96,Petrol,29.59,Bangalore,2.9,Great performance and smooth drive
+1401,Hyundai,City,31.18,Petrol,21.28,Bangalore,4.5,Excellent features and comfort
+1402,Maruti,Swift,77.4,Hybrid,29.64,Ahmedabad,5.0,Great performance and smooth drive
+1403,Tata,City,48.28,Petrol,12.67,Delhi,4.7,Could be better in terms of features
+1404,Kia,Nexon,76.15,Hybrid,23.65,Pune,4.4,Could be better in terms of features
+1405,Toyota,Nexon,67.9,Diesel,24.4,Pune,3.4,Could be better in terms of features
+1406,Maruti,Swift,72.79,Hybrid,12.44,Pune,4.6,Amazing experience overall
+1407,Toyota,i20,11.11,Diesel,13.98,Mumbai,4.7,Not satisfied with service
+1408,Honda,i20,15.95,Hybrid,19.88,Mumbai,4.6,Value for money car
+1409,Tata,Seltos,63.86,Petrol,19.11,Delhi,5.0,Not satisfied with service
+1410,Kia,i20,8.56,Hybrid,22.91,Bangalore,3.1,Value for money car
+1411,Toyota,Seltos,78.44,Hybrid,29.18,Chennai,3.9,Mileage is decent but price is high
+1412,Hyundai,Seltos,60.79,Hybrid,22.67,Bangalore,2.8,Amazing experience overall
+1413,Tata,i20,41.46,Electric,10.03,Chennai,3.9,Not satisfied with service
+1414,Honda,X5,54.33,Diesel,27.73,Ahmedabad,4.1,Excellent features and comfort
+1415,Mahindra,Fortuner,58.24,Petrol,22.92,Delhi,4.6,Great performance and smooth drive
+1416,Maruti,Swift,67.29,Diesel,29.11,Mumbai,3.1,Value for money car
+1417,Maruti,X5,31.63,Electric,29.36,Delhi,3.2,Value for money car
+1418,Honda,Seltos,70.14,Petrol,18.99,Pune,2.9,Amazing experience overall
+1419,Hyundai,City,62.69,Petrol,23.11,Ahmedabad,3.7,Amazing experience overall
+1420,BMW,i20,27.43,Electric,13.41,Bangalore,3.7,Great performance and smooth drive
+1421,Tata,City,12.7,Diesel,13.51,Ahmedabad,3.6,Mileage is decent but price is high
+1422,Hyundai,X5,66.83,Hybrid,18.76,Mumbai,3.8,Mileage is decent but price is high
+1423,Honda,Swift,35.14,Electric,25.55,Ahmedabad,2.8,Excellent features and comfort
+1424,Toyota,Fortuner,69.2,Diesel,21.57,Bangalore,4.6,Mileage is decent but price is high
+1425,Honda,Swift,24.08,Hybrid,18.49,Chennai,3.1,Mileage is decent but price is high
+1426,BMW,X5,77.44,Diesel,18.63,Bangalore,3.0,Value for money car
+1427,Toyota,X5,79.07,Hybrid,28.36,Mumbai,2.9,Could be better in terms of features
+1428,Toyota,XUV700,37.85,Electric,12.69,Delhi,5.0,Mileage is decent but price is high
+1429,Mahindra,City,11.21,Hybrid,29.11,Pune,3.0,Excellent features and comfort
+1430,Honda,XUV700,24.53,Diesel,19.26,Delhi,4.1,Could be better in terms of features
+1431,Hyundai,Fortuner,14.71,Electric,22.45,Chennai,3.6,Mileage is decent but price is high
+1432,Mahindra,City,74.8,Diesel,16.01,Bangalore,4.4,Amazing experience overall
+1433,BMW,Fortuner,37.49,Diesel,18.71,Bangalore,4.2,Value for money car
+1434,Maruti,Fortuner,60.82,Hybrid,14.67,Mumbai,4.0,Not satisfied with service
+1435,Honda,Nexon,76.01,Electric,15.06,Ahmedabad,3.7,Not satisfied with service
+1436,Maruti,XUV700,31.63,Electric,22.66,Delhi,4.2,Amazing experience overall
+1437,Mahindra,Swift,18.53,Diesel,11.0,Delhi,3.2,Great performance and smooth drive
+1438,Kia,Seltos,73.67,Hybrid,25.0,Ahmedabad,4.6,Could be better in terms of features
+1439,Tata,Swift,11.29,Hybrid,21.15,Mumbai,2.6,Mileage is decent but price is high
+1440,Honda,Fortuner,35.04,Hybrid,27.73,Chennai,4.1,Mileage is decent but price is high
+1441,Hyundai,XUV700,51.95,Hybrid,21.83,Delhi,2.6,Amazing experience overall
+1442,Mahindra,Fortuner,67.84,Hybrid,16.32,Ahmedabad,4.5,Value for money car
+1443,Maruti,City,57.8,Electric,29.59,Ahmedabad,2.6,Value for money car
+1444,Hyundai,i20,18.94,Hybrid,26.68,Pune,4.3,Not satisfied with service
+1445,Mahindra,Nexon,41.61,Diesel,28.57,Mumbai,3.1,Value for money car
+1446,Tata,X5,18.02,Petrol,14.71,Ahmedabad,3.4,Great performance and smooth drive
+1447,Mahindra,Nexon,44.46,Hybrid,23.86,Delhi,3.9,Value for money car
+1448,Toyota,Fortuner,5.77,Petrol,22.19,Chennai,2.8,Mileage is decent but price is high
+1449,Maruti,City,53.07,Hybrid,11.12,Pune,3.4,Not satisfied with service
+1450,Hyundai,Nexon,71.26,Electric,27.47,Bangalore,3.5,Excellent features and comfort
+1451,Honda,Fortuner,65.58,Hybrid,23.7,Bangalore,2.5,Mileage is decent but price is high
+1452,Kia,Fortuner,10.68,Petrol,28.47,Mumbai,2.5,Value for money car
+1453,Kia,XUV700,27.28,Electric,21.1,Mumbai,3.9,Value for money car
+1454,Toyota,X5,30.22,Diesel,19.3,Chennai,3.1,Value for money car
+1455,Tata,X5,79.59,Petrol,28.12,Chennai,3.9,Excellent features and comfort
+1456,Kia,i20,41.16,Hybrid,29.42,Mumbai,3.4,Mileage is decent but price is high
+1457,Maruti,Seltos,17.95,Hybrid,24.05,Mumbai,3.8,Excellent features and comfort
+1458,Tata,Fortuner,16.49,Hybrid,26.99,Delhi,5.0,Not satisfied with service
+1459,BMW,Swift,21.69,Diesel,12.45,Chennai,4.2,Value for money car
+1460,Maruti,Seltos,32.08,Diesel,10.49,Mumbai,2.6,Amazing experience overall
+1461,Honda,Seltos,30.89,Diesel,24.87,Chennai,4.0,Amazing experience overall
+1462,Hyundai,X5,46.83,Diesel,13.69,Chennai,4.4,Value for money car
+1463,Mahindra,X5,28.18,Electric,25.65,Delhi,4.4,Could be better in terms of features
+1464,BMW,Seltos,72.04,Electric,19.7,Mumbai,3.1,Excellent features and comfort
+1465,Toyota,Swift,22.67,Diesel,16.0,Delhi,4.1,Could be better in terms of features
+1466,Mahindra,Seltos,44.34,Hybrid,12.85,Chennai,4.1,Great performance and smooth drive
+1467,Honda,Nexon,19.42,Petrol,21.0,Bangalore,2.9,Could be better in terms of features
+1468,Hyundai,Seltos,61.85,Petrol,13.68,Pune,3.8,Amazing experience overall
+1469,Maruti,Fortuner,33.87,Hybrid,24.22,Chennai,3.9,Amazing experience overall
+1470,Mahindra,Nexon,77.42,Electric,12.3,Mumbai,4.5,Amazing experience overall
+1471,Toyota,i20,30.99,Diesel,20.92,Delhi,4.5,Could be better in terms of features
+1472,BMW,Swift,59.06,Hybrid,15.7,Mumbai,4.1,Not satisfied with service
+1473,Kia,X5,46.98,Diesel,26.49,Mumbai,4.2,Could be better in terms of features
+1474,Honda,Swift,58.62,Electric,21.37,Pune,3.9,Amazing experience overall
+1475,Hyundai,City,59.77,Electric,26.12,Pune,3.9,Excellent features and comfort
+1476,Tata,Nexon,8.42,Diesel,17.47,Chennai,3.8,Not satisfied with service
+1477,Honda,Swift,38.86,Petrol,21.05,Bangalore,4.6,Excellent features and comfort
+1478,Toyota,Swift,71.34,Hybrid,16.94,Mumbai,4.6,Mileage is decent but price is high
+1479,BMW,Nexon,74.06,Electric,20.68,Bangalore,4.8,Excellent features and comfort
+1480,Maruti,Swift,61.16,Hybrid,13.62,Bangalore,4.8,Not satisfied with service
+1481,Tata,Fortuner,22.03,Petrol,17.64,Delhi,3.2,Great performance and smooth drive
+1482,Hyundai,XUV700,18.28,Diesel,18.44,Pune,3.3,Great performance and smooth drive
+1483,Kia,Seltos,40.17,Petrol,25.53,Chennai,4.2,Excellent features and comfort
+1484,Kia,City,57.25,Petrol,17.85,Ahmedabad,4.2,Could be better in terms of features
+1485,BMW,XUV700,76.09,Hybrid,24.99,Ahmedabad,3.3,Excellent features and comfort
+1486,Tata,Fortuner,7.2,Electric,11.27,Mumbai,3.2,Could be better in terms of features
+1487,Kia,City,44.58,Petrol,28.37,Pune,4.2,Value for money car
+1488,Maruti,Seltos,29.48,Electric,23.04,Ahmedabad,4.8,Could be better in terms of features
+1489,Kia,City,5.66,Petrol,25.54,Pune,4.2,Excellent features and comfort
+1490,Honda,Nexon,54.55,Petrol,14.77,Delhi,2.7,Mileage is decent but price is high
+1491,Hyundai,Swift,49.92,Petrol,19.44,Ahmedabad,3.2,Excellent features and comfort
+1492,Mahindra,City,23.86,Petrol,18.9,Ahmedabad,4.8,Mileage is decent but price is high
+1493,Honda,XUV700,10.19,Diesel,17.36,Pune,3.0,Great performance and smooth drive
+1494,Kia,X5,34.6,Electric,15.36,Delhi,4.1,Excellent features and comfort
+1495,Kia,Seltos,46.79,Diesel,27.59,Bangalore,3.1,Not satisfied with service
+1496,Tata,Nexon,21.02,Electric,21.27,Pune,2.6,Value for money car
+1497,Kia,XUV700,46.83,Hybrid,18.3,Ahmedabad,3.2,Could be better in terms of features
+1498,Honda,i20,9.26,Electric,22.22,Pune,3.4,Great performance and smooth drive
+1499,Honda,X5,23.35,Diesel,11.64,Bangalore,5.0,Great performance and smooth drive
+1500,Mahindra,i20,26.0,Electric,27.54,Chennai,3.2,Could be better in terms of features
+1501,Tata,Nexon,37.41,Petrol,24.69,Ahmedabad,3.2,Mileage is decent but price is high
+1502,Tata,Seltos,52.43,Hybrid,19.95,Chennai,3.8,Amazing experience overall
+1503,Mahindra,X5,8.64,Diesel,14.77,Pune,3.0,Excellent features and comfort
+1504,Maruti,Swift,19.19,Petrol,14.15,Bangalore,3.2,Value for money car
+1505,Hyundai,City,36.36,Electric,21.35,Mumbai,4.3,Not satisfied with service
+1506,Kia,i20,54.6,Petrol,10.4,Mumbai,3.1,Great performance and smooth drive
+1507,Tata,Seltos,53.01,Diesel,24.14,Pune,3.7,Amazing experience overall
+1508,Honda,X5,33.19,Petrol,15.99,Chennai,2.8,Could be better in terms of features
+1509,Kia,XUV700,23.05,Hybrid,19.49,Pune,4.8,Excellent features and comfort
+1510,Kia,i20,43.98,Diesel,21.18,Pune,3.3,Excellent features and comfort
+1511,Hyundai,Seltos,34.41,Diesel,22.36,Delhi,4.2,Great performance and smooth drive
+1512,Mahindra,Swift,29.07,Hybrid,27.51,Mumbai,2.9,Excellent features and comfort
+1513,Honda,City,34.64,Petrol,15.31,Delhi,4.2,Excellent features and comfort
+1514,Honda,Nexon,36.18,Hybrid,21.11,Chennai,2.8,Not satisfied with service
+1515,Mahindra,X5,14.23,Diesel,23.31,Delhi,3.6,Value for money car
+1516,BMW,City,26.85,Diesel,10.92,Ahmedabad,4.7,Value for money car
+1517,Tata,Fortuner,25.37,Diesel,21.54,Ahmedabad,2.7,Not satisfied with service
+1518,Tata,Swift,71.44,Petrol,28.23,Delhi,3.0,Value for money car
+1519,Hyundai,Seltos,62.17,Hybrid,26.06,Ahmedabad,3.2,Not satisfied with service
+1520,Maruti,i20,13.15,Hybrid,10.42,Pune,3.8,Mileage is decent but price is high
+1521,Tata,Seltos,44.66,Electric,29.91,Pune,4.9,Value for money car
+1522,Honda,X5,34.12,Hybrid,14.14,Ahmedabad,3.7,Could be better in terms of features
+1523,Hyundai,Fortuner,38.66,Petrol,10.07,Delhi,4.8,Mileage is decent but price is high
+1524,Hyundai,City,53.36,Hybrid,11.1,Pune,4.0,Amazing experience overall
+1525,Tata,XUV700,52.71,Hybrid,12.67,Mumbai,4.8,Could be better in terms of features
+1526,Honda,Nexon,71.11,Electric,20.55,Ahmedabad,4.4,Could be better in terms of features
+1527,Honda,Fortuner,70.64,Hybrid,24.51,Mumbai,3.7,Mileage is decent but price is high
+1528,BMW,i20,36.61,Diesel,19.25,Pune,3.6,Value for money car
+1529,BMW,City,23.68,Hybrid,21.86,Mumbai,3.6,Amazing experience overall
+1530,Toyota,City,43.16,Electric,17.85,Pune,3.0,Mileage is decent but price is high
+1531,Honda,Swift,60.18,Petrol,21.44,Mumbai,3.5,Great performance and smooth drive
+1532,Mahindra,Swift,72.29,Electric,25.32,Delhi,3.0,Not satisfied with service
+1533,Kia,City,46.49,Petrol,22.67,Delhi,5.0,Not satisfied with service
+1534,BMW,Fortuner,55.01,Electric,15.48,Mumbai,4.3,Value for money car
+1535,Hyundai,City,11.17,Electric,23.58,Bangalore,3.0,Could be better in terms of features
+1536,Kia,Fortuner,42.72,Petrol,11.6,Bangalore,3.5,Great performance and smooth drive
+1537,Hyundai,Swift,68.41,Diesel,20.85,Bangalore,3.9,Not satisfied with service
+1538,Toyota,Swift,12.67,Petrol,21.62,Bangalore,3.4,Amazing experience overall
+1539,Maruti,Swift,52.55,Diesel,20.77,Chennai,4.5,Could be better in terms of features
+1540,Hyundai,City,77.49,Diesel,10.39,Mumbai,4.2,Mileage is decent but price is high
+1541,Maruti,X5,74.02,Petrol,10.32,Ahmedabad,4.9,Excellent features and comfort
+1542,Tata,Fortuner,64.82,Electric,27.63,Chennai,4.8,Value for money car
+1543,Honda,i20,30.61,Petrol,12.47,Delhi,3.0,Value for money car
+1544,Maruti,i20,67.52,Diesel,11.9,Ahmedabad,4.6,Not satisfied with service
+1545,Honda,i20,14.68,Petrol,15.22,Ahmedabad,2.8,Excellent features and comfort
+1546,Mahindra,City,11.05,Electric,22.69,Mumbai,4.1,Amazing experience overall
+1547,BMW,City,16.0,Petrol,26.32,Mumbai,2.9,Not satisfied with service
+1548,Toyota,Fortuner,38.45,Petrol,10.21,Pune,4.8,Value for money car
+1549,Kia,Fortuner,54.45,Electric,16.45,Mumbai,3.9,Excellent features and comfort
+1550,Toyota,Seltos,11.02,Petrol,21.25,Pune,2.8,Could be better in terms of features
+1551,Mahindra,Seltos,15.69,Electric,13.96,Delhi,2.5,Mileage is decent but price is high
+1552,Honda,XUV700,55.16,Hybrid,11.73,Chennai,4.5,Value for money car
+1553,Tata,Nexon,64.84,Petrol,19.52,Chennai,3.3,Amazing experience overall
+1554,Tata,XUV700,56.0,Electric,12.51,Bangalore,3.8,Could be better in terms of features
+1555,Honda,Fortuner,11.92,Petrol,15.1,Mumbai,4.2,Value for money car
+1556,Maruti,XUV700,48.56,Electric,11.85,Delhi,4.4,Could be better in terms of features
+1557,Tata,City,7.4,Hybrid,16.99,Mumbai,3.2,Great performance and smooth drive
+1558,Hyundai,City,53.26,Petrol,23.21,Pune,4.9,Value for money car
+1559,Toyota,Swift,60.41,Petrol,15.44,Chennai,4.4,Amazing experience overall
+1560,Honda,i20,78.41,Electric,20.85,Mumbai,2.5,Mileage is decent but price is high
+1561,Toyota,X5,50.64,Diesel,20.99,Pune,4.7,Not satisfied with service
+1562,Mahindra,Swift,39.55,Petrol,24.84,Mumbai,3.4,Amazing experience overall
+1563,Tata,Seltos,58.36,Hybrid,12.86,Delhi,4.8,Not satisfied with service
+1564,Hyundai,City,68.24,Petrol,18.5,Delhi,3.3,Great performance and smooth drive
+1565,Maruti,City,60.34,Petrol,18.62,Mumbai,3.5,Not satisfied with service
+1566,Hyundai,i20,53.02,Hybrid,28.71,Pune,2.7,Mileage is decent but price is high
+1567,BMW,Fortuner,58.05,Diesel,18.81,Bangalore,4.2,Could be better in terms of features
+1568,Tata,Seltos,9.21,Hybrid,18.86,Chennai,4.9,Mileage is decent but price is high
+1569,Toyota,X5,51.49,Electric,25.44,Chennai,3.8,Mileage is decent but price is high
+1570,Kia,Swift,55.22,Diesel,29.56,Delhi,4.5,Not satisfied with service
+1571,Tata,X5,51.71,Diesel,22.8,Pune,4.1,Not satisfied with service
+1572,Honda,X5,6.15,Electric,19.98,Chennai,2.7,Could be better in terms of features
+1573,Kia,i20,79.36,Diesel,29.59,Pune,3.2,Not satisfied with service
+1574,Maruti,X5,41.82,Electric,22.82,Mumbai,2.6,Mileage is decent but price is high
+1575,Honda,Fortuner,77.89,Petrol,16.48,Bangalore,3.9,Mileage is decent but price is high
+1576,Hyundai,Seltos,31.99,Diesel,13.84,Delhi,4.4,Mileage is decent but price is high
+1577,Mahindra,Fortuner,47.78,Petrol,11.55,Bangalore,3.7,Could be better in terms of features
+1578,Tata,Swift,64.33,Diesel,28.23,Pune,4.1,Could be better in terms of features
+1579,Hyundai,Nexon,65.79,Petrol,19.99,Ahmedabad,3.0,Value for money car
+1580,Toyota,X5,63.16,Diesel,25.93,Mumbai,3.6,Amazing experience overall
+1581,BMW,Nexon,30.94,Electric,20.63,Ahmedabad,4.0,Could be better in terms of features
+1582,Hyundai,i20,47.19,Hybrid,22.72,Delhi,3.9,Not satisfied with service
+1583,Kia,Swift,23.23,Petrol,14.31,Mumbai,4.8,Could be better in terms of features
+1584,BMW,Swift,41.88,Diesel,15.6,Bangalore,2.8,Could be better in terms of features
+1585,BMW,Nexon,58.31,Hybrid,10.88,Pune,4.4,Amazing experience overall
+1586,Maruti,Fortuner,77.93,Diesel,15.33,Delhi,3.9,Mileage is decent but price is high
+1587,Toyota,Swift,60.2,Petrol,25.08,Pune,4.1,Mileage is decent but price is high
+1588,Honda,XUV700,48.66,Hybrid,19.79,Mumbai,4.2,Amazing experience overall
+1589,Tata,Fortuner,75.77,Electric,14.11,Delhi,2.8,Could be better in terms of features
+1590,BMW,Nexon,33.42,Hybrid,22.9,Delhi,4.3,Great performance and smooth drive
+1591,BMW,X5,66.32,Diesel,18.73,Ahmedabad,4.5,Excellent features and comfort
+1592,Mahindra,Seltos,20.92,Petrol,19.12,Bangalore,4.7,Excellent features and comfort
+1593,Honda,i20,30.12,Hybrid,25.18,Bangalore,4.8,Excellent features and comfort
+1594,Hyundai,Swift,71.61,Electric,25.41,Delhi,3.6,Excellent features and comfort
+1595,Honda,Seltos,74.25,Diesel,21.14,Delhi,4.1,Excellent features and comfort
+1596,Hyundai,City,69.39,Hybrid,15.24,Chennai,3.7,Amazing experience overall
+1597,Hyundai,Seltos,32.84,Diesel,15.33,Delhi,2.6,Amazing experience overall
+1598,Honda,i20,26.11,Petrol,22.11,Ahmedabad,3.6,Not satisfied with service
+1599,Kia,Seltos,50.7,Diesel,10.88,Mumbai,3.6,Amazing experience overall
+1600,Toyota,i20,26.6,Hybrid,28.35,Mumbai,4.3,Great performance and smooth drive
+1601,Hyundai,Fortuner,5.84,Hybrid,19.68,Ahmedabad,4.4,Value for money car
+1602,Toyota,X5,55.73,Electric,20.81,Pune,3.0,Great performance and smooth drive
+1603,Honda,Nexon,68.29,Electric,14.31,Chennai,4.5,Great performance and smooth drive
+1604,Toyota,Seltos,54.13,Diesel,28.37,Delhi,4.6,Great performance and smooth drive
+1605,BMW,XUV700,64.15,Petrol,21.85,Ahmedabad,4.3,Great performance and smooth drive
+1606,Honda,Fortuner,74.1,Hybrid,17.52,Mumbai,4.8,Mileage is decent but price is high
+1607,Honda,Seltos,19.23,Diesel,28.04,Chennai,3.9,Not satisfied with service
+1608,Tata,Swift,14.32,Hybrid,11.82,Delhi,2.9,Mileage is decent but price is high
+1609,Hyundai,Fortuner,32.19,Petrol,16.19,Chennai,3.3,Amazing experience overall
+1610,BMW,Swift,19.26,Petrol,24.94,Chennai,4.2,Value for money car
+1611,Hyundai,Fortuner,59.65,Petrol,10.05,Chennai,3.8,Great performance and smooth drive
+1612,Maruti,i20,46.88,Electric,15.96,Pune,3.5,Could be better in terms of features
+1613,Maruti,Seltos,54.46,Hybrid,16.01,Pune,3.6,Not satisfied with service
+1614,Honda,Fortuner,21.14,Petrol,12.4,Chennai,2.9,Value for money car
+1615,BMW,i20,35.18,Electric,25.45,Bangalore,3.6,Excellent features and comfort
+1616,Honda,City,35.84,Electric,15.0,Delhi,2.6,Could be better in terms of features
+1617,Maruti,City,5.33,Diesel,28.58,Mumbai,4.1,Not satisfied with service
+1618,Hyundai,Nexon,11.2,Electric,14.65,Delhi,2.7,Not satisfied with service
+1619,Toyota,X5,32.0,Diesel,23.39,Chennai,3.4,Amazing experience overall
+1620,Kia,Seltos,46.87,Hybrid,20.77,Bangalore,3.4,Not satisfied with service
+1621,Kia,Swift,6.23,Petrol,14.07,Delhi,5.0,Excellent features and comfort
+1622,Kia,Swift,54.21,Electric,20.22,Bangalore,3.4,Could be better in terms of features
+1623,Maruti,i20,67.01,Petrol,17.96,Bangalore,4.2,Could be better in terms of features
+1624,Hyundai,Swift,6.63,Diesel,24.4,Ahmedabad,3.1,Amazing experience overall
+1625,Mahindra,Seltos,29.71,Diesel,29.94,Ahmedabad,3.7,Value for money car
+1626,Tata,Nexon,13.77,Hybrid,10.39,Mumbai,4.3,Excellent features and comfort
+1627,BMW,i20,30.3,Hybrid,17.7,Mumbai,3.6,Excellent features and comfort
+1628,Maruti,Nexon,7.69,Electric,13.64,Delhi,3.8,Excellent features and comfort
+1629,Mahindra,i20,23.64,Petrol,22.67,Mumbai,4.2,Amazing experience overall
+1630,BMW,Nexon,20.74,Petrol,20.56,Chennai,4.4,Could be better in terms of features
+1631,Mahindra,XUV700,43.39,Petrol,21.2,Mumbai,4.5,Great performance and smooth drive
+1632,Honda,Nexon,71.96,Electric,12.12,Mumbai,2.6,Mileage is decent but price is high
+1633,Mahindra,Seltos,6.93,Electric,25.25,Mumbai,3.6,Amazing experience overall
+1634,Maruti,XUV700,5.92,Diesel,14.05,Pune,3.1,Mileage is decent but price is high
+1635,Kia,City,45.08,Diesel,20.45,Ahmedabad,3.9,Great performance and smooth drive
+1636,BMW,Nexon,43.42,Diesel,24.48,Mumbai,4.5,Excellent features and comfort
+1637,Mahindra,X5,71.43,Electric,24.45,Delhi,4.8,Amazing experience overall
+1638,Mahindra,X5,23.3,Electric,18.0,Mumbai,4.0,Value for money car
+1639,Tata,X5,11.67,Hybrid,14.04,Chennai,4.6,Mileage is decent but price is high
+1640,Mahindra,Nexon,19.65,Diesel,12.44,Chennai,4.5,Great performance and smooth drive
+1641,Hyundai,Fortuner,24.21,Electric,27.26,Chennai,4.9,Not satisfied with service
+1642,Kia,City,62.15,Hybrid,15.06,Delhi,3.5,Excellent features and comfort
+1643,Tata,X5,8.07,Petrol,29.12,Pune,3.9,Mileage is decent but price is high
+1644,Honda,XUV700,69.52,Diesel,20.3,Pune,3.7,Could be better in terms of features
+1645,Mahindra,Nexon,36.92,Petrol,17.92,Pune,4.2,Great performance and smooth drive
+1646,Hyundai,Seltos,57.61,Hybrid,24.88,Bangalore,3.8,Not satisfied with service
+1647,Honda,City,46.35,Electric,21.47,Chennai,4.7,Not satisfied with service
+1648,Mahindra,XUV700,39.1,Petrol,17.6,Bangalore,4.7,Excellent features and comfort
+1649,Honda,Nexon,38.36,Hybrid,14.88,Pune,4.1,Not satisfied with service
+1650,Mahindra,City,21.62,Hybrid,13.21,Delhi,2.5,Could be better in terms of features
+1651,Maruti,Fortuner,24.4,Diesel,22.66,Bangalore,2.8,Amazing experience overall
+1652,Kia,City,56.47,Petrol,12.24,Pune,2.5,Excellent features and comfort
+1653,Honda,Seltos,26.8,Diesel,13.74,Ahmedabad,4.1,Value for money car
+1654,BMW,Fortuner,57.28,Hybrid,11.29,Ahmedabad,3.3,Excellent features and comfort
+1655,Tata,Fortuner,12.35,Hybrid,22.89,Ahmedabad,4.1,Mileage is decent but price is high
+1656,Maruti,City,37.49,Petrol,19.63,Delhi,2.8,Not satisfied with service
+1657,BMW,i20,57.57,Electric,27.82,Mumbai,3.1,Amazing experience overall
+1658,Tata,Nexon,21.03,Electric,26.18,Bangalore,4.8,Amazing experience overall
+1659,Honda,Nexon,63.7,Diesel,27.69,Ahmedabad,3.1,Could be better in terms of features
+1660,Kia,X5,41.49,Hybrid,13.56,Bangalore,4.2,Amazing experience overall
+1661,Tata,Fortuner,7.16,Electric,14.77,Ahmedabad,4.9,Not satisfied with service
+1662,Toyota,XUV700,7.03,Hybrid,23.45,Chennai,4.5,Value for money car
+1663,Hyundai,X5,55.67,Diesel,24.51,Chennai,3.1,Could be better in terms of features
+1664,Hyundai,i20,76.35,Hybrid,28.22,Mumbai,2.9,Could be better in terms of features
+1665,Maruti,Fortuner,62.53,Petrol,12.8,Bangalore,3.5,Great performance and smooth drive
+1666,Honda,Fortuner,27.3,Electric,29.39,Ahmedabad,2.8,Great performance and smooth drive
+1667,BMW,Nexon,56.12,Diesel,18.5,Delhi,3.2,Amazing experience overall
+1668,Tata,XUV700,23.92,Diesel,24.74,Ahmedabad,3.3,Not satisfied with service
+1669,Toyota,XUV700,20.47,Hybrid,13.14,Chennai,4.6,Mileage is decent but price is high
+1670,Mahindra,Fortuner,56.73,Electric,12.72,Chennai,2.7,Mileage is decent but price is high
+1671,Kia,Seltos,62.65,Hybrid,10.97,Ahmedabad,4.7,Amazing experience overall
+1672,Tata,Fortuner,69.21,Diesel,16.29,Ahmedabad,3.1,Could be better in terms of features
+1673,Hyundai,Swift,71.77,Electric,14.69,Pune,3.7,Mileage is decent but price is high
+1674,Kia,XUV700,60.86,Electric,19.46,Delhi,4.6,Value for money car
+1675,Toyota,Swift,33.09,Petrol,14.98,Delhi,3.0,Not satisfied with service
+1676,Maruti,Swift,65.86,Diesel,28.95,Chennai,4.8,Value for money car
+1677,BMW,Swift,46.57,Electric,16.39,Ahmedabad,4.4,Mileage is decent but price is high
+1678,Hyundai,XUV700,66.66,Diesel,22.71,Delhi,3.7,Could be better in terms of features
+1679,Maruti,i20,19.58,Diesel,26.36,Mumbai,2.7,Value for money car
+1680,Tata,Fortuner,48.16,Petrol,13.98,Chennai,2.7,Mileage is decent but price is high
+1681,Kia,Swift,31.58,Hybrid,16.51,Ahmedabad,4.4,Great performance and smooth drive
+1682,Mahindra,X5,57.02,Diesel,10.43,Pune,3.6,Great performance and smooth drive
+1683,Mahindra,X5,30.39,Diesel,22.14,Bangalore,3.7,Mileage is decent but price is high
+1684,Hyundai,Swift,8.2,Diesel,20.04,Delhi,3.4,Amazing experience overall
+1685,Mahindra,Fortuner,58.93,Diesel,21.48,Delhi,3.5,Could be better in terms of features
+1686,Kia,Swift,31.44,Electric,26.31,Delhi,4.0,Amazing experience overall
+1687,Maruti,City,10.79,Electric,15.22,Bangalore,4.8,Great performance and smooth drive
+1688,BMW,City,42.93,Petrol,13.7,Pune,3.9,Great performance and smooth drive
+1689,Honda,Swift,46.59,Hybrid,14.62,Delhi,4.7,Excellent features and comfort
+1690,BMW,X5,24.49,Hybrid,29.49,Pune,3.5,Excellent features and comfort
+1691,Kia,Nexon,77.21,Petrol,26.35,Ahmedabad,3.1,Not satisfied with service
+1692,Hyundai,Nexon,9.85,Hybrid,18.85,Chennai,3.9,Not satisfied with service
+1693,BMW,City,27.16,Electric,14.28,Mumbai,2.6,Could be better in terms of features
+1694,BMW,Seltos,76.55,Electric,13.63,Delhi,3.3,Could be better in terms of features
+1695,Maruti,Seltos,70.83,Electric,17.38,Pune,5.0,Excellent features and comfort
+1696,Mahindra,XUV700,47.28,Electric,20.19,Pune,4.6,Great performance and smooth drive
+1697,Honda,Nexon,78.85,Diesel,29.53,Bangalore,3.8,Value for money car
+1698,BMW,Nexon,74.75,Petrol,11.67,Bangalore,2.8,Not satisfied with service
+1699,Honda,i20,34.74,Petrol,24.17,Pune,3.8,Mileage is decent but price is high
+1700,Toyota,City,29.02,Diesel,17.8,Delhi,3.4,Could be better in terms of features
+1701,BMW,Fortuner,40.38,Petrol,22.84,Chennai,3.4,Not satisfied with service
+1702,Kia,City,68.54,Hybrid,13.31,Pune,3.7,Great performance and smooth drive
+1703,Maruti,i20,63.13,Diesel,18.09,Chennai,2.9,Value for money car
+1704,Tata,i20,17.23,Electric,14.07,Ahmedabad,3.0,Amazing experience overall
+1705,Maruti,Seltos,32.74,Petrol,20.26,Mumbai,4.8,Mileage is decent but price is high
+1706,Mahindra,Swift,78.05,Petrol,19.05,Chennai,2.8,Could be better in terms of features
+1707,Tata,Fortuner,56.23,Electric,26.04,Chennai,5.0,Mileage is decent but price is high
+1708,Maruti,Swift,38.71,Electric,16.95,Delhi,3.6,Mileage is decent but price is high
+1709,Hyundai,City,77.91,Electric,26.62,Pune,3.5,Excellent features and comfort
+1710,Tata,City,33.01,Petrol,11.6,Ahmedabad,3.8,Amazing experience overall
+1711,Maruti,XUV700,60.59,Petrol,19.36,Bangalore,4.9,Great performance and smooth drive
+1712,Maruti,i20,58.45,Electric,28.46,Chennai,4.4,Amazing experience overall
+1713,Toyota,X5,40.81,Diesel,21.33,Pune,4.1,Not satisfied with service
+1714,Kia,Nexon,22.58,Petrol,12.83,Mumbai,4.3,Amazing experience overall
+1715,Hyundai,Seltos,48.24,Electric,19.13,Chennai,3.4,Could be better in terms of features
+1716,Tata,Seltos,37.88,Electric,28.78,Delhi,2.6,Amazing experience overall
+1717,Hyundai,XUV700,29.89,Diesel,19.77,Ahmedabad,4.1,Excellent features and comfort
+1718,Maruti,i20,8.85,Hybrid,14.86,Pune,4.5,Amazing experience overall
+1719,Maruti,XUV700,5.99,Petrol,24.97,Mumbai,4.3,Not satisfied with service
+1720,Honda,X5,50.64,Diesel,20.84,Mumbai,4.4,Could be better in terms of features
+1721,BMW,City,52.52,Diesel,23.95,Bangalore,3.7,Amazing experience overall
+1722,Maruti,City,23.99,Petrol,25.35,Bangalore,4.5,Amazing experience overall
+1723,BMW,i20,10.77,Electric,25.0,Bangalore,4.7,Mileage is decent but price is high
+1724,Honda,i20,59.19,Electric,10.7,Mumbai,4.4,Mileage is decent but price is high
+1725,Hyundai,Nexon,26.24,Diesel,25.05,Mumbai,3.7,Excellent features and comfort
+1726,Toyota,i20,73.71,Petrol,11.09,Chennai,4.5,Excellent features and comfort
+1727,Tata,City,17.57,Hybrid,21.48,Chennai,3.5,Amazing experience overall
+1728,Kia,Nexon,72.21,Petrol,13.93,Mumbai,4.4,Amazing experience overall
+1729,Toyota,Fortuner,55.01,Electric,26.92,Ahmedabad,3.0,Mileage is decent but price is high
+1730,Mahindra,Seltos,30.4,Electric,29.99,Bangalore,4.4,Excellent features and comfort
+1731,BMW,Fortuner,12.01,Hybrid,26.15,Mumbai,4.8,Amazing experience overall
+1732,Honda,City,32.72,Diesel,11.0,Bangalore,2.6,Not satisfied with service
+1733,Toyota,XUV700,73.77,Diesel,10.48,Delhi,4.9,Value for money car
+1734,Hyundai,Nexon,79.82,Diesel,15.05,Delhi,4.9,Amazing experience overall
+1735,Mahindra,i20,76.29,Petrol,26.79,Delhi,3.6,Mileage is decent but price is high
+1736,Mahindra,i20,52.71,Petrol,23.78,Delhi,4.6,Amazing experience overall
+1737,Kia,X5,11.4,Hybrid,10.72,Mumbai,3.2,Mileage is decent but price is high
+1738,Mahindra,Swift,8.9,Petrol,21.1,Mumbai,4.7,Value for money car
+1739,Toyota,i20,73.65,Diesel,22.99,Mumbai,3.3,Excellent features and comfort
+1740,Tata,XUV700,42.84,Petrol,13.33,Chennai,3.6,Value for money car
+1741,Hyundai,Swift,78.14,Petrol,16.71,Pune,4.6,Not satisfied with service
+1742,Tata,City,30.04,Diesel,10.47,Pune,2.5,Amazing experience overall
+1743,BMW,Fortuner,71.28,Hybrid,21.71,Chennai,2.8,Not satisfied with service
+1744,Maruti,Nexon,79.96,Diesel,28.14,Bangalore,4.8,Not satisfied with service
+1745,Hyundai,i20,66.4,Electric,28.7,Chennai,3.8,Value for money car
+1746,Toyota,Swift,59.01,Petrol,12.57,Bangalore,3.6,Excellent features and comfort
+1747,Mahindra,Seltos,18.35,Electric,10.38,Chennai,2.8,Value for money car
+1748,Kia,X5,35.65,Diesel,12.43,Chennai,4.6,Value for money car
+1749,Maruti,X5,29.72,Hybrid,12.53,Delhi,3.7,Value for money car
+1750,Toyota,Swift,16.15,Hybrid,16.23,Bangalore,2.7,Not satisfied with service
+1751,Kia,Seltos,42.7,Hybrid,28.44,Pune,3.6,Not satisfied with service
+1752,Mahindra,Swift,53.12,Diesel,21.98,Mumbai,4.2,Excellent features and comfort
+1753,Toyota,Seltos,39.69,Diesel,21.59,Mumbai,4.8,Amazing experience overall
+1754,Toyota,City,10.72,Diesel,10.97,Bangalore,2.9,Not satisfied with service
+1755,BMW,City,54.11,Hybrid,26.18,Mumbai,4.6,Value for money car
+1756,Toyota,XUV700,6.09,Hybrid,10.95,Mumbai,3.2,Mileage is decent but price is high
+1757,Kia,XUV700,19.94,Diesel,17.69,Ahmedabad,4.8,Mileage is decent but price is high
+1758,Mahindra,X5,79.94,Electric,22.35,Bangalore,3.9,Mileage is decent but price is high
+1759,Toyota,Seltos,26.03,Electric,10.54,Ahmedabad,3.3,Not satisfied with service
+1760,Hyundai,i20,37.39,Hybrid,13.59,Mumbai,2.6,Could be better in terms of features
+1761,Hyundai,Seltos,53.77,Electric,11.47,Chennai,3.7,Could be better in terms of features
+1762,Hyundai,Fortuner,69.17,Electric,22.28,Chennai,4.9,Value for money car
+1763,Kia,City,50.92,Diesel,12.42,Delhi,4.8,Value for money car
+1764,BMW,Swift,26.05,Diesel,21.24,Pune,2.7,Could be better in terms of features
+1765,Mahindra,Fortuner,7.68,Hybrid,28.03,Bangalore,3.1,Amazing experience overall
+1766,Mahindra,Seltos,40.42,Electric,18.94,Pune,3.1,Not satisfied with service
+1767,Honda,i20,30.08,Petrol,14.4,Ahmedabad,3.0,Value for money car
+1768,Toyota,Fortuner,49.79,Hybrid,27.09,Bangalore,4.5,Great performance and smooth drive
+1769,Honda,i20,10.22,Hybrid,26.8,Pune,3.5,Not satisfied with service
+1770,Honda,XUV700,38.59,Hybrid,25.26,Pune,2.7,Value for money car
+1771,Mahindra,Swift,56.51,Petrol,23.61,Pune,2.6,Could be better in terms of features
+1772,Mahindra,Nexon,26.77,Diesel,14.02,Mumbai,3.6,Value for money car
+1773,BMW,Nexon,56.81,Electric,29.41,Pune,3.1,Excellent features and comfort
+1774,Maruti,Nexon,41.88,Petrol,17.07,Mumbai,3.7,Amazing experience overall
+1775,Hyundai,Fortuner,53.69,Hybrid,24.7,Delhi,3.1,Could be better in terms of features
+1776,BMW,Swift,75.34,Electric,27.45,Pune,4.1,Great performance and smooth drive
+1777,Kia,XUV700,40.43,Electric,16.99,Chennai,4.9,Could be better in terms of features
+1778,Hyundai,Fortuner,29.76,Diesel,11.31,Bangalore,4.1,Value for money car
+1779,Maruti,Seltos,17.24,Hybrid,22.44,Ahmedabad,3.2,Value for money car
+1780,Maruti,X5,14.41,Diesel,27.81,Delhi,2.9,Excellent features and comfort
+1781,Maruti,Swift,6.86,Petrol,26.2,Mumbai,2.7,Value for money car
+1782,Tata,i20,28.88,Petrol,20.87,Bangalore,4.7,Amazing experience overall
+1783,BMW,Nexon,15.24,Hybrid,18.87,Mumbai,3.0,Not satisfied with service
+1784,Toyota,Fortuner,24.01,Electric,22.34,Delhi,3.7,Value for money car
+1785,Honda,Seltos,20.47,Petrol,25.67,Chennai,3.4,Could be better in terms of features
+1786,Toyota,X5,18.45,Petrol,25.16,Mumbai,4.7,Value for money car
+1787,BMW,X5,74.56,Petrol,12.96,Delhi,4.1,Great performance and smooth drive
+1788,Honda,City,21.94,Hybrid,24.48,Delhi,3.4,Excellent features and comfort
+1789,Mahindra,X5,64.14,Hybrid,24.77,Pune,4.4,Excellent features and comfort
+1790,Tata,Swift,5.14,Petrol,17.5,Delhi,5.0,Mileage is decent but price is high
+1791,Hyundai,Swift,18.81,Petrol,15.69,Chennai,4.4,Excellent features and comfort
+1792,BMW,City,12.21,Electric,26.07,Delhi,4.7,Not satisfied with service
+1793,Toyota,Fortuner,77.18,Electric,10.07,Mumbai,4.7,Could be better in terms of features
+1794,Hyundai,City,8.21,Hybrid,24.53,Pune,4.9,Could be better in terms of features
+1795,Honda,City,18.96,Petrol,15.94,Ahmedabad,3.5,Great performance and smooth drive
+1796,Honda,XUV700,52.52,Hybrid,18.71,Chennai,5.0,Not satisfied with service
+1797,Mahindra,XUV700,52.33,Hybrid,28.69,Delhi,4.8,Great performance and smooth drive
+1798,Hyundai,City,55.56,Diesel,25.98,Bangalore,3.9,Value for money car
+1799,Honda,Fortuner,17.85,Diesel,23.07,Chennai,4.8,Mileage is decent but price is high
+1800,Toyota,X5,50.77,Hybrid,10.48,Bangalore,4.7,Not satisfied with service
+1801,Mahindra,XUV700,45.43,Petrol,25.31,Chennai,3.6,Great performance and smooth drive
+1802,Honda,City,29.65,Petrol,20.72,Pune,3.7,Excellent features and comfort
+1803,BMW,i20,44.47,Petrol,18.06,Bangalore,2.8,Amazing experience overall
+1804,Toyota,Seltos,27.72,Diesel,18.99,Chennai,3.9,Great performance and smooth drive
+1805,Hyundai,Fortuner,46.12,Electric,13.08,Delhi,3.4,Great performance and smooth drive
+1806,Maruti,Seltos,38.25,Hybrid,25.33,Mumbai,2.5,Great performance and smooth drive
+1807,BMW,City,77.53,Diesel,11.14,Pune,3.3,Could be better in terms of features
+1808,BMW,X5,77.16,Petrol,24.56,Pune,4.9,Excellent features and comfort
+1809,BMW,Swift,39.96,Electric,18.78,Chennai,4.4,Amazing experience overall
+1810,Honda,XUV700,70.42,Diesel,29.97,Ahmedabad,4.0,Not satisfied with service
+1811,Maruti,Swift,24.52,Petrol,11.92,Chennai,4.3,Amazing experience overall
+1812,Maruti,Seltos,63.91,Electric,28.94,Bangalore,2.6,Not satisfied with service
+1813,Hyundai,X5,32.1,Petrol,19.01,Pune,2.7,Not satisfied with service
+1814,Mahindra,City,31.61,Electric,22.81,Bangalore,2.6,Amazing experience overall
+1815,Tata,Nexon,67.94,Electric,28.77,Chennai,2.5,Mileage is decent but price is high
+1816,Tata,X5,43.26,Diesel,20.12,Mumbai,2.5,Value for money car
+1817,Toyota,Swift,76.44,Electric,11.24,Pune,4.6,Mileage is decent but price is high
+1818,Honda,Nexon,17.03,Diesel,11.18,Ahmedabad,3.4,Not satisfied with service
+1819,Mahindra,Nexon,59.42,Petrol,17.33,Bangalore,3.4,Excellent features and comfort
+1820,Honda,Nexon,77.26,Electric,25.02,Ahmedabad,2.8,Value for money car
+1821,Toyota,Fortuner,70.7,Electric,17.14,Chennai,3.6,Value for money car
+1822,BMW,Nexon,21.43,Diesel,25.83,Mumbai,4.1,Excellent features and comfort
+1823,Mahindra,City,55.91,Diesel,17.29,Pune,3.1,Could be better in terms of features
+1824,BMW,Nexon,5.82,Petrol,28.94,Chennai,2.5,Could be better in terms of features
+1825,Toyota,City,54.96,Hybrid,18.23,Delhi,4.7,Not satisfied with service
+1826,Honda,Seltos,20.31,Hybrid,12.26,Delhi,3.0,Value for money car
+1827,Maruti,X5,55.76,Electric,21.06,Chennai,4.6,Could be better in terms of features
+1828,Mahindra,Fortuner,76.41,Hybrid,15.27,Chennai,3.7,Great performance and smooth drive
+1829,Maruti,XUV700,43.41,Hybrid,12.84,Ahmedabad,4.5,Great performance and smooth drive
+1830,Honda,Swift,6.75,Electric,12.99,Ahmedabad,4.9,Excellent features and comfort
+1831,Kia,X5,50.81,Diesel,26.54,Bangalore,4.9,Excellent features and comfort
+1832,Maruti,Seltos,37.11,Electric,10.7,Pune,4.7,Excellent features and comfort
+1833,Tata,Seltos,6.84,Electric,29.81,Ahmedabad,3.7,Amazing experience overall
+1834,BMW,City,56.47,Petrol,29.3,Pune,4.4,Could be better in terms of features
+1835,Maruti,Swift,69.25,Petrol,18.98,Pune,2.8,Mileage is decent but price is high
+1836,Tata,Fortuner,48.33,Electric,20.39,Bangalore,3.2,Not satisfied with service
+1837,BMW,XUV700,61.77,Hybrid,21.84,Chennai,3.0,Great performance and smooth drive
+1838,Tata,City,8.26,Petrol,10.86,Chennai,3.9,Value for money car
+1839,Mahindra,Nexon,27.8,Petrol,28.59,Delhi,3.4,Could be better in terms of features
+1840,Kia,Swift,58.3,Diesel,12.08,Pune,3.3,Great performance and smooth drive
+1841,Kia,i20,59.26,Electric,23.17,Chennai,3.8,Great performance and smooth drive
+1842,Hyundai,Nexon,34.63,Diesel,20.7,Chennai,4.7,Value for money car
+1843,Toyota,Swift,36.91,Electric,17.13,Delhi,2.6,Value for money car
+1844,BMW,Fortuner,70.07,Electric,20.87,Delhi,4.3,Value for money car
+1845,Maruti,X5,53.27,Electric,12.29,Mumbai,3.7,Mileage is decent but price is high
+1846,Mahindra,X5,21.02,Hybrid,14.66,Delhi,4.4,Not satisfied with service
+1847,Maruti,i20,49.28,Diesel,22.85,Mumbai,4.8,Great performance and smooth drive
+1848,BMW,XUV700,33.17,Hybrid,27.58,Chennai,2.6,Excellent features and comfort
+1849,Maruti,City,35.53,Diesel,13.06,Delhi,4.4,Could be better in terms of features
+1850,BMW,XUV700,70.44,Petrol,12.96,Delhi,4.2,Could be better in terms of features
+1851,Hyundai,Fortuner,61.21,Petrol,28.52,Delhi,3.7,Great performance and smooth drive
+1852,Toyota,Seltos,48.78,Diesel,13.37,Chennai,4.6,Excellent features and comfort
+1853,Tata,Fortuner,51.48,Petrol,16.45,Chennai,4.0,Value for money car
+1854,Tata,Swift,33.15,Electric,28.09,Pune,3.1,Mileage is decent but price is high
+1855,Honda,i20,33.58,Hybrid,21.05,Pune,4.8,Could be better in terms of features
+1856,BMW,XUV700,46.61,Diesel,10.22,Mumbai,4.3,Value for money car
+1857,Mahindra,X5,57.82,Diesel,14.76,Bangalore,4.1,Excellent features and comfort
+1858,Tata,Swift,50.36,Diesel,22.56,Chennai,4.3,Not satisfied with service
+1859,Toyota,Nexon,6.02,Electric,24.89,Mumbai,3.1,Great performance and smooth drive
+1860,BMW,City,75.84,Diesel,27.79,Ahmedabad,2.8,Excellent features and comfort
+1861,Honda,Swift,67.52,Diesel,12.73,Delhi,2.9,Great performance and smooth drive
+1862,Toyota,XUV700,25.05,Electric,16.23,Mumbai,4.1,Excellent features and comfort
+1863,Honda,Seltos,32.85,Diesel,24.31,Mumbai,3.5,Great performance and smooth drive
+1864,Maruti,Nexon,49.41,Hybrid,14.05,Pune,4.9,Mileage is decent but price is high
+1865,Mahindra,Nexon,10.09,Petrol,22.04,Pune,3.0,Excellent features and comfort
+1866,BMW,X5,74.68,Diesel,11.95,Pune,4.0,Great performance and smooth drive
+1867,BMW,Nexon,41.09,Diesel,15.23,Delhi,4.4,Great performance and smooth drive
+1868,Maruti,i20,18.15,Electric,20.02,Ahmedabad,3.9,Mileage is decent but price is high
+1869,Hyundai,Seltos,66.26,Petrol,26.72,Mumbai,3.1,Amazing experience overall
+1870,Kia,XUV700,29.36,Petrol,27.73,Chennai,3.1,Mileage is decent but price is high
+1871,Maruti,Seltos,34.21,Electric,27.43,Mumbai,4.0,Value for money car
+1872,BMW,X5,76.28,Hybrid,12.4,Mumbai,4.5,Value for money car
+1873,Maruti,Seltos,18.1,Electric,14.86,Chennai,4.4,Excellent features and comfort
+1874,Toyota,Nexon,11.39,Petrol,14.73,Bangalore,3.5,Excellent features and comfort
+1875,Honda,X5,60.76,Petrol,18.14,Delhi,4.0,Great performance and smooth drive
+1876,Hyundai,Seltos,17.07,Petrol,14.28,Ahmedabad,4.0,Value for money car
+1877,Hyundai,Nexon,41.67,Diesel,25.85,Ahmedabad,4.1,Value for money car
+1878,Maruti,Swift,40.08,Electric,28.98,Ahmedabad,4.1,Not satisfied with service
+1879,Maruti,Fortuner,42.16,Electric,28.19,Pune,3.8,Great performance and smooth drive
+1880,Toyota,Nexon,21.56,Electric,14.89,Delhi,4.1,Great performance and smooth drive
+1881,Maruti,Seltos,62.6,Electric,18.11,Bangalore,2.8,Value for money car
+1882,Kia,X5,35.42,Electric,13.99,Mumbai,2.9,Could be better in terms of features
+1883,Toyota,City,64.36,Diesel,16.75,Mumbai,4.8,Not satisfied with service
+1884,Kia,City,53.57,Electric,21.75,Chennai,3.7,Value for money car
+1885,Tata,i20,43.8,Petrol,28.14,Chennai,3.8,Great performance and smooth drive
+1886,Tata,Swift,9.69,Electric,20.73,Pune,4.0,Great performance and smooth drive
+1887,Kia,X5,22.35,Electric,29.95,Bangalore,4.3,Great performance and smooth drive
+1888,Honda,XUV700,35.58,Electric,15.06,Delhi,4.9,Could be better in terms of features
+1889,Toyota,Seltos,21.04,Hybrid,22.33,Pune,2.9,Value for money car
+1890,BMW,i20,5.52,Diesel,29.04,Chennai,2.6,Not satisfied with service
+1891,Hyundai,i20,20.06,Hybrid,29.41,Delhi,3.7,Excellent features and comfort
+1892,Tata,Seltos,42.9,Hybrid,10.01,Mumbai,3.1,Great performance and smooth drive
+1893,Maruti,City,58.59,Hybrid,12.9,Mumbai,3.7,Mileage is decent but price is high
+1894,Tata,Seltos,50.38,Petrol,17.92,Ahmedabad,3.0,Could be better in terms of features
+1895,Toyota,Swift,74.69,Electric,16.29,Pune,3.9,Not satisfied with service
+1896,Hyundai,XUV700,38.67,Hybrid,26.05,Ahmedabad,3.3,Excellent features and comfort
+1897,Kia,i20,27.23,Petrol,26.9,Chennai,3.7,Amazing experience overall
+1898,Kia,X5,77.38,Diesel,29.15,Ahmedabad,3.4,Amazing experience overall
+1899,Hyundai,Nexon,37.07,Electric,23.03,Mumbai,5.0,Not satisfied with service
+1900,BMW,Fortuner,31.8,Diesel,20.49,Bangalore,2.9,Value for money car
+1901,BMW,XUV700,47.61,Petrol,15.46,Bangalore,3.5,Value for money car
+1902,Honda,Nexon,60.06,Diesel,17.58,Ahmedabad,4.5,Not satisfied with service
+1903,Kia,Swift,56.53,Hybrid,28.06,Ahmedabad,3.5,Mileage is decent but price is high
+1904,Toyota,XUV700,13.34,Hybrid,24.02,Mumbai,2.7,Amazing experience overall
+1905,Hyundai,Swift,79.48,Petrol,10.52,Mumbai,3.3,Could be better in terms of features
+1906,Tata,X5,57.89,Electric,15.31,Chennai,2.6,Could be better in terms of features
+1907,Maruti,i20,61.19,Electric,14.1,Mumbai,4.9,Amazing experience overall
+1908,Honda,X5,44.44,Diesel,25.89,Chennai,3.6,Amazing experience overall
+1909,Hyundai,City,55.68,Hybrid,13.52,Mumbai,3.0,Excellent features and comfort
+1910,Hyundai,X5,44.91,Diesel,24.07,Mumbai,3.8,Mileage is decent but price is high
+1911,Maruti,Nexon,19.21,Diesel,26.32,Pune,3.9,Mileage is decent but price is high
+1912,Honda,i20,65.07,Electric,10.84,Ahmedabad,3.4,Excellent features and comfort
+1913,Tata,Fortuner,42.84,Petrol,25.07,Mumbai,2.8,Great performance and smooth drive
+1914,BMW,Nexon,45.28,Diesel,21.9,Bangalore,2.8,Could be better in terms of features
+1915,Kia,X5,63.6,Petrol,16.93,Pune,4.9,Not satisfied with service
+1916,BMW,City,35.19,Petrol,15.78,Chennai,3.0,Excellent features and comfort
+1917,Tata,Seltos,11.54,Hybrid,27.16,Mumbai,3.0,Value for money car
+1918,Tata,i20,8.25,Petrol,13.75,Bangalore,3.8,Mileage is decent but price is high
+1919,Toyota,Nexon,77.78,Electric,14.63,Delhi,4.4,Excellent features and comfort
+1920,Kia,i20,73.4,Diesel,29.81,Chennai,4.2,Excellent features and comfort
+1921,Tata,i20,56.58,Hybrid,11.61,Delhi,2.8,Great performance and smooth drive
+1922,Mahindra,i20,55.29,Petrol,18.28,Delhi,3.8,Value for money car
+1923,Mahindra,X5,41.55,Electric,18.79,Chennai,3.5,Excellent features and comfort
+1924,Honda,Nexon,36.08,Hybrid,10.18,Delhi,4.9,Value for money car
+1925,BMW,X5,53.46,Hybrid,11.1,Bangalore,5.0,Great performance and smooth drive
+1926,BMW,Nexon,29.85,Diesel,27.61,Mumbai,3.6,Not satisfied with service
+1927,Kia,XUV700,43.16,Electric,29.88,Ahmedabad,4.1,Value for money car
+1928,BMW,Seltos,38.42,Petrol,25.65,Delhi,3.2,Not satisfied with service
+1929,Hyundai,Fortuner,74.64,Diesel,10.17,Chennai,4.0,Great performance and smooth drive
+1930,BMW,Fortuner,39.25,Hybrid,17.83,Ahmedabad,4.7,Amazing experience overall
+1931,Honda,i20,45.12,Petrol,18.35,Ahmedabad,2.6,Value for money car
+1932,Kia,Fortuner,53.43,Diesel,15.58,Pune,4.8,Mileage is decent but price is high
+1933,Tata,i20,55.1,Petrol,19.35,Chennai,2.7,Great performance and smooth drive
+1934,Toyota,X5,52.66,Diesel,13.5,Ahmedabad,4.5,Excellent features and comfort
+1935,Hyundai,XUV700,29.38,Diesel,24.18,Bangalore,2.9,Could be better in terms of features
+1936,Hyundai,Fortuner,9.01,Diesel,25.19,Delhi,2.8,Value for money car
+1937,Toyota,i20,52.79,Petrol,24.32,Mumbai,2.7,Excellent features and comfort
+1938,Mahindra,Swift,65.85,Hybrid,29.75,Delhi,3.9,Mileage is decent but price is high
+1939,Mahindra,Fortuner,46.22,Petrol,19.6,Pune,4.3,Mileage is decent but price is high
+1940,Kia,Seltos,72.27,Electric,20.83,Chennai,4.0,Mileage is decent but price is high
+1941,Honda,i20,70.78,Petrol,15.47,Delhi,3.2,Value for money car
+1942,BMW,City,62.43,Diesel,22.36,Mumbai,4.3,Value for money car
+1943,Honda,Nexon,7.57,Diesel,25.66,Ahmedabad,2.8,Value for money car
+1944,Honda,Nexon,24.05,Diesel,28.7,Ahmedabad,4.0,Not satisfied with service
+1945,Maruti,i20,9.32,Petrol,15.03,Ahmedabad,4.8,Excellent features and comfort
+1946,Tata,X5,11.48,Diesel,17.99,Chennai,4.6,Mileage is decent but price is high
+1947,Maruti,Swift,54.0,Electric,10.82,Bangalore,3.8,Not satisfied with service
+1948,BMW,X5,58.54,Hybrid,17.45,Delhi,2.6,Not satisfied with service
+1949,Kia,City,55.78,Electric,11.17,Mumbai,2.9,Mileage is decent but price is high
+1950,Hyundai,City,57.85,Electric,18.96,Bangalore,3.9,Mileage is decent but price is high
+1951,Honda,X5,11.12,Electric,18.16,Pune,4.8,Not satisfied with service
+1952,Kia,XUV700,37.08,Diesel,12.14,Pune,3.4,Could be better in terms of features
+1953,Mahindra,X5,23.13,Diesel,19.1,Pune,2.8,Mileage is decent but price is high
+1954,BMW,City,5.0,Petrol,25.43,Mumbai,3.4,Not satisfied with service
+1955,Kia,X5,51.89,Hybrid,14.07,Bangalore,3.8,Not satisfied with service
+1956,BMW,i20,60.23,Petrol,24.81,Bangalore,5.0,Value for money car
+1957,Toyota,Fortuner,48.59,Electric,20.98,Chennai,3.1,Mileage is decent but price is high
+1958,Mahindra,Nexon,40.85,Petrol,17.14,Bangalore,2.5,Great performance and smooth drive
+1959,Hyundai,XUV700,31.49,Electric,18.0,Chennai,4.3,Excellent features and comfort
+1960,Honda,Seltos,71.62,Diesel,17.11,Delhi,2.8,Could be better in terms of features
+1961,Tata,XUV700,57.41,Electric,11.28,Mumbai,4.4,Not satisfied with service
+1962,BMW,X5,37.04,Diesel,21.33,Ahmedabad,4.0,Excellent features and comfort
+1963,BMW,Seltos,74.92,Hybrid,14.7,Ahmedabad,3.0,Mileage is decent but price is high
+1964,Honda,Nexon,23.27,Hybrid,21.82,Pune,3.3,Not satisfied with service
+1965,Toyota,City,7.97,Diesel,29.53,Delhi,4.9,Great performance and smooth drive
+1966,Toyota,XUV700,28.12,Petrol,28.25,Pune,2.7,Amazing experience overall
+1967,BMW,XUV700,31.14,Petrol,24.73,Delhi,3.6,Great performance and smooth drive
+1968,Kia,i20,20.12,Petrol,21.01,Ahmedabad,3.6,Great performance and smooth drive
+1969,Toyota,Nexon,38.15,Hybrid,26.95,Ahmedabad,4.0,Excellent features and comfort
+1970,Mahindra,Seltos,23.69,Electric,29.82,Ahmedabad,2.9,Value for money car
+1971,Kia,Fortuner,57.36,Hybrid,19.16,Ahmedabad,4.5,Value for money car
+1972,Mahindra,i20,43.92,Hybrid,14.14,Delhi,4.5,Great performance and smooth drive
+1973,Maruti,Nexon,32.98,Electric,16.04,Chennai,3.7,Not satisfied with service
+1974,Maruti,i20,54.57,Petrol,26.2,Bangalore,4.3,Value for money car
+1975,Toyota,Seltos,51.82,Diesel,22.55,Mumbai,5.0,Great performance and smooth drive
+1976,Maruti,Fortuner,22.08,Electric,20.67,Bangalore,2.7,Amazing experience overall
+1977,Honda,X5,50.43,Petrol,27.77,Pune,3.5,Excellent features and comfort
+1978,Toyota,i20,57.88,Hybrid,13.05,Pune,4.1,Amazing experience overall
+1979,Kia,i20,71.12,Hybrid,27.67,Chennai,2.7,Could be better in terms of features
+1980,Mahindra,i20,43.67,Petrol,27.28,Pune,4.7,Excellent features and comfort
+1981,Maruti,Nexon,34.6,Hybrid,18.66,Delhi,3.2,Mileage is decent but price is high
+1982,Maruti,Swift,24.55,Electric,22.01,Mumbai,2.8,Great performance and smooth drive
+1983,Tata,i20,62.85,Diesel,26.5,Ahmedabad,4.7,Could be better in terms of features
+1984,Tata,Nexon,48.6,Petrol,13.72,Ahmedabad,2.7,Could be better in terms of features
+1985,Hyundai,Swift,42.87,Petrol,11.75,Delhi,2.6,Amazing experience overall
+1986,Toyota,XUV700,54.96,Electric,18.6,Pune,4.9,Amazing experience overall
+1987,Kia,Nexon,52.71,Hybrid,22.17,Delhi,2.8,Not satisfied with service
+1988,Toyota,XUV700,55.74,Petrol,15.61,Mumbai,5.0,Great performance and smooth drive
+1989,Honda,Nexon,26.75,Electric,19.66,Chennai,4.0,Excellent features and comfort
+1990,Honda,Nexon,52.01,Electric,21.52,Mumbai,3.2,Value for money car
+1991,Honda,XUV700,75.68,Petrol,22.85,Pune,4.6,Not satisfied with service
+1992,Maruti,Fortuner,23.46,Electric,19.31,Ahmedabad,3.4,Amazing experience overall
+1993,Maruti,Fortuner,21.04,Electric,15.11,Chennai,3.5,Could be better in terms of features
+1994,BMW,Fortuner,60.75,Diesel,17.04,Bangalore,3.9,Amazing experience overall
+1995,Toyota,Nexon,8.16,Diesel,29.66,Mumbai,3.3,Value for money car
+1996,Kia,i20,36.73,Hybrid,19.93,Chennai,4.3,Amazing experience overall
+1997,Hyundai,i20,65.5,Petrol,26.79,Bangalore,4.6,Could be better in terms of features
+1998,Tata,City,25.59,Electric,12.68,Pune,4.8,Value for money car
+1999,Tata,i20,36.3,Hybrid,15.18,Ahmedabad,5.0,Great performance and smooth drive
+2000,Hyundai,i20,34.18,Electric,19.58,Mumbai,3.0,Could be better in terms of features
