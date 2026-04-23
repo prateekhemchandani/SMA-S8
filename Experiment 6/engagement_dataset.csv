@@ -1,0 +1,3001 @@
+post_id,user_type,content_type,caption,likes,comments,shares
+1,influencer,text,Could be better,62,23,47
+2,foodie,image,Could be better,433,108,14
+3,influencer,image,Loved this!,491,68,13
+4,traveler,reel,Feeling awesome,652,162,121
+5,traveler,story,Not so great,169,49,46
+6,fitness,text,Highly recommended,281,63,31
+7,developer,reel,Feeling awesome,740,195,197
+8,fitness,reel,Could be better,579,198,70
+9,fitness,story,Amazing experience!,269,18,8
+10,student,text,Could be better,224,31,12
+11,influencer,text,Must watch!,283,100,14
+12,student,image,Could be better,425,89,57
+13,influencer,video,Loved this!,446,218,101
+14,student,image,Check this out!,294,112,59
+15,influencer,video,Loved this!,730,76,118
+16,influencer,story,What a day!,155,57,15
+17,influencer,image,What a day!,337,95,50
+18,traveler,text,Highly recommended,106,38,5
+19,student,video,What a day!,456,148,167
+20,fitness,video,Highly recommended,206,138,182
+21,fitness,text,Feeling awesome,289,62,49
+22,traveler,video,Loved this!,804,247,70
+23,foodie,image,Feeling awesome,418,23,14
+24,traveler,text,Amazing experience!,109,15,15
+25,developer,text,Amazing experience!,238,17,29
+26,foodie,video,What a day!,996,156,149
+27,foodie,video,Feeling awesome,428,236,159
+28,fitness,image,Feeling awesome,240,28,22
+29,foodie,text,Amazing experience!,207,46,5
+30,foodie,reel,Loved this!,331,213,117
+31,fitness,video,Highly recommended,805,75,138
+32,fitness,video,Not so great,261,103,81
+33,developer,reel,What a day!,909,280,23
+34,traveler,image,Must watch!,202,35,42
+35,fitness,video,Could be better,652,62,132
+36,traveler,reel,Highly recommended,761,259,70
+37,influencer,video,Check this out!,895,254,50
+38,foodie,text,Must watch!,150,96,29
+39,student,video,Could be better,522,277,58
+40,developer,text,What a day!,87,62,23
+41,foodie,reel,Amazing experience!,861,252,88
+42,student,video,Loved this!,437,240,45
+43,developer,text,Must watch!,98,11,49
+44,student,reel,Check this out!,988,78,83
+45,foodie,reel,Check this out!,314,248,72
+46,student,video,Loved this!,204,146,44
+47,influencer,reel,Could be better,228,188,61
+48,foodie,video,Must watch!,740,99,24
+49,influencer,text,Not so great,279,91,39
+50,fitness,image,Not so great,440,146,17
+51,developer,image,Could be better,219,47,68
+52,influencer,image,Amazing experience!,213,49,82
+53,student,text,Amazing experience!,281,25,34
+54,foodie,story,Could be better,246,43,38
+55,foodie,reel,Amazing experience!,279,206,183
+56,developer,image,Feeling awesome,329,37,19
+57,foodie,text,What a day!,76,92,35
+58,traveler,text,Highly recommended,88,61,31
+59,fitness,text,Check this out!,158,68,5
+60,influencer,reel,Amazing experience!,267,190,79
+61,fitness,image,Not so great,478,89,28
+62,foodie,reel,What a day!,306,212,79
+63,developer,video,Check this out!,805,55,178
+64,fitness,text,Feeling awesome,232,68,40
+65,influencer,reel,Must watch!,212,105,51
+66,influencer,text,Not so great,54,17,45
+67,student,reel,Must watch!,811,280,73
+68,traveler,video,Highly recommended,229,80,30
+69,traveler,reel,Check this out!,367,139,107
+70,student,story,Not so great,61,33,30
+71,student,image,Amazing experience!,257,114,20
+72,influencer,image,Could be better,129,119,77
+73,traveler,video,Amazing experience!,279,165,129
+74,developer,image,Not so great,349,128,55
+75,fitness,video,Must watch!,973,77,85
+76,traveler,story,Check this out!,152,66,39
+77,foodie,reel,Feeling awesome,933,57,80
+78,influencer,story,What a day!,67,38,25
+79,traveler,reel,Could be better,730,84,169
+80,fitness,text,Feeling awesome,118,42,41
+81,fitness,image,Not so great,212,115,10
+82,traveler,story,Must watch!,257,29,41
+83,student,text,What a day!,261,45,15
+84,student,video,Not so great,377,67,109
+85,influencer,video,Amazing experience!,238,178,58
+86,traveler,reel,Not so great,663,105,60
+87,developer,story,Could be better,171,59,34
+88,fitness,video,Loved this!,653,86,120
+89,influencer,text,Feeling awesome,295,60,18
+90,foodie,reel,Check this out!,238,258,29
+91,developer,video,Could be better,609,52,44
+92,foodie,text,Could be better,147,32,10
+93,traveler,reel,Must watch!,993,263,24
+94,student,text,Loved this!,51,85,17
+95,foodie,story,Loved this!,152,80,39
+96,developer,video,Must watch!,604,239,79
+97,developer,reel,Could be better,961,97,171
+98,student,text,Must watch!,100,70,48
+99,student,text,Check this out!,59,38,17
+100,fitness,image,Loved this!,482,118,39
+101,foodie,text,Not so great,151,51,9
+102,student,video,Must watch!,817,224,147
+103,foodie,text,Not so great,204,38,49
+104,fitness,reel,Could be better,283,97,180
+105,influencer,reel,Could be better,790,289,71
+106,influencer,video,Highly recommended,914,276,121
+107,foodie,text,What a day!,297,85,50
+108,fitness,image,Highly recommended,219,108,24
+109,student,video,What a day!,434,282,186
+110,developer,image,Feeling awesome,175,50,93
+111,developer,video,Not so great,827,74,62
+112,developer,story,Not so great,274,19,42
+113,fitness,image,Amazing experience!,479,142,40
+114,fitness,story,Amazing experience!,262,68,18
+115,developer,reel,Must watch!,530,262,97
+116,fitness,video,What a day!,331,80,32
+117,student,video,Amazing experience!,904,232,29
+118,foodie,image,Not so great,246,54,10
+119,influencer,reel,Could be better,859,255,109
+120,fitness,image,Not so great,111,43,79
+121,influencer,story,What a day!,153,75,15
+122,fitness,story,Could be better,168,86,46
+123,influencer,video,What a day!,967,268,90
+124,traveler,image,What a day!,368,57,74
+125,developer,story,What a day!,99,43,23
+126,traveler,text,Must watch!,181,10,38
+127,traveler,text,Not so great,230,76,17
+128,influencer,story,Feeling awesome,153,25,29
+129,developer,reel,Must watch!,307,297,106
+130,influencer,video,Amazing experience!,460,297,173
+131,influencer,text,Could be better,80,91,43
+132,traveler,reel,Must watch!,316,265,98
+133,traveler,reel,What a day!,880,50,37
+134,foodie,video,Could be better,985,54,22
+135,traveler,image,Loved this!,177,143,22
+136,fitness,text,What a day!,90,87,35
+137,fitness,text,Feeling awesome,281,14,31
+138,student,reel,Could be better,321,269,174
+139,foodie,story,Feeling awesome,297,69,41
+140,foodie,image,Check this out!,377,98,71
+141,developer,text,Amazing experience!,165,95,9
+142,traveler,reel,Amazing experience!,566,204,107
+143,foodie,story,Feeling awesome,216,53,47
+144,fitness,story,Check this out!,92,13,17
+145,influencer,story,What a day!,181,38,31
+146,influencer,image,Feeling awesome,376,31,39
+147,traveler,reel,What a day!,715,191,141
+148,student,story,Feeling awesome,97,88,48
+149,traveler,image,Could be better,216,98,34
+150,traveler,video,What a day!,792,93,69
+151,traveler,story,Not so great,158,66,20
+152,traveler,story,What a day!,290,37,43
+153,student,reel,Feeling awesome,270,244,71
+154,student,image,Must watch!,442,139,71
+155,traveler,image,What a day!,404,32,11
+156,student,reel,Could be better,465,101,63
+157,traveler,story,Loved this!,280,90,20
+158,traveler,story,Feeling awesome,298,83,42
+159,foodie,video,Could be better,976,58,86
+160,influencer,video,Check this out!,630,86,166
+161,foodie,image,Check this out!,221,89,76
+162,influencer,video,Could be better,270,127,48
+163,traveler,image,Highly recommended,125,59,62
+164,developer,video,Could be better,388,170,103
+165,developer,video,Not so great,602,118,29
+166,developer,image,Feeling awesome,452,75,78
+167,fitness,image,Check this out!,325,131,54
+168,influencer,story,Feeling awesome,248,13,31
+169,traveler,image,Feeling awesome,362,68,81
+170,foodie,reel,Could be better,655,146,148
+171,developer,reel,Amazing experience!,430,52,185
+172,fitness,video,Amazing experience!,638,186,94
+173,developer,video,Could be better,993,270,63
+174,developer,video,Must watch!,945,96,65
+175,influencer,text,Amazing experience!,178,85,28
+176,developer,story,Highly recommended,117,18,49
+177,developer,image,Check this out!,309,29,95
+178,foodie,text,Not so great,136,42,31
+179,influencer,text,Amazing experience!,135,46,18
+180,foodie,reel,Amazing experience!,459,140,80
+181,developer,image,Feeling awesome,291,40,20
+182,influencer,reel,Feeling awesome,899,90,91
+183,fitness,reel,Amazing experience!,590,56,126
+184,developer,image,Loved this!,150,80,52
+185,fitness,reel,What a day!,713,272,112
+186,fitness,story,Could be better,135,43,11
+187,student,story,Amazing experience!,136,62,36
+188,traveler,reel,Must watch!,395,190,162
+189,traveler,video,Feeling awesome,400,57,188
+190,influencer,image,Not so great,316,94,53
+191,student,video,Must watch!,789,81,112
+192,student,image,Not so great,358,90,66
+193,developer,reel,Amazing experience!,957,105,49
+194,traveler,image,Highly recommended,201,25,78
+195,fitness,image,Could be better,296,90,52
+196,developer,story,Loved this!,170,49,34
+197,foodie,image,What a day!,258,100,27
+198,influencer,text,What a day!,87,69,10
+199,foodie,reel,Must watch!,864,182,104
+200,student,text,Not so great,259,74,10
+201,student,image,Highly recommended,392,101,35
+202,developer,image,Must watch!,335,52,66
+203,traveler,story,Not so great,268,52,47
+204,student,text,Check this out!,125,17,17
+205,foodie,image,Feeling awesome,373,48,10
+206,foodie,reel,Could be better,862,171,168
+207,traveler,story,Could be better,93,18,23
+208,fitness,image,Check this out!,155,48,23
+209,influencer,story,Loved this!,257,64,48
+210,foodie,reel,What a day!,745,291,31
+211,influencer,video,Loved this!,616,154,100
+212,traveler,image,Feeling awesome,210,144,22
+213,traveler,text,Amazing experience!,172,31,11
+214,foodie,text,Highly recommended,84,27,47
+215,fitness,reel,Feeling awesome,743,84,110
+216,influencer,text,Feeling awesome,178,72,38
+217,student,image,Amazing experience!,288,85,20
+218,traveler,reel,Must watch!,702,158,61
+219,fitness,reel,Could be better,754,220,38
+220,developer,image,Loved this!,212,133,13
+221,foodie,image,What a day!,141,57,70
+222,influencer,image,Amazing experience!,285,27,46
+223,influencer,reel,What a day!,948,240,70
+224,student,text,Loved this!,68,45,48
+225,foodie,text,Could be better,190,89,10
+226,traveler,text,Feeling awesome,286,89,18
+227,student,video,Could be better,757,79,41
+228,developer,image,Loved this!,496,70,51
+229,student,text,Not so great,127,63,32
+230,student,image,Loved this!,370,40,29
+231,influencer,video,Amazing experience!,611,174,131
+232,foodie,story,Highly recommended,229,49,17
+233,developer,reel,Loved this!,956,117,123
+234,influencer,text,Check this out!,252,21,44
+235,foodie,reel,Amazing experience!,405,66,70
+236,developer,image,What a day!,365,144,95
+237,developer,story,Could be better,208,28,26
+238,developer,story,Feeling awesome,279,85,41
+239,student,video,Not so great,952,246,60
+240,influencer,text,Loved this!,206,77,24
+241,traveler,story,Feeling awesome,160,66,25
+242,traveler,story,Amazing experience!,238,13,35
+243,traveler,reel,Highly recommended,508,73,42
+244,traveler,video,Check this out!,866,81,87
+245,influencer,video,Amazing experience!,653,292,42
+246,fitness,reel,Feeling awesome,212,66,192
+247,developer,text,Must watch!,276,51,44
+248,traveler,video,Could be better,648,154,55
+249,foodie,story,Loved this!,183,68,30
+250,fitness,image,Not so great,186,85,53
+251,foodie,video,What a day!,797,240,165
+252,traveler,text,Feeling awesome,71,13,12
+253,fitness,story,Loved this!,203,95,24
+254,fitness,image,Amazing experience!,338,59,53
+255,foodie,reel,Not so great,288,96,170
+256,developer,video,Loved this!,985,251,179
+257,developer,reel,Could be better,527,261,184
+258,foodie,story,Loved this!,249,17,21
+259,traveler,text,Check this out!,170,26,15
+260,developer,video,Could be better,346,279,58
+261,foodie,reel,Highly recommended,885,58,150
+262,fitness,text,Feeling awesome,162,86,49
+263,traveler,story,Highly recommended,67,49,39
+264,student,story,Feeling awesome,94,28,7
+265,developer,reel,Check this out!,687,277,121
+266,student,reel,Must watch!,685,112,114
+267,developer,reel,Loved this!,497,64,157
+268,traveler,reel,What a day!,717,100,62
+269,student,story,Loved this!,72,29,17
+270,student,reel,Loved this!,425,103,85
+271,developer,image,What a day!,389,131,69
+272,fitness,video,Could be better,815,64,125
+273,developer,reel,Could be better,435,215,133
+274,foodie,image,Amazing experience!,499,118,34
+275,student,reel,Must watch!,521,242,33
+276,fitness,reel,Could be better,227,120,47
+277,fitness,text,What a day!,238,12,16
+278,student,video,Feeling awesome,846,262,184
+279,traveler,image,Loved this!,160,141,10
+280,influencer,text,Highly recommended,283,36,34
+281,developer,text,Check this out!,281,91,27
+282,fitness,image,Must watch!,340,83,98
+283,developer,text,Must watch!,68,19,27
+284,traveler,image,Must watch!,469,117,57
+285,foodie,video,Loved this!,224,257,124
+286,traveler,reel,Must watch!,977,114,147
+287,foodie,text,Highly recommended,252,86,15
+288,foodie,text,Could be better,294,49,30
+289,student,reel,Check this out!,637,177,93
+290,traveler,video,Check this out!,435,93,91
+291,traveler,image,Could be better,473,36,87
+292,student,image,Must watch!,324,92,32
+293,traveler,reel,Not so great,209,204,67
+294,foodie,video,Feeling awesome,936,216,200
+295,student,text,Amazing experience!,84,54,24
+296,fitness,video,Must watch!,961,244,33
+297,foodie,image,Feeling awesome,171,55,68
+298,student,reel,Highly recommended,262,220,172
+299,student,image,Could be better,280,141,13
+300,influencer,story,Loved this!,109,15,33
+301,influencer,story,Not so great,103,94,8
+302,fitness,video,Loved this!,819,210,122
+303,influencer,image,Loved this!,308,27,80
+304,developer,text,Feeling awesome,172,55,49
+305,foodie,reel,Could be better,419,105,126
+306,developer,story,Could be better,78,47,19
+307,student,video,What a day!,584,80,146
+308,influencer,image,Amazing experience!,476,93,15
+309,developer,image,Amazing experience!,498,149,15
+310,student,reel,Highly recommended,668,195,136
+311,traveler,text,Could be better,274,91,31
+312,traveler,video,Must watch!,399,250,88
+313,student,video,Not so great,897,166,81
+314,foodie,text,Loved this!,155,86,36
+315,student,video,Must watch!,868,268,152
+316,traveler,video,Amazing experience!,648,227,182
+317,traveler,video,Must watch!,686,135,20
+318,developer,text,What a day!,259,32,34
+319,fitness,video,Loved this!,696,287,118
+320,traveler,story,Must watch!,167,85,46
+321,fitness,image,Must watch!,330,76,48
+322,developer,image,Amazing experience!,140,63,86
+323,fitness,text,Check this out!,232,63,26
+324,student,image,Not so great,282,134,56
+325,influencer,image,Check this out!,166,83,49
+326,developer,image,Could be better,376,41,71
+327,fitness,reel,Feeling awesome,204,63,67
+328,traveler,image,What a day!,500,39,86
+329,foodie,story,Must watch!,296,68,6
+330,student,story,What a day!,122,75,27
+331,foodie,text,Check this out!,106,35,44
+332,influencer,text,Feeling awesome,101,31,44
+333,traveler,story,Check this out!,287,77,25
+334,influencer,story,Not so great,152,24,46
+335,student,reel,Must watch!,620,92,105
+336,fitness,video,Must watch!,459,112,87
+337,fitness,text,Highly recommended,133,40,45
+338,student,image,Must watch!,206,59,71
+339,student,video,Loved this!,347,190,57
+340,foodie,image,Feeling awesome,203,88,70
+341,influencer,reel,Feeling awesome,708,96,71
+342,fitness,video,Highly recommended,548,182,169
+343,fitness,image,Check this out!,288,51,22
+344,traveler,image,Not so great,340,23,42
+345,student,text,Loved this!,94,38,14
+346,traveler,text,Loved this!,283,23,46
+347,influencer,video,Check this out!,888,118,186
+348,student,reel,Feeling awesome,864,111,21
+349,developer,story,Must watch!,293,70,47
+350,developer,story,Check this out!,282,32,28
+351,student,video,Could be better,665,90,110
+352,influencer,text,Feeling awesome,188,100,27
+353,traveler,video,Feeling awesome,727,230,112
+354,traveler,reel,Could be better,707,227,178
+355,developer,image,Feeling awesome,491,139,70
+356,foodie,video,Must watch!,751,139,113
+357,student,image,Must watch!,164,37,26
+358,influencer,story,What a day!,215,95,14
+359,influencer,reel,Could be better,920,85,50
+360,fitness,reel,Amazing experience!,633,124,170
+361,fitness,text,Amazing experience!,269,96,8
+362,student,reel,Feeling awesome,622,98,162
+363,influencer,story,Loved this!,57,18,14
+364,fitness,video,Check this out!,234,54,72
+365,traveler,reel,Check this out!,934,146,146
+366,fitness,video,Not so great,562,89,74
+367,fitness,story,Could be better,242,24,12
+368,traveler,text,Loved this!,111,33,11
+369,influencer,video,Feeling awesome,722,290,108
+370,developer,story,Highly recommended,165,37,24
+371,fitness,text,Could be better,68,62,49
+372,traveler,story,What a day!,55,26,21
+373,influencer,image,Loved this!,122,142,13
+374,influencer,image,Must watch!,313,67,61
+375,fitness,reel,What a day!,476,51,128
+376,developer,video,Could be better,888,167,191
+377,developer,story,Check this out!,232,69,15
+378,influencer,text,Not so great,163,62,30
+379,influencer,story,Loved this!,172,90,31
+380,fitness,text,Loved this!,242,87,16
+381,foodie,reel,Must watch!,786,55,78
+382,fitness,story,What a day!,187,28,50
+383,influencer,text,Loved this!,159,79,15
+384,developer,video,Check this out!,206,115,97
+385,traveler,video,Amazing experience!,822,227,117
+386,traveler,image,Loved this!,258,138,71
+387,foodie,image,Check this out!,221,131,14
+388,traveler,text,What a day!,245,87,36
+389,foodie,story,Check this out!,264,57,28
+390,developer,story,Could be better,70,58,12
+391,traveler,text,Check this out!,206,89,13
+392,foodie,text,Loved this!,274,74,47
+393,foodie,text,Loved this!,85,19,14
+394,fitness,image,Loved this!,168,85,13
+395,student,video,What a day!,727,233,171
+396,student,reel,What a day!,706,108,92
+397,foodie,text,Highly recommended,203,43,46
+398,influencer,story,Could be better,292,42,21
+399,student,image,Loved this!,310,113,29
+400,influencer,image,Not so great,422,43,98
+401,foodie,reel,Feeling awesome,934,118,143
+402,developer,story,Must watch!,118,76,10
+403,developer,story,Not so great,211,96,42
+404,student,reel,Must watch!,856,238,106
+405,traveler,text,Amazing experience!,236,44,47
+406,foodie,text,Must watch!,158,84,6
+407,foodie,video,What a day!,240,259,64
+408,influencer,story,Check this out!,143,67,20
+409,foodie,video,Amazing experience!,603,128,119
+410,student,image,Check this out!,473,94,36
+411,student,video,Could be better,825,178,112
+412,traveler,text,Check this out!,298,47,21
+413,developer,reel,Amazing experience!,701,94,89
+414,foodie,story,Must watch!,259,33,46
+415,foodie,story,Feeling awesome,99,15,34
+416,fitness,text,What a day!,162,100,18
+417,student,reel,Amazing experience!,801,246,168
+418,fitness,image,Highly recommended,454,83,68
+419,traveler,story,Check this out!,233,79,7
+420,developer,reel,Loved this!,441,223,176
+421,foodie,story,Not so great,119,47,43
+422,influencer,reel,Not so great,696,266,148
+423,developer,story,Feeling awesome,194,29,10
+424,traveler,video,What a day!,822,237,112
+425,fitness,reel,Could be better,766,122,115
+426,foodie,reel,What a day!,273,212,28
+427,traveler,reel,Could be better,387,53,153
+428,student,video,Highly recommended,203,270,43
+429,fitness,story,Loved this!,85,91,43
+430,foodie,text,Must watch!,262,28,6
+431,foodie,text,Highly recommended,248,23,26
+432,foodie,text,Loved this!,247,18,34
+433,foodie,image,What a day!,347,66,88
+434,student,story,Loved this!,282,39,17
+435,student,video,What a day!,515,214,192
+436,student,image,Check this out!,496,129,22
+437,foodie,image,Must watch!,146,61,19
+438,fitness,story,Highly recommended,71,82,42
+439,influencer,video,Highly recommended,689,82,109
+440,fitness,reel,What a day!,891,133,187
+441,foodie,text,Amazing experience!,153,43,45
+442,student,video,Loved this!,583,226,37
+443,student,text,Could be better,249,83,31
+444,student,text,Feeling awesome,147,61,27
+445,foodie,video,Check this out!,920,286,48
+446,fitness,text,Amazing experience!,219,71,28
+447,fitness,video,Could be better,209,273,115
+448,developer,reel,Loved this!,248,83,153
+449,fitness,image,What a day!,190,135,20
+450,influencer,text,Loved this!,234,37,42
+451,fitness,video,Not so great,698,121,170
+452,developer,image,Feeling awesome,347,112,49
+453,traveler,reel,Loved this!,470,98,150
+454,student,image,Must watch!,385,38,22
+455,student,text,What a day!,179,33,41
+456,fitness,reel,Feeling awesome,574,227,103
+457,traveler,reel,What a day!,824,243,190
+458,foodie,image,Not so great,305,46,27
+459,fitness,text,Feeling awesome,220,97,24
+460,student,story,Check this out!,132,29,7
+461,foodie,image,Must watch!,274,109,61
+462,fitness,story,What a day!,135,90,34
+463,student,reel,Check this out!,606,135,27
+464,developer,image,Not so great,365,79,57
+465,traveler,image,Check this out!,265,75,98
+466,traveler,image,Amazing experience!,185,83,99
+467,fitness,text,Highly recommended,67,66,28
+468,influencer,text,Check this out!,121,35,32
+469,developer,reel,Not so great,392,219,192
+470,traveler,video,What a day!,207,213,133
+471,influencer,video,Amazing experience!,895,146,55
+472,foodie,image,Loved this!,196,114,73
+473,fitness,text,Amazing experience!,146,90,18
+474,traveler,video,Not so great,880,138,24
+475,traveler,video,Loved this!,830,124,88
+476,traveler,video,Not so great,536,167,29
+477,foodie,text,Feeling awesome,180,32,12
+478,foodie,story,Highly recommended,103,26,38
+479,foodie,image,Loved this!,358,99,94
+480,foodie,image,Check this out!,271,113,80
+481,foodie,video,Must watch!,813,62,131
+482,traveler,video,Amazing experience!,357,209,92
+483,traveler,text,Loved this!,54,10,5
+484,foodie,video,Could be better,993,191,26
+485,developer,image,Must watch!,313,55,52
+486,developer,video,Not so great,228,267,119
+487,influencer,reel,Not so great,345,221,53
+488,fitness,text,What a day!,250,38,5
+489,influencer,text,Must watch!,236,89,42
+490,fitness,text,Must watch!,227,92,5
+491,developer,video,Check this out!,380,224,155
+492,student,video,Must watch!,304,271,75
+493,influencer,video,Feeling awesome,489,227,43
+494,traveler,text,Amazing experience!,114,59,14
+495,student,image,Highly recommended,183,113,49
+496,traveler,image,Amazing experience!,119,29,46
+497,fitness,reel,Check this out!,387,267,65
+498,developer,video,Check this out!,492,55,103
+499,fitness,video,What a day!,919,93,54
+500,foodie,image,Not so great,276,119,80
+501,developer,story,What a day!,142,21,18
+502,student,video,Highly recommended,751,157,91
+503,traveler,image,Not so great,383,77,18
+504,fitness,story,Amazing experience!,260,35,36
+505,foodie,text,Feeling awesome,104,70,28
+506,traveler,video,Feeling awesome,447,249,156
+507,student,story,Check this out!,91,26,14
+508,foodie,reel,Amazing experience!,476,291,33
+509,fitness,image,Could be better,368,138,44
+510,influencer,image,Not so great,206,57,95
+511,influencer,story,Amazing experience!,231,75,24
+512,student,reel,Check this out!,235,81,164
+513,foodie,story,What a day!,196,50,45
+514,traveler,video,Not so great,773,54,114
+515,traveler,reel,Check this out!,704,235,148
+516,developer,image,Not so great,344,150,89
+517,traveler,text,What a day!,124,71,8
+518,influencer,text,Highly recommended,168,74,15
+519,influencer,image,What a day!,368,61,95
+520,traveler,story,Loved this!,227,72,46
+521,traveler,image,Could be better,174,135,50
+522,developer,video,What a day!,593,173,94
+523,student,text,What a day!,167,36,41
+524,foodie,text,Feeling awesome,102,67,41
+525,developer,reel,What a day!,678,190,102
+526,student,story,Check this out!,184,60,25
+527,foodie,video,Check this out!,559,130,63
+528,traveler,reel,Not so great,316,274,189
+529,traveler,reel,What a day!,950,98,24
+530,foodie,reel,Not so great,477,114,34
+531,student,story,Feeling awesome,218,11,26
+532,traveler,video,Feeling awesome,665,168,95
+533,foodie,image,Check this out!,323,107,75
+534,traveler,image,Could be better,285,112,67
+535,foodie,image,Amazing experience!,167,81,97
+536,traveler,image,Loved this!,232,109,23
+537,traveler,reel,Not so great,407,259,55
+538,student,reel,Not so great,873,194,130
+539,student,story,Amazing experience!,222,71,33
+540,influencer,image,Amazing experience!,387,105,68
+541,student,video,What a day!,960,152,20
+542,fitness,text,Highly recommended,154,30,40
+543,traveler,video,Amazing experience!,308,134,35
+544,foodie,story,What a day!,192,32,45
+545,influencer,image,Not so great,374,120,25
+546,developer,reel,What a day!,675,80,139
+547,developer,video,Feeling awesome,486,221,22
+548,traveler,reel,Check this out!,284,222,136
+549,developer,image,Loved this!,109,106,24
+550,student,text,Must watch!,190,63,10
+551,fitness,text,What a day!,232,58,32
+552,influencer,video,Check this out!,411,223,56
+553,influencer,reel,Could be better,247,297,74
+554,fitness,story,Not so great,273,61,16
+555,influencer,text,Feeling awesome,184,27,44
+556,influencer,image,What a day!,272,128,70
+557,traveler,video,Not so great,336,59,49
+558,influencer,text,Amazing experience!,68,99,33
+559,foodie,story,Could be better,271,93,20
+560,student,video,Not so great,828,101,161
+561,traveler,story,Feeling awesome,299,25,6
+562,student,image,What a day!,413,140,50
+563,foodie,text,Could be better,116,85,48
+564,traveler,text,Check this out!,285,100,19
+565,developer,image,Check this out!,330,134,54
+566,foodie,image,Loved this!,488,43,52
+567,student,story,Must watch!,147,29,37
+568,traveler,image,Must watch!,191,56,60
+569,influencer,story,Check this out!,214,80,16
+570,student,story,Check this out!,226,29,13
+571,student,reel,Check this out!,649,278,65
+572,influencer,text,Check this out!,257,58,47
+573,foodie,text,Highly recommended,88,16,25
+574,foodie,story,Highly recommended,210,73,46
+575,traveler,image,Check this out!,485,48,16
+576,developer,video,Could be better,802,228,109
+577,foodie,video,Must watch!,965,77,109
+578,developer,video,Must watch!,481,103,151
+579,developer,video,Amazing experience!,734,198,56
+580,foodie,video,Must watch!,603,169,73
+581,developer,video,Must watch!,382,97,144
+582,influencer,video,Feeling awesome,758,147,125
+583,influencer,text,Could be better,103,13,17
+584,fitness,text,Highly recommended,52,36,50
+585,influencer,reel,Must watch!,712,293,29
+586,foodie,story,Not so great,299,28,8
+587,student,video,Feeling awesome,345,187,125
+588,student,story,Highly recommended,164,44,24
+589,fitness,story,Check this out!,234,81,16
+590,fitness,story,Must watch!,168,29,32
+591,foodie,reel,Loved this!,692,180,191
+592,developer,image,Check this out!,291,134,84
+593,student,reel,Highly recommended,880,237,188
+594,student,video,Check this out!,937,179,128
+595,fitness,story,Check this out!,186,87,15
+596,developer,video,Loved this!,584,237,162
+597,traveler,reel,Must watch!,799,263,152
+598,foodie,text,Check this out!,198,33,49
+599,influencer,story,Must watch!,145,57,49
+600,influencer,image,Not so great,248,34,92
+601,student,reel,What a day!,704,242,142
+602,fitness,story,Must watch!,193,72,36
+603,traveler,video,Not so great,784,165,31
+604,traveler,video,Loved this!,494,107,89
+605,fitness,reel,Amazing experience!,787,76,198
+606,traveler,reel,Feeling awesome,754,239,80
+607,student,text,Not so great,239,35,11
+608,developer,image,Feeling awesome,464,116,39
+609,influencer,reel,Not so great,326,98,154
+610,foodie,video,Must watch!,229,268,198
+611,developer,image,Loved this!,138,96,39
+612,traveler,text,Not so great,64,46,47
+613,student,reel,Check this out!,604,102,199
+614,foodie,image,Amazing experience!,252,121,47
+615,student,reel,Amazing experience!,798,266,178
+616,foodie,video,Not so great,632,212,102
+617,foodie,reel,Feeling awesome,506,78,88
+618,student,text,Loved this!,291,41,17
+619,foodie,image,Feeling awesome,175,35,94
+620,developer,video,What a day!,384,70,157
+621,influencer,reel,Amazing experience!,566,164,136
+622,foodie,image,Must watch!,344,34,57
+623,student,story,Feeling awesome,247,28,10
+624,influencer,video,Not so great,812,77,119
+625,traveler,reel,Amazing experience!,588,135,106
+626,fitness,text,Highly recommended,255,95,26
+627,foodie,story,Not so great,230,48,7
+628,developer,text,Check this out!,105,43,15
+629,foodie,video,What a day!,778,88,55
+630,student,image,Must watch!,442,46,31
+631,student,text,Amazing experience!,221,83,41
+632,student,image,Check this out!,334,47,38
+633,student,image,Highly recommended,250,51,60
+634,fitness,image,Loved this!,238,64,84
+635,student,image,Highly recommended,287,90,37
+636,foodie,story,Must watch!,198,59,42
+637,fitness,text,Amazing experience!,73,81,14
+638,foodie,video,Could be better,206,217,144
+639,developer,reel,Feeling awesome,239,280,111
+640,traveler,reel,Could be better,534,97,62
+641,influencer,reel,Loved this!,493,246,188
+642,developer,image,Must watch!,324,62,56
+643,foodie,story,What a day!,94,74,40
+644,foodie,video,Check this out!,433,263,84
+645,foodie,video,Not so great,430,281,49
+646,traveler,text,Feeling awesome,300,42,13
+647,developer,image,Feeling awesome,321,52,47
+648,student,text,Could be better,114,88,42
+649,influencer,story,Check this out!,277,52,35
+650,foodie,image,Not so great,350,111,58
+651,traveler,video,Could be better,480,145,158
+652,traveler,reel,Amazing experience!,750,111,113
+653,fitness,video,Not so great,560,92,125
+654,traveler,story,Could be better,118,12,42
+655,student,video,Not so great,617,198,86
+656,developer,video,What a day!,655,190,134
+657,traveler,video,Not so great,655,223,33
+658,influencer,text,Could be better,153,17,42
+659,student,text,Not so great,154,26,26
+660,influencer,reel,Must watch!,532,74,132
+661,fitness,video,What a day!,941,181,67
+662,fitness,story,Highly recommended,223,81,31
+663,student,story,Could be better,184,95,5
+664,foodie,story,Not so great,157,37,8
+665,traveler,reel,Highly recommended,315,132,48
+666,fitness,reel,Must watch!,897,109,119
+667,fitness,image,Feeling awesome,250,21,33
+668,student,image,Feeling awesome,338,27,44
+669,student,reel,Check this out!,887,255,64
+670,student,story,Check this out!,89,73,9
+671,influencer,video,Amazing experience!,572,159,135
+672,foodie,image,Feeling awesome,323,91,63
+673,developer,image,Check this out!,303,126,61
+674,fitness,image,Not so great,322,66,19
+675,developer,image,Not so great,261,66,28
+676,developer,image,Not so great,132,145,36
+677,foodie,video,Check this out!,980,233,71
+678,fitness,image,Could be better,255,110,73
+679,influencer,reel,Highly recommended,350,286,128
+680,student,image,Feeling awesome,336,89,41
+681,fitness,video,Amazing experience!,513,148,22
+682,foodie,image,Check this out!,222,74,75
+683,fitness,text,Feeling awesome,140,89,33
+684,influencer,video,Loved this!,509,165,177
+685,fitness,video,Not so great,397,191,54
+686,student,video,Feeling awesome,351,95,174
+687,fitness,text,Feeling awesome,285,71,25
+688,foodie,video,Must watch!,426,247,49
+689,traveler,reel,Loved this!,808,190,59
+690,traveler,reel,Highly recommended,575,126,29
+691,developer,reel,Could be better,239,93,159
+692,traveler,text,Highly recommended,272,86,41
+693,student,story,Feeling awesome,66,58,19
+694,developer,story,Check this out!,265,29,42
+695,traveler,text,Amazing experience!,297,31,12
+696,fitness,reel,Loved this!,849,222,172
+697,fitness,text,Check this out!,211,24,25
+698,developer,video,Check this out!,783,141,161
+699,influencer,reel,Could be better,702,284,112
+700,influencer,image,Feeling awesome,114,85,78
+701,foodie,image,Highly recommended,414,55,89
+702,student,text,What a day!,245,51,16
+703,influencer,reel,Loved this!,978,62,109
+704,student,reel,Loved this!,502,204,32
+705,influencer,text,Feeling awesome,102,58,9
+706,foodie,image,Check this out!,254,126,85
+707,developer,image,Could be better,433,143,35
+708,traveler,video,Loved this!,635,299,190
+709,foodie,text,What a day!,180,28,18
+710,influencer,reel,Must watch!,516,97,94
+711,foodie,video,Highly recommended,938,270,66
+712,student,story,What a day!,295,65,30
+713,student,video,Loved this!,286,125,125
+714,traveler,text,Highly recommended,220,21,43
+715,developer,text,Amazing experience!,282,80,41
+716,student,video,Amazing experience!,966,198,34
+717,influencer,reel,Must watch!,409,53,179
+718,foodie,text,Must watch!,273,30,30
+719,foodie,story,What a day!,214,40,23
+720,student,reel,Loved this!,610,138,70
+721,influencer,image,Amazing experience!,228,38,52
+722,developer,story,Must watch!,239,79,36
+723,traveler,story,What a day!,163,76,18
+724,student,video,Feeling awesome,664,243,169
+725,traveler,story,Highly recommended,278,43,49
+726,influencer,story,Highly recommended,50,13,42
+727,student,reel,What a day!,892,272,64
+728,developer,image,Highly recommended,468,99,46
+729,student,story,Could be better,213,18,6
+730,influencer,reel,Must watch!,835,198,165
+731,student,image,Highly recommended,112,39,23
+732,developer,text,Amazing experience!,169,13,34
+733,traveler,image,Could be better,494,31,86
+734,traveler,story,Not so great,128,44,27
+735,foodie,image,Could be better,222,122,29
+736,fitness,image,Not so great,402,52,24
+737,influencer,reel,Highly recommended,325,108,60
+738,traveler,video,Not so great,578,76,157
+739,influencer,reel,Amazing experience!,254,190,147
+740,foodie,reel,Highly recommended,697,300,171
+741,student,image,Check this out!,358,78,23
+742,traveler,image,Amazing experience!,373,20,56
+743,student,reel,Check this out!,641,160,163
+744,student,video,Amazing experience!,971,107,31
+745,traveler,image,Amazing experience!,132,58,76
+746,influencer,video,Check this out!,978,109,196
+747,student,text,Could be better,257,55,20
+748,traveler,image,Amazing experience!,274,108,39
+749,fitness,video,Check this out!,564,224,33
+750,foodie,video,Check this out!,582,119,175
+751,developer,reel,Loved this!,905,144,38
+752,student,reel,Must watch!,367,201,64
+753,developer,text,Feeling awesome,214,31,16
+754,foodie,image,Must watch!,142,121,42
+755,fitness,story,Feeling awesome,155,76,17
+756,traveler,story,Must watch!,71,17,50
+757,fitness,reel,Must watch!,464,91,83
+758,influencer,video,Loved this!,609,107,61
+759,student,image,Loved this!,460,86,99
+760,fitness,reel,Check this out!,895,103,42
+761,traveler,image,What a day!,332,109,59
+762,foodie,video,Feeling awesome,729,101,116
+763,fitness,text,Highly recommended,83,71,24
+764,student,video,Amazing experience!,856,234,103
+765,foodie,reel,Highly recommended,723,278,189
+766,fitness,image,Must watch!,487,61,11
+767,influencer,image,Could be better,315,93,27
+768,student,video,Feeling awesome,851,260,80
+769,developer,image,Must watch!,155,120,73
+770,influencer,image,Not so great,139,63,58
+771,student,video,Amazing experience!,838,84,69
+772,traveler,text,Amazing experience!,113,56,19
+773,foodie,image,Amazing experience!,466,54,77
+774,foodie,story,Feeling awesome,212,35,50
+775,developer,video,Loved this!,944,119,160
+776,student,image,Not so great,448,43,88
+777,foodie,image,Loved this!,323,127,60
+778,student,video,What a day!,258,187,89
+779,traveler,text,Feeling awesome,120,93,33
+780,student,image,Not so great,125,35,72
+781,influencer,reel,What a day!,204,295,194
+782,developer,image,Loved this!,164,27,36
+783,developer,image,Not so great,255,45,75
+784,traveler,text,Amazing experience!,159,27,8
+785,foodie,story,Feeling awesome,276,74,14
+786,foodie,story,Must watch!,99,84,9
+787,influencer,reel,Must watch!,327,190,30
+788,developer,video,Feeling awesome,612,300,130
+789,traveler,story,Highly recommended,159,63,42
+790,student,video,Highly recommended,440,94,32
+791,traveler,story,Feeling awesome,129,61,34
+792,traveler,image,Amazing experience!,260,70,38
+793,developer,image,Feeling awesome,294,60,57
+794,student,image,Not so great,408,149,12
+795,influencer,reel,Not so great,373,262,47
+796,student,reel,Could be better,537,261,122
+797,traveler,video,What a day!,263,280,109
+798,fitness,reel,Check this out!,227,142,74
+799,student,image,Must watch!,420,64,94
+800,traveler,story,Highly recommended,60,39,8
+801,student,story,Amazing experience!,273,16,50
+802,influencer,video,Highly recommended,425,89,55
+803,foodie,story,Must watch!,139,76,26
+804,foodie,image,Highly recommended,245,130,81
+805,fitness,reel,Amazing experience!,346,194,75
+806,influencer,story,What a day!,116,27,35
+807,developer,video,Must watch!,447,116,147
+808,foodie,text,What a day!,237,55,49
+809,influencer,video,Check this out!,657,114,178
+810,developer,story,Loved this!,134,59,29
+811,traveler,reel,Could be better,422,102,149
+812,student,reel,Must watch!,627,199,82
+813,influencer,video,Must watch!,403,220,176
+814,influencer,text,Amazing experience!,108,87,9
+815,student,reel,Could be better,691,88,163
+816,fitness,video,What a day!,502,207,131
+817,foodie,story,Could be better,104,55,10
+818,traveler,video,Not so great,299,61,173
+819,influencer,text,Could be better,215,27,13
+820,influencer,video,Amazing experience!,413,191,161
+821,fitness,reel,Must watch!,268,234,183
+822,traveler,story,Could be better,143,39,19
+823,student,reel,What a day!,298,282,197
+824,foodie,reel,Loved this!,503,206,115
+825,developer,story,Must watch!,96,83,31
+826,student,image,Must watch!,116,53,45
+827,student,video,Check this out!,356,230,181
+828,foodie,image,Could be better,470,81,21
+829,traveler,video,Must watch!,892,127,86
+830,fitness,reel,Could be better,823,185,56
+831,foodie,reel,Must watch!,456,183,42
+832,developer,text,Must watch!,87,19,48
+833,traveler,story,Must watch!,117,75,12
+834,fitness,reel,Not so great,696,90,142
+835,student,video,Check this out!,219,203,148
+836,foodie,reel,Feeling awesome,431,239,107
+837,developer,story,Feeling awesome,213,76,10
+838,traveler,text,Loved this!,80,41,42
+839,traveler,reel,Check this out!,752,132,77
+840,influencer,video,Must watch!,447,195,88
+841,developer,video,Loved this!,674,136,190
+842,foodie,reel,Must watch!,542,159,26
+843,foodie,story,Not so great,243,13,13
+844,foodie,video,Not so great,542,196,171
+845,student,text,Check this out!,59,18,24
+846,influencer,story,Feeling awesome,132,48,45
+847,student,text,Amazing experience!,268,50,5
+848,student,video,Feeling awesome,720,205,38
+849,fitness,image,What a day!,286,102,98
+850,fitness,video,What a day!,650,237,32
+851,student,story,Not so great,142,33,46
+852,student,story,Check this out!,216,74,13
+853,developer,reel,Amazing experience!,218,291,80
+854,developer,story,Could be better,162,20,14
+855,student,text,Could be better,89,76,42
+856,student,video,Amazing experience!,922,249,33
+857,foodie,video,Highly recommended,310,105,163
+858,developer,story,Could be better,186,79,14
+859,student,video,What a day!,790,70,172
+860,foodie,reel,Loved this!,994,109,175
+861,developer,story,Feeling awesome,154,92,35
+862,student,image,Amazing experience!,159,42,20
+863,student,video,Check this out!,452,280,118
+864,fitness,text,Not so great,162,32,9
+865,student,story,Check this out!,170,85,31
+866,foodie,reel,Could be better,702,278,171
+867,influencer,reel,Feeling awesome,917,66,152
+868,influencer,video,Feeling awesome,442,77,78
+869,fitness,text,Must watch!,121,54,17
+870,developer,story,Must watch!,222,59,31
+871,developer,text,Not so great,60,12,24
+872,traveler,text,Loved this!,102,24,36
+873,developer,story,Loved this!,99,29,16
+874,traveler,reel,Must watch!,829,82,154
+875,influencer,video,Could be better,656,186,78
+876,student,story,Could be better,289,10,22
+877,foodie,text,Loved this!,113,68,22
+878,traveler,reel,Not so great,394,249,100
+879,fitness,image,Amazing experience!,135,22,46
+880,foodie,video,Must watch!,644,292,96
+881,developer,image,Could be better,434,49,24
+882,fitness,image,Loved this!,284,91,31
+883,foodie,image,Check this out!,383,106,43
+884,developer,image,Check this out!,246,91,26
+885,traveler,text,Could be better,228,25,31
+886,fitness,image,Highly recommended,340,115,30
+887,influencer,reel,What a day!,350,152,141
+888,influencer,image,What a day!,413,57,72
+889,developer,video,Feeling awesome,434,271,38
+890,influencer,video,Not so great,623,259,47
+891,developer,reel,Highly recommended,563,205,150
+892,traveler,video,Highly recommended,730,210,32
+893,traveler,text,Loved this!,142,44,32
+894,foodie,story,What a day!,252,73,18
+895,student,reel,Loved this!,247,94,189
+896,foodie,story,Must watch!,263,15,21
+897,foodie,image,Loved this!,124,131,53
+898,influencer,video,What a day!,270,162,56
+899,fitness,reel,Not so great,581,250,41
+900,fitness,text,Could be better,110,39,16
+901,traveler,reel,Highly recommended,591,195,26
+902,student,story,Not so great,204,52,21
+903,student,text,Check this out!,56,98,34
+904,fitness,video,Could be better,764,144,79
+905,foodie,image,Must watch!,230,42,60
+906,foodie,text,Feeling awesome,144,80,13
+907,foodie,image,Loved this!,331,72,39
+908,foodie,text,Amazing experience!,136,49,34
+909,student,video,Not so great,506,264,104
+910,fitness,text,Could be better,59,69,40
+911,developer,text,Must watch!,239,97,23
+912,foodie,reel,Highly recommended,642,151,110
+913,traveler,text,Could be better,195,32,22
+914,fitness,reel,Amazing experience!,488,201,37
+915,influencer,image,Could be better,196,42,82
+916,foodie,story,Not so great,67,89,15
+917,student,video,Check this out!,861,126,153
+918,student,story,Amazing experience!,177,96,44
+919,influencer,text,Could be better,173,53,42
+920,influencer,text,Amazing experience!,155,35,13
+921,fitness,text,Check this out!,222,48,36
+922,traveler,reel,Check this out!,349,118,43
+923,foodie,text,Loved this!,221,59,26
+924,fitness,video,Amazing experience!,248,267,179
+925,influencer,video,Loved this!,902,86,148
+926,student,image,What a day!,338,112,29
+927,traveler,video,Highly recommended,503,293,35
+928,influencer,story,Must watch!,142,80,11
+929,student,story,Check this out!,266,84,17
+930,influencer,video,What a day!,617,254,151
+931,developer,video,Check this out!,388,178,128
+932,student,image,Loved this!,178,30,23
+933,developer,story,Check this out!,172,95,41
+934,fitness,story,Highly recommended,108,96,5
+935,developer,image,Must watch!,349,73,80
+936,developer,image,Highly recommended,186,34,95
+937,student,story,Highly recommended,209,56,23
+938,influencer,reel,Highly recommended,357,241,23
+939,traveler,story,What a day!,264,19,9
+940,student,image,What a day!,496,133,29
+941,foodie,image,Feeling awesome,409,99,65
+942,influencer,reel,Check this out!,605,68,34
+943,student,video,Amazing experience!,332,94,115
+944,student,video,Feeling awesome,921,98,114
+945,influencer,image,Highly recommended,264,73,67
+946,fitness,text,Could be better,136,80,50
+947,foodie,text,Could be better,239,41,42
+948,influencer,image,Highly recommended,411,120,25
+949,influencer,story,What a day!,176,24,32
+950,traveler,image,Check this out!,424,65,26
+951,traveler,reel,Could be better,799,109,130
+952,traveler,video,Could be better,561,250,95
+953,student,reel,Loved this!,737,184,61
+954,influencer,image,Amazing experience!,371,109,18
+955,student,video,Loved this!,335,90,115
+956,traveler,video,Loved this!,404,208,101
+957,student,story,What a day!,262,78,5
+958,influencer,image,What a day!,144,69,27
+959,traveler,image,Must watch!,205,58,95
+960,fitness,video,Must watch!,306,167,140
+961,student,video,Not so great,768,218,154
+962,influencer,story,Highly recommended,94,58,34
+963,developer,image,Loved this!,367,46,67
+964,influencer,video,Not so great,729,173,36
+965,foodie,story,Check this out!,100,29,15
+966,fitness,video,Must watch!,783,186,92
+967,foodie,story,Could be better,66,13,23
+968,influencer,reel,Could be better,680,227,108
+969,fitness,text,Could be better,115,46,43
+970,influencer,image,Check this out!,133,77,56
+971,foodie,reel,What a day!,527,95,97
+972,student,image,Must watch!,197,128,93
+973,fitness,reel,Highly recommended,246,205,123
+974,traveler,video,Loved this!,396,67,123
+975,traveler,text,Must watch!,298,79,39
+976,traveler,text,Must watch!,250,16,47
+977,developer,video,Highly recommended,277,144,103
+978,fitness,video,Could be better,419,280,108
+979,developer,image,Check this out!,230,32,20
+980,influencer,text,Feeling awesome,75,11,30
+981,developer,image,What a day!,448,40,43
+982,foodie,reel,Loved this!,995,183,166
+983,student,text,Feeling awesome,187,56,21
+984,fitness,text,Loved this!,89,71,22
+985,influencer,story,Highly recommended,249,15,15
+986,student,story,Feeling awesome,281,53,7
+987,foodie,text,Loved this!,245,22,7
+988,developer,text,Highly recommended,69,52,45
+989,traveler,story,Could be better,89,15,23
+990,foodie,video,Loved this!,616,58,123
+991,developer,reel,Feeling awesome,907,224,191
+992,developer,text,Feeling awesome,249,92,25
+993,traveler,reel,Amazing experience!,401,280,112
+994,student,video,Loved this!,696,170,147
+995,student,story,Could be better,211,28,15
+996,developer,reel,Feeling awesome,884,130,160
+997,developer,story,Not so great,261,31,33
+998,traveler,video,Could be better,411,207,67
+999,fitness,reel,Must watch!,979,203,160
+1000,developer,story,Feeling awesome,122,28,17
+1001,traveler,video,Could be better,223,164,20
+1002,foodie,image,Check this out!,488,123,100
+1003,developer,image,Could be better,459,114,59
+1004,student,story,Not so great,132,67,39
+1005,fitness,video,What a day!,302,91,22
+1006,foodie,video,Loved this!,668,204,92
+1007,traveler,story,Check this out!,299,27,24
+1008,fitness,text,Highly recommended,167,19,33
+1009,developer,text,Loved this!,103,61,30
+1010,fitness,reel,What a day!,325,121,107
+1011,student,story,Highly recommended,55,98,8
+1012,traveler,image,Highly recommended,421,140,19
+1013,fitness,reel,Not so great,545,62,24
+1014,foodie,reel,Feeling awesome,359,58,184
+1015,student,reel,Could be better,971,292,63
+1016,influencer,video,Feeling awesome,922,195,197
+1017,influencer,story,Must watch!,166,93,24
+1018,student,story,Highly recommended,260,36,49
+1019,fitness,video,Not so great,672,222,121
+1020,influencer,video,Highly recommended,857,153,105
+1021,student,story,Could be better,168,90,33
+1022,fitness,video,Feeling awesome,884,145,99
+1023,student,video,Must watch!,609,180,200
+1024,developer,reel,Amazing experience!,202,99,94
+1025,influencer,video,Check this out!,955,235,98
+1026,foodie,story,Loved this!,105,71,6
+1027,fitness,text,Feeling awesome,237,64,19
+1028,student,story,Highly recommended,223,48,40
+1029,developer,reel,Not so great,727,212,22
+1030,influencer,text,What a day!,50,26,29
+1031,influencer,image,Highly recommended,321,84,14
+1032,foodie,story,Amazing experience!,173,74,40
+1033,developer,image,Could be better,336,104,69
+1034,foodie,text,Highly recommended,237,97,32
+1035,traveler,image,What a day!,195,139,82
+1036,student,video,Loved this!,976,192,38
+1037,student,text,Must watch!,228,72,23
+1038,student,story,Must watch!,253,92,31
+1039,developer,image,Loved this!,341,62,91
+1040,traveler,video,Feeling awesome,516,250,192
+1041,foodie,text,Amazing experience!,143,48,48
+1042,fitness,story,Loved this!,148,98,10
+1043,developer,video,Amazing experience!,514,190,126
+1044,developer,image,Must watch!,176,28,89
+1045,student,story,Loved this!,265,37,23
+1046,traveler,image,Feeling awesome,179,125,81
+1047,student,image,What a day!,146,30,18
+1048,developer,reel,Loved this!,836,215,92
+1049,fitness,text,Feeling awesome,268,74,25
+1050,developer,reel,Amazing experience!,474,279,170
+1051,influencer,story,Check this out!,97,47,8
+1052,influencer,reel,Check this out!,230,145,88
+1053,fitness,text,Could be better,122,87,16
+1054,student,text,Not so great,184,24,39
+1055,student,video,Check this out!,451,102,171
+1056,traveler,text,Amazing experience!,136,88,30
+1057,influencer,reel,Feeling awesome,848,263,183
+1058,developer,image,Loved this!,260,66,100
+1059,student,story,Feeling awesome,114,49,37
+1060,developer,video,Could be better,248,263,135
+1061,influencer,reel,Highly recommended,435,261,186
+1062,traveler,image,Amazing experience!,256,90,79
+1063,foodie,reel,Check this out!,823,174,140
+1064,developer,reel,Loved this!,909,297,90
+1065,fitness,reel,Amazing experience!,908,176,166
+1066,influencer,video,Amazing experience!,531,52,118
+1067,developer,image,Not so great,420,32,20
+1068,influencer,story,Amazing experience!,214,100,25
+1069,influencer,image,Loved this!,203,113,47
+1070,student,story,Must watch!,128,29,30
+1071,developer,reel,Highly recommended,633,173,132
+1072,traveler,text,Check this out!,207,31,10
+1073,developer,image,Could be better,499,79,71
+1074,traveler,video,Could be better,623,239,36
+1075,student,story,Feeling awesome,279,59,24
+1076,traveler,story,Must watch!,198,63,41
+1077,student,story,Check this out!,125,53,20
+1078,fitness,video,Check this out!,519,244,147
+1079,foodie,video,Highly recommended,442,172,147
+1080,traveler,story,Loved this!,51,40,6
+1081,fitness,text,Feeling awesome,204,88,8
+1082,student,text,Must watch!,260,26,37
+1083,fitness,story,Amazing experience!,105,79,31
+1084,developer,image,Amazing experience!,461,136,59
+1085,developer,text,Not so great,195,99,50
+1086,traveler,story,Check this out!,178,94,39
+1087,influencer,image,Feeling awesome,359,133,88
+1088,foodie,video,Amazing experience!,667,86,162
+1089,fitness,image,Not so great,463,38,71
+1090,fitness,reel,Loved this!,591,87,27
+1091,fitness,reel,Feeling awesome,817,80,33
+1092,traveler,reel,What a day!,334,181,169
+1093,fitness,story,Must watch!,65,57,41
+1094,traveler,reel,Loved this!,496,161,95
+1095,influencer,story,Check this out!,100,45,32
+1096,traveler,video,Must watch!,479,256,91
+1097,traveler,reel,What a day!,363,154,79
+1098,developer,reel,Amazing experience!,579,168,97
+1099,influencer,image,Amazing experience!,346,30,91
+1100,influencer,video,What a day!,792,230,199
+1101,fitness,image,Check this out!,343,90,24
+1102,student,story,What a day!,151,83,41
+1103,student,image,Must watch!,398,124,35
+1104,traveler,image,Loved this!,108,63,17
+1105,influencer,image,Not so great,474,128,49
+1106,influencer,image,Check this out!,262,31,48
+1107,traveler,story,Could be better,50,22,48
+1108,influencer,video,Feeling awesome,522,113,49
+1109,developer,story,Loved this!,218,46,10
+1110,influencer,video,What a day!,965,296,75
+1111,traveler,reel,Must watch!,835,105,43
+1112,traveler,text,What a day!,56,39,28
+1113,developer,text,Feeling awesome,178,55,17
+1114,influencer,reel,Must watch!,224,217,198
+1115,developer,video,Amazing experience!,892,280,41
+1116,traveler,image,Must watch!,383,36,61
+1117,traveler,story,Loved this!,90,75,42
+1118,traveler,story,Loved this!,195,23,15
+1119,fitness,text,Loved this!,99,35,45
+1120,fitness,story,Amazing experience!,257,71,43
+1121,developer,video,Feeling awesome,454,145,159
+1122,developer,reel,Feeling awesome,497,298,47
+1123,student,story,Check this out!,294,78,25
+1124,traveler,text,Feeling awesome,209,74,41
+1125,student,video,Could be better,398,251,177
+1126,student,text,Amazing experience!,129,87,11
+1127,fitness,story,Could be better,126,39,39
+1128,foodie,reel,Must watch!,856,186,92
+1129,developer,video,Not so great,543,148,101
+1130,traveler,video,Could be better,921,300,82
+1131,fitness,text,What a day!,287,48,8
+1132,traveler,video,Could be better,228,121,68
+1133,influencer,story,Could be better,272,46,49
+1134,traveler,text,What a day!,159,100,28
+1135,foodie,video,What a day!,310,241,179
+1136,student,video,Loved this!,442,222,165
+1137,developer,video,Check this out!,719,208,184
+1138,fitness,text,Must watch!,53,39,45
+1139,student,text,Not so great,52,69,26
+1140,influencer,reel,What a day!,452,186,103
+1141,traveler,image,Not so great,155,47,51
+1142,developer,story,Loved this!,131,36,22
+1143,foodie,reel,Could be better,457,193,50
+1144,fitness,text,What a day!,59,29,40
+1145,foodie,story,What a day!,141,47,38
+1146,foodie,video,Not so great,380,160,125
+1147,fitness,reel,What a day!,999,268,20
+1148,foodie,text,Amazing experience!,73,10,11
+1149,fitness,reel,Could be better,477,129,50
+1150,developer,image,Feeling awesome,305,117,57
+1151,foodie,video,Amazing experience!,449,87,120
+1152,student,text,Could be better,267,17,31
+1153,developer,video,Loved this!,581,59,143
+1154,developer,image,Highly recommended,245,105,32
+1155,developer,reel,Amazing experience!,648,222,124
+1156,traveler,story,Loved this!,214,29,40
+1157,traveler,text,Must watch!,205,28,24
+1158,student,image,Not so great,455,58,21
+1159,traveler,text,Amazing experience!,85,84,21
+1160,developer,reel,Highly recommended,578,259,104
+1161,developer,story,Must watch!,280,35,49
+1162,student,image,Could be better,282,108,40
+1163,traveler,video,Loved this!,206,170,94
+1164,developer,image,Check this out!,289,68,73
+1165,fitness,story,Could be better,71,63,16
+1166,fitness,video,Feeling awesome,662,141,41
+1167,traveler,video,Check this out!,409,233,114
+1168,influencer,reel,Not so great,459,119,46
+1169,developer,reel,What a day!,754,107,147
+1170,influencer,story,Amazing experience!,172,19,13
+1171,developer,video,Highly recommended,246,142,186
+1172,fitness,reel,Check this out!,767,218,196
+1173,foodie,image,Could be better,298,37,81
+1174,foodie,story,Check this out!,105,65,16
+1175,developer,text,Feeling awesome,81,27,14
+1176,traveler,story,Must watch!,152,23,14
+1177,developer,story,Check this out!,79,92,49
+1178,developer,video,Could be better,920,150,168
+1179,influencer,reel,Not so great,719,103,154
+1180,influencer,image,Not so great,459,39,59
+1181,student,video,Loved this!,824,189,99
+1182,fitness,image,What a day!,479,81,71
+1183,student,reel,Loved this!,933,235,36
+1184,fitness,reel,Amazing experience!,661,300,176
+1185,developer,text,Must watch!,131,15,7
+1186,influencer,video,Check this out!,624,176,57
+1187,traveler,video,Check this out!,604,184,142
+1188,influencer,image,Could be better,241,98,71
+1189,foodie,story,Loved this!,204,73,5
+1190,developer,text,What a day!,254,87,17
+1191,student,video,What a day!,459,155,62
+1192,student,text,Not so great,158,42,8
+1193,influencer,story,Must watch!,196,31,24
+1194,student,reel,Loved this!,542,209,143
+1195,foodie,text,Check this out!,219,71,38
+1196,influencer,video,Could be better,516,249,126
+1197,influencer,story,Could be better,197,37,22
+1198,developer,image,Highly recommended,155,31,51
+1199,fitness,reel,Must watch!,999,64,136
+1200,fitness,image,Must watch!,126,117,66
+1201,foodie,text,Highly recommended,211,54,33
+1202,fitness,image,Check this out!,294,52,45
+1203,foodie,image,Check this out!,355,24,53
+1204,traveler,video,Check this out!,530,285,70
+1205,foodie,image,Loved this!,328,21,25
+1206,foodie,video,What a day!,995,256,67
+1207,traveler,reel,Check this out!,351,213,82
+1208,student,story,Feeling awesome,106,88,42
+1209,traveler,text,Feeling awesome,103,27,34
+1210,developer,reel,Highly recommended,425,253,118
+1211,developer,image,Must watch!,395,76,49
+1212,foodie,reel,Check this out!,945,231,168
+1213,student,video,Could be better,895,147,85
+1214,fitness,story,Loved this!,200,25,22
+1215,student,image,Loved this!,498,73,23
+1216,influencer,image,Not so great,191,72,85
+1217,developer,video,Feeling awesome,205,176,105
+1218,traveler,reel,Not so great,459,124,45
+1219,fitness,image,Could be better,111,44,21
+1220,fitness,text,Not so great,227,14,38
+1221,foodie,text,Could be better,93,68,20
+1222,developer,text,Feeling awesome,233,25,34
+1223,foodie,video,Loved this!,227,163,130
+1224,developer,text,What a day!,282,97,32
+1225,developer,image,Could be better,187,25,37
+1226,foodie,video,Check this out!,717,256,52
+1227,influencer,story,Highly recommended,234,25,16
+1228,student,reel,What a day!,892,205,105
+1229,developer,image,Check this out!,273,48,90
+1230,foodie,story,Not so great,143,47,47
+1231,influencer,image,Highly recommended,283,92,59
+1232,foodie,video,What a day!,440,193,180
+1233,developer,video,Feeling awesome,603,222,176
+1234,fitness,image,Amazing experience!,449,80,86
+1235,foodie,reel,Loved this!,952,211,149
+1236,student,text,Loved this!,114,65,18
+1237,foodie,story,What a day!,79,86,39
+1238,traveler,story,Amazing experience!,236,33,5
+1239,influencer,video,What a day!,878,147,121
+1240,foodie,image,Must watch!,486,79,26
+1241,fitness,video,What a day!,806,90,77
+1242,influencer,story,Check this out!,287,14,9
+1243,fitness,image,Must watch!,128,93,81
+1244,developer,reel,Must watch!,627,170,114
+1245,fitness,reel,Not so great,937,289,56
+1246,foodie,reel,Not so great,765,165,181
+1247,fitness,story,Could be better,91,18,33
+1248,traveler,reel,Could be better,803,68,27
+1249,student,image,Not so great,281,21,80
+1250,traveler,text,Must watch!,227,50,42
+1251,fitness,story,Loved this!,98,67,37
+1252,developer,story,Not so great,240,97,25
+1253,developer,reel,Check this out!,457,66,50
+1254,foodie,video,Could be better,291,210,46
+1255,fitness,story,What a day!,133,10,21
+1256,influencer,story,Not so great,59,100,42
+1257,influencer,video,Highly recommended,425,214,23
+1258,student,text,Feeling awesome,60,79,27
+1259,foodie,reel,Highly recommended,232,113,170
+1260,traveler,image,What a day!,376,132,58
+1261,student,image,Feeling awesome,293,52,75
+1262,fitness,story,Must watch!,298,48,30
+1263,foodie,image,Must watch!,466,42,48
+1264,developer,video,Amazing experience!,215,131,193
+1265,student,video,Feeling awesome,276,257,155
+1266,fitness,video,Feeling awesome,605,233,159
+1267,traveler,video,Could be better,534,168,80
+1268,fitness,video,Could be better,940,282,36
+1269,developer,story,Must watch!,212,46,6
+1270,foodie,story,Feeling awesome,61,35,43
+1271,developer,reel,Check this out!,539,89,166
+1272,foodie,reel,Check this out!,676,152,27
+1273,student,story,Feeling awesome,106,98,30
+1274,developer,story,Highly recommended,298,42,42
+1275,developer,story,What a day!,130,77,29
+1276,foodie,story,Not so great,69,37,26
+1277,developer,story,Loved this!,171,60,11
+1278,traveler,image,Must watch!,298,32,77
+1279,influencer,video,Feeling awesome,915,88,176
+1280,influencer,text,Check this out!,137,30,7
+1281,developer,story,What a day!,284,79,35
+1282,fitness,reel,Could be better,266,210,106
+1283,developer,image,What a day!,276,27,29
+1284,student,image,Amazing experience!,173,76,78
+1285,developer,story,Could be better,293,68,19
+1286,student,text,Could be better,167,21,45
+1287,influencer,story,Amazing experience!,63,70,18
+1288,student,text,What a day!,207,33,9
+1289,developer,story,What a day!,230,37,44
+1290,developer,text,Feeling awesome,278,67,36
+1291,developer,text,Loved this!,274,28,22
+1292,influencer,text,Loved this!,296,91,36
+1293,developer,reel,Could be better,440,241,130
+1294,traveler,story,Amazing experience!,78,85,23
+1295,developer,reel,Must watch!,235,212,200
+1296,student,video,Highly recommended,762,123,194
+1297,traveler,video,Amazing experience!,478,279,199
+1298,fitness,video,Loved this!,376,118,162
+1299,traveler,image,Check this out!,322,88,42
+1300,developer,reel,Could be better,405,148,26
+1301,fitness,video,Check this out!,447,89,24
+1302,influencer,video,Loved this!,723,142,63
+1303,foodie,reel,Not so great,512,114,137
+1304,fitness,reel,Must watch!,606,56,193
+1305,fitness,image,Not so great,227,43,80
+1306,student,text,Amazing experience!,193,57,42
+1307,influencer,reel,Could be better,892,153,139
+1308,traveler,reel,Loved this!,874,198,34
+1309,developer,image,Check this out!,210,40,41
+1310,traveler,video,Highly recommended,322,158,45
+1311,traveler,reel,Must watch!,859,176,46
+1312,foodie,text,Check this out!,172,68,5
+1313,foodie,story,Could be better,168,94,15
+1314,fitness,image,Could be better,177,142,100
+1315,traveler,story,Must watch!,182,98,42
+1316,student,reel,Highly recommended,817,105,53
+1317,influencer,video,Must watch!,919,104,153
+1318,student,image,Must watch!,188,24,29
+1319,influencer,reel,Amazing experience!,655,143,138
+1320,traveler,reel,Not so great,207,279,66
+1321,student,story,Must watch!,67,87,46
+1322,influencer,story,Amazing experience!,129,46,50
+1323,influencer,story,Feeling awesome,66,57,38
+1324,foodie,story,Not so great,104,59,33
+1325,fitness,reel,Not so great,413,60,68
+1326,student,video,Loved this!,612,294,51
+1327,developer,story,What a day!,267,16,5
+1328,traveler,text,Amazing experience!,88,100,27
+1329,influencer,text,Could be better,274,49,23
+1330,developer,reel,Highly recommended,775,239,110
+1331,traveler,text,Check this out!,83,49,10
+1332,student,video,Feeling awesome,475,180,42
+1333,fitness,video,Highly recommended,676,236,164
+1334,student,text,Feeling awesome,133,91,47
+1335,influencer,image,Feeling awesome,267,62,74
+1336,developer,video,Could be better,572,114,179
+1337,traveler,video,Highly recommended,445,205,121
+1338,influencer,video,Check this out!,888,251,144
+1339,influencer,reel,Check this out!,477,145,49
+1340,foodie,reel,Loved this!,931,298,195
+1341,foodie,text,Highly recommended,124,45,8
+1342,developer,reel,What a day!,601,165,35
+1343,traveler,reel,Must watch!,607,247,54
+1344,student,video,Must watch!,865,269,40
+1345,developer,video,Not so great,544,80,175
+1346,influencer,reel,Feeling awesome,655,107,102
+1347,traveler,story,What a day!,183,25,24
+1348,foodie,reel,Highly recommended,510,251,82
+1349,influencer,text,Loved this!,170,80,43
+1350,student,reel,Feeling awesome,321,162,97
+1351,influencer,text,Not so great,161,75,5
+1352,traveler,reel,Check this out!,742,144,67
+1353,influencer,video,Must watch!,265,213,79
+1354,developer,reel,Could be better,904,142,82
+1355,fitness,reel,Not so great,236,203,131
+1356,influencer,image,Check this out!,329,114,13
+1357,student,video,Not so great,731,113,121
+1358,fitness,text,Feeling awesome,101,42,35
+1359,foodie,video,Must watch!,633,156,128
+1360,influencer,reel,Feeling awesome,268,109,143
+1361,influencer,video,What a day!,427,236,187
+1362,fitness,image,Amazing experience!,358,47,74
+1363,foodie,image,Not so great,231,56,76
+1364,influencer,image,Loved this!,188,21,59
+1365,developer,story,Loved this!,121,74,16
+1366,foodie,story,What a day!,221,36,7
+1367,fitness,story,Not so great,169,71,5
+1368,influencer,text,What a day!,153,34,43
+1369,fitness,image,Loved this!,220,41,99
+1370,fitness,reel,Highly recommended,671,179,32
+1371,influencer,reel,Highly recommended,578,234,200
+1372,influencer,video,Amazing experience!,645,246,158
+1373,developer,reel,Not so great,588,156,162
+1374,fitness,text,Check this out!,118,77,19
+1375,traveler,video,Check this out!,216,83,109
+1376,developer,image,Check this out!,342,92,66
+1377,fitness,text,Could be better,103,27,13
+1378,student,text,Could be better,135,48,21
+1379,student,story,Loved this!,218,75,36
+1380,fitness,video,What a day!,986,201,122
+1381,developer,image,Highly recommended,148,36,17
+1382,developer,text,What a day!,210,53,29
+1383,student,story,Feeling awesome,75,32,46
+1384,developer,image,Not so great,328,129,77
+1385,traveler,image,Check this out!,429,114,99
+1386,student,reel,Amazing experience!,858,246,87
+1387,student,image,Not so great,305,44,62
+1388,foodie,story,Amazing experience!,225,99,40
+1389,student,reel,Amazing experience!,313,205,43
+1390,foodie,text,Check this out!,52,57,35
+1391,student,story,Feeling awesome,69,27,41
+1392,influencer,image,Amazing experience!,149,79,46
+1393,fitness,story,Not so great,284,61,26
+1394,student,reel,Not so great,662,255,133
+1395,student,reel,Must watch!,467,281,105
+1396,student,reel,Not so great,889,162,200
+1397,student,video,Loved this!,314,127,144
+1398,fitness,image,Highly recommended,441,69,41
+1399,foodie,reel,Highly recommended,987,197,79
+1400,fitness,image,Must watch!,264,74,28
+1401,student,story,What a day!,109,30,42
+1402,traveler,image,What a day!,420,95,81
+1403,fitness,image,What a day!,407,22,58
+1404,traveler,text,Must watch!,219,95,17
+1405,traveler,video,Must watch!,247,143,129
+1406,student,image,Amazing experience!,313,32,68
+1407,traveler,image,Feeling awesome,394,55,34
+1408,student,text,Check this out!,79,87,46
+1409,developer,text,Not so great,161,64,30
+1410,influencer,reel,Not so great,948,89,144
+1411,foodie,reel,Loved this!,406,134,119
+1412,influencer,video,Must watch!,686,57,141
+1413,traveler,story,Must watch!,294,17,20
+1414,traveler,story,Amazing experience!,63,13,7
+1415,developer,text,Feeling awesome,196,52,34
+1416,foodie,image,Feeling awesome,378,72,27
+1417,fitness,story,Could be better,105,41,10
+1418,traveler,image,Must watch!,401,132,84
+1419,traveler,text,What a day!,66,23,22
+1420,foodie,story,What a day!,135,24,48
+1421,fitness,reel,Amazing experience!,920,79,184
+1422,developer,reel,Amazing experience!,839,298,111
+1423,developer,image,Amazing experience!,325,143,88
+1424,student,video,Must watch!,299,175,114
+1425,fitness,text,Highly recommended,119,66,43
+1426,traveler,text,Feeling awesome,66,22,45
+1427,foodie,reel,Amazing experience!,690,278,97
+1428,foodie,reel,Feeling awesome,355,101,60
+1429,student,video,Feeling awesome,673,149,141
+1430,foodie,video,Not so great,334,288,139
+1431,traveler,video,What a day!,756,281,198
+1432,developer,video,Check this out!,728,214,103
+1433,fitness,reel,Loved this!,391,106,115
+1434,fitness,video,Highly recommended,980,227,148
+1435,foodie,reel,Loved this!,315,78,150
+1436,traveler,story,Feeling awesome,59,62,12
+1437,foodie,story,Not so great,110,21,35
+1438,traveler,text,Amazing experience!,285,53,19
+1439,developer,text,What a day!,50,54,24
+1440,developer,reel,Amazing experience!,386,64,155
+1441,foodie,image,Could be better,164,33,58
+1442,traveler,reel,Check this out!,600,171,149
+1443,fitness,image,Not so great,114,105,44
+1444,foodie,story,Check this out!,219,78,37
+1445,student,text,Loved this!,140,30,35
+1446,traveler,reel,Check this out!,962,248,116
+1447,traveler,video,Check this out!,590,253,137
+1448,traveler,story,Loved this!,185,59,16
+1449,student,video,Not so great,979,94,186
+1450,developer,story,Check this out!,160,74,47
+1451,traveler,story,Highly recommended,231,69,23
+1452,influencer,text,Check this out!,291,48,24
+1453,student,reel,Highly recommended,291,259,136
+1454,developer,story,Loved this!,130,37,42
+1455,developer,text,Could be better,292,59,25
+1456,developer,story,Must watch!,75,73,44
+1457,fitness,story,Not so great,257,87,38
+1458,influencer,text,Could be better,299,37,5
+1459,developer,story,Could be better,50,93,32
+1460,fitness,video,Must watch!,781,79,119
+1461,influencer,video,Could be better,667,149,96
+1462,fitness,video,Amazing experience!,370,241,49
+1463,foodie,video,Amazing experience!,659,232,86
+1464,foodie,video,Amazing experience!,359,139,96
+1465,fitness,story,What a day!,61,80,6
+1466,traveler,video,Feeling awesome,383,151,57
+1467,influencer,text,Amazing experience!,163,48,23
+1468,influencer,image,Must watch!,125,142,65
+1469,traveler,text,Highly recommended,195,38,22
+1470,foodie,reel,Not so great,501,61,44
+1471,influencer,story,Highly recommended,248,57,22
+1472,traveler,story,Amazing experience!,112,20,38
+1473,developer,story,Not so great,50,31,32
+1474,fitness,story,Could be better,117,77,47
+1475,traveler,video,Amazing experience!,652,74,126
+1476,student,image,Feeling awesome,388,123,22
+1477,traveler,video,Must watch!,893,89,155
+1478,fitness,video,Must watch!,948,100,131
+1479,student,image,Amazing experience!,218,98,50
+1480,developer,story,Must watch!,155,41,36
+1481,fitness,story,Loved this!,117,23,41
+1482,traveler,story,Could be better,152,22,20
+1483,fitness,story,Not so great,277,31,22
+1484,developer,video,Must watch!,816,238,57
+1485,fitness,video,Check this out!,481,272,143
+1486,traveler,text,What a day!,285,67,14
+1487,traveler,text,Feeling awesome,201,96,36
+1488,foodie,reel,Loved this!,808,225,62
+1489,fitness,reel,Feeling awesome,333,257,34
+1490,fitness,image,Not so great,200,58,16
+1491,fitness,image,Amazing experience!,258,100,30
+1492,influencer,text,What a day!,292,31,47
+1493,developer,story,Not so great,247,91,20
+1494,traveler,video,Could be better,207,201,36
+1495,student,video,What a day!,912,265,191
+1496,student,story,Loved this!,72,81,42
+1497,influencer,story,Loved this!,270,88,35
+1498,traveler,story,Amazing experience!,197,57,6
+1499,developer,image,Amazing experience!,442,143,50
+1500,influencer,video,Amazing experience!,672,77,42
+1501,foodie,video,Could be better,740,180,84
+1502,fitness,story,Check this out!,229,88,6
+1503,influencer,reel,Highly recommended,685,227,52
+1504,student,story,Amazing experience!,159,79,31
+1505,student,story,Amazing experience!,80,78,5
+1506,influencer,image,Check this out!,373,57,65
+1507,traveler,text,Feeling awesome,113,92,25
+1508,developer,image,Highly recommended,496,87,52
+1509,traveler,video,Highly recommended,218,156,48
+1510,influencer,image,Must watch!,280,134,64
+1511,influencer,story,Not so great,271,20,29
+1512,traveler,story,Must watch!,63,49,12
+1513,foodie,video,Loved this!,354,96,23
+1514,developer,text,Not so great,166,91,8
+1515,traveler,reel,Not so great,836,128,79
+1516,foodie,reel,What a day!,567,78,98
+1517,traveler,image,Check this out!,369,126,85
+1518,fitness,image,What a day!,155,103,16
+1519,influencer,text,Must watch!,245,24,37
+1520,developer,story,Loved this!,88,59,36
+1521,traveler,story,Not so great,218,14,20
+1522,traveler,reel,Amazing experience!,684,171,200
+1523,developer,image,Feeling awesome,367,120,72
+1524,traveler,text,What a day!,234,42,9
+1525,foodie,reel,Not so great,803,228,58
+1526,influencer,text,Feeling awesome,129,77,25
+1527,influencer,image,Check this out!,313,122,31
+1528,influencer,story,Must watch!,236,43,46
+1529,traveler,image,Must watch!,400,124,99
+1530,fitness,text,Must watch!,220,61,10
+1531,traveler,story,Could be better,71,83,9
+1532,developer,text,Must watch!,232,31,49
+1533,influencer,story,Must watch!,65,71,16
+1534,foodie,story,Could be better,180,57,24
+1535,fitness,story,Amazing experience!,82,29,36
+1536,student,image,Loved this!,187,37,35
+1537,traveler,reel,Highly recommended,924,278,113
+1538,fitness,text,Feeling awesome,186,63,24
+1539,influencer,story,Not so great,93,37,35
+1540,influencer,image,What a day!,135,38,87
+1541,student,image,Must watch!,333,116,52
+1542,traveler,video,Check this out!,251,115,141
+1543,traveler,video,Could be better,633,114,188
+1544,foodie,video,Loved this!,804,123,184
+1545,influencer,reel,Could be better,399,294,48
+1546,developer,text,Feeling awesome,294,27,25
+1547,foodie,story,Could be better,243,26,29
+1548,student,video,Could be better,619,150,155
+1549,influencer,text,Could be better,148,29,46
+1550,student,reel,Must watch!,619,267,116
+1551,student,image,Must watch!,342,140,43
+1552,fitness,video,Feeling awesome,557,174,151
+1553,developer,story,Could be better,275,95,43
+1554,developer,image,Highly recommended,126,73,98
+1555,traveler,reel,Amazing experience!,724,178,32
+1556,fitness,reel,Amazing experience!,946,252,138
+1557,traveler,story,Check this out!,157,48,28
+1558,student,story,Feeling awesome,205,44,29
+1559,traveler,text,Must watch!,246,77,30
+1560,foodie,video,Highly recommended,267,277,85
+1561,developer,story,Feeling awesome,263,57,40
+1562,foodie,text,Feeling awesome,281,68,23
+1563,student,reel,Highly recommended,788,98,95
+1564,student,image,Not so great,100,50,18
+1565,student,text,Feeling awesome,295,61,11
+1566,fitness,reel,Must watch!,595,160,22
+1567,influencer,text,Check this out!,233,68,16
+1568,foodie,video,What a day!,247,178,186
+1569,student,video,What a day!,800,165,55
+1570,traveler,reel,Highly recommended,246,210,189
+1571,influencer,text,Feeling awesome,206,15,20
+1572,influencer,story,Loved this!,75,85,34
+1573,traveler,story,Must watch!,175,29,5
+1574,fitness,video,Not so great,773,154,47
+1575,student,story,Loved this!,190,28,22
+1576,influencer,image,Highly recommended,314,50,89
+1577,developer,story,What a day!,177,27,5
+1578,fitness,story,Must watch!,286,22,37
+1579,fitness,reel,Not so great,561,286,110
+1580,fitness,story,Loved this!,144,32,14
+1581,foodie,story,Must watch!,187,13,6
+1582,traveler,reel,What a day!,447,154,59
+1583,influencer,reel,Highly recommended,915,249,41
+1584,traveler,story,Could be better,82,75,20
+1585,fitness,video,Could be better,995,258,106
+1586,fitness,story,What a day!,159,37,39
+1587,influencer,story,Loved this!,96,65,8
+1588,influencer,text,Amazing experience!,263,80,35
+1589,foodie,story,Not so great,90,83,43
+1590,traveler,story,Highly recommended,193,72,19
+1591,traveler,video,Loved this!,664,242,200
+1592,traveler,image,Feeling awesome,137,60,17
+1593,developer,video,Check this out!,296,249,184
+1594,influencer,image,Could be better,116,110,88
+1595,fitness,video,Loved this!,825,85,99
+1596,student,video,Must watch!,317,126,160
+1597,developer,video,Feeling awesome,592,215,110
+1598,influencer,video,Loved this!,928,50,69
+1599,student,video,Loved this!,574,229,182
+1600,traveler,story,Check this out!,146,70,41
+1601,traveler,video,Amazing experience!,388,281,61
+1602,fitness,text,Loved this!,98,54,46
+1603,foodie,reel,Loved this!,220,100,174
+1604,foodie,image,Highly recommended,328,82,91
+1605,developer,video,Not so great,746,200,85
+1606,influencer,story,Amazing experience!,72,77,30
+1607,developer,reel,Feeling awesome,518,128,177
+1608,student,reel,What a day!,267,229,139
+1609,developer,image,Highly recommended,445,109,38
+1610,fitness,story,What a day!,228,76,10
+1611,influencer,video,Highly recommended,419,268,39
+1612,student,video,Feeling awesome,969,246,116
+1613,traveler,story,Could be better,232,77,8
+1614,traveler,text,Check this out!,94,33,15
+1615,developer,image,Check this out!,276,150,23
+1616,student,reel,Not so great,990,192,29
+1617,influencer,video,Check this out!,691,60,133
+1618,foodie,story,Feeling awesome,112,77,20
+1619,student,story,Feeling awesome,247,78,38
+1620,student,video,Amazing experience!,714,89,175
+1621,foodie,text,Check this out!,237,61,23
+1622,traveler,story,Loved this!,144,57,13
+1623,influencer,reel,Could be better,568,100,81
+1624,developer,story,What a day!,259,74,44
+1625,influencer,image,Could be better,482,54,47
+1626,developer,text,Could be better,300,29,16
+1627,traveler,text,Must watch!,76,43,17
+1628,developer,text,Highly recommended,130,71,12
+1629,influencer,image,Feeling awesome,326,118,34
+1630,developer,reel,Check this out!,871,198,58
+1631,fitness,text,Feeling awesome,280,32,14
+1632,traveler,reel,What a day!,615,215,145
+1633,foodie,video,Check this out!,488,299,94
+1634,developer,reel,What a day!,774,250,121
+1635,foodie,text,Could be better,124,11,36
+1636,influencer,text,Must watch!,151,42,6
+1637,fitness,video,What a day!,944,95,91
+1638,influencer,image,Highly recommended,340,150,13
+1639,fitness,story,Loved this!,284,73,48
+1640,traveler,story,Check this out!,146,15,29
+1641,traveler,text,Not so great,154,45,20
+1642,traveler,reel,Loved this!,272,110,178
+1643,traveler,reel,Amazing experience!,760,125,129
+1644,traveler,reel,Amazing experience!,411,262,124
+1645,developer,reel,Must watch!,765,145,155
+1646,student,story,Highly recommended,219,91,42
+1647,traveler,reel,Must watch!,788,220,116
+1648,influencer,video,What a day!,203,221,152
+1649,fitness,image,What a day!,199,94,65
+1650,fitness,video,Could be better,619,245,144
+1651,influencer,image,Amazing experience!,269,33,21
+1652,foodie,story,Feeling awesome,251,67,28
+1653,developer,text,Must watch!,111,41,34
+1654,student,story,Loved this!,68,53,38
+1655,fitness,story,Amazing experience!,146,65,44
+1656,student,reel,Must watch!,700,72,25
+1657,fitness,story,Check this out!,246,11,43
+1658,influencer,story,What a day!,51,18,20
+1659,traveler,reel,Amazing experience!,821,269,50
+1660,developer,reel,Must watch!,944,266,109
+1661,foodie,image,Must watch!,380,37,77
+1662,influencer,story,Could be better,123,70,22
+1663,influencer,video,Highly recommended,832,283,112
+1664,developer,reel,Feeling awesome,355,272,133
+1665,developer,text,Feeling awesome,109,67,11
+1666,influencer,story,Not so great,149,93,21
+1667,fitness,image,Highly recommended,428,125,33
+1668,student,story,Loved this!,118,73,41
+1669,student,text,Not so great,223,74,24
+1670,student,text,Highly recommended,180,79,29
+1671,student,image,Could be better,187,86,61
+1672,student,story,Amazing experience!,286,39,34
+1673,foodie,text,Not so great,189,26,35
+1674,fitness,video,Check this out!,875,230,86
+1675,foodie,story,Must watch!,114,34,18
+1676,influencer,story,Amazing experience!,293,60,46
+1677,developer,video,Loved this!,825,184,95
+1678,influencer,story,Amazing experience!,101,86,5
+1679,student,image,What a day!,465,74,63
+1680,influencer,video,Loved this!,485,191,134
+1681,influencer,text,What a day!,102,10,11
+1682,developer,video,Must watch!,767,157,76
+1683,student,reel,Could be better,638,218,84
+1684,developer,text,Highly recommended,275,16,17
+1685,influencer,image,Loved this!,133,28,46
+1686,student,story,Check this out!,251,27,44
+1687,student,text,Could be better,195,31,30
+1688,developer,story,Could be better,189,63,50
+1689,developer,reel,Amazing experience!,669,216,117
+1690,fitness,reel,Amazing experience!,366,243,146
+1691,traveler,reel,Not so great,718,175,166
+1692,influencer,story,Loved this!,186,40,26
+1693,student,text,Not so great,118,56,14
+1694,influencer,video,Feeling awesome,614,104,67
+1695,foodie,text,Could be better,212,33,16
+1696,foodie,reel,Check this out!,846,251,77
+1697,foodie,reel,Must watch!,539,235,88
+1698,influencer,text,Feeling awesome,122,67,25
+1699,fitness,image,Feeling awesome,422,32,52
+1700,foodie,text,Not so great,223,69,27
+1701,student,text,What a day!,201,43,38
+1702,influencer,image,Must watch!,179,27,91
+1703,influencer,text,Could be better,211,35,19
+1704,fitness,video,Could be better,454,68,109
+1705,influencer,story,Not so great,126,12,6
+1706,traveler,reel,Must watch!,586,56,118
+1707,student,image,Loved this!,322,54,41
+1708,student,text,Highly recommended,256,26,48
+1709,traveler,image,Must watch!,313,83,35
+1710,foodie,image,Loved this!,499,31,35
+1711,developer,text,What a day!,69,94,40
+1712,fitness,image,Highly recommended,184,148,21
+1713,student,reel,Check this out!,726,119,169
+1714,foodie,video,Could be better,455,193,55
+1715,influencer,story,Check this out!,132,39,23
+1716,fitness,story,Check this out!,55,10,13
+1717,influencer,story,What a day!,208,53,6
+1718,student,text,Could be better,96,25,8
+1719,influencer,video,Feeling awesome,278,206,189
+1720,influencer,story,Check this out!,252,66,31
+1721,fitness,story,Check this out!,99,44,28
+1722,student,image,Feeling awesome,293,83,46
+1723,fitness,reel,Amazing experience!,343,135,22
+1724,influencer,text,Could be better,102,88,30
+1725,student,story,Not so great,173,42,28
+1726,developer,text,Amazing experience!,243,36,13
+1727,developer,video,What a day!,629,220,109
+1728,developer,story,Amazing experience!,108,71,45
+1729,influencer,story,Could be better,171,72,38
+1730,foodie,story,Feeling awesome,112,47,22
+1731,influencer,story,Not so great,117,33,33
+1732,student,video,Amazing experience!,987,286,106
+1733,influencer,story,Loved this!,200,11,48
+1734,student,video,Must watch!,742,91,31
+1735,foodie,story,Highly recommended,153,96,43
+1736,influencer,image,Amazing experience!,382,53,58
+1737,fitness,text,Could be better,242,70,24
+1738,fitness,story,Check this out!,209,66,20
+1739,traveler,story,Feeling awesome,102,19,44
+1740,influencer,story,Loved this!,300,98,37
+1741,influencer,reel,Loved this!,312,123,99
+1742,traveler,image,Could be better,400,105,60
+1743,student,story,Loved this!,110,87,37
+1744,traveler,text,Amazing experience!,242,25,45
+1745,traveler,story,Loved this!,204,63,42
+1746,fitness,story,Feeling awesome,237,50,26
+1747,developer,image,Feeling awesome,293,77,89
+1748,fitness,video,Check this out!,479,160,149
+1749,fitness,video,Highly recommended,620,300,149
+1750,influencer,story,Not so great,190,37,39
+1751,student,text,Check this out!,290,28,15
+1752,fitness,story,Loved this!,95,34,5
+1753,fitness,reel,Must watch!,478,141,41
+1754,developer,story,Amazing experience!,211,27,17
+1755,influencer,image,What a day!,385,24,90
+1756,student,reel,Loved this!,622,221,117
+1757,traveler,story,What a day!,58,42,41
+1758,fitness,image,Check this out!,423,123,47
+1759,student,story,What a day!,202,36,44
+1760,fitness,image,Not so great,203,20,59
+1761,student,image,Feeling awesome,211,69,55
+1762,developer,image,Must watch!,115,129,20
+1763,traveler,text,What a day!,270,94,17
+1764,fitness,reel,Not so great,309,101,142
+1765,influencer,image,Check this out!,236,119,48
+1766,student,reel,What a day!,719,191,80
+1767,student,reel,Could be better,415,213,31
+1768,traveler,image,Must watch!,270,101,90
+1769,influencer,story,Not so great,104,46,17
+1770,foodie,text,Check this out!,268,52,28
+1771,developer,reel,Feeling awesome,934,82,183
+1772,foodie,video,What a day!,608,171,61
+1773,developer,video,Amazing experience!,339,103,55
+1774,student,reel,Loved this!,534,105,152
+1775,developer,image,Not so great,185,21,66
+1776,developer,video,Feeling awesome,362,188,79
+1777,foodie,image,Loved this!,219,128,69
+1778,traveler,image,Not so great,153,116,29
+1779,fitness,text,Check this out!,207,27,17
+1780,student,image,Could be better,248,94,94
+1781,fitness,video,Not so great,816,296,194
+1782,fitness,text,Loved this!,295,49,7
+1783,developer,reel,Could be better,745,77,87
+1784,fitness,story,Not so great,202,88,40
+1785,fitness,video,Feeling awesome,818,277,93
+1786,fitness,story,Amazing experience!,228,33,21
+1787,fitness,story,Not so great,169,85,31
+1788,traveler,text,Feeling awesome,79,45,41
+1789,fitness,image,Loved this!,241,132,81
+1790,foodie,image,Highly recommended,222,40,20
+1791,traveler,video,Not so great,931,251,172
+1792,fitness,video,Highly recommended,299,225,160
+1793,developer,text,Could be better,115,42,49
+1794,traveler,text,Could be better,200,62,48
+1795,foodie,reel,Highly recommended,296,179,52
+1796,fitness,video,Check this out!,919,73,84
+1797,student,video,Amazing experience!,670,133,144
+1798,influencer,reel,Amazing experience!,373,99,180
+1799,fitness,text,Not so great,87,64,26
+1800,foodie,video,Feeling awesome,820,277,176
+1801,traveler,video,Must watch!,953,103,120
+1802,influencer,text,Highly recommended,126,33,29
+1803,fitness,reel,Check this out!,791,260,135
+1804,developer,text,What a day!,91,90,17
+1805,foodie,video,Amazing experience!,207,209,46
+1806,developer,story,Check this out!,121,69,9
+1807,influencer,video,Could be better,293,249,159
+1808,influencer,image,Could be better,209,140,64
+1809,traveler,story,Could be better,202,46,19
+1810,student,video,Amazing experience!,330,132,163
+1811,developer,video,Must watch!,303,223,111
+1812,developer,video,Highly recommended,515,269,82
+1813,foodie,story,Highly recommended,195,73,9
+1814,developer,image,Must watch!,258,91,66
+1815,influencer,reel,Check this out!,442,76,165
+1816,traveler,reel,Could be better,704,267,23
+1817,foodie,video,Not so great,254,174,141
+1818,foodie,story,Loved this!,126,88,28
+1819,developer,reel,Amazing experience!,367,259,21
+1820,fitness,video,Not so great,391,259,81
+1821,influencer,video,Could be better,408,99,100
+1822,foodie,video,Must watch!,580,217,187
+1823,influencer,story,Must watch!,130,36,39
+1824,influencer,reel,Highly recommended,941,185,71
+1825,foodie,image,Amazing experience!,208,89,48
+1826,developer,video,Loved this!,736,193,78
+1827,student,video,Loved this!,726,146,90
+1828,student,image,Not so great,307,64,90
+1829,fitness,image,Could be better,138,54,81
+1830,foodie,story,Amazing experience!,183,16,7
+1831,foodie,image,Must watch!,445,134,15
+1832,traveler,image,What a day!,222,63,53
+1833,influencer,story,Highly recommended,226,65,20
+1834,traveler,image,Not so great,145,61,96
+1835,foodie,reel,Loved this!,619,259,127
+1836,developer,image,What a day!,281,71,60
+1837,developer,image,Not so great,354,142,31
+1838,student,reel,Loved this!,457,167,27
+1839,developer,video,Amazing experience!,391,70,179
+1840,influencer,story,Feeling awesome,230,87,19
+1841,student,reel,What a day!,857,57,72
+1842,student,reel,Check this out!,208,132,36
+1843,student,video,Must watch!,439,260,120
+1844,developer,story,Must watch!,250,83,24
+1845,traveler,story,Loved this!,262,27,22
+1846,traveler,video,Check this out!,600,157,191
+1847,foodie,reel,Highly recommended,685,240,195
+1848,foodie,video,Feeling awesome,917,92,94
+1849,foodie,reel,Feeling awesome,610,123,64
+1850,traveler,reel,Could be better,261,59,87
+1851,traveler,story,Feeling awesome,82,58,46
+1852,student,image,Not so great,207,25,84
+1853,fitness,reel,Could be better,632,241,174
+1854,foodie,story,Highly recommended,159,18,36
+1855,foodie,text,Loved this!,205,98,31
+1856,fitness,story,What a day!,126,100,11
+1857,fitness,story,Not so great,111,38,22
+1858,student,reel,Loved this!,997,255,199
+1859,traveler,video,Highly recommended,854,265,142
+1860,student,text,Loved this!,143,34,13
+1861,fitness,story,Amazing experience!,59,38,35
+1862,influencer,image,Check this out!,376,81,80
+1863,traveler,text,Must watch!,139,53,30
+1864,student,reel,Highly recommended,756,232,70
+1865,influencer,story,Loved this!,61,33,34
+1866,student,story,What a day!,81,24,34
+1867,influencer,reel,Loved this!,408,270,20
+1868,influencer,image,Feeling awesome,380,116,63
+1869,developer,story,Check this out!,256,21,31
+1870,influencer,text,What a day!,299,43,34
+1871,foodie,story,Amazing experience!,230,64,6
+1872,foodie,story,Highly recommended,98,55,43
+1873,fitness,story,Not so great,73,78,47
+1874,student,text,Must watch!,280,89,32
+1875,developer,text,Check this out!,213,41,49
+1876,developer,story,Could be better,242,33,29
+1877,influencer,reel,Must watch!,931,159,121
+1878,developer,video,What a day!,395,260,114
+1879,fitness,story,What a day!,97,57,46
+1880,student,text,Feeling awesome,210,34,11
+1881,influencer,image,What a day!,106,71,54
+1882,developer,text,Amazing experience!,70,87,33
+1883,traveler,text,Loved this!,169,69,46
+1884,foodie,video,Could be better,587,171,168
+1885,foodie,text,Highly recommended,72,73,30
+1886,developer,image,Feeling awesome,245,96,48
+1887,traveler,text,What a day!,75,86,38
+1888,fitness,video,Feeling awesome,617,268,78
+1889,developer,text,Highly recommended,135,49,33
+1890,foodie,image,Loved this!,235,22,78
+1891,developer,reel,Loved this!,551,219,123
+1892,foodie,reel,Could be better,355,271,158
+1893,developer,video,Amazing experience!,316,243,157
+1894,developer,reel,Check this out!,313,163,120
+1895,influencer,story,What a day!,112,19,38
+1896,fitness,reel,What a day!,608,151,73
+1897,fitness,video,Highly recommended,573,200,157
+1898,influencer,video,Feeling awesome,262,138,110
+1899,traveler,text,Check this out!,283,38,38
+1900,foodie,reel,Could be better,417,263,163
+1901,influencer,story,Feeling awesome,255,39,18
+1902,foodie,video,Feeling awesome,312,158,67
+1903,developer,image,Check this out!,485,76,70
+1904,influencer,video,Amazing experience!,558,79,187
+1905,influencer,text,Highly recommended,113,90,37
+1906,developer,reel,Could be better,489,299,123
+1907,student,reel,Highly recommended,497,185,136
+1908,influencer,video,What a day!,299,256,159
+1909,influencer,text,Highly recommended,168,87,39
+1910,traveler,text,Feeling awesome,160,64,11
+1911,developer,video,Feeling awesome,457,244,178
+1912,traveler,video,Check this out!,335,253,42
+1913,traveler,video,Could be better,748,287,127
+1914,student,reel,What a day!,874,133,92
+1915,fitness,video,Check this out!,314,131,34
+1916,developer,text,Feeling awesome,89,48,34
+1917,foodie,story,Not so great,158,89,9
+1918,influencer,text,Loved this!,241,57,39
+1919,foodie,video,Feeling awesome,577,218,46
+1920,influencer,video,Check this out!,302,259,77
+1921,student,text,What a day!,237,10,6
+1922,developer,video,Check this out!,243,299,104
+1923,developer,reel,Not so great,855,77,36
+1924,influencer,image,What a day!,371,86,32
+1925,foodie,image,Highly recommended,408,71,76
+1926,student,video,Loved this!,932,173,53
+1927,student,text,Feeling awesome,130,97,23
+1928,traveler,text,Loved this!,258,94,40
+1929,student,image,Check this out!,185,24,83
+1930,influencer,image,What a day!,419,49,10
+1931,influencer,text,Must watch!,55,84,28
+1932,student,text,Feeling awesome,253,55,5
+1933,developer,reel,What a day!,528,139,125
+1934,fitness,image,Amazing experience!,462,128,17
+1935,student,reel,Could be better,621,207,129
+1936,fitness,image,What a day!,101,80,100
+1937,traveler,reel,Amazing experience!,479,126,161
+1938,fitness,reel,Not so great,887,281,193
+1939,developer,reel,What a day!,636,156,110
+1940,student,image,Amazing experience!,368,145,20
+1941,fitness,text,Not so great,288,76,38
+1942,fitness,text,Loved this!,76,73,7
+1943,traveler,image,Feeling awesome,438,96,89
+1944,foodie,video,Loved this!,926,214,156
+1945,developer,reel,Feeling awesome,431,293,171
+1946,influencer,story,What a day!,108,31,26
+1947,traveler,text,Highly recommended,245,57,36
+1948,developer,reel,Must watch!,948,115,52
+1949,influencer,text,Highly recommended,177,98,8
+1950,student,text,Amazing experience!,207,92,17
+1951,student,text,Check this out!,128,33,22
+1952,traveler,story,Highly recommended,248,44,40
+1953,student,video,Could be better,670,69,117
+1954,traveler,video,What a day!,242,129,156
+1955,fitness,story,Must watch!,53,93,48
+1956,traveler,reel,Could be better,568,248,41
+1957,fitness,reel,Could be better,954,275,68
+1958,influencer,story,Could be better,121,89,31
+1959,developer,video,Must watch!,626,212,132
+1960,influencer,reel,Highly recommended,962,288,149
+1961,influencer,story,Feeling awesome,59,86,36
+1962,foodie,story,Not so great,238,49,27
+1963,developer,text,Feeling awesome,173,11,46
+1964,foodie,story,Amazing experience!,250,59,7
+1965,influencer,story,Check this out!,155,42,10
+1966,foodie,video,Feeling awesome,752,187,29
+1967,influencer,video,What a day!,322,95,171
+1968,traveler,reel,Check this out!,673,107,164
+1969,traveler,image,Feeling awesome,221,118,98
+1970,traveler,video,Could be better,447,117,149
+1971,foodie,video,Highly recommended,222,212,85
+1972,fitness,image,Not so great,219,124,81
+1973,foodie,video,Could be better,274,60,65
+1974,influencer,video,Amazing experience!,481,82,21
+1975,traveler,image,What a day!,237,107,31
+1976,traveler,reel,Amazing experience!,502,83,102
+1977,developer,text,Must watch!,245,77,30
+1978,fitness,reel,Must watch!,497,94,39
+1979,traveler,reel,What a day!,209,272,127
+1980,foodie,text,Highly recommended,97,18,50
+1981,fitness,image,Feeling awesome,443,74,40
+1982,fitness,reel,Amazing experience!,907,278,174
+1983,fitness,image,Feeling awesome,342,68,50
+1984,developer,image,Must watch!,372,69,45
+1985,foodie,reel,Check this out!,939,157,161
+1986,developer,text,Loved this!,156,75,15
+1987,developer,story,Could be better,161,77,21
+1988,influencer,image,Check this out!,267,63,18
+1989,student,story,Feeling awesome,114,23,45
+1990,developer,image,Check this out!,340,53,71
+1991,influencer,video,Not so great,602,102,109
+1992,fitness,story,Not so great,293,83,17
+1993,influencer,text,Loved this!,200,85,32
+1994,foodie,video,Feeling awesome,629,226,74
+1995,fitness,image,Feeling awesome,374,84,43
+1996,developer,story,Highly recommended,90,87,35
+1997,developer,story,Highly recommended,294,92,9
+1998,traveler,text,Highly recommended,277,21,19
+1999,developer,video,Feeling awesome,952,73,31
+2000,student,image,Highly recommended,469,96,99
+2001,influencer,video,Highly recommended,962,70,160
+2002,influencer,story,What a day!,61,82,15
+2003,student,reel,Amazing experience!,749,103,103
+2004,student,video,Loved this!,668,243,199
+2005,fitness,reel,Amazing experience!,644,138,70
+2006,traveler,story,What a day!,271,88,41
+2007,developer,text,Highly recommended,138,61,43
+2008,developer,reel,Highly recommended,813,243,88
+2009,developer,video,Could be better,505,297,87
+2010,developer,image,Check this out!,378,92,79
+2011,student,text,Could be better,210,31,48
+2012,developer,image,Check this out!,263,150,45
+2013,student,reel,Feeling awesome,784,248,86
+2014,traveler,image,Highly recommended,204,98,26
+2015,influencer,story,Check this out!,189,43,5
+2016,fitness,reel,Amazing experience!,244,216,141
+2017,foodie,image,Loved this!,398,56,10
+2018,influencer,story,Highly recommended,68,73,36
+2019,developer,reel,Must watch!,408,132,147
+2020,traveler,reel,Check this out!,233,275,65
+2021,fitness,story,Could be better,275,54,39
+2022,foodie,image,Highly recommended,327,71,24
+2023,influencer,video,Amazing experience!,811,155,109
+2024,influencer,reel,Must watch!,971,87,183
+2025,foodie,text,What a day!,194,69,27
+2026,student,reel,Highly recommended,212,189,87
+2027,influencer,text,Highly recommended,75,18,45
+2028,foodie,story,Amazing experience!,212,97,17
+2029,influencer,story,Amazing experience!,137,94,46
+2030,developer,text,Could be better,241,35,50
+2031,student,story,Amazing experience!,267,71,46
+2032,developer,text,Loved this!,148,52,17
+2033,influencer,video,Loved this!,472,174,180
+2034,influencer,text,Must watch!,275,17,37
+2035,student,reel,Must watch!,552,73,90
+2036,traveler,story,Not so great,163,98,33
+2037,foodie,story,Could be better,156,81,50
+2038,fitness,image,Check this out!,224,118,83
+2039,traveler,reel,Feeling awesome,513,69,119
+2040,influencer,image,Loved this!,144,58,50
+2041,fitness,story,Check this out!,181,31,19
+2042,student,story,Amazing experience!,81,25,6
+2043,traveler,story,Feeling awesome,82,83,39
+2044,fitness,reel,Loved this!,245,148,132
+2045,developer,video,Highly recommended,835,172,42
+2046,fitness,image,Check this out!,269,70,81
+2047,developer,story,Feeling awesome,116,86,6
+2048,fitness,text,Must watch!,186,53,8
+2049,traveler,reel,Feeling awesome,388,242,186
+2050,student,story,Feeling awesome,129,31,48
+2051,developer,reel,Check this out!,759,241,95
+2052,traveler,image,Highly recommended,175,132,38
+2053,foodie,image,Not so great,223,126,44
+2054,developer,video,Must watch!,421,165,121
+2055,fitness,story,Amazing experience!,137,70,24
+2056,student,story,Loved this!,272,24,32
+2057,traveler,image,Amazing experience!,226,143,76
+2058,influencer,text,Not so great,184,100,6
+2059,developer,text,Highly recommended,259,26,47
+2060,developer,reel,Amazing experience!,374,61,117
+2061,student,video,Check this out!,704,299,188
+2062,traveler,video,Not so great,312,130,60
+2063,foodie,video,Must watch!,640,206,60
+2064,fitness,image,Amazing experience!,217,114,93
+2065,student,video,Feeling awesome,487,53,31
+2066,traveler,video,Highly recommended,551,193,36
+2067,developer,reel,What a day!,322,98,74
+2068,developer,text,Amazing experience!,99,35,13
+2069,student,text,Check this out!,231,39,23
+2070,fitness,reel,Feeling awesome,234,239,76
+2071,traveler,video,Must watch!,637,126,21
+2072,fitness,video,Loved this!,394,78,129
+2073,influencer,text,Feeling awesome,148,96,21
+2074,student,story,Highly recommended,149,18,29
+2075,foodie,text,Must watch!,119,54,10
+2076,foodie,video,Feeling awesome,452,74,170
+2077,foodie,reel,What a day!,279,199,193
+2078,developer,video,Highly recommended,246,188,158
+2079,student,image,Feeling awesome,169,58,56
+2080,student,video,Check this out!,714,118,150
+2081,foodie,text,Feeling awesome,270,81,29
+2082,developer,text,Not so great,240,84,9
+2083,developer,story,Check this out!,229,75,8
+2084,fitness,image,Could be better,349,123,11
+2085,influencer,story,Check this out!,173,91,32
+2086,fitness,reel,Check this out!,632,204,162
+2087,influencer,reel,Could be better,339,71,123
+2088,influencer,image,Feeling awesome,192,68,80
+2089,student,video,Loved this!,582,74,33
+2090,foodie,image,What a day!,494,148,59
+2091,traveler,reel,Feeling awesome,249,55,200
+2092,developer,image,Not so great,406,37,94
+2093,traveler,reel,Could be better,389,278,148
+2094,fitness,video,Feeling awesome,657,181,187
+2095,influencer,video,Loved this!,900,279,43
+2096,foodie,story,Loved this!,169,86,31
+2097,traveler,reel,Feeling awesome,653,268,68
+2098,foodie,video,Loved this!,627,233,91
+2099,student,reel,Must watch!,532,235,38
+2100,traveler,story,What a day!,249,24,21
+2101,student,image,Loved this!,261,74,29
+2102,traveler,video,Must watch!,766,75,148
+2103,foodie,reel,Must watch!,819,210,99
+2104,foodie,video,Loved this!,645,278,69
+2105,developer,video,Check this out!,758,51,70
+2106,influencer,video,Amazing experience!,264,273,159
+2107,fitness,story,Not so great,189,47,16
+2108,influencer,text,Not so great,123,12,44
+2109,influencer,story,Highly recommended,201,87,15
+2110,traveler,reel,Could be better,947,270,162
+2111,traveler,story,What a day!,149,82,12
+2112,developer,reel,Loved this!,761,124,35
+2113,influencer,story,Must watch!,116,69,23
+2114,influencer,text,Not so great,112,13,21
+2115,developer,story,Must watch!,94,94,37
+2116,developer,video,Must watch!,674,251,118
+2117,fitness,story,What a day!,101,81,21
+2118,foodie,story,Highly recommended,138,22,5
+2119,developer,video,Feeling awesome,600,217,139
+2120,student,text,Check this out!,78,68,15
+2121,foodie,video,What a day!,460,224,136
+2122,traveler,text,Amazing experience!,207,78,20
+2123,developer,video,Could be better,781,242,116
+2124,student,reel,What a day!,333,137,168
+2125,traveler,story,Check this out!,57,72,47
+2126,traveler,text,Could be better,212,34,38
+2127,student,story,Check this out!,54,74,45
+2128,fitness,text,Could be better,56,89,13
+2129,traveler,video,Could be better,377,80,62
+2130,influencer,image,What a day!,205,86,92
+2131,foodie,story,Not so great,178,28,44
+2132,influencer,reel,Not so great,207,76,128
+2133,fitness,story,Not so great,85,28,39
+2134,student,reel,Could be better,921,209,194
+2135,fitness,video,Amazing experience!,594,177,75
+2136,student,reel,Amazing experience!,902,188,58
+2137,influencer,text,Highly recommended,64,55,12
+2138,foodie,reel,Highly recommended,989,246,28
+2139,influencer,video,Must watch!,430,241,163
+2140,influencer,video,Loved this!,384,76,67
+2141,influencer,reel,Check this out!,276,264,148
+2142,influencer,text,Could be better,245,71,7
+2143,influencer,image,Feeling awesome,490,66,85
+2144,influencer,text,Could be better,105,71,7
+2145,developer,text,Loved this!,295,60,36
+2146,fitness,image,Amazing experience!,167,103,27
+2147,influencer,image,Amazing experience!,457,101,30
+2148,influencer,reel,Could be better,418,116,162
+2149,student,image,Check this out!,238,30,22
+2150,fitness,story,Highly recommended,209,16,35
+2151,student,reel,Check this out!,536,184,42
+2152,developer,reel,Must watch!,855,119,168
+2153,developer,reel,What a day!,484,68,134
+2154,influencer,video,Must watch!,451,279,132
+2155,developer,story,Highly recommended,128,18,21
+2156,influencer,reel,Check this out!,582,184,93
+2157,foodie,text,What a day!,128,26,45
+2158,foodie,reel,Must watch!,323,282,85
+2159,foodie,story,Could be better,204,49,32
+2160,influencer,image,What a day!,380,119,31
+2161,foodie,text,What a day!,236,38,44
+2162,traveler,story,Loved this!,163,10,31
+2163,fitness,video,Loved this!,224,89,140
+2164,influencer,story,Could be better,206,41,35
+2165,student,video,Amazing experience!,946,242,129
+2166,foodie,text,Must watch!,65,90,50
+2167,foodie,image,Highly recommended,201,21,91
+2168,traveler,video,Must watch!,202,112,106
+2169,student,story,What a day!,263,42,20
+2170,student,reel,Must watch!,271,251,186
+2171,fitness,story,Not so great,214,81,7
+2172,traveler,reel,Loved this!,717,82,43
+2173,influencer,story,What a day!,237,84,30
+2174,student,text,What a day!,60,15,15
+2175,traveler,image,Must watch!,196,81,72
+2176,student,reel,Check this out!,636,142,81
+2177,fitness,video,Feeling awesome,970,191,94
+2178,fitness,reel,Could be better,735,151,133
+2179,student,image,Could be better,455,70,39
+2180,traveler,text,Not so great,51,53,5
+2181,developer,image,Check this out!,491,146,25
+2182,developer,reel,Feeling awesome,995,277,55
+2183,influencer,reel,Not so great,917,144,68
+2184,student,story,Check this out!,233,48,41
+2185,developer,image,Could be better,331,45,19
+2186,student,text,Not so great,294,87,41
+2187,traveler,video,Amazing experience!,683,59,111
+2188,influencer,text,Feeling awesome,76,100,20
+2189,student,reel,Loved this!,287,261,65
+2190,influencer,reel,Check this out!,258,201,106
+2191,student,image,Feeling awesome,489,38,12
+2192,fitness,text,Loved this!,244,41,13
+2193,developer,video,Check this out!,527,71,69
+2194,influencer,video,Check this out!,560,50,28
+2195,student,story,Highly recommended,185,44,14
+2196,student,reel,Could be better,641,57,20
+2197,foodie,video,Could be better,449,278,97
+2198,developer,reel,Must watch!,554,252,127
+2199,developer,story,Feeling awesome,53,47,46
+2200,traveler,text,Highly recommended,202,17,25
+2201,traveler,story,What a day!,78,53,5
+2202,student,reel,Check this out!,492,281,200
+2203,traveler,video,Must watch!,275,285,45
+2204,student,story,Highly recommended,52,87,44
+2205,traveler,video,Amazing experience!,943,78,163
+2206,developer,story,Highly recommended,125,41,31
+2207,influencer,video,Check this out!,706,74,82
+2208,fitness,text,Could be better,227,38,8
+2209,traveler,video,What a day!,923,58,163
+2210,fitness,story,Amazing experience!,224,70,30
+2211,student,image,Feeling awesome,376,99,56
+2212,influencer,reel,Loved this!,997,113,30
+2213,foodie,reel,Loved this!,855,67,130
+2214,student,reel,Highly recommended,952,192,132
+2215,foodie,story,Not so great,271,69,13
+2216,traveler,video,Feeling awesome,620,246,50
+2217,traveler,reel,Amazing experience!,206,62,47
+2218,student,image,Highly recommended,486,114,66
+2219,developer,text,Could be better,163,81,11
+2220,student,text,Loved this!,223,49,49
+2221,student,story,Loved this!,205,72,34
+2222,developer,video,Amazing experience!,945,181,36
+2223,foodie,video,Amazing experience!,689,238,34
+2224,influencer,reel,Amazing experience!,681,167,55
+2225,student,text,What a day!,92,14,34
+2226,influencer,image,Feeling awesome,415,115,29
+2227,influencer,reel,Must watch!,239,81,88
+2228,developer,reel,Check this out!,999,234,136
+2229,traveler,image,Amazing experience!,109,48,41
+2230,student,reel,Highly recommended,348,224,86
+2231,influencer,story,Could be better,192,59,27
+2232,foodie,video,Could be better,614,94,101
+2233,fitness,reel,Highly recommended,738,159,124
+2234,foodie,story,Not so great,123,56,16
+2235,influencer,image,Must watch!,468,79,85
+2236,influencer,image,Amazing experience!,283,128,53
+2237,student,image,Amazing experience!,279,39,43
+2238,student,image,Check this out!,361,30,75
+2239,foodie,video,Could be better,552,57,182
+2240,foodie,video,Not so great,896,98,180
+2241,foodie,text,Highly recommended,283,12,42
+2242,fitness,story,What a day!,50,66,43
+2243,student,reel,What a day!,662,109,180
+2244,influencer,text,Not so great,196,77,19
+2245,developer,reel,Not so great,709,243,140
+2246,student,text,Could be better,290,51,37
+2247,foodie,reel,Highly recommended,794,195,70
+2248,influencer,story,What a day!,155,51,25
+2249,traveler,reel,Could be better,933,288,79
+2250,student,video,Amazing experience!,468,216,146
+2251,developer,image,Feeling awesome,459,78,36
+2252,developer,video,Feeling awesome,713,123,158
+2253,traveler,reel,Check this out!,506,57,48
+2254,developer,reel,Feeling awesome,456,248,123
+2255,student,reel,What a day!,597,216,195
+2256,student,image,Highly recommended,341,146,25
+2257,foodie,text,What a day!,104,23,37
+2258,fitness,story,Amazing experience!,135,89,11
+2259,student,story,Check this out!,104,41,27
+2260,traveler,text,Could be better,137,23,44
+2261,traveler,story,Could be better,213,99,46
+2262,fitness,video,Not so great,474,194,27
+2263,influencer,reel,Amazing experience!,736,69,36
+2264,developer,image,Check this out!,242,50,76
+2265,developer,image,Amazing experience!,178,72,65
+2266,student,video,Amazing experience!,764,270,28
+2267,fitness,text,Could be better,98,89,49
+2268,developer,video,Must watch!,807,167,84
+2269,traveler,image,Feeling awesome,278,82,86
+2270,traveler,image,Not so great,243,28,29
+2271,influencer,story,Feeling awesome,206,60,10
+2272,foodie,reel,Loved this!,952,214,176
+2273,student,image,Amazing experience!,133,95,42
+2274,foodie,text,Highly recommended,157,73,30
+2275,influencer,story,What a day!,295,71,41
+2276,traveler,image,Feeling awesome,310,86,23
+2277,influencer,reel,Amazing experience!,300,119,194
+2278,fitness,reel,Amazing experience!,956,251,124
+2279,traveler,video,Amazing experience!,583,285,94
+2280,student,story,Highly recommended,202,100,31
+2281,developer,reel,Check this out!,444,115,101
+2282,developer,reel,Could be better,424,211,156
+2283,foodie,story,Check this out!,250,93,6
+2284,influencer,image,Amazing experience!,208,126,14
+2285,foodie,video,Highly recommended,728,175,128
+2286,fitness,text,Not so great,290,46,50
+2287,student,reel,Check this out!,648,202,159
+2288,student,video,Loved this!,744,128,68
+2289,foodie,reel,Check this out!,662,123,157
+2290,student,story,Check this out!,295,75,46
+2291,foodie,story,Feeling awesome,123,47,29
+2292,foodie,video,Could be better,620,84,137
+2293,student,image,Check this out!,331,119,46
+2294,foodie,video,Highly recommended,755,78,104
+2295,traveler,image,Check this out!,132,37,32
+2296,influencer,video,Could be better,868,270,175
+2297,traveler,text,Loved this!,227,14,44
+2298,traveler,image,What a day!,290,125,97
+2299,foodie,reel,Highly recommended,971,279,100
+2300,fitness,text,Amazing experience!,239,76,26
+2301,fitness,story,Check this out!,199,20,39
+2302,developer,image,What a day!,460,95,38
+2303,influencer,text,Could be better,99,21,36
+2304,foodie,image,What a day!,162,123,49
+2305,student,image,Loved this!,213,50,83
+2306,developer,video,Amazing experience!,968,80,79
+2307,developer,video,Feeling awesome,979,158,54
+2308,fitness,text,Check this out!,77,99,37
+2309,influencer,reel,Could be better,412,99,129
+2310,influencer,image,Highly recommended,253,135,34
+2311,influencer,image,Check this out!,443,96,47
+2312,developer,image,Check this out!,376,78,46
+2313,foodie,reel,Amazing experience!,406,111,150
+2314,traveler,story,Must watch!,85,60,42
+2315,student,text,What a day!,121,57,14
+2316,influencer,video,Not so great,705,78,128
+2317,developer,story,Highly recommended,111,49,35
+2318,traveler,story,Could be better,95,56,19
+2319,influencer,story,Highly recommended,234,17,30
+2320,foodie,story,Not so great,136,84,10
+2321,student,image,Must watch!,271,148,32
+2322,foodie,story,Loved this!,87,59,32
+2323,influencer,image,Loved this!,471,51,91
+2324,student,story,Must watch!,250,56,23
+2325,foodie,reel,Loved this!,668,131,110
+2326,influencer,video,Highly recommended,433,87,29
+2327,foodie,reel,Loved this!,239,248,106
+2328,influencer,video,Feeling awesome,399,232,157
+2329,developer,story,Highly recommended,51,80,12
+2330,student,text,Loved this!,94,21,31
+2331,developer,video,Could be better,911,218,85
+2332,foodie,reel,Highly recommended,920,51,91
+2333,developer,video,Check this out!,454,155,58
+2334,foodie,text,Highly recommended,281,56,50
+2335,foodie,text,Must watch!,104,64,46
+2336,developer,video,Must watch!,467,78,22
+2337,foodie,video,Check this out!,620,138,118
+2338,influencer,video,Not so great,449,250,138
+2339,influencer,image,Amazing experience!,413,57,77
+2340,traveler,reel,What a day!,220,248,113
+2341,traveler,image,What a day!,336,126,44
+2342,influencer,video,Loved this!,724,123,27
+2343,developer,image,Must watch!,135,114,57
+2344,fitness,image,Not so great,116,67,98
+2345,traveler,text,Amazing experience!,109,72,36
+2346,student,text,Feeling awesome,225,52,47
+2347,traveler,story,Must watch!,99,37,14
+2348,developer,text,What a day!,278,82,45
+2349,developer,story,Feeling awesome,147,80,8
+2350,developer,text,Feeling awesome,144,24,32
+2351,traveler,story,Could be better,279,39,46
+2352,influencer,image,Feeling awesome,467,125,22
+2353,developer,story,Not so great,174,69,25
+2354,developer,image,What a day!,178,103,58
+2355,student,text,What a day!,57,81,31
+2356,fitness,video,Must watch!,678,299,131
+2357,traveler,story,Not so great,251,39,30
+2358,developer,video,What a day!,836,84,60
+2359,traveler,image,Highly recommended,376,83,20
+2360,traveler,video,Check this out!,779,90,198
+2361,traveler,video,Not so great,514,152,73
+2362,fitness,story,Amazing experience!,205,47,31
+2363,student,text,Must watch!,260,25,30
+2364,student,image,Feeling awesome,180,95,92
+2365,developer,text,Could be better,156,81,10
+2366,developer,story,Check this out!,249,50,10
+2367,developer,text,Highly recommended,273,36,48
+2368,developer,reel,Amazing experience!,402,253,45
+2369,foodie,text,Loved this!,155,97,34
+2370,student,reel,Could be better,923,88,34
+2371,developer,video,What a day!,323,111,137
+2372,influencer,image,Amazing experience!,160,28,35
+2373,influencer,text,Feeling awesome,170,27,7
+2374,developer,image,Not so great,222,74,78
+2375,developer,text,Loved this!,62,67,49
+2376,foodie,reel,What a day!,556,54,191
+2377,fitness,video,Amazing experience!,746,248,63
+2378,traveler,image,Not so great,410,111,84
+2379,developer,story,Feeling awesome,158,88,8
+2380,student,text,Not so great,180,91,17
+2381,student,video,What a day!,777,82,165
+2382,developer,image,Highly recommended,412,93,98
+2383,influencer,video,Could be better,710,285,175
+2384,traveler,text,Loved this!,165,38,39
+2385,foodie,text,Could be better,296,97,30
+2386,traveler,reel,Check this out!,887,88,148
+2387,student,text,What a day!,269,57,25
+2388,fitness,story,Highly recommended,127,83,5
+2389,traveler,video,Highly recommended,451,70,186
+2390,traveler,image,What a day!,483,25,40
+2391,student,text,Not so great,244,80,48
+2392,fitness,story,Check this out!,164,75,9
+2393,fitness,video,What a day!,351,103,136
+2394,traveler,story,Check this out!,192,99,29
+2395,foodie,image,Amazing experience!,226,145,68
+2396,student,video,Feeling awesome,229,111,121
+2397,foodie,text,Amazing experience!,121,99,38
+2398,developer,reel,What a day!,518,160,190
+2399,fitness,reel,What a day!,848,286,144
+2400,fitness,story,Amazing experience!,172,86,21
+2401,foodie,text,Not so great,240,91,17
+2402,fitness,reel,Loved this!,785,67,166
+2403,foodie,story,Check this out!,73,45,36
+2404,fitness,image,Check this out!,116,80,29
+2405,student,image,Must watch!,202,140,81
+2406,influencer,image,Amazing experience!,387,60,49
+2407,developer,reel,Not so great,207,78,109
+2408,influencer,story,What a day!,120,61,15
+2409,developer,reel,Amazing experience!,760,80,28
+2410,fitness,reel,Not so great,780,279,171
+2411,influencer,image,Check this out!,358,64,52
+2412,foodie,reel,Check this out!,897,217,167
+2413,influencer,reel,Amazing experience!,825,185,75
+2414,fitness,story,Not so great,238,92,11
+2415,fitness,video,Must watch!,678,154,156
+2416,student,image,Amazing experience!,313,100,86
+2417,fitness,image,Not so great,342,80,64
+2418,student,text,Could be better,126,31,41
+2419,fitness,text,Not so great,150,15,39
+2420,developer,story,Must watch!,144,61,10
+2421,foodie,video,What a day!,218,51,104
+2422,influencer,video,Loved this!,372,129,85
+2423,fitness,reel,Feeling awesome,593,144,185
+2424,developer,video,Not so great,927,116,109
+2425,student,reel,Must watch!,739,229,178
+2426,traveler,image,Amazing experience!,447,117,35
+2427,influencer,video,Feeling awesome,768,136,192
+2428,developer,reel,What a day!,218,285,143
+2429,fitness,story,Amazing experience!,253,30,32
+2430,foodie,image,Check this out!,287,42,89
+2431,student,text,What a day!,200,10,13
+2432,influencer,text,What a day!,127,46,41
+2433,traveler,story,Feeling awesome,79,77,41
+2434,developer,image,Check this out!,176,140,91
+2435,foodie,story,Could be better,226,90,24
+2436,traveler,text,What a day!,82,71,35
+2437,developer,reel,Check this out!,619,297,110
+2438,developer,text,Could be better,277,71,9
+2439,foodie,text,Highly recommended,194,50,48
+2440,traveler,reel,Feeling awesome,342,290,148
+2441,student,story,Must watch!,139,49,9
+2442,traveler,story,Highly recommended,228,59,14
+2443,developer,reel,Loved this!,840,120,99
+2444,developer,story,Must watch!,246,83,32
+2445,student,reel,Feeling awesome,502,260,91
+2446,fitness,video,Loved this!,456,300,140
+2447,foodie,video,Highly recommended,800,264,114
+2448,fitness,text,Could be better,189,31,49
+2449,traveler,reel,Could be better,237,77,180
+2450,fitness,reel,What a day!,618,185,100
+2451,foodie,story,Check this out!,183,18,29
+2452,foodie,reel,Check this out!,239,153,124
+2453,developer,video,Must watch!,337,262,157
+2454,developer,text,Highly recommended,161,62,8
+2455,fitness,story,Feeling awesome,225,82,5
+2456,influencer,video,Loved this!,626,125,118
+2457,traveler,image,Highly recommended,363,138,45
+2458,influencer,image,Amazing experience!,151,54,17
+2459,fitness,story,Not so great,245,90,43
+2460,developer,reel,Loved this!,757,103,153
+2461,influencer,image,What a day!,157,134,15
+2462,influencer,text,Loved this!,183,76,39
+2463,student,video,Loved this!,525,123,166
+2464,student,text,Not so great,122,67,17
+2465,traveler,reel,Could be better,313,131,125
+2466,fitness,text,Must watch!,217,49,49
+2467,influencer,text,Loved this!,123,73,31
+2468,student,reel,Check this out!,674,267,103
+2469,foodie,image,Feeling awesome,301,57,70
+2470,influencer,text,Not so great,298,98,32
+2471,fitness,story,What a day!,170,93,22
+2472,fitness,video,Not so great,822,235,90
+2473,traveler,text,Must watch!,175,59,20
+2474,influencer,video,Must watch!,520,120,32
+2475,developer,video,Highly recommended,259,175,161
+2476,influencer,text,Not so great,291,25,17
+2477,traveler,image,Check this out!,144,147,65
+2478,developer,video,Could be better,746,163,57
+2479,influencer,video,What a day!,768,243,43
+2480,influencer,story,Not so great,212,45,41
+2481,fitness,video,Must watch!,570,183,66
+2482,developer,reel,Highly recommended,474,286,131
+2483,influencer,story,Not so great,169,80,42
+2484,developer,text,Must watch!,234,97,34
+2485,fitness,story,Could be better,195,100,13
+2486,influencer,text,Loved this!,100,87,49
+2487,developer,reel,Highly recommended,540,205,88
+2488,influencer,image,Must watch!,111,84,55
+2489,foodie,text,Must watch!,289,88,29
+2490,fitness,reel,Not so great,873,278,191
+2491,influencer,video,Could be better,742,258,58
+2492,student,video,Must watch!,361,121,29
+2493,influencer,video,Amazing experience!,204,59,99
+2494,foodie,video,Feeling awesome,422,296,50
+2495,foodie,story,Loved this!,169,79,48
+2496,traveler,reel,Loved this!,530,147,148
+2497,influencer,text,Loved this!,151,58,46
+2498,fitness,image,Not so great,342,97,87
+2499,influencer,story,Could be better,137,62,44
+2500,traveler,text,Must watch!,60,12,40
+2501,developer,story,Not so great,263,57,14
+2502,developer,video,Amazing experience!,825,225,48
+2503,fitness,reel,Could be better,969,275,162
+2504,traveler,video,Feeling awesome,626,91,165
+2505,influencer,text,Feeling awesome,208,41,28
+2506,student,story,Must watch!,183,69,31
+2507,developer,text,Check this out!,139,10,13
+2508,traveler,video,Not so great,785,263,83
+2509,developer,image,Not so great,198,93,28
+2510,influencer,story,Amazing experience!,184,45,37
+2511,fitness,video,Amazing experience!,553,204,78
+2512,fitness,image,Not so great,295,95,45
+2513,student,video,Highly recommended,889,153,45
+2514,foodie,video,What a day!,396,178,192
+2515,traveler,story,Could be better,257,33,15
+2516,developer,video,Must watch!,986,62,41
+2517,developer,reel,Feeling awesome,887,269,130
+2518,fitness,video,What a day!,924,208,160
+2519,student,story,Check this out!,125,79,9
+2520,student,text,Not so great,165,79,50
+2521,foodie,reel,What a day!,451,181,97
+2522,influencer,text,Feeling awesome,166,15,46
+2523,fitness,video,Not so great,288,99,78
+2524,student,story,Not so great,80,89,36
+2525,influencer,text,Feeling awesome,130,84,31
+2526,influencer,story,Must watch!,290,30,18
+2527,fitness,image,Could be better,289,62,95
+2528,developer,text,Could be better,189,86,12
+2529,influencer,video,Not so great,250,183,102
+2530,foodie,text,Feeling awesome,242,15,34
+2531,fitness,text,Feeling awesome,59,36,15
+2532,foodie,story,What a day!,99,44,41
+2533,foodie,reel,Not so great,611,299,97
+2534,influencer,story,Feeling awesome,181,64,15
+2535,influencer,image,Could be better,455,110,48
+2536,traveler,reel,Loved this!,549,119,63
+2537,developer,reel,Not so great,226,178,23
+2538,influencer,image,Not so great,379,110,56
+2539,fitness,reel,Highly recommended,623,273,110
+2540,fitness,reel,Not so great,799,172,198
+2541,foodie,reel,Amazing experience!,643,220,23
+2542,foodie,image,Amazing experience!,464,80,21
+2543,fitness,image,Must watch!,131,64,29
+2544,student,reel,Amazing experience!,726,257,91
+2545,fitness,video,Check this out!,965,249,86
+2546,influencer,reel,Highly recommended,302,213,54
+2547,student,image,Must watch!,411,146,67
+2548,developer,reel,Check this out!,606,85,148
+2549,fitness,text,Highly recommended,260,56,35
+2550,influencer,image,What a day!,333,138,13
+2551,developer,text,Feeling awesome,149,71,37
+2552,traveler,text,Not so great,210,24,23
+2553,developer,video,Amazing experience!,447,255,69
+2554,fitness,reel,What a day!,380,204,87
+2555,student,image,Amazing experience!,290,92,73
+2556,influencer,image,Amazing experience!,499,93,51
+2557,foodie,text,Feeling awesome,157,76,12
+2558,traveler,reel,Must watch!,729,111,157
+2559,developer,image,Not so great,357,49,91
+2560,traveler,text,Feeling awesome,294,27,48
+2561,student,reel,Must watch!,846,239,55
+2562,fitness,image,Amazing experience!,422,68,52
+2563,influencer,image,Check this out!,322,39,15
+2564,student,text,Must watch!,292,46,16
+2565,student,image,Could be better,289,55,28
+2566,traveler,image,Feeling awesome,124,121,72
+2567,foodie,reel,What a day!,862,147,81
+2568,foodie,text,Could be better,123,58,8
+2569,foodie,reel,Highly recommended,398,117,61
+2570,influencer,reel,Not so great,535,295,44
+2571,traveler,text,Amazing experience!,244,64,21
+2572,traveler,video,What a day!,776,150,146
+2573,fitness,story,Feeling awesome,153,20,37
+2574,traveler,story,Highly recommended,256,75,7
+2575,influencer,video,Highly recommended,969,81,64
+2576,student,story,Not so great,250,90,39
+2577,foodie,text,Loved this!,237,56,26
+2578,student,reel,Must watch!,528,120,85
+2579,student,video,Check this out!,611,183,135
+2580,influencer,video,Feeling awesome,229,242,177
+2581,developer,video,Loved this!,442,243,121
+2582,foodie,text,Loved this!,147,87,9
+2583,influencer,reel,Highly recommended,550,171,199
+2584,traveler,image,Highly recommended,390,48,100
+2585,developer,text,What a day!,193,69,41
+2586,student,reel,Not so great,745,197,196
+2587,foodie,reel,Loved this!,231,180,191
+2588,foodie,story,Not so great,97,17,45
+2589,student,text,What a day!,292,53,41
+2590,traveler,text,Could be better,188,32,49
+2591,foodie,reel,Feeling awesome,600,87,108
+2592,student,reel,What a day!,913,113,127
+2593,foodie,reel,Amazing experience!,960,108,118
+2594,student,reel,Not so great,444,290,192
+2595,foodie,story,Check this out!,134,95,30
+2596,influencer,video,Must watch!,718,295,110
+2597,developer,story,Check this out!,135,53,35
+2598,influencer,video,Not so great,640,298,173
+2599,developer,reel,Check this out!,924,219,101
+2600,fitness,story,Loved this!,128,37,29
+2601,foodie,video,Loved this!,256,278,189
+2602,fitness,story,Check this out!,263,13,12
+2603,foodie,reel,What a day!,265,73,84
+2604,fitness,image,Could be better,371,78,85
+2605,student,video,Feeling awesome,383,107,73
+2606,student,story,Feeling awesome,292,91,48
+2607,fitness,image,Amazing experience!,309,84,90
+2608,influencer,reel,Must watch!,397,282,90
+2609,fitness,story,Check this out!,284,67,19
+2610,student,text,What a day!,264,18,41
+2611,influencer,story,Highly recommended,166,24,22
+2612,traveler,reel,Amazing experience!,237,268,64
+2613,fitness,text,Could be better,265,26,29
+2614,foodie,text,What a day!,249,47,44
+2615,foodie,video,Could be better,930,233,105
+2616,fitness,reel,Highly recommended,794,281,90
+2617,developer,text,Feeling awesome,280,41,33
+2618,foodie,text,Highly recommended,129,77,32
+2619,foodie,reel,Must watch!,899,85,128
+2620,traveler,video,Not so great,780,132,47
+2621,influencer,video,Feeling awesome,946,201,88
+2622,developer,text,Amazing experience!,266,36,39
+2623,student,image,Must watch!,414,73,27
+2624,student,image,Feeling awesome,381,143,46
+2625,foodie,story,Must watch!,239,38,47
+2626,foodie,text,Amazing experience!,66,18,45
+2627,traveler,text,Amazing experience!,114,61,41
+2628,developer,video,Could be better,208,271,38
+2629,fitness,video,Amazing experience!,811,191,48
+2630,developer,image,What a day!,453,71,96
+2631,fitness,image,What a day!,379,146,41
+2632,developer,reel,Must watch!,787,108,70
+2633,developer,reel,Check this out!,516,104,103
+2634,influencer,reel,Must watch!,310,173,169
+2635,student,video,Highly recommended,284,155,68
+2636,traveler,text,Check this out!,199,89,8
+2637,foodie,video,Highly recommended,821,294,67
+2638,traveler,image,Highly recommended,303,125,82
+2639,foodie,story,What a day!,228,94,41
+2640,foodie,image,What a day!,157,79,85
+2641,student,video,Highly recommended,930,269,74
+2642,foodie,story,Could be better,132,25,16
+2643,fitness,video,Must watch!,284,269,103
+2644,influencer,story,Not so great,290,27,13
+2645,student,story,Check this out!,293,73,14
+2646,student,image,What a day!,382,148,65
+2647,fitness,image,Must watch!,346,40,73
+2648,influencer,story,Feeling awesome,224,96,50
+2649,foodie,image,Not so great,212,32,47
+2650,foodie,reel,Check this out!,547,291,199
+2651,influencer,reel,Check this out!,937,251,129
+2652,fitness,image,Could be better,307,65,38
+2653,student,text,Loved this!,148,52,48
+2654,traveler,story,Must watch!,58,22,27
+2655,fitness,story,Could be better,277,51,19
+2656,influencer,image,Highly recommended,281,95,97
+2657,developer,video,What a day!,499,123,110
+2658,developer,video,What a day!,334,220,148
+2659,student,image,Could be better,387,21,31
+2660,developer,story,Must watch!,64,13,27
+2661,developer,image,Highly recommended,228,30,97
+2662,foodie,text,Must watch!,61,95,5
+2663,fitness,image,Check this out!,321,38,91
+2664,traveler,story,Must watch!,231,16,27
+2665,fitness,reel,What a day!,814,183,180
+2666,influencer,story,Loved this!,116,26,41
+2667,developer,video,Highly recommended,990,117,80
+2668,influencer,image,Feeling awesome,183,47,38
+2669,fitness,text,Not so great,239,13,13
+2670,foodie,reel,Must watch!,315,245,146
+2671,influencer,image,Could be better,411,66,76
+2672,foodie,story,Could be better,102,100,6
+2673,student,video,Could be better,803,253,93
+2674,traveler,image,Not so great,378,26,52
+2675,developer,reel,Must watch!,528,85,183
+2676,foodie,image,Amazing experience!,372,121,83
+2677,influencer,text,Highly recommended,181,80,25
+2678,student,story,What a day!,76,66,19
+2679,developer,video,Not so great,450,176,73
+2680,influencer,image,Could be better,111,109,78
+2681,student,video,Highly recommended,416,58,90
+2682,student,text,Loved this!,65,52,22
+2683,foodie,image,Highly recommended,132,40,46
+2684,developer,text,Must watch!,79,26,23
+2685,influencer,text,Check this out!,125,81,30
+2686,foodie,story,Amazing experience!,175,81,15
+2687,traveler,video,Feeling awesome,684,153,107
+2688,student,reel,What a day!,932,72,36
+2689,influencer,reel,Feeling awesome,864,280,43
+2690,developer,text,Must watch!,264,46,7
+2691,developer,story,Check this out!,182,92,7
+2692,student,video,Feeling awesome,350,264,51
+2693,foodie,video,What a day!,867,275,78
+2694,fitness,text,Could be better,298,44,42
+2695,influencer,video,Not so great,628,96,34
+2696,fitness,video,Loved this!,536,115,79
+2697,fitness,video,Amazing experience!,921,197,151
+2698,student,reel,Feeling awesome,553,126,168
+2699,developer,text,Could be better,232,42,45
+2700,influencer,video,What a day!,289,194,196
+2701,foodie,text,Amazing experience!,106,19,22
+2702,influencer,reel,Loved this!,605,226,41
+2703,foodie,image,What a day!,221,44,86
+2704,developer,video,Must watch!,705,228,184
+2705,fitness,image,What a day!,272,99,90
+2706,fitness,reel,Amazing experience!,283,149,177
+2707,fitness,story,Feeling awesome,248,60,46
+2708,developer,story,What a day!,192,34,33
+2709,student,text,Highly recommended,129,58,42
+2710,foodie,video,Amazing experience!,377,145,161
+2711,student,text,Feeling awesome,123,35,39
+2712,fitness,story,Must watch!,126,59,12
+2713,influencer,image,Could be better,395,142,51
+2714,fitness,reel,Loved this!,251,294,188
+2715,foodie,image,Must watch!,120,87,66
+2716,fitness,reel,What a day!,646,69,179
+2717,foodie,reel,Highly recommended,970,158,54
+2718,developer,reel,Could be better,980,96,104
+2719,developer,reel,Check this out!,915,129,140
+2720,student,video,Not so great,685,124,173
+2721,foodie,text,Highly recommended,59,76,44
+2722,influencer,image,Feeling awesome,202,34,80
+2723,traveler,image,Could be better,250,137,29
+2724,influencer,reel,Amazing experience!,818,214,131
+2725,foodie,video,Must watch!,248,171,88
+2726,fitness,reel,Feeling awesome,653,129,97
+2727,fitness,text,Could be better,121,70,40
+2728,influencer,story,Amazing experience!,288,54,28
+2729,foodie,video,Feeling awesome,887,223,70
+2730,student,story,Highly recommended,107,39,28
+2731,fitness,video,Must watch!,662,242,129
+2732,traveler,image,What a day!,124,56,70
+2733,developer,text,Loved this!,64,14,26
+2734,traveler,reel,Not so great,549,86,124
+2735,traveler,story,Highly recommended,220,92,6
+2736,influencer,text,Highly recommended,81,60,18
+2737,foodie,reel,Not so great,392,64,98
+2738,developer,reel,What a day!,461,86,153
+2739,foodie,video,Not so great,249,274,52
+2740,influencer,story,Could be better,50,81,28
+2741,student,story,Could be better,58,79,44
+2742,student,reel,Check this out!,928,237,162
+2743,influencer,video,Amazing experience!,963,290,74
+2744,student,story,Feeling awesome,257,34,50
+2745,foodie,story,Amazing experience!,245,76,9
+2746,traveler,video,Amazing experience!,840,224,72
+2747,fitness,story,Check this out!,188,40,6
+2748,student,image,Must watch!,232,148,13
+2749,fitness,story,Loved this!,201,88,26
+2750,influencer,video,Loved this!,458,217,70
+2751,traveler,video,What a day!,883,89,111
+2752,traveler,image,Not so great,158,63,54
+2753,student,text,Loved this!,69,90,48
+2754,developer,story,Highly recommended,74,47,14
+2755,fitness,text,Highly recommended,128,87,16
+2756,traveler,image,Loved this!,180,57,93
+2757,fitness,reel,Could be better,611,298,101
+2758,student,image,Not so great,498,88,73
+2759,traveler,image,What a day!,436,40,86
+2760,developer,image,What a day!,442,57,16
+2761,student,video,Highly recommended,329,84,137
+2762,traveler,text,Highly recommended,87,71,11
+2763,developer,story,Could be better,220,55,19
+2764,student,video,Check this out!,658,194,32
+2765,foodie,video,Not so great,384,72,177
+2766,influencer,text,Check this out!,240,67,22
+2767,foodie,image,Check this out!,106,123,35
+2768,fitness,image,Check this out!,172,144,54
+2769,fitness,image,Not so great,361,103,11
+2770,developer,image,Could be better,211,38,73
+2771,student,video,Loved this!,528,122,152
+2772,traveler,text,Could be better,279,91,19
+2773,traveler,reel,Highly recommended,252,72,181
+2774,developer,story,Highly recommended,117,54,35
+2775,traveler,reel,Check this out!,914,113,154
+2776,foodie,text,Feeling awesome,175,31,8
+2777,student,reel,Highly recommended,484,50,56
+2778,foodie,text,What a day!,261,36,15
+2779,fitness,text,Amazing experience!,247,12,48
+2780,foodie,text,Loved this!,175,43,15
+2781,influencer,image,Not so great,461,21,31
+2782,fitness,story,Loved this!,51,81,17
+2783,student,reel,Could be better,783,146,120
+2784,fitness,video,What a day!,429,242,154
+2785,traveler,story,Not so great,85,84,13
+2786,student,story,Not so great,73,47,41
+2787,traveler,text,Not so great,210,26,14
+2788,influencer,image,Could be better,233,118,35
+2789,fitness,video,Highly recommended,309,172,138
+2790,traveler,video,Could be better,372,132,93
+2791,foodie,video,Feeling awesome,652,53,182
+2792,developer,story,Check this out!,117,48,7
+2793,fitness,story,Amazing experience!,152,95,30
+2794,traveler,text,Amazing experience!,91,86,43
+2795,foodie,story,Must watch!,102,52,49
+2796,influencer,image,Check this out!,283,21,85
+2797,student,reel,Not so great,873,270,133
+2798,traveler,reel,Not so great,831,171,119
+2799,traveler,reel,Must watch!,803,253,80
+2800,fitness,image,Highly recommended,250,42,55
+2801,developer,text,Must watch!,70,38,17
+2802,foodie,video,Must watch!,445,259,74
+2803,influencer,story,Amazing experience!,258,88,47
+2804,traveler,story,Loved this!,178,14,44
+2805,foodie,reel,Check this out!,439,182,95
+2806,developer,reel,Loved this!,685,114,183
+2807,foodie,story,Highly recommended,53,26,46
+2808,foodie,video,Amazing experience!,427,290,90
+2809,foodie,image,Check this out!,287,71,68
+2810,fitness,video,Amazing experience!,318,136,192
+2811,foodie,reel,Check this out!,853,178,183
+2812,traveler,video,Check this out!,907,204,71
+2813,foodie,story,Check this out!,179,59,23
+2814,fitness,reel,Check this out!,420,281,179
+2815,traveler,video,Could be better,829,154,166
+2816,student,video,Check this out!,214,113,140
+2817,traveler,video,Amazing experience!,628,260,163
+2818,student,image,Loved this!,398,38,95
+2819,traveler,story,Check this out!,221,61,24
+2820,traveler,reel,Must watch!,312,110,149
+2821,foodie,story,Could be better,268,68,48
+2822,foodie,reel,Could be better,588,295,147
+2823,student,text,Check this out!,217,63,19
+2824,foodie,image,Highly recommended,170,102,23
+2825,student,image,Feeling awesome,354,63,97
+2826,developer,text,Loved this!,109,52,25
+2827,influencer,image,Feeling awesome,177,42,43
+2828,student,story,Feeling awesome,152,70,14
+2829,fitness,reel,Amazing experience!,896,57,170
+2830,fitness,story,Loved this!,53,17,6
+2831,student,text,Highly recommended,183,98,34
+2832,influencer,image,Not so great,224,47,13
+2833,foodie,reel,Could be better,626,68,85
+2834,traveler,image,Check this out!,372,50,79
+2835,student,text,Loved this!,93,30,35
+2836,fitness,text,Not so great,61,36,18
+2837,influencer,reel,Loved this!,490,162,191
+2838,student,story,Could be better,127,69,38
+2839,developer,reel,What a day!,295,151,99
+2840,student,text,Loved this!,230,35,49
+2841,influencer,video,Amazing experience!,836,61,42
+2842,influencer,reel,What a day!,516,125,194
+2843,influencer,story,Check this out!,277,78,14
+2844,fitness,reel,What a day!,929,168,191
+2845,developer,text,Must watch!,54,72,16
+2846,fitness,image,Not so great,358,111,90
+2847,fitness,reel,Must watch!,703,58,178
+2848,fitness,story,What a day!,89,59,31
+2849,foodie,story,Could be better,65,70,18
+2850,fitness,story,Amazing experience!,294,19,50
+2851,student,image,Not so great,396,46,72
+2852,developer,reel,Must watch!,979,144,125
+2853,foodie,image,Highly recommended,455,100,28
+2854,fitness,video,Feeling awesome,490,216,47
+2855,traveler,video,Feeling awesome,409,247,54
+2856,influencer,image,Feeling awesome,405,141,95
+2857,fitness,text,Not so great,175,46,38
+2858,developer,reel,Must watch!,547,173,192
+2859,traveler,video,Not so great,537,261,54
+2860,student,image,Loved this!,190,61,19
+2861,influencer,text,Amazing experience!,78,10,49
+2862,fitness,text,Check this out!,220,91,36
+2863,traveler,reel,Amazing experience!,453,241,166
+2864,foodie,reel,Feeling awesome,383,267,134
+2865,traveler,image,Loved this!,306,129,65
+2866,student,image,Amazing experience!,251,90,67
+2867,developer,reel,Feeling awesome,462,58,173
+2868,influencer,story,Feeling awesome,110,50,45
+2869,traveler,reel,Highly recommended,339,52,193
+2870,influencer,reel,Check this out!,566,188,61
+2871,student,video,Feeling awesome,676,54,118
+2872,traveler,story,Feeling awesome,53,13,36
+2873,student,text,Amazing experience!,219,23,22
+2874,foodie,reel,Amazing experience!,794,79,22
+2875,fitness,video,Amazing experience!,945,164,111
+2876,developer,story,Check this out!,194,75,46
+2877,student,video,Could be better,611,169,35
+2878,developer,reel,Could be better,937,114,149
+2879,traveler,video,Amazing experience!,550,149,64
+2880,developer,video,What a day!,238,132,45
+2881,fitness,image,Loved this!,317,45,47
+2882,fitness,text,Could be better,225,39,15
+2883,fitness,text,Loved this!,194,83,21
+2884,influencer,reel,Not so great,778,83,106
+2885,developer,reel,Must watch!,341,293,126
+2886,influencer,reel,Check this out!,217,293,136
+2887,traveler,text,Amazing experience!,291,39,25
+2888,traveler,reel,What a day!,855,92,54
+2889,fitness,reel,Highly recommended,659,228,160
+2890,influencer,image,Amazing experience!,387,74,69
+2891,influencer,story,Must watch!,174,10,37
+2892,developer,image,Check this out!,134,109,79
+2893,developer,image,Feeling awesome,352,33,92
+2894,influencer,video,Could be better,943,288,117
+2895,student,story,Check this out!,68,14,27
+2896,fitness,text,Loved this!,197,13,7
+2897,fitness,video,Amazing experience!,518,61,176
+2898,traveler,image,What a day!,309,96,73
+2899,developer,text,Highly recommended,170,51,6
+2900,traveler,video,Loved this!,385,175,25
+2901,student,image,Not so great,265,66,68
+2902,developer,text,Highly recommended,52,43,20
+2903,developer,reel,Check this out!,389,62,70
+2904,foodie,image,Amazing experience!,205,45,47
+2905,student,video,Check this out!,316,97,34
+2906,fitness,video,Not so great,914,271,59
+2907,influencer,image,Must watch!,473,31,83
+2908,student,image,Amazing experience!,256,92,35
+2909,student,reel,What a day!,511,285,182
+2910,foodie,story,Must watch!,270,72,11
+2911,fitness,reel,Must watch!,285,214,50
+2912,student,reel,Could be better,840,276,103
+2913,fitness,text,Amazing experience!,172,24,5
+2914,developer,text,Must watch!,247,28,42
+2915,traveler,video,Feeling awesome,884,187,70
+2916,developer,video,Highly recommended,905,240,133
+2917,foodie,video,Check this out!,431,61,142
+2918,student,text,What a day!,154,100,47
+2919,student,reel,Amazing experience!,773,256,41
+2920,student,image,Not so great,464,71,76
+2921,developer,image,Feeling awesome,233,124,23
+2922,fitness,story,Highly recommended,114,13,13
+2923,influencer,image,Could be better,474,58,37
+2924,student,video,What a day!,866,185,187
+2925,foodie,reel,Feeling awesome,389,98,67
+2926,foodie,image,Highly recommended,199,43,57
+2927,influencer,reel,Highly recommended,264,79,79
+2928,fitness,image,Could be better,296,64,46
+2929,traveler,image,What a day!,431,85,58
+2930,fitness,story,Highly recommended,69,55,46
+2931,student,text,Feeling awesome,96,63,36
+2932,developer,reel,Feeling awesome,950,84,70
+2933,influencer,reel,Must watch!,624,125,164
+2934,traveler,image,Must watch!,232,60,65
+2935,influencer,video,Feeling awesome,845,63,196
+2936,traveler,story,Feeling awesome,208,53,5
+2937,foodie,text,Must watch!,251,16,31
+2938,foodie,image,Must watch!,169,133,91
+2939,foodie,text,Amazing experience!,58,96,50
+2940,influencer,story,Highly recommended,256,53,50
+2941,student,text,What a day!,245,93,49
+2942,student,text,Check this out!,74,22,27
+2943,fitness,story,Could be better,176,80,33
+2944,developer,reel,Must watch!,795,122,112
+2945,influencer,image,Check this out!,107,26,34
+2946,traveler,text,Check this out!,187,86,44
+2947,influencer,reel,Highly recommended,608,77,125
+2948,student,image,Amazing experience!,120,141,78
+2949,student,text,Loved this!,268,17,24
+2950,developer,reel,What a day!,899,170,185
+2951,developer,story,Must watch!,148,83,44
+2952,traveler,reel,What a day!,566,179,179
+2953,student,text,What a day!,78,31,37
+2954,influencer,reel,Must watch!,938,260,176
+2955,developer,image,Check this out!,490,36,46
+2956,fitness,video,Loved this!,417,125,44
+2957,student,text,Not so great,294,15,22
+2958,traveler,text,Highly recommended,279,11,17
+2959,influencer,text,Check this out!,203,82,41
+2960,student,image,What a day!,150,126,32
+2961,developer,image,Could be better,183,121,51
+2962,developer,video,Not so great,435,136,168
+2963,foodie,image,Not so great,200,24,72
+2964,foodie,story,Loved this!,198,63,45
+2965,developer,text,Loved this!,262,41,40
+2966,influencer,image,Could be better,252,62,35
+2967,developer,video,What a day!,989,107,85
+2968,traveler,image,Not so great,333,94,63
+2969,developer,video,Not so great,630,184,198
+2970,foodie,video,Not so great,583,290,156
+2971,developer,video,Amazing experience!,801,106,85
+2972,foodie,image,Feeling awesome,355,28,86
+2973,traveler,reel,Feeling awesome,922,285,111
+2974,student,image,Loved this!,176,70,17
+2975,influencer,video,Not so great,791,266,198
+2976,developer,image,Check this out!,423,129,76
+2977,fitness,video,Highly recommended,201,187,108
+2978,influencer,image,Not so great,373,87,84
+2979,developer,image,What a day!,214,130,75
+2980,fitness,text,Amazing experience!,292,78,27
+2981,developer,story,What a day!,286,64,30
+2982,influencer,image,Could be better,274,21,100
+2983,traveler,video,Loved this!,954,99,63
+2984,traveler,image,Check this out!,275,145,47
+2985,student,story,What a day!,100,35,22
+2986,traveler,text,Loved this!,179,21,12
+2987,foodie,story,Check this out!,159,58,34
+2988,traveler,reel,Highly recommended,470,283,199
+2989,foodie,text,Must watch!,241,99,49
+2990,foodie,reel,Loved this!,913,59,71
+2991,influencer,video,Not so great,882,193,30
+2992,fitness,image,Must watch!,484,93,35
+2993,fitness,story,Amazing experience!,210,62,50
+2994,influencer,story,Loved this!,205,86,16
+2995,influencer,text,Must watch!,113,65,27
+2996,fitness,story,Feeling awesome,83,31,43
+2997,developer,video,What a day!,864,247,118
+2998,influencer,reel,Amazing experience!,968,219,195
+2999,influencer,story,Check this out!,213,58,11
+3000,influencer,video,Could be better,783,192,29
