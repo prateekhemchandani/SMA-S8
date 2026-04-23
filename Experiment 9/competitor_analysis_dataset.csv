@@ -1,0 +1,3001 @@
+post_id,brand,user_type,post_text,likes,comments,shares
+1,Nike,influencer,Nike nothing special,271,13,71
+2,Nike,athlete,Nike very comfortable,745,114,58
+3,Adidas,influencer,Adidas nothing special,534,58,69
+4,Adidas,traveler,Adidas okay product,319,118,39
+5,Puma,influencer,Puma average experience,365,59,58
+6,Puma,influencer,Puma bad quality,76,124,85
+7,Adidas,student,Adidas okay product,210,143,79
+8,Puma,athlete,Puma very disappointing,290,191,112
+9,Puma,student,Puma very disappointing,80,178,6
+10,Puma,influencer,Puma great quality,800,19,54
+11,Adidas,influencer,Adidas bad quality,218,116,144
+12,Adidas,student,Adidas great quality,964,69,76
+13,Puma,student,Puma amazing product,625,116,37
+14,Adidas,athlete,Adidas nothing special,360,195,5
+15,Nike,athlete,Nike great quality,668,72,101
+16,Nike,traveler,Nike very comfortable,1067,106,88
+17,Nike,athlete,Nike nothing special,470,136,31
+18,Nike,athlete,Nike nothing special,237,65,94
+19,Adidas,influencer,Adidas not worth it,124,195,75
+20,Puma,traveler,Puma nothing special,400,88,115
+21,Puma,traveler,Puma love this brand,577,10,15
+22,Nike,traveler,Nike bad quality,235,55,131
+23,Adidas,influencer,Adidas amazing product,628,73,17
+24,Nike,influencer,Nike not worth it,87,24,142
+25,Puma,athlete,Puma nothing special,209,23,138
+26,Adidas,traveler,Adidas poor experience,164,149,24
+27,Nike,athlete,Nike amazing product,853,120,33
+28,Puma,athlete,Puma love this brand,1179,18,19
+29,Adidas,influencer,Adidas average experience,368,66,18
+30,Puma,athlete,Puma not worth it,121,86,120
+31,Adidas,traveler,Adidas great quality,1194,38,141
+32,Puma,traveler,Puma love this brand,864,57,53
+33,Nike,athlete,Nike nothing special,312,120,76
+34,Nike,influencer,Nike bad quality,164,74,9
+35,Puma,traveler,Puma poor experience,226,197,76
+36,Puma,influencer,Puma not worth it,95,116,87
+37,Adidas,influencer,Adidas great quality,734,119,49
+38,Adidas,athlete,Adidas very disappointing,197,119,6
+39,Puma,influencer,Puma amazing product,1038,130,15
+40,Adidas,student,Adidas bad quality,129,186,138
+41,Nike,influencer,Nike very disappointing,52,134,22
+42,Puma,influencer,Puma great quality,932,135,15
+43,Nike,traveler,Nike very disappointing,268,153,20
+44,Puma,athlete,Puma bad quality,185,120,46
+45,Nike,influencer,Nike great quality,1029,21,79
+46,Adidas,athlete,Adidas not worth it,234,171,89
+47,Puma,athlete,Puma average experience,460,55,78
+48,Adidas,traveler,Adidas bad quality,227,166,134
+49,Puma,athlete,Puma very comfortable,1072,33,20
+50,Nike,student,Nike very comfortable,524,83,138
+51,Puma,student,Puma poor experience,199,85,107
+52,Puma,influencer,Puma okay product,268,15,64
+53,Nike,student,Nike average experience,362,103,97
+54,Adidas,influencer,Adidas poor experience,68,28,26
+55,Nike,traveler,Nike not worth it,171,110,32
+56,Puma,traveler,Puma okay product,555,81,125
+57,Puma,traveler,Puma not worth it,106,165,56
+58,Puma,influencer,Puma bad quality,293,95,16
+59,Puma,influencer,Puma nothing special,372,115,94
+60,Nike,traveler,Nike average experience,547,65,107
+61,Adidas,traveler,Adidas love this brand,1132,146,142
+62,Adidas,student,Adidas average experience,240,124,30
+63,Nike,student,Nike bad quality,300,13,105
+64,Nike,influencer,Nike nothing special,456,18,22
+65,Adidas,athlete,Adidas average experience,347,52,95
+66,Adidas,student,Adidas nothing special,340,193,92
+67,Adidas,influencer,Adidas nothing special,236,72,95
+68,Nike,influencer,Nike great quality,899,79,70
+69,Nike,student,Nike amazing product,637,85,65
+70,Adidas,traveler,Adidas poor experience,221,26,121
+71,Nike,student,Nike great quality,765,125,47
+72,Nike,traveler,Nike love this brand,1061,180,29
+73,Nike,athlete,Nike average experience,350,164,19
+74,Nike,student,Nike great quality,1134,57,137
+75,Adidas,influencer,Adidas nothing special,216,153,89
+76,Adidas,athlete,Adidas amazing product,913,93,127
+77,Puma,athlete,Puma nothing special,248,162,102
+78,Adidas,student,Adidas average experience,324,183,62
+79,Puma,athlete,Puma average experience,230,88,76
+80,Puma,influencer,Puma okay product,206,103,43
+81,Adidas,traveler,Adidas average experience,424,17,73
+82,Adidas,traveler,Adidas very disappointing,142,133,66
+83,Adidas,influencer,Adidas amazing product,920,183,148
+84,Nike,influencer,Nike bad quality,263,103,97
+85,Nike,influencer,Nike great quality,1165,167,64
+86,Adidas,student,Adidas okay product,492,120,63
+87,Adidas,traveler,Adidas very comfortable,999,175,35
+88,Puma,influencer,Puma very disappointing,129,139,30
+89,Adidas,athlete,Adidas average experience,308,140,57
+90,Adidas,traveler,Adidas love this brand,760,91,37
+91,Nike,traveler,Nike very disappointing,235,87,60
+92,Adidas,student,Adidas bad quality,126,160,141
+93,Nike,influencer,Nike nothing special,540,56,10
+94,Puma,traveler,Puma very disappointing,192,37,92
+95,Adidas,student,Adidas not worth it,267,123,70
+96,Adidas,athlete,Adidas very comfortable,1027,80,80
+97,Nike,athlete,Nike okay product,280,26,50
+98,Adidas,student,Adidas bad quality,233,136,50
+99,Puma,athlete,Puma bad quality,149,142,120
+100,Puma,student,Puma average experience,305,79,56
+101,Nike,student,Nike very disappointing,96,138,16
+102,Nike,influencer,Nike nothing special,408,153,92
+103,Adidas,student,Adidas love this brand,833,175,61
+104,Nike,influencer,Nike average experience,407,90,140
+105,Adidas,athlete,Adidas great quality,626,161,106
+106,Puma,traveler,Puma average experience,387,171,23
+107,Nike,traveler,Nike very comfortable,1079,45,77
+108,Puma,traveler,Puma very disappointing,61,47,40
+109,Adidas,influencer,Adidas average experience,332,17,19
+110,Puma,influencer,Puma okay product,561,14,79
+111,Puma,traveler,Puma amazing product,758,111,55
+112,Nike,traveler,Nike average experience,228,52,86
+113,Adidas,athlete,Adidas love this brand,1148,112,57
+114,Adidas,student,Adidas love this brand,776,95,50
+115,Puma,influencer,Puma average experience,331,180,48
+116,Adidas,athlete,Adidas average experience,203,23,52
+117,Nike,influencer,Nike love this brand,571,77,107
+118,Nike,athlete,Nike great quality,1163,191,64
+119,Puma,influencer,Puma okay product,558,88,141
+120,Puma,influencer,Puma bad quality,54,166,87
+121,Adidas,athlete,Adidas okay product,213,197,144
+122,Adidas,student,Adidas not worth it,68,177,110
+123,Puma,athlete,Puma love this brand,756,185,50
+124,Nike,influencer,Nike not worth it,284,38,114
+125,Puma,athlete,Puma average experience,372,189,98
+126,Adidas,traveler,Adidas love this brand,1121,200,22
+127,Adidas,traveler,Adidas not worth it,53,129,140
+128,Puma,traveler,Puma nothing special,341,145,19
+129,Adidas,student,Adidas not worth it,81,162,149
+130,Nike,traveler,Nike poor experience,197,25,127
+131,Adidas,athlete,Adidas nothing special,373,103,41
+132,Nike,influencer,Nike okay product,243,99,54
+133,Adidas,influencer,Adidas poor experience,272,100,77
+134,Nike,student,Nike very comfortable,518,143,9
+135,Adidas,student,Adidas great quality,500,38,28
+136,Puma,student,Puma okay product,289,36,100
+137,Adidas,athlete,Adidas not worth it,238,172,76
+138,Puma,athlete,Puma poor experience,278,126,37
+139,Nike,student,Nike very comfortable,1162,83,66
+140,Puma,student,Puma okay product,455,130,83
+141,Nike,athlete,Nike nothing special,278,62,131
+142,Puma,influencer,Puma bad quality,241,191,47
+143,Nike,student,Nike poor experience,91,32,96
+144,Adidas,athlete,Adidas nothing special,429,105,110
+145,Adidas,athlete,Adidas poor experience,143,22,115
+146,Adidas,student,Adidas nothing special,209,18,116
+147,Adidas,traveler,Adidas average experience,527,46,136
+148,Puma,traveler,Puma okay product,437,182,129
+149,Adidas,student,Adidas bad quality,137,37,140
+150,Nike,student,Nike great quality,1026,77,56
+151,Adidas,athlete,Adidas nothing special,509,100,77
+152,Nike,student,Nike amazing product,953,143,124
+153,Puma,influencer,Puma love this brand,1000,23,92
+154,Adidas,athlete,Adidas love this brand,689,87,121
+155,Adidas,athlete,Adidas bad quality,180,21,119
+156,Puma,athlete,Puma bad quality,282,10,89
+157,Adidas,athlete,Adidas nothing special,266,193,91
+158,Adidas,athlete,Adidas amazing product,591,100,7
+159,Adidas,influencer,Adidas very comfortable,736,47,134
+160,Adidas,student,Adidas nothing special,352,35,56
+161,Nike,student,Nike poor experience,262,65,127
+162,Adidas,athlete,Adidas nothing special,535,41,74
+163,Puma,traveler,Puma not worth it,163,162,119
+164,Nike,influencer,Nike average experience,255,45,21
+165,Nike,influencer,Nike love this brand,1172,145,89
+166,Nike,student,Nike poor experience,64,150,69
+167,Nike,traveler,Nike very comfortable,771,137,117
+168,Puma,athlete,Puma love this brand,833,48,79
+169,Puma,athlete,Puma not worth it,234,34,24
+170,Nike,traveler,Nike amazing product,1105,83,79
+171,Puma,influencer,Puma very disappointing,192,62,28
+172,Adidas,traveler,Adidas poor experience,153,188,112
+173,Nike,influencer,Nike very disappointing,209,74,62
+174,Adidas,athlete,Adidas okay product,512,97,67
+175,Adidas,athlete,Adidas amazing product,668,103,28
+176,Adidas,influencer,Adidas very comfortable,950,73,131
+177,Nike,student,Nike bad quality,89,77,5
+178,Puma,student,Puma average experience,415,172,120
+179,Nike,student,Nike love this brand,932,109,86
+180,Adidas,influencer,Adidas okay product,441,150,110
+181,Adidas,student,Adidas nothing special,504,58,19
+182,Puma,student,Puma great quality,1019,45,99
+183,Nike,traveler,Nike not worth it,165,76,111
+184,Puma,student,Puma average experience,571,43,6
+185,Nike,traveler,Nike amazing product,681,137,83
+186,Puma,influencer,Puma bad quality,92,182,82
+187,Adidas,influencer,Adidas average experience,210,49,36
+188,Nike,athlete,Nike okay product,564,65,5
+189,Adidas,traveler,Adidas very disappointing,214,30,59
+190,Nike,traveler,Nike poor experience,288,192,142
+191,Puma,influencer,Puma bad quality,232,186,83
+192,Nike,traveler,Nike great quality,1088,64,28
+193,Nike,influencer,Nike great quality,653,171,147
+194,Adidas,influencer,Adidas amazing product,1005,124,143
+195,Adidas,athlete,Adidas not worth it,106,195,108
+196,Adidas,influencer,Adidas very comfortable,937,139,118
+197,Nike,influencer,Nike love this brand,726,34,62
+198,Nike,traveler,Nike amazing product,680,176,35
+199,Puma,athlete,Puma okay product,536,124,118
+200,Puma,influencer,Puma love this brand,563,86,61
+201,Puma,student,Puma okay product,386,37,146
+202,Adidas,traveler,Adidas not worth it,155,56,54
+203,Adidas,athlete,Adidas very disappointing,260,29,45
+204,Adidas,athlete,Adidas amazing product,903,193,116
+205,Puma,athlete,Puma nothing special,467,184,56
+206,Puma,student,Puma nothing special,349,27,65
+207,Puma,influencer,Puma amazing product,1173,126,87
+208,Nike,influencer,Nike great quality,890,81,105
+209,Adidas,traveler,Adidas great quality,894,125,52
+210,Nike,influencer,Nike great quality,528,22,75
+211,Adidas,traveler,Adidas bad quality,285,37,68
+212,Adidas,athlete,Adidas bad quality,157,155,72
+213,Nike,influencer,Nike nothing special,316,11,40
+214,Puma,student,Puma average experience,524,187,6
+215,Nike,athlete,Nike love this brand,673,194,49
+216,Puma,student,Puma very disappointing,221,121,131
+217,Puma,student,Puma okay product,517,123,120
+218,Adidas,student,Adidas very comfortable,980,111,83
+219,Nike,athlete,Nike love this brand,1051,26,48
+220,Nike,athlete,Nike very comfortable,915,142,46
+221,Nike,student,Nike very disappointing,260,153,52
+222,Puma,student,Puma love this brand,772,109,21
+223,Puma,traveler,Puma average experience,372,192,27
+224,Puma,athlete,Puma nothing special,204,166,102
+225,Nike,traveler,Nike great quality,921,61,44
+226,Puma,athlete,Puma amazing product,552,155,93
+227,Puma,athlete,Puma okay product,353,16,145
+228,Puma,athlete,Puma great quality,508,148,75
+229,Puma,athlete,Puma love this brand,738,96,109
+230,Puma,influencer,Puma not worth it,238,139,99
+231,Puma,influencer,Puma great quality,1126,146,129
+232,Puma,student,Puma nothing special,229,147,5
+233,Puma,traveler,Puma love this brand,658,112,143
+234,Nike,influencer,Nike okay product,373,135,31
+235,Nike,student,Nike not worth it,73,180,64
+236,Nike,athlete,Nike bad quality,229,19,6
+237,Nike,traveler,Nike okay product,278,140,47
+238,Puma,traveler,Puma not worth it,148,43,25
+239,Puma,student,Puma okay product,583,162,43
+240,Adidas,student,Adidas not worth it,196,63,121
+241,Nike,traveler,Nike very comfortable,928,153,74
+242,Adidas,influencer,Adidas great quality,1148,153,109
+243,Nike,influencer,Nike okay product,270,116,129
+244,Adidas,traveler,Adidas amazing product,1193,110,57
+245,Nike,traveler,Nike great quality,871,162,109
+246,Adidas,traveler,Adidas amazing product,557,150,50
+247,Nike,athlete,Nike okay product,450,121,124
+248,Nike,student,Nike amazing product,508,96,142
+249,Nike,traveler,Nike bad quality,159,23,148
+250,Puma,influencer,Puma love this brand,602,42,109
+251,Adidas,traveler,Adidas great quality,684,143,49
+252,Adidas,influencer,Adidas poor experience,91,76,139
+253,Nike,athlete,Nike poor experience,147,23,148
+254,Puma,influencer,Puma amazing product,523,115,115
+255,Nike,traveler,Nike very comfortable,541,57,28
+256,Adidas,traveler,Adidas love this brand,1017,52,100
+257,Nike,athlete,Nike okay product,355,129,149
+258,Puma,traveler,Puma very disappointing,209,14,88
+259,Puma,athlete,Puma okay product,256,34,110
+260,Puma,athlete,Puma okay product,267,145,49
+261,Nike,traveler,Nike average experience,521,96,24
+262,Puma,student,Puma poor experience,215,116,106
+263,Adidas,traveler,Adidas bad quality,84,71,45
+264,Nike,student,Nike not worth it,270,34,102
+265,Nike,athlete,Nike very comfortable,648,10,130
+266,Nike,influencer,Nike not worth it,173,82,147
+267,Puma,influencer,Puma nothing special,208,157,69
+268,Adidas,student,Adidas bad quality,232,122,18
+269,Adidas,influencer,Adidas great quality,1161,44,103
+270,Nike,student,Nike bad quality,69,85,127
+271,Nike,student,Nike love this brand,899,104,146
+272,Puma,traveler,Puma average experience,595,105,32
+273,Nike,student,Nike bad quality,173,180,129
+274,Adidas,student,Adidas okay product,472,139,86
+275,Puma,athlete,Puma not worth it,113,109,44
+276,Puma,student,Puma very comfortable,968,176,129
+277,Puma,athlete,Puma poor experience,119,90,94
+278,Adidas,influencer,Adidas bad quality,84,111,88
+279,Puma,influencer,Puma amazing product,1191,43,103
+280,Puma,student,Puma great quality,948,187,38
+281,Adidas,traveler,Adidas bad quality,131,132,66
+282,Adidas,student,Adidas amazing product,649,98,120
+283,Nike,traveler,Nike love this brand,874,131,140
+284,Puma,student,Puma very comfortable,995,171,102
+285,Nike,traveler,Nike bad quality,135,28,146
+286,Nike,influencer,Nike okay product,259,156,78
+287,Puma,traveler,Puma bad quality,66,13,53
+288,Nike,traveler,Nike amazing product,690,94,35
+289,Puma,influencer,Puma okay product,302,27,20
+290,Puma,athlete,Puma love this brand,794,57,113
+291,Adidas,athlete,Adidas average experience,293,187,24
+292,Puma,athlete,Puma great quality,980,57,46
+293,Puma,influencer,Puma nothing special,577,30,96
+294,Adidas,traveler,Adidas nothing special,379,32,41
+295,Puma,athlete,Puma love this brand,1192,145,122
+296,Nike,traveler,Nike very disappointing,282,14,106
+297,Puma,athlete,Puma poor experience,98,70,24
+298,Puma,student,Puma very comfortable,541,195,107
+299,Puma,influencer,Puma nothing special,291,197,27
+300,Adidas,athlete,Adidas very disappointing,218,60,18
+301,Adidas,athlete,Adidas not worth it,52,183,58
+302,Adidas,athlete,Adidas okay product,387,138,49
+303,Adidas,influencer,Adidas poor experience,188,189,143
+304,Puma,influencer,Puma poor experience,214,23,72
+305,Puma,student,Puma very comfortable,1016,150,45
+306,Adidas,student,Adidas nothing special,201,19,47
+307,Puma,athlete,Puma very disappointing,176,15,144
+308,Puma,influencer,Puma nothing special,474,68,35
+309,Adidas,influencer,Adidas love this brand,947,38,137
+310,Adidas,athlete,Adidas poor experience,83,123,24
+311,Puma,student,Puma not worth it,125,40,141
+312,Puma,influencer,Puma very disappointing,121,133,13
+313,Puma,student,Puma not worth it,94,168,57
+314,Adidas,student,Adidas poor experience,276,28,63
+315,Adidas,traveler,Adidas okay product,354,46,124
+316,Adidas,influencer,Adidas very disappointing,116,59,53
+317,Puma,traveler,Puma not worth it,253,54,132
+318,Adidas,influencer,Adidas bad quality,218,138,108
+319,Puma,traveler,Puma great quality,853,54,132
+320,Adidas,influencer,Adidas okay product,553,27,144
+321,Puma,traveler,Puma not worth it,91,115,57
+322,Puma,athlete,Puma average experience,422,143,32
+323,Nike,influencer,Nike average experience,284,177,118
+324,Adidas,traveler,Adidas average experience,496,60,7
+325,Puma,traveler,Puma nothing special,208,65,17
+326,Adidas,traveler,Adidas average experience,375,163,39
+327,Adidas,athlete,Adidas nothing special,545,128,97
+328,Puma,traveler,Puma nothing special,254,25,145
+329,Nike,traveler,Nike very comfortable,564,36,57
+330,Adidas,student,Adidas okay product,324,155,78
+331,Puma,influencer,Puma nothing special,543,197,37
+332,Adidas,traveler,Adidas bad quality,200,122,97
+333,Nike,traveler,Nike very comfortable,855,10,44
+334,Nike,traveler,Nike okay product,274,72,32
+335,Adidas,influencer,Adidas very comfortable,982,188,14
+336,Adidas,influencer,Adidas love this brand,1151,25,101
+337,Puma,student,Puma poor experience,62,192,87
+338,Nike,traveler,Nike very disappointing,118,44,50
+339,Adidas,traveler,Adidas nothing special,312,132,66
+340,Adidas,athlete,Adidas great quality,837,43,27
+341,Puma,athlete,Puma very comfortable,628,49,24
+342,Adidas,influencer,Adidas bad quality,208,116,130
+343,Puma,athlete,Puma not worth it,268,105,102
+344,Adidas,student,Adidas very comfortable,643,23,21
+345,Nike,traveler,Nike poor experience,260,36,108
+346,Adidas,influencer,Adidas very disappointing,250,118,117
+347,Puma,student,Puma not worth it,210,43,149
+348,Adidas,influencer,Adidas very disappointing,161,93,19
+349,Adidas,influencer,Adidas very comfortable,529,61,17
+350,Adidas,athlete,Adidas bad quality,112,187,16
+351,Puma,student,Puma poor experience,185,171,37
+352,Adidas,influencer,Adidas very comfortable,581,159,5
+353,Adidas,traveler,Adidas nothing special,404,60,41
+354,Adidas,athlete,Adidas not worth it,170,63,130
+355,Adidas,traveler,Adidas average experience,263,105,148
+356,Puma,student,Puma very disappointing,164,119,95
+357,Adidas,influencer,Adidas okay product,259,36,110
+358,Nike,traveler,Nike great quality,927,147,129
+359,Nike,influencer,Nike amazing product,587,103,23
+360,Puma,traveler,Puma great quality,1196,45,116
+361,Adidas,influencer,Adidas amazing product,947,123,24
+362,Nike,influencer,Nike nothing special,296,116,118
+363,Puma,student,Puma great quality,525,82,118
+364,Adidas,influencer,Adidas great quality,1188,159,58
+365,Adidas,student,Adidas average experience,586,122,89
+366,Adidas,student,Adidas bad quality,147,52,70
+367,Nike,athlete,Nike poor experience,253,62,104
+368,Adidas,influencer,Adidas love this brand,913,142,6
+369,Adidas,influencer,Adidas very comfortable,630,63,132
+370,Nike,traveler,Nike average experience,303,114,38
+371,Nike,student,Nike very comfortable,1179,116,60
+372,Puma,traveler,Puma very disappointing,80,199,93
+373,Nike,student,Nike great quality,757,185,68
+374,Puma,influencer,Puma nothing special,573,33,95
+375,Nike,student,Nike amazing product,1069,67,10
+376,Adidas,traveler,Adidas very disappointing,122,142,110
+377,Adidas,athlete,Adidas amazing product,502,81,150
+378,Nike,student,Nike very disappointing,194,155,31
+379,Puma,student,Puma not worth it,157,66,102
+380,Puma,athlete,Puma love this brand,1081,182,67
+381,Adidas,traveler,Adidas amazing product,616,139,109
+382,Puma,student,Puma nothing special,436,27,110
+383,Puma,influencer,Puma okay product,335,11,130
+384,Adidas,athlete,Adidas nothing special,269,187,68
+385,Nike,athlete,Nike great quality,1160,82,108
+386,Puma,influencer,Puma average experience,511,114,144
+387,Puma,influencer,Puma nothing special,400,22,30
+388,Nike,athlete,Nike nothing special,464,149,117
+389,Nike,influencer,Nike very comfortable,542,157,85
+390,Adidas,influencer,Adidas okay product,505,26,103
+391,Adidas,athlete,Adidas not worth it,217,190,48
+392,Nike,athlete,Nike poor experience,207,39,122
+393,Adidas,traveler,Adidas okay product,313,68,80
+394,Adidas,traveler,Adidas very comfortable,678,176,140
+395,Adidas,student,Adidas poor experience,64,147,11
+396,Adidas,student,Adidas nothing special,579,70,32
+397,Puma,athlete,Puma great quality,1127,159,103
+398,Puma,student,Puma bad quality,194,85,68
+399,Adidas,influencer,Adidas great quality,742,192,100
+400,Adidas,athlete,Adidas amazing product,801,175,97
+401,Puma,athlete,Puma poor experience,211,107,54
+402,Puma,athlete,Puma very comfortable,1055,124,45
+403,Adidas,athlete,Adidas very disappointing,93,53,148
+404,Adidas,traveler,Adidas very comfortable,990,153,109
+405,Puma,student,Puma great quality,1177,175,148
+406,Puma,athlete,Puma bad quality,289,55,87
+407,Puma,traveler,Puma very comfortable,672,186,144
+408,Puma,influencer,Puma okay product,475,81,145
+409,Nike,athlete,Nike poor experience,243,134,12
+410,Nike,student,Nike very disappointing,134,93,65
+411,Puma,student,Puma amazing product,1160,158,71
+412,Puma,traveler,Puma amazing product,750,90,86
+413,Nike,traveler,Nike nothing special,327,131,47
+414,Nike,athlete,Nike very disappointing,82,81,40
+415,Adidas,traveler,Adidas very comfortable,899,21,49
+416,Puma,traveler,Puma bad quality,126,64,81
+417,Nike,athlete,Nike bad quality,295,10,52
+418,Adidas,influencer,Adidas poor experience,250,16,113
+419,Puma,athlete,Puma amazing product,1184,98,121
+420,Nike,influencer,Nike okay product,492,126,27
+421,Adidas,traveler,Adidas average experience,323,118,120
+422,Nike,student,Nike okay product,554,39,72
+423,Puma,influencer,Puma great quality,853,180,141
+424,Nike,student,Nike very disappointing,121,115,137
+425,Puma,student,Puma okay product,313,66,12
+426,Adidas,athlete,Adidas great quality,1197,75,80
+427,Adidas,influencer,Adidas very comfortable,653,13,28
+428,Puma,athlete,Puma great quality,958,140,41
+429,Nike,student,Nike amazing product,718,178,14
+430,Adidas,traveler,Adidas very disappointing,188,80,138
+431,Adidas,student,Adidas very disappointing,119,30,125
+432,Adidas,influencer,Adidas nothing special,374,198,54
+433,Nike,athlete,Nike not worth it,160,199,131
+434,Adidas,traveler,Adidas very disappointing,277,109,110
+435,Adidas,athlete,Adidas amazing product,1176,45,56
+436,Nike,student,Nike love this brand,615,165,84
+437,Nike,influencer,Nike amazing product,783,181,65
+438,Adidas,traveler,Adidas okay product,531,21,107
+439,Adidas,traveler,Adidas average experience,352,98,75
+440,Adidas,influencer,Adidas very comfortable,1132,37,116
+441,Nike,student,Nike very disappointing,248,77,21
+442,Adidas,influencer,Adidas poor experience,82,136,90
+443,Puma,traveler,Puma okay product,541,110,84
+444,Nike,traveler,Nike very comfortable,836,12,28
+445,Puma,influencer,Puma average experience,391,180,48
+446,Puma,student,Puma very disappointing,213,145,47
+447,Puma,athlete,Puma not worth it,58,90,11
+448,Adidas,influencer,Adidas average experience,490,115,28
+449,Puma,traveler,Puma very comfortable,931,194,18
+450,Nike,influencer,Nike poor experience,170,136,47
+451,Adidas,student,Adidas very disappointing,251,14,19
+452,Adidas,traveler,Adidas average experience,306,114,93
+453,Puma,athlete,Puma love this brand,681,142,55
+454,Puma,athlete,Puma nothing special,204,186,133
+455,Nike,athlete,Nike very disappointing,286,55,66
+456,Puma,influencer,Puma okay product,317,42,10
+457,Puma,traveler,Puma love this brand,836,11,141
+458,Puma,traveler,Puma very disappointing,300,152,24
+459,Nike,student,Nike great quality,590,160,130
+460,Nike,athlete,Nike great quality,685,77,130
+461,Puma,student,Puma bad quality,237,101,30
+462,Adidas,athlete,Adidas nothing special,559,43,47
+463,Nike,traveler,Nike not worth it,91,174,56
+464,Nike,athlete,Nike average experience,375,128,31
+465,Adidas,athlete,Adidas bad quality,294,68,43
+466,Adidas,traveler,Adidas love this brand,1082,145,139
+467,Nike,influencer,Nike not worth it,270,94,90
+468,Adidas,influencer,Adidas very disappointing,196,107,19
+469,Puma,influencer,Puma average experience,243,16,30
+470,Nike,traveler,Nike average experience,413,34,126
+471,Adidas,athlete,Adidas okay product,329,147,105
+472,Adidas,student,Adidas not worth it,213,95,29
+473,Nike,traveler,Nike poor experience,84,119,138
+474,Adidas,influencer,Adidas very comfortable,731,38,54
+475,Adidas,student,Adidas love this brand,1169,174,17
+476,Puma,athlete,Puma average experience,377,70,145
+477,Adidas,traveler,Adidas very comfortable,888,75,122
+478,Nike,traveler,Nike not worth it,56,78,87
+479,Nike,influencer,Nike amazing product,1030,142,38
+480,Nike,student,Nike poor experience,235,55,46
+481,Puma,traveler,Puma not worth it,289,108,44
+482,Adidas,athlete,Adidas not worth it,162,50,143
+483,Adidas,student,Adidas great quality,1124,56,18
+484,Adidas,traveler,Adidas love this brand,1015,157,96
+485,Puma,influencer,Puma nothing special,215,67,55
+486,Puma,influencer,Puma bad quality,255,175,21
+487,Adidas,athlete,Adidas poor experience,286,134,20
+488,Adidas,influencer,Adidas amazing product,1182,108,73
+489,Adidas,traveler,Adidas nothing special,472,120,23
+490,Adidas,student,Adidas bad quality,72,177,89
+491,Adidas,athlete,Adidas love this brand,562,162,76
+492,Adidas,athlete,Adidas great quality,1178,152,21
+493,Puma,influencer,Puma great quality,1034,82,41
+494,Puma,athlete,Puma great quality,1131,63,99
+495,Nike,student,Nike nothing special,369,13,105
+496,Adidas,influencer,Adidas poor experience,147,105,22
+497,Nike,athlete,Nike amazing product,659,151,80
+498,Adidas,athlete,Adidas poor experience,54,113,25
+499,Puma,influencer,Puma poor experience,215,97,22
+500,Adidas,influencer,Adidas very disappointing,67,139,41
+501,Puma,traveler,Puma love this brand,815,173,144
+502,Adidas,influencer,Adidas average experience,475,119,61
+503,Adidas,athlete,Adidas nothing special,283,96,98
+504,Adidas,student,Adidas average experience,267,153,106
+505,Adidas,athlete,Adidas average experience,531,129,120
+506,Nike,athlete,Nike amazing product,899,55,15
+507,Adidas,traveler,Adidas great quality,601,163,68
+508,Puma,influencer,Puma bad quality,112,21,46
+509,Adidas,traveler,Adidas not worth it,299,35,22
+510,Adidas,influencer,Adidas average experience,358,161,40
+511,Puma,influencer,Puma great quality,775,69,112
+512,Puma,student,Puma very comfortable,941,15,100
+513,Adidas,influencer,Adidas average experience,403,45,96
+514,Puma,influencer,Puma great quality,661,28,55
+515,Puma,traveler,Puma great quality,985,65,21
+516,Puma,influencer,Puma great quality,932,194,119
+517,Nike,influencer,Nike okay product,246,126,100
+518,Nike,athlete,Nike nothing special,262,87,100
+519,Adidas,influencer,Adidas love this brand,840,118,110
+520,Adidas,traveler,Adidas very comfortable,1056,72,59
+521,Puma,student,Puma very disappointing,209,48,134
+522,Puma,athlete,Puma great quality,619,24,13
+523,Adidas,traveler,Adidas very comfortable,535,162,44
+524,Nike,student,Nike average experience,345,166,142
+525,Adidas,influencer,Adidas nothing special,369,34,26
+526,Nike,athlete,Nike poor experience,143,100,65
+527,Adidas,traveler,Adidas amazing product,1140,178,22
+528,Puma,traveler,Puma very disappointing,250,139,117
+529,Puma,student,Puma not worth it,120,148,5
+530,Nike,student,Nike bad quality,279,25,47
+531,Nike,athlete,Nike very comfortable,1099,175,39
+532,Adidas,athlete,Adidas love this brand,853,17,31
+533,Adidas,influencer,Adidas amazing product,687,38,17
+534,Nike,athlete,Nike average experience,598,149,72
+535,Nike,student,Nike love this brand,917,163,52
+536,Nike,influencer,Nike not worth it,85,107,83
+537,Adidas,traveler,Adidas very comfortable,787,184,109
+538,Adidas,influencer,Adidas nothing special,523,54,117
+539,Adidas,athlete,Adidas nothing special,299,151,42
+540,Adidas,influencer,Adidas average experience,250,164,64
+541,Puma,influencer,Puma nothing special,478,157,80
+542,Adidas,traveler,Adidas poor experience,287,168,92
+543,Adidas,student,Adidas great quality,702,190,45
+544,Puma,athlete,Puma great quality,523,18,10
+545,Puma,athlete,Puma nothing special,260,40,76
+546,Nike,athlete,Nike love this brand,844,34,17
+547,Adidas,student,Adidas great quality,1166,192,93
+548,Nike,athlete,Nike not worth it,62,192,95
+549,Adidas,traveler,Adidas not worth it,297,40,97
+550,Adidas,student,Adidas very comfortable,1193,112,50
+551,Nike,influencer,Nike amazing product,562,179,80
+552,Puma,influencer,Puma great quality,666,159,79
+553,Adidas,traveler,Adidas nothing special,468,57,7
+554,Puma,influencer,Puma nothing special,469,160,150
+555,Nike,athlete,Nike very comfortable,762,95,118
+556,Adidas,influencer,Adidas nothing special,470,86,92
+557,Adidas,athlete,Adidas not worth it,252,69,110
+558,Nike,athlete,Nike nothing special,357,152,111
+559,Puma,athlete,Puma great quality,522,158,20
+560,Nike,athlete,Nike amazing product,1024,34,30
+561,Nike,athlete,Nike great quality,1121,89,143
+562,Adidas,athlete,Adidas poor experience,234,139,33
+563,Puma,traveler,Puma poor experience,67,76,133
+564,Nike,traveler,Nike amazing product,929,188,13
+565,Adidas,athlete,Adidas not worth it,147,192,144
+566,Puma,student,Puma poor experience,58,60,32
+567,Nike,athlete,Nike very disappointing,161,17,90
+568,Adidas,student,Adidas great quality,852,146,66
+569,Puma,influencer,Puma great quality,957,140,6
+570,Puma,influencer,Puma very disappointing,196,17,104
+571,Nike,athlete,Nike very disappointing,159,71,142
+572,Adidas,traveler,Adidas great quality,661,164,111
+573,Nike,athlete,Nike very disappointing,223,113,17
+574,Adidas,athlete,Adidas nothing special,265,173,104
+575,Adidas,traveler,Adidas very disappointing,283,12,138
+576,Puma,traveler,Puma very comfortable,522,32,133
+577,Puma,traveler,Puma very comfortable,996,109,83
+578,Adidas,traveler,Adidas bad quality,262,51,58
+579,Adidas,traveler,Adidas bad quality,172,197,38
+580,Nike,student,Nike very disappointing,104,157,92
+581,Adidas,student,Adidas okay product,278,164,20
+582,Nike,athlete,Nike amazing product,1002,61,134
+583,Nike,student,Nike nothing special,514,14,121
+584,Puma,athlete,Puma bad quality,75,20,56
+585,Puma,student,Puma great quality,1091,151,39
+586,Adidas,traveler,Adidas average experience,420,140,144
+587,Puma,influencer,Puma okay product,387,55,26
+588,Adidas,athlete,Adidas average experience,535,74,13
+589,Puma,student,Puma not worth it,141,173,51
+590,Puma,influencer,Puma very comfortable,627,162,113
+591,Nike,traveler,Nike bad quality,208,17,16
+592,Nike,athlete,Nike not worth it,112,131,77
+593,Nike,athlete,Nike love this brand,1199,54,91
+594,Puma,influencer,Puma bad quality,183,62,6
+595,Adidas,traveler,Adidas amazing product,1043,195,131
+596,Adidas,athlete,Adidas very disappointing,186,56,45
+597,Nike,traveler,Nike very disappointing,264,100,33
+598,Puma,student,Puma poor experience,270,183,79
+599,Adidas,influencer,Adidas not worth it,62,39,32
+600,Puma,influencer,Puma love this brand,683,108,10
+601,Puma,traveler,Puma not worth it,115,108,24
+602,Adidas,student,Adidas average experience,254,167,95
+603,Nike,influencer,Nike nothing special,222,66,21
+604,Nike,athlete,Nike nothing special,273,139,18
+605,Puma,influencer,Puma nothing special,280,139,91
+606,Adidas,student,Adidas love this brand,815,113,14
+607,Puma,student,Puma average experience,376,42,29
+608,Adidas,traveler,Adidas very disappointing,63,18,65
+609,Adidas,influencer,Adidas poor experience,50,62,120
+610,Puma,traveler,Puma okay product,566,45,132
+611,Puma,influencer,Puma great quality,851,74,37
+612,Puma,athlete,Puma love this brand,911,88,47
+613,Nike,traveler,Nike poor experience,155,159,111
+614,Puma,influencer,Puma very disappointing,157,140,11
+615,Adidas,influencer,Adidas amazing product,600,98,99
+616,Adidas,traveler,Adidas very comfortable,625,105,52
+617,Adidas,student,Adidas not worth it,200,136,100
+618,Nike,athlete,Nike very comfortable,840,20,107
+619,Puma,athlete,Puma amazing product,948,186,95
+620,Adidas,traveler,Adidas very comfortable,633,146,6
+621,Puma,student,Puma not worth it,87,62,11
+622,Puma,athlete,Puma amazing product,706,157,116
+623,Puma,influencer,Puma very comfortable,730,25,98
+624,Puma,athlete,Puma very disappointing,212,133,72
+625,Adidas,athlete,Adidas bad quality,181,112,14
+626,Puma,traveler,Puma bad quality,69,51,89
+627,Nike,traveler,Nike okay product,206,145,59
+628,Nike,influencer,Nike bad quality,114,181,38
+629,Nike,influencer,Nike poor experience,253,114,149
+630,Puma,athlete,Puma average experience,510,34,24
+631,Nike,athlete,Nike nothing special,202,139,128
+632,Nike,influencer,Nike nothing special,202,176,14
+633,Nike,student,Nike very disappointing,291,25,149
+634,Adidas,influencer,Adidas average experience,586,30,14
+635,Adidas,student,Adidas bad quality,142,39,82
+636,Adidas,student,Adidas average experience,593,173,118
+637,Adidas,athlete,Adidas great quality,619,10,85
+638,Puma,traveler,Puma very comfortable,583,16,50
+639,Adidas,student,Adidas great quality,1115,53,52
+640,Puma,athlete,Puma nothing special,271,103,65
+641,Puma,traveler,Puma average experience,277,101,141
+642,Nike,athlete,Nike bad quality,240,83,97
+643,Nike,athlete,Nike poor experience,110,17,34
+644,Adidas,student,Adidas nothing special,489,176,150
+645,Nike,student,Nike very disappointing,253,52,94
+646,Puma,athlete,Puma average experience,531,186,93
+647,Nike,influencer,Nike not worth it,259,172,11
+648,Puma,athlete,Puma very comfortable,1077,23,12
+649,Adidas,student,Adidas poor experience,92,26,43
+650,Nike,influencer,Nike amazing product,1071,13,125
+651,Adidas,athlete,Adidas not worth it,191,188,38
+652,Puma,traveler,Puma very comfortable,715,66,8
+653,Nike,student,Nike great quality,604,56,30
+654,Nike,influencer,Nike very comfortable,1047,131,105
+655,Nike,athlete,Nike nothing special,419,104,93
+656,Adidas,student,Adidas average experience,522,113,17
+657,Adidas,influencer,Adidas very comfortable,1054,135,63
+658,Nike,traveler,Nike very comfortable,509,146,74
+659,Nike,athlete,Nike nothing special,257,11,109
+660,Adidas,athlete,Adidas nothing special,579,72,66
+661,Puma,influencer,Puma great quality,1193,146,139
+662,Adidas,student,Adidas great quality,571,118,60
+663,Puma,student,Puma bad quality,249,54,63
+664,Nike,student,Nike nothing special,391,67,58
+665,Nike,traveler,Nike nothing special,276,120,90
+666,Nike,student,Nike amazing product,579,29,129
+667,Adidas,influencer,Adidas very comfortable,515,20,133
+668,Nike,student,Nike very disappointing,213,104,87
+669,Nike,traveler,Nike average experience,456,111,133
+670,Adidas,traveler,Adidas love this brand,901,104,88
+671,Nike,athlete,Nike nothing special,466,178,22
+672,Nike,athlete,Nike bad quality,85,14,107
+673,Nike,student,Nike bad quality,207,172,94
+674,Adidas,traveler,Adidas bad quality,145,64,117
+675,Nike,athlete,Nike average experience,300,28,14
+676,Adidas,traveler,Adidas very disappointing,141,141,5
+677,Nike,athlete,Nike poor experience,244,142,88
+678,Adidas,traveler,Adidas love this brand,941,62,48
+679,Puma,student,Puma not worth it,219,116,5
+680,Puma,student,Puma nothing special,527,23,89
+681,Adidas,influencer,Adidas amazing product,1168,106,123
+682,Nike,athlete,Nike not worth it,147,132,29
+683,Adidas,athlete,Adidas bad quality,115,53,127
+684,Nike,student,Nike very disappointing,234,184,90
+685,Puma,influencer,Puma very disappointing,221,90,91
+686,Nike,influencer,Nike okay product,424,164,80
+687,Puma,athlete,Puma very comfortable,1008,135,117
+688,Puma,traveler,Puma poor experience,271,185,53
+689,Adidas,athlete,Adidas average experience,273,177,32
+690,Adidas,traveler,Adidas very comfortable,978,186,122
+691,Nike,traveler,Nike love this brand,722,146,45
+692,Adidas,student,Adidas average experience,232,35,149
+693,Nike,athlete,Nike okay product,273,70,44
+694,Nike,student,Nike okay product,513,139,70
+695,Adidas,athlete,Adidas bad quality,51,30,129
+696,Adidas,traveler,Adidas not worth it,181,131,110
+697,Adidas,traveler,Adidas okay product,547,157,29
+698,Adidas,traveler,Adidas very comfortable,520,173,62
+699,Puma,athlete,Puma okay product,215,25,32
+700,Nike,athlete,Nike very disappointing,272,167,34
+701,Adidas,traveler,Adidas nothing special,350,129,136
+702,Adidas,influencer,Adidas okay product,262,118,121
+703,Puma,traveler,Puma very comfortable,589,149,139
+704,Nike,athlete,Nike okay product,240,126,42
+705,Adidas,athlete,Adidas bad quality,223,190,33
+706,Nike,influencer,Nike not worth it,85,52,143
+707,Nike,traveler,Nike very disappointing,262,134,116
+708,Nike,athlete,Nike nothing special,309,53,125
+709,Adidas,influencer,Adidas love this brand,929,165,100
+710,Adidas,student,Adidas not worth it,280,156,20
+711,Adidas,student,Adidas okay product,420,117,81
+712,Adidas,athlete,Adidas okay product,457,47,56
+713,Adidas,influencer,Adidas not worth it,127,199,57
+714,Puma,student,Puma not worth it,132,198,142
+715,Nike,student,Nike great quality,673,105,13
+716,Nike,traveler,Nike nothing special,520,59,72
+717,Puma,student,Puma average experience,225,54,109
+718,Puma,influencer,Puma okay product,278,54,35
+719,Puma,student,Puma okay product,278,191,70
+720,Adidas,student,Adidas amazing product,678,174,110
+721,Nike,influencer,Nike nothing special,413,48,31
+722,Nike,student,Nike okay product,591,75,66
+723,Adidas,influencer,Adidas bad quality,288,147,127
+724,Nike,traveler,Nike average experience,234,132,41
+725,Adidas,traveler,Adidas nothing special,487,84,86
+726,Nike,influencer,Nike okay product,567,158,47
+727,Puma,student,Puma great quality,1149,48,77
+728,Puma,student,Puma great quality,994,141,109
+729,Puma,influencer,Puma amazing product,724,192,123
+730,Puma,influencer,Puma great quality,1043,87,20
+731,Nike,athlete,Nike great quality,534,161,63
+732,Nike,traveler,Nike love this brand,853,162,104
+733,Puma,athlete,Puma amazing product,892,103,145
+734,Puma,student,Puma poor experience,114,35,143
+735,Nike,influencer,Nike love this brand,551,59,67
+736,Nike,athlete,Nike not worth it,250,169,102
+737,Adidas,student,Adidas very comfortable,913,168,85
+738,Nike,student,Nike very disappointing,64,133,146
+739,Nike,traveler,Nike not worth it,113,82,37
+740,Nike,influencer,Nike okay product,457,77,49
+741,Nike,influencer,Nike love this brand,1030,57,7
+742,Puma,traveler,Puma average experience,343,77,18
+743,Adidas,influencer,Adidas poor experience,258,144,38
+744,Nike,student,Nike nothing special,378,159,33
+745,Puma,influencer,Puma okay product,389,162,69
+746,Puma,athlete,Puma love this brand,590,79,53
+747,Adidas,athlete,Adidas amazing product,783,17,25
+748,Adidas,traveler,Adidas okay product,451,13,144
+749,Adidas,student,Adidas poor experience,234,36,18
+750,Adidas,influencer,Adidas bad quality,129,23,107
+751,Puma,influencer,Puma okay product,356,182,62
+752,Nike,traveler,Nike poor experience,214,75,109
+753,Puma,traveler,Puma okay product,401,190,99
+754,Nike,traveler,Nike very disappointing,61,24,112
+755,Adidas,influencer,Adidas very disappointing,182,13,146
+756,Puma,traveler,Puma nothing special,349,134,66
+757,Adidas,student,Adidas poor experience,161,70,79
+758,Adidas,traveler,Adidas not worth it,182,25,142
+759,Nike,athlete,Nike great quality,693,96,140
+760,Puma,influencer,Puma average experience,526,171,121
+761,Adidas,student,Adidas nothing special,591,168,30
+762,Nike,traveler,Nike great quality,634,44,70
+763,Nike,student,Nike average experience,597,40,20
+764,Puma,influencer,Puma very comfortable,1048,184,69
+765,Nike,student,Nike okay product,414,142,70
+766,Nike,student,Nike okay product,375,78,105
+767,Adidas,traveler,Adidas poor experience,99,28,110
+768,Nike,athlete,Nike very comfortable,1150,128,94
+769,Nike,traveler,Nike very disappointing,112,141,57
+770,Nike,traveler,Nike okay product,449,147,89
+771,Puma,influencer,Puma love this brand,1119,51,78
+772,Nike,athlete,Nike not worth it,154,152,91
+773,Puma,traveler,Puma okay product,559,127,134
+774,Puma,student,Puma great quality,589,145,150
+775,Adidas,athlete,Adidas nothing special,325,79,124
+776,Nike,influencer,Nike love this brand,1045,75,67
+777,Nike,traveler,Nike not worth it,279,23,148
+778,Puma,student,Puma nothing special,460,104,50
+779,Adidas,influencer,Adidas very disappointing,298,198,50
+780,Nike,traveler,Nike bad quality,298,108,97
+781,Puma,traveler,Puma poor experience,56,197,23
+782,Adidas,traveler,Adidas nothing special,406,112,61
+783,Nike,athlete,Nike poor experience,145,176,52
+784,Puma,traveler,Puma very disappointing,106,87,126
+785,Puma,influencer,Puma poor experience,80,98,146
+786,Puma,traveler,Puma love this brand,954,96,131
+787,Adidas,traveler,Adidas nothing special,249,78,125
+788,Adidas,traveler,Adidas nothing special,510,195,116
+789,Puma,student,Puma amazing product,954,158,25
+790,Puma,student,Puma not worth it,67,50,147
+791,Adidas,athlete,Adidas great quality,1060,91,140
+792,Puma,student,Puma okay product,517,78,91
+793,Puma,influencer,Puma very comfortable,998,22,68
+794,Nike,athlete,Nike not worth it,105,60,43
+795,Puma,student,Puma very comfortable,589,123,62
+796,Puma,traveler,Puma okay product,577,156,83
+797,Nike,athlete,Nike poor experience,271,97,148
+798,Puma,athlete,Puma amazing product,611,17,111
+799,Puma,traveler,Puma average experience,417,106,49
+800,Nike,influencer,Nike nothing special,436,12,41
+801,Puma,student,Puma great quality,504,145,102
+802,Puma,athlete,Puma very disappointing,97,82,133
+803,Puma,student,Puma okay product,449,40,99
+804,Adidas,influencer,Adidas great quality,643,84,122
+805,Adidas,student,Adidas okay product,498,109,83
+806,Adidas,traveler,Adidas amazing product,908,82,150
+807,Adidas,traveler,Adidas average experience,334,64,64
+808,Adidas,student,Adidas amazing product,760,181,103
+809,Adidas,athlete,Adidas nothing special,598,121,32
+810,Puma,influencer,Puma bad quality,277,69,62
+811,Nike,traveler,Nike average experience,204,17,34
+812,Adidas,athlete,Adidas amazing product,1039,165,87
+813,Adidas,athlete,Adidas love this brand,510,22,21
+814,Adidas,influencer,Adidas very comfortable,610,90,10
+815,Puma,traveler,Puma great quality,1073,64,133
+816,Nike,influencer,Nike average experience,413,27,8
+817,Nike,student,Nike love this brand,1134,71,46
+818,Nike,athlete,Nike poor experience,199,103,13
+819,Nike,athlete,Nike very comfortable,996,173,57
+820,Nike,traveler,Nike very disappointing,285,68,90
+821,Puma,traveler,Puma amazing product,794,158,63
+822,Adidas,student,Adidas amazing product,1023,51,9
+823,Puma,athlete,Puma not worth it,258,171,60
+824,Adidas,traveler,Adidas okay product,220,111,94
+825,Puma,athlete,Puma nothing special,243,152,121
+826,Adidas,traveler,Adidas very disappointing,233,22,81
+827,Puma,traveler,Puma very comfortable,781,103,86
+828,Nike,student,Nike love this brand,1028,136,88
+829,Puma,traveler,Puma nothing special,336,187,138
+830,Adidas,influencer,Adidas not worth it,51,116,66
+831,Adidas,student,Adidas great quality,823,162,14
+832,Adidas,student,Adidas love this brand,876,161,14
+833,Nike,influencer,Nike nothing special,510,195,12
+834,Adidas,traveler,Adidas nothing special,540,187,52
+835,Adidas,traveler,Adidas poor experience,97,10,6
+836,Adidas,student,Adidas okay product,502,183,139
+837,Puma,student,Puma very disappointing,291,156,49
+838,Adidas,student,Adidas poor experience,162,166,104
+839,Puma,influencer,Puma average experience,489,125,51
+840,Puma,traveler,Puma very comfortable,821,117,60
+841,Puma,influencer,Puma great quality,926,61,20
+842,Nike,traveler,Nike average experience,483,26,126
+843,Adidas,athlete,Adidas poor experience,282,93,150
+844,Puma,athlete,Puma love this brand,1161,38,83
+845,Nike,student,Nike very comfortable,615,47,8
+846,Nike,athlete,Nike love this brand,722,165,6
+847,Nike,athlete,Nike average experience,507,47,47
+848,Nike,traveler,Nike bad quality,149,189,104
+849,Nike,traveler,Nike amazing product,1146,44,70
+850,Adidas,influencer,Adidas great quality,784,43,116
+851,Nike,influencer,Nike nothing special,449,71,110
+852,Nike,athlete,Nike very comfortable,679,179,43
+853,Adidas,influencer,Adidas very comfortable,842,184,44
+854,Nike,student,Nike love this brand,669,183,21
+855,Adidas,traveler,Adidas okay product,444,51,37
+856,Adidas,traveler,Adidas very comfortable,738,49,80
+857,Puma,student,Puma bad quality,112,115,13
+858,Puma,influencer,Puma not worth it,80,155,37
+859,Puma,athlete,Puma bad quality,148,47,53
+860,Puma,student,Puma amazing product,547,38,43
+861,Adidas,traveler,Adidas poor experience,192,33,12
+862,Adidas,traveler,Adidas bad quality,292,152,48
+863,Adidas,athlete,Adidas amazing product,1129,184,22
+864,Puma,athlete,Puma nothing special,253,32,90
+865,Puma,traveler,Puma not worth it,50,61,126
+866,Adidas,student,Adidas amazing product,822,196,88
+867,Nike,athlete,Nike love this brand,987,167,108
+868,Nike,student,Nike great quality,1096,10,97
+869,Puma,traveler,Puma love this brand,668,16,73
+870,Nike,athlete,Nike great quality,794,51,27
+871,Adidas,traveler,Adidas amazing product,1099,172,86
+872,Puma,athlete,Puma not worth it,191,45,101
+873,Puma,influencer,Puma bad quality,228,29,113
+874,Puma,traveler,Puma very disappointing,52,102,77
+875,Puma,influencer,Puma very disappointing,240,194,45
+876,Nike,athlete,Nike bad quality,101,15,126
+877,Adidas,traveler,Adidas very comfortable,769,39,146
+878,Adidas,athlete,Adidas very disappointing,243,109,40
+879,Adidas,traveler,Adidas bad quality,252,73,77
+880,Nike,athlete,Nike nothing special,220,178,92
+881,Nike,student,Nike nothing special,333,104,95
+882,Puma,influencer,Puma very comfortable,1133,123,147
+883,Puma,student,Puma not worth it,295,138,129
+884,Nike,athlete,Nike great quality,918,155,92
+885,Puma,influencer,Puma okay product,363,90,35
+886,Puma,traveler,Puma average experience,263,19,64
+887,Adidas,influencer,Adidas great quality,594,80,10
+888,Puma,traveler,Puma bad quality,66,181,16
+889,Nike,student,Nike very comfortable,896,72,17
+890,Puma,traveler,Puma very disappointing,90,195,144
+891,Nike,athlete,Nike not worth it,113,150,138
+892,Puma,influencer,Puma average experience,572,89,130
+893,Nike,athlete,Nike amazing product,734,61,150
+894,Puma,traveler,Puma bad quality,277,112,47
+895,Nike,athlete,Nike not worth it,222,51,14
+896,Adidas,student,Adidas love this brand,762,134,135
+897,Adidas,athlete,Adidas bad quality,255,51,65
+898,Puma,influencer,Puma love this brand,1081,199,99
+899,Nike,traveler,Nike poor experience,188,114,134
+900,Puma,influencer,Puma poor experience,251,112,61
+901,Nike,student,Nike okay product,234,151,27
+902,Puma,student,Puma love this brand,801,170,20
+903,Nike,student,Nike very comfortable,1196,57,56
+904,Nike,athlete,Nike amazing product,903,129,26
+905,Puma,student,Puma not worth it,268,187,83
+906,Adidas,traveler,Adidas bad quality,196,61,36
+907,Nike,athlete,Nike okay product,372,34,120
+908,Adidas,traveler,Adidas poor experience,135,32,88
+909,Adidas,athlete,Adidas bad quality,117,169,25
+910,Puma,influencer,Puma okay product,392,83,67
+911,Nike,influencer,Nike great quality,862,154,78
+912,Adidas,student,Adidas bad quality,60,183,45
+913,Nike,traveler,Nike average experience,202,126,115
+914,Nike,influencer,Nike very comfortable,648,137,111
+915,Puma,athlete,Puma bad quality,146,65,89
+916,Puma,athlete,Puma great quality,838,184,76
+917,Adidas,student,Adidas great quality,969,182,105
+918,Nike,student,Nike average experience,563,37,42
+919,Adidas,athlete,Adidas not worth it,78,164,145
+920,Adidas,influencer,Adidas not worth it,290,160,6
+921,Nike,influencer,Nike love this brand,620,24,44
+922,Adidas,influencer,Adidas amazing product,1012,81,103
+923,Nike,influencer,Nike bad quality,133,107,69
+924,Nike,traveler,Nike not worth it,266,55,43
+925,Puma,traveler,Puma nothing special,588,97,49
+926,Nike,student,Nike poor experience,278,92,53
+927,Puma,influencer,Puma average experience,275,178,6
+928,Adidas,influencer,Adidas nothing special,255,114,38
+929,Adidas,athlete,Adidas love this brand,1133,197,120
+930,Puma,influencer,Puma poor experience,204,26,116
+931,Puma,influencer,Puma poor experience,162,75,124
+932,Nike,traveler,Nike nothing special,216,36,74
+933,Adidas,influencer,Adidas poor experience,165,34,79
+934,Adidas,influencer,Adidas love this brand,833,174,144
+935,Adidas,student,Adidas bad quality,232,90,24
+936,Puma,traveler,Puma love this brand,958,195,26
+937,Adidas,student,Adidas average experience,557,33,85
+938,Adidas,traveler,Adidas very disappointing,234,35,42
+939,Adidas,traveler,Adidas nothing special,532,20,145
+940,Nike,student,Nike nothing special,573,95,74
+941,Nike,student,Nike very comfortable,848,82,131
+942,Adidas,athlete,Adidas average experience,391,107,40
+943,Puma,student,Puma okay product,493,46,96
+944,Nike,influencer,Nike great quality,929,163,52
+945,Nike,athlete,Nike very comfortable,768,125,18
+946,Puma,student,Puma poor experience,300,170,66
+947,Puma,student,Puma amazing product,932,93,91
+948,Puma,traveler,Puma bad quality,210,80,38
+949,Adidas,influencer,Adidas great quality,1133,89,91
+950,Nike,student,Nike bad quality,208,191,29
+951,Puma,student,Puma poor experience,69,160,8
+952,Nike,influencer,Nike very comfortable,702,84,15
+953,Adidas,traveler,Adidas great quality,630,123,147
+954,Puma,student,Puma bad quality,201,126,96
+955,Adidas,traveler,Adidas great quality,953,98,65
+956,Nike,traveler,Nike poor experience,271,184,41
+957,Nike,student,Nike great quality,1191,192,29
+958,Puma,athlete,Puma average experience,424,99,59
+959,Puma,influencer,Puma very disappointing,183,136,103
+960,Puma,athlete,Puma love this brand,1093,148,100
+961,Adidas,student,Adidas bad quality,182,182,89
+962,Nike,student,Nike nothing special,261,156,110
+963,Puma,traveler,Puma not worth it,258,131,21
+964,Adidas,influencer,Adidas bad quality,116,180,148
+965,Puma,athlete,Puma nothing special,274,141,67
+966,Puma,athlete,Puma nothing special,271,86,121
+967,Adidas,traveler,Adidas very comfortable,538,117,137
+968,Adidas,influencer,Adidas very disappointing,195,22,10
+969,Adidas,traveler,Adidas not worth it,115,197,35
+970,Puma,student,Puma amazing product,1088,121,80
+971,Puma,student,Puma very comfortable,1129,145,80
+972,Puma,athlete,Puma nothing special,224,151,123
+973,Adidas,influencer,Adidas okay product,296,172,63
+974,Nike,athlete,Nike nothing special,485,38,98
+975,Adidas,influencer,Adidas nothing special,535,99,69
+976,Nike,student,Nike great quality,1113,99,91
+977,Nike,influencer,Nike great quality,880,176,115
+978,Nike,traveler,Nike poor experience,153,94,20
+979,Nike,traveler,Nike amazing product,510,18,28
+980,Puma,influencer,Puma not worth it,274,90,63
+981,Nike,influencer,Nike okay product,404,66,101
+982,Puma,student,Puma very comfortable,548,96,136
+983,Nike,athlete,Nike average experience,497,87,37
+984,Puma,athlete,Puma very disappointing,90,37,35
+985,Puma,student,Puma very comfortable,1088,113,140
+986,Adidas,traveler,Adidas not worth it,298,79,136
+987,Nike,influencer,Nike very comfortable,691,130,17
+988,Adidas,student,Adidas very disappointing,158,11,85
+989,Adidas,influencer,Adidas nothing special,234,87,61
+990,Adidas,student,Adidas love this brand,719,88,138
+991,Puma,student,Puma nothing special,512,174,13
+992,Nike,student,Nike not worth it,192,162,118
+993,Adidas,traveler,Adidas bad quality,215,174,50
+994,Puma,influencer,Puma nothing special,363,70,81
+995,Puma,athlete,Puma okay product,479,164,97
+996,Nike,influencer,Nike not worth it,185,123,74
+997,Nike,athlete,Nike very disappointing,149,115,107
+998,Adidas,traveler,Adidas not worth it,61,137,98
+999,Puma,athlete,Puma nothing special,350,148,148
+1000,Puma,student,Puma nothing special,420,108,117
+1001,Nike,traveler,Nike very comfortable,732,56,33
+1002,Nike,athlete,Nike very comfortable,907,28,69
+1003,Nike,athlete,Nike very comfortable,643,71,111
+1004,Adidas,traveler,Adidas great quality,1184,57,78
+1005,Puma,influencer,Puma love this brand,669,26,120
+1006,Puma,influencer,Puma amazing product,848,104,76
+1007,Adidas,traveler,Adidas very comfortable,723,174,124
+1008,Puma,traveler,Puma nothing special,292,54,50
+1009,Adidas,athlete,Adidas very disappointing,115,106,57
+1010,Nike,athlete,Nike nothing special,286,24,85
+1011,Puma,traveler,Puma bad quality,134,187,61
+1012,Adidas,traveler,Adidas average experience,424,70,78
+1013,Nike,athlete,Nike nothing special,303,165,22
+1014,Puma,athlete,Puma bad quality,300,195,95
+1015,Adidas,athlete,Adidas love this brand,1125,98,121
+1016,Adidas,traveler,Adidas okay product,303,110,121
+1017,Nike,student,Nike love this brand,676,194,85
+1018,Nike,traveler,Nike okay product,540,175,137
+1019,Adidas,student,Adidas okay product,457,98,32
+1020,Adidas,traveler,Adidas nothing special,569,150,47
+1021,Puma,influencer,Puma not worth it,238,138,51
+1022,Nike,influencer,Nike bad quality,248,142,148
+1023,Nike,student,Nike average experience,243,166,65
+1024,Puma,athlete,Puma poor experience,195,11,36
+1025,Nike,student,Nike amazing product,1036,56,23
+1026,Nike,athlete,Nike nothing special,568,85,146
+1027,Nike,influencer,Nike not worth it,98,182,42
+1028,Puma,athlete,Puma great quality,694,164,33
+1029,Nike,student,Nike average experience,516,36,11
+1030,Puma,student,Puma amazing product,1049,145,119
+1031,Nike,influencer,Nike love this brand,553,75,58
+1032,Nike,student,Nike bad quality,236,91,131
+1033,Adidas,traveler,Adidas okay product,453,119,68
+1034,Adidas,athlete,Adidas not worth it,273,111,35
+1035,Adidas,student,Adidas bad quality,147,28,37
+1036,Nike,influencer,Nike nothing special,335,91,63
+1037,Adidas,athlete,Adidas average experience,500,135,122
+1038,Puma,student,Puma not worth it,86,132,122
+1039,Puma,traveler,Puma very comfortable,756,199,82
+1040,Adidas,athlete,Adidas bad quality,199,118,58
+1041,Adidas,influencer,Adidas bad quality,192,187,76
+1042,Nike,traveler,Nike love this brand,639,76,130
+1043,Puma,traveler,Puma average experience,410,34,52
+1044,Puma,athlete,Puma not worth it,284,80,11
+1045,Nike,athlete,Nike okay product,539,97,31
+1046,Nike,traveler,Nike very disappointing,163,48,106
+1047,Adidas,traveler,Adidas love this brand,568,19,125
+1048,Nike,traveler,Nike amazing product,894,28,71
+1049,Puma,traveler,Puma average experience,472,72,70
+1050,Adidas,influencer,Adidas average experience,496,142,94
+1051,Puma,student,Puma very comfortable,1099,13,102
+1052,Puma,student,Puma very comfortable,771,181,27
+1053,Adidas,athlete,Adidas bad quality,180,14,46
+1054,Puma,influencer,Puma great quality,1109,162,107
+1055,Puma,influencer,Puma very disappointing,155,66,73
+1056,Puma,student,Puma amazing product,832,31,131
+1057,Nike,influencer,Nike very comfortable,854,75,6
+1058,Puma,student,Puma nothing special,320,130,18
+1059,Puma,athlete,Puma bad quality,139,196,56
+1060,Nike,influencer,Nike average experience,247,51,54
+1061,Nike,student,Nike amazing product,554,57,137
+1062,Nike,influencer,Nike not worth it,102,132,111
+1063,Adidas,athlete,Adidas love this brand,624,50,113
+1064,Adidas,student,Adidas average experience,590,144,18
+1065,Nike,traveler,Nike love this brand,1146,140,114
+1066,Puma,student,Puma very disappointing,152,94,80
+1067,Adidas,athlete,Adidas not worth it,195,189,93
+1068,Nike,influencer,Nike not worth it,159,77,51
+1069,Puma,athlete,Puma very disappointing,284,181,48
+1070,Nike,influencer,Nike very comfortable,1033,47,140
+1071,Nike,traveler,Nike average experience,568,44,46
+1072,Puma,influencer,Puma very comfortable,615,112,81
+1073,Nike,influencer,Nike okay product,579,23,133
+1074,Adidas,athlete,Adidas okay product,467,124,24
+1075,Nike,student,Nike nothing special,531,94,35
+1076,Puma,athlete,Puma okay product,312,88,118
+1077,Nike,influencer,Nike okay product,239,149,125
+1078,Nike,student,Nike okay product,522,150,29
+1079,Nike,student,Nike very disappointing,128,195,37
+1080,Nike,traveler,Nike very comfortable,997,106,25
+1081,Adidas,student,Adidas nothing special,227,96,68
+1082,Nike,athlete,Nike love this brand,531,127,128
+1083,Nike,traveler,Nike okay product,486,115,119
+1084,Nike,student,Nike very disappointing,162,58,65
+1085,Puma,student,Puma bad quality,189,73,89
+1086,Puma,traveler,Puma not worth it,57,199,62
+1087,Nike,athlete,Nike not worth it,222,59,133
+1088,Nike,student,Nike very comfortable,565,182,35
+1089,Nike,influencer,Nike very comfortable,838,12,64
+1090,Puma,athlete,Puma average experience,337,106,33
+1091,Adidas,athlete,Adidas love this brand,1021,162,59
+1092,Puma,influencer,Puma poor experience,184,106,97
+1093,Nike,athlete,Nike love this brand,789,21,103
+1094,Nike,influencer,Nike very comfortable,638,102,90
+1095,Nike,student,Nike love this brand,1056,137,89
+1096,Puma,traveler,Puma very disappointing,73,114,44
+1097,Puma,traveler,Puma okay product,346,187,136
+1098,Nike,athlete,Nike nothing special,208,149,142
+1099,Puma,traveler,Puma love this brand,541,147,80
+1100,Adidas,influencer,Adidas not worth it,221,99,67
+1101,Puma,student,Puma okay product,466,97,82
+1102,Adidas,traveler,Adidas poor experience,268,192,70
+1103,Puma,traveler,Puma poor experience,140,179,59
+1104,Nike,athlete,Nike bad quality,221,42,60
+1105,Adidas,student,Adidas great quality,558,160,47
+1106,Nike,influencer,Nike not worth it,254,178,86
+1107,Puma,influencer,Puma love this brand,1071,148,17
+1108,Puma,influencer,Puma very disappointing,143,154,96
+1109,Adidas,athlete,Adidas okay product,496,129,132
+1110,Puma,influencer,Puma amazing product,559,107,19
+1111,Adidas,athlete,Adidas not worth it,76,84,30
+1112,Puma,influencer,Puma poor experience,129,131,64
+1113,Adidas,athlete,Adidas amazing product,942,92,10
+1114,Nike,athlete,Nike great quality,675,29,32
+1115,Adidas,athlete,Adidas poor experience,106,169,141
+1116,Puma,traveler,Puma poor experience,240,111,145
+1117,Nike,influencer,Nike amazing product,602,74,100
+1118,Puma,traveler,Puma average experience,296,87,29
+1119,Puma,influencer,Puma amazing product,834,137,135
+1120,Puma,influencer,Puma amazing product,951,29,7
+1121,Adidas,athlete,Adidas not worth it,144,105,136
+1122,Adidas,student,Adidas very disappointing,62,134,17
+1123,Puma,traveler,Puma average experience,445,35,132
+1124,Nike,student,Nike average experience,529,90,120
+1125,Adidas,student,Adidas amazing product,862,127,108
+1126,Adidas,athlete,Adidas very disappointing,290,145,9
+1127,Puma,student,Puma bad quality,152,143,53
+1128,Nike,student,Nike amazing product,742,160,68
+1129,Puma,traveler,Puma bad quality,293,73,149
+1130,Puma,student,Puma not worth it,141,108,31
+1131,Nike,student,Nike great quality,1193,20,125
+1132,Nike,traveler,Nike average experience,252,190,102
+1133,Nike,student,Nike bad quality,116,64,75
+1134,Adidas,traveler,Adidas great quality,794,156,148
+1135,Adidas,athlete,Adidas very comfortable,663,188,68
+1136,Puma,traveler,Puma love this brand,776,101,65
+1137,Adidas,influencer,Adidas bad quality,121,44,80
+1138,Nike,influencer,Nike amazing product,926,14,35
+1139,Adidas,athlete,Adidas not worth it,203,107,136
+1140,Puma,athlete,Puma very disappointing,255,127,107
+1141,Puma,traveler,Puma okay product,364,156,91
+1142,Adidas,traveler,Adidas poor experience,283,149,85
+1143,Puma,athlete,Puma poor experience,241,14,79
+1144,Nike,traveler,Nike very comfortable,1143,38,56
+1145,Nike,athlete,Nike poor experience,123,34,112
+1146,Puma,traveler,Puma love this brand,544,53,150
+1147,Adidas,traveler,Adidas okay product,373,150,114
+1148,Nike,traveler,Nike very disappointing,274,146,82
+1149,Nike,influencer,Nike amazing product,776,174,33
+1150,Puma,traveler,Puma nothing special,444,54,64
+1151,Puma,athlete,Puma poor experience,135,132,75
+1152,Nike,traveler,Nike amazing product,832,117,51
+1153,Adidas,student,Adidas nothing special,488,36,144
+1154,Nike,athlete,Nike average experience,354,138,126
+1155,Adidas,traveler,Adidas average experience,555,48,141
+1156,Nike,student,Nike very disappointing,103,193,27
+1157,Puma,athlete,Puma poor experience,107,110,37
+1158,Nike,student,Nike bad quality,71,88,21
+1159,Puma,athlete,Puma bad quality,54,172,5
+1160,Nike,traveler,Nike very comfortable,921,58,106
+1161,Adidas,influencer,Adidas amazing product,630,15,45
+1162,Puma,athlete,Puma great quality,967,152,24
+1163,Puma,athlete,Puma amazing product,659,46,128
+1164,Puma,influencer,Puma nothing special,211,38,122
+1165,Nike,influencer,Nike okay product,211,102,8
+1166,Nike,athlete,Nike very comfortable,816,158,12
+1167,Puma,athlete,Puma not worth it,206,90,65
+1168,Nike,influencer,Nike great quality,536,47,88
+1169,Adidas,influencer,Adidas very comfortable,816,104,74
+1170,Puma,athlete,Puma bad quality,223,174,109
+1171,Adidas,traveler,Adidas very disappointing,297,106,55
+1172,Puma,student,Puma average experience,223,187,46
+1173,Adidas,athlete,Adidas nothing special,559,84,9
+1174,Puma,athlete,Puma very comfortable,522,178,35
+1175,Adidas,athlete,Adidas very comfortable,625,67,64
+1176,Puma,student,Puma poor experience,180,168,15
+1177,Puma,student,Puma okay product,219,94,119
+1178,Adidas,influencer,Adidas very disappointing,58,162,143
+1179,Adidas,traveler,Adidas very disappointing,167,126,52
+1180,Nike,student,Nike great quality,879,76,136
+1181,Nike,traveler,Nike very disappointing,161,194,25
+1182,Puma,influencer,Puma okay product,445,169,136
+1183,Puma,influencer,Puma bad quality,137,112,68
+1184,Puma,student,Puma poor experience,260,100,129
+1185,Puma,athlete,Puma poor experience,262,77,84
+1186,Puma,student,Puma not worth it,160,194,69
+1187,Adidas,student,Adidas poor experience,116,91,7
+1188,Nike,student,Nike very comfortable,1162,34,115
+1189,Nike,student,Nike average experience,460,50,16
+1190,Nike,athlete,Nike very comfortable,785,100,51
+1191,Adidas,student,Adidas love this brand,673,26,24
+1192,Nike,student,Nike okay product,214,61,149
+1193,Nike,influencer,Nike nothing special,554,45,64
+1194,Adidas,student,Adidas very comfortable,727,152,115
+1195,Nike,traveler,Nike amazing product,590,173,148
+1196,Nike,athlete,Nike average experience,384,104,121
+1197,Puma,athlete,Puma great quality,512,71,118
+1198,Nike,athlete,Nike not worth it,69,100,79
+1199,Puma,athlete,Puma love this brand,749,172,57
+1200,Adidas,athlete,Adidas okay product,373,24,90
+1201,Puma,traveler,Puma bad quality,163,16,50
+1202,Adidas,athlete,Adidas love this brand,705,31,85
+1203,Adidas,athlete,Adidas not worth it,98,39,115
+1204,Adidas,traveler,Adidas not worth it,162,57,112
+1205,Nike,influencer,Nike love this brand,789,170,138
+1206,Puma,traveler,Puma okay product,491,16,127
+1207,Nike,traveler,Nike very comfortable,1189,44,83
+1208,Adidas,student,Adidas poor experience,64,152,117
+1209,Puma,student,Puma poor experience,88,11,73
+1210,Adidas,athlete,Adidas average experience,467,157,147
+1211,Nike,athlete,Nike poor experience,236,70,33
+1212,Nike,traveler,Nike great quality,614,183,106
+1213,Puma,traveler,Puma amazing product,820,161,80
+1214,Puma,student,Puma very comfortable,630,120,93
+1215,Nike,athlete,Nike amazing product,822,176,21
+1216,Nike,student,Nike very disappointing,291,56,59
+1217,Puma,traveler,Puma amazing product,814,58,31
+1218,Puma,influencer,Puma okay product,558,171,52
+1219,Nike,influencer,Nike great quality,638,108,34
+1220,Nike,athlete,Nike very comfortable,980,137,83
+1221,Puma,traveler,Puma love this brand,1065,108,121
+1222,Adidas,athlete,Adidas poor experience,133,69,21
+1223,Adidas,influencer,Adidas okay product,490,49,76
+1224,Puma,athlete,Puma very disappointing,57,102,82
+1225,Puma,influencer,Puma average experience,270,160,102
+1226,Puma,influencer,Puma nothing special,387,100,138
+1227,Puma,traveler,Puma poor experience,222,154,8
+1228,Puma,student,Puma amazing product,1130,44,113
+1229,Puma,student,Puma okay product,575,102,109
+1230,Puma,athlete,Puma nothing special,319,185,101
+1231,Adidas,traveler,Adidas okay product,545,153,131
+1232,Nike,traveler,Nike okay product,263,33,120
+1233,Puma,influencer,Puma very disappointing,124,175,144
+1234,Nike,traveler,Nike okay product,459,153,147
+1235,Puma,athlete,Puma very comfortable,1112,154,89
+1236,Adidas,traveler,Adidas very comfortable,1192,174,28
+1237,Adidas,athlete,Adidas okay product,438,19,118
+1238,Adidas,traveler,Adidas okay product,237,46,61
+1239,Nike,influencer,Nike great quality,1125,43,104
+1240,Adidas,traveler,Adidas amazing product,1154,161,98
+1241,Puma,student,Puma amazing product,1103,153,87
+1242,Puma,influencer,Puma nothing special,281,183,17
+1243,Adidas,influencer,Adidas okay product,550,150,114
+1244,Puma,student,Puma poor experience,248,152,49
+1245,Adidas,student,Adidas nothing special,237,14,22
+1246,Nike,athlete,Nike very comfortable,723,106,16
+1247,Nike,influencer,Nike very disappointing,294,76,48
+1248,Puma,athlete,Puma okay product,393,20,109
+1249,Nike,influencer,Nike poor experience,149,57,128
+1250,Nike,athlete,Nike amazing product,1158,82,49
+1251,Adidas,influencer,Adidas poor experience,206,49,150
+1252,Adidas,athlete,Adidas great quality,768,50,80
+1253,Nike,student,Nike bad quality,103,31,117
+1254,Puma,athlete,Puma very comfortable,832,108,85
+1255,Nike,student,Nike amazing product,723,74,30
+1256,Adidas,influencer,Adidas nothing special,378,91,19
+1257,Nike,traveler,Nike okay product,341,143,62
+1258,Puma,student,Puma not worth it,238,39,11
+1259,Adidas,student,Adidas love this brand,799,49,28
+1260,Nike,traveler,Nike love this brand,1100,191,115
+1261,Nike,student,Nike poor experience,154,130,146
+1262,Adidas,athlete,Adidas average experience,568,185,78
+1263,Puma,student,Puma nothing special,201,101,121
+1264,Adidas,student,Adidas nothing special,341,176,134
+1265,Adidas,influencer,Adidas poor experience,76,125,52
+1266,Adidas,influencer,Adidas average experience,515,118,128
+1267,Nike,athlete,Nike okay product,525,121,42
+1268,Puma,student,Puma average experience,443,97,12
+1269,Nike,traveler,Nike okay product,545,148,81
+1270,Adidas,athlete,Adidas average experience,465,156,136
+1271,Puma,student,Puma very comfortable,734,145,41
+1272,Nike,athlete,Nike poor experience,73,17,22
+1273,Adidas,traveler,Adidas love this brand,1196,26,139
+1274,Nike,traveler,Nike nothing special,200,75,72
+1275,Adidas,traveler,Adidas okay product,515,85,100
+1276,Nike,student,Nike very disappointing,53,179,146
+1277,Adidas,student,Adidas very comfortable,1042,67,110
+1278,Adidas,influencer,Adidas love this brand,630,132,111
+1279,Nike,athlete,Nike great quality,713,188,120
+1280,Puma,athlete,Puma not worth it,273,36,115
+1281,Adidas,student,Adidas amazing product,504,121,78
+1282,Adidas,student,Adidas not worth it,147,148,9
+1283,Puma,student,Puma okay product,350,44,5
+1284,Nike,student,Nike bad quality,223,197,129
+1285,Nike,traveler,Nike nothing special,575,95,95
+1286,Nike,influencer,Nike average experience,362,55,142
+1287,Adidas,student,Adidas amazing product,594,84,106
+1288,Adidas,traveler,Adidas poor experience,271,34,72
+1289,Nike,student,Nike average experience,507,12,29
+1290,Puma,traveler,Puma poor experience,225,34,71
+1291,Puma,student,Puma poor experience,85,70,59
+1292,Puma,student,Puma very comfortable,529,42,147
+1293,Adidas,traveler,Adidas amazing product,671,50,5
+1294,Nike,traveler,Nike great quality,786,135,23
+1295,Adidas,traveler,Adidas nothing special,336,43,127
+1296,Puma,student,Puma bad quality,263,189,149
+1297,Nike,student,Nike average experience,238,27,36
+1298,Puma,influencer,Puma okay product,256,188,54
+1299,Nike,influencer,Nike amazing product,1074,70,86
+1300,Nike,student,Nike nothing special,589,124,85
+1301,Nike,athlete,Nike average experience,371,11,69
+1302,Adidas,athlete,Adidas not worth it,76,170,115
+1303,Puma,traveler,Puma very comfortable,687,118,140
+1304,Puma,athlete,Puma nothing special,595,127,72
+1305,Nike,student,Nike amazing product,649,39,53
+1306,Adidas,traveler,Adidas bad quality,270,174,44
+1307,Nike,student,Nike poor experience,198,31,40
+1308,Puma,student,Puma average experience,325,102,100
+1309,Adidas,athlete,Adidas not worth it,228,44,35
+1310,Puma,influencer,Puma bad quality,187,125,64
+1311,Nike,student,Nike very comfortable,547,126,93
+1312,Puma,traveler,Puma okay product,319,74,91
+1313,Adidas,influencer,Adidas nothing special,276,51,122
+1314,Nike,athlete,Nike amazing product,636,184,122
+1315,Nike,athlete,Nike very comfortable,1023,181,121
+1316,Puma,athlete,Puma poor experience,98,169,120
+1317,Puma,athlete,Puma love this brand,791,177,23
+1318,Adidas,athlete,Adidas average experience,459,172,23
+1319,Puma,traveler,Puma great quality,1048,56,84
+1320,Adidas,student,Adidas nothing special,381,143,115
+1321,Adidas,athlete,Adidas very disappointing,132,64,20
+1322,Nike,student,Nike love this brand,981,141,148
+1323,Puma,student,Puma very disappointing,168,64,9
+1324,Nike,traveler,Nike very disappointing,222,77,131
+1325,Nike,student,Nike okay product,464,79,69
+1326,Adidas,athlete,Adidas okay product,275,47,63
+1327,Adidas,traveler,Adidas amazing product,860,87,60
+1328,Puma,influencer,Puma average experience,453,21,24
+1329,Puma,influencer,Puma okay product,600,99,118
+1330,Adidas,influencer,Adidas okay product,572,116,22
+1331,Nike,student,Nike okay product,560,62,31
+1332,Adidas,traveler,Adidas not worth it,155,118,77
+1333,Adidas,athlete,Adidas poor experience,162,13,140
+1334,Nike,influencer,Nike amazing product,1073,193,49
+1335,Adidas,athlete,Adidas okay product,517,139,98
+1336,Nike,student,Nike poor experience,131,129,12
+1337,Adidas,traveler,Adidas nothing special,389,95,37
+1338,Nike,influencer,Nike not worth it,75,71,83
+1339,Nike,athlete,Nike amazing product,1152,79,73
+1340,Puma,student,Puma amazing product,1139,126,124
+1341,Nike,influencer,Nike great quality,1013,20,25
+1342,Nike,traveler,Nike nothing special,269,25,143
+1343,Puma,student,Puma love this brand,1142,31,129
+1344,Puma,traveler,Puma average experience,277,48,21
+1345,Nike,athlete,Nike average experience,459,87,90
+1346,Puma,athlete,Puma average experience,426,105,91
+1347,Nike,student,Nike average experience,263,11,97
+1348,Puma,traveler,Puma great quality,507,114,54
+1349,Nike,influencer,Nike very disappointing,272,162,68
+1350,Adidas,influencer,Adidas nothing special,436,101,94
+1351,Adidas,influencer,Adidas amazing product,1051,88,100
+1352,Nike,student,Nike great quality,564,28,115
+1353,Adidas,influencer,Adidas okay product,389,56,117
+1354,Adidas,traveler,Adidas okay product,458,80,46
+1355,Nike,student,Nike poor experience,81,189,42
+1356,Puma,athlete,Puma okay product,426,43,86
+1357,Adidas,student,Adidas average experience,499,141,29
+1358,Nike,influencer,Nike average experience,587,195,33
+1359,Nike,athlete,Nike bad quality,162,144,97
+1360,Adidas,student,Adidas bad quality,188,158,90
+1361,Puma,student,Puma great quality,746,35,16
+1362,Adidas,traveler,Adidas not worth it,148,98,85
+1363,Adidas,athlete,Adidas okay product,238,76,129
+1364,Puma,traveler,Puma average experience,282,19,25
+1365,Nike,traveler,Nike poor experience,201,127,116
+1366,Puma,traveler,Puma very comfortable,978,104,89
+1367,Adidas,athlete,Adidas okay product,477,98,145
+1368,Adidas,student,Adidas bad quality,215,64,30
+1369,Adidas,athlete,Adidas nothing special,382,14,104
+1370,Puma,influencer,Puma very disappointing,222,126,126
+1371,Adidas,influencer,Adidas very disappointing,136,133,12
+1372,Puma,student,Puma okay product,251,192,77
+1373,Adidas,student,Adidas not worth it,64,27,86
+1374,Puma,student,Puma nothing special,576,43,127
+1375,Adidas,student,Adidas bad quality,212,147,96
+1376,Puma,athlete,Puma bad quality,196,17,57
+1377,Adidas,athlete,Adidas okay product,429,137,103
+1378,Nike,traveler,Nike very disappointing,59,57,30
+1379,Adidas,athlete,Adidas amazing product,815,200,54
+1380,Nike,athlete,Nike not worth it,55,52,30
+1381,Adidas,student,Adidas bad quality,126,160,62
+1382,Nike,influencer,Nike okay product,496,81,59
+1383,Nike,traveler,Nike average experience,549,80,82
+1384,Nike,athlete,Nike okay product,254,178,62
+1385,Nike,athlete,Nike very disappointing,214,106,131
+1386,Puma,traveler,Puma very disappointing,53,168,104
+1387,Nike,influencer,Nike great quality,553,23,37
+1388,Nike,student,Nike poor experience,109,121,122
+1389,Adidas,traveler,Adidas average experience,422,76,77
+1390,Nike,student,Nike poor experience,258,197,147
+1391,Puma,traveler,Puma bad quality,181,157,64
+1392,Nike,traveler,Nike average experience,400,151,119
+1393,Nike,athlete,Nike love this brand,542,114,118
+1394,Nike,student,Nike amazing product,518,129,9
+1395,Puma,traveler,Puma amazing product,512,23,108
+1396,Adidas,influencer,Adidas nothing special,576,25,116
+1397,Nike,traveler,Nike nothing special,594,113,49
+1398,Puma,traveler,Puma average experience,267,115,94
+1399,Adidas,student,Adidas very comfortable,926,76,59
+1400,Nike,athlete,Nike great quality,677,163,27
+1401,Adidas,student,Adidas bad quality,259,28,59
+1402,Puma,student,Puma okay product,587,127,95
+1403,Adidas,athlete,Adidas bad quality,65,72,55
+1404,Nike,traveler,Nike very disappointing,54,49,52
+1405,Puma,student,Puma very disappointing,260,73,144
+1406,Adidas,student,Adidas amazing product,898,146,14
+1407,Adidas,influencer,Adidas great quality,539,60,31
+1408,Adidas,athlete,Adidas love this brand,531,38,10
+1409,Adidas,athlete,Adidas nothing special,290,117,146
+1410,Puma,influencer,Puma great quality,565,88,42
+1411,Nike,influencer,Nike nothing special,432,98,143
+1412,Nike,traveler,Nike nothing special,333,66,88
+1413,Nike,athlete,Nike okay product,290,173,64
+1414,Puma,influencer,Puma average experience,284,56,110
+1415,Nike,athlete,Nike nothing special,485,51,106
+1416,Puma,athlete,Puma average experience,445,192,74
+1417,Nike,traveler,Nike average experience,299,107,28
+1418,Nike,influencer,Nike poor experience,76,15,42
+1419,Nike,athlete,Nike poor experience,288,52,91
+1420,Adidas,student,Adidas very comfortable,709,184,75
+1421,Puma,traveler,Puma nothing special,569,91,91
+1422,Adidas,influencer,Adidas okay product,565,77,76
+1423,Adidas,athlete,Adidas love this brand,535,133,57
+1424,Puma,student,Puma okay product,328,62,5
+1425,Nike,influencer,Nike love this brand,566,99,65
+1426,Puma,influencer,Puma poor experience,217,149,109
+1427,Puma,influencer,Puma average experience,246,161,54
+1428,Puma,traveler,Puma okay product,485,138,149
+1429,Puma,athlete,Puma love this brand,950,16,107
+1430,Puma,influencer,Puma okay product,317,34,112
+1431,Nike,student,Nike average experience,588,124,146
+1432,Puma,traveler,Puma bad quality,219,78,72
+1433,Puma,athlete,Puma average experience,494,200,134
+1434,Puma,athlete,Puma bad quality,90,118,70
+1435,Puma,student,Puma nothing special,474,22,102
+1436,Adidas,influencer,Adidas bad quality,140,19,80
+1437,Puma,athlete,Puma poor experience,198,34,107
+1438,Nike,traveler,Nike amazing product,1075,194,124
+1439,Nike,influencer,Nike amazing product,820,147,140
+1440,Puma,student,Puma average experience,545,22,108
+1441,Nike,influencer,Nike average experience,244,178,46
+1442,Nike,influencer,Nike not worth it,280,55,91
+1443,Puma,influencer,Puma okay product,469,67,129
+1444,Adidas,student,Adidas not worth it,84,195,15
+1445,Adidas,traveler,Adidas bad quality,294,139,101
+1446,Nike,student,Nike average experience,505,112,31
+1447,Puma,influencer,Puma okay product,483,76,131
+1448,Adidas,influencer,Adidas okay product,544,114,122
+1449,Puma,traveler,Puma nothing special,304,99,95
+1450,Nike,athlete,Nike okay product,479,111,136
+1451,Puma,student,Puma poor experience,130,126,34
+1452,Puma,traveler,Puma not worth it,269,192,148
+1453,Adidas,traveler,Adidas very disappointing,277,153,43
+1454,Nike,influencer,Nike poor experience,212,44,26
+1455,Nike,athlete,Nike poor experience,62,44,87
+1456,Adidas,influencer,Adidas very disappointing,140,133,140
+1457,Adidas,traveler,Adidas love this brand,838,39,83
+1458,Puma,athlete,Puma nothing special,294,37,36
+1459,Nike,athlete,Nike okay product,398,44,94
+1460,Adidas,traveler,Adidas not worth it,254,67,135
+1461,Nike,traveler,Nike very comfortable,867,187,128
+1462,Nike,student,Nike very comfortable,1077,79,147
+1463,Puma,influencer,Puma okay product,532,102,34
+1464,Puma,student,Puma very disappointing,141,73,108
+1465,Adidas,traveler,Adidas poor experience,67,146,111
+1466,Nike,athlete,Nike love this brand,725,142,112
+1467,Adidas,influencer,Adidas very comfortable,658,13,126
+1468,Nike,traveler,Nike great quality,875,40,69
+1469,Nike,influencer,Nike bad quality,96,112,139
+1470,Adidas,influencer,Adidas not worth it,55,77,96
+1471,Adidas,traveler,Adidas poor experience,156,82,92
+1472,Adidas,athlete,Adidas not worth it,191,125,135
+1473,Nike,traveler,Nike very comfortable,850,90,51
+1474,Adidas,student,Adidas bad quality,203,128,29
+1475,Nike,traveler,Nike nothing special,367,160,116
+1476,Nike,influencer,Nike nothing special,339,181,129
+1477,Nike,student,Nike poor experience,66,113,80
+1478,Puma,student,Puma bad quality,109,123,116
+1479,Nike,athlete,Nike very comfortable,581,116,101
+1480,Adidas,student,Adidas bad quality,125,25,123
+1481,Nike,traveler,Nike nothing special,263,160,135
+1482,Nike,student,Nike average experience,296,147,53
+1483,Puma,influencer,Puma very disappointing,108,74,133
+1484,Puma,traveler,Puma poor experience,133,39,71
+1485,Adidas,student,Adidas okay product,279,151,23
+1486,Nike,athlete,Nike okay product,222,91,19
+1487,Puma,influencer,Puma poor experience,281,68,68
+1488,Nike,traveler,Nike love this brand,854,115,15
+1489,Puma,student,Puma great quality,587,164,51
+1490,Nike,traveler,Nike bad quality,258,67,122
+1491,Adidas,student,Adidas okay product,398,176,144
+1492,Puma,influencer,Puma bad quality,257,174,13
+1493,Nike,athlete,Nike amazing product,672,74,130
+1494,Nike,athlete,Nike nothing special,563,40,14
+1495,Nike,traveler,Nike not worth it,122,198,62
+1496,Nike,athlete,Nike poor experience,118,62,93
+1497,Nike,influencer,Nike love this brand,1076,95,47
+1498,Nike,influencer,Nike very disappointing,181,134,131
+1499,Puma,traveler,Puma poor experience,202,30,68
+1500,Nike,student,Nike very comfortable,813,126,17
+1501,Puma,traveler,Puma poor experience,278,120,124
+1502,Adidas,traveler,Adidas bad quality,165,164,134
+1503,Nike,traveler,Nike very disappointing,63,101,136
+1504,Puma,student,Puma okay product,221,146,80
+1505,Adidas,influencer,Adidas bad quality,268,113,128
+1506,Puma,athlete,Puma very comfortable,1169,85,10
+1507,Nike,influencer,Nike amazing product,516,118,26
+1508,Nike,athlete,Nike love this brand,1037,164,130
+1509,Adidas,influencer,Adidas okay product,493,76,54
+1510,Adidas,traveler,Adidas average experience,325,24,57
+1511,Nike,influencer,Nike very disappointing,157,89,118
+1512,Adidas,traveler,Adidas okay product,260,125,31
+1513,Nike,influencer,Nike love this brand,1071,97,91
+1514,Nike,student,Nike very disappointing,156,200,116
+1515,Nike,athlete,Nike average experience,553,158,100
+1516,Adidas,influencer,Adidas nothing special,463,196,79
+1517,Puma,traveler,Puma amazing product,645,50,90
+1518,Adidas,influencer,Adidas not worth it,237,124,115
+1519,Nike,student,Nike amazing product,1162,196,14
+1520,Adidas,athlete,Adidas amazing product,502,158,61
+1521,Puma,influencer,Puma nothing special,212,25,55
+1522,Nike,traveler,Nike average experience,363,128,67
+1523,Adidas,influencer,Adidas poor experience,156,111,14
+1524,Nike,athlete,Nike average experience,317,105,10
+1525,Puma,traveler,Puma very disappointing,57,41,26
+1526,Nike,traveler,Nike not worth it,290,42,95
+1527,Nike,athlete,Nike very comfortable,648,17,30
+1528,Puma,traveler,Puma average experience,333,92,50
+1529,Nike,athlete,Nike average experience,318,33,111
+1530,Puma,student,Puma nothing special,536,35,47
+1531,Puma,traveler,Puma nothing special,490,144,39
+1532,Puma,student,Puma bad quality,81,115,41
+1533,Adidas,traveler,Adidas okay product,466,96,39
+1534,Adidas,student,Adidas poor experience,141,181,77
+1535,Adidas,traveler,Adidas very comfortable,1071,102,129
+1536,Adidas,student,Adidas nothing special,240,123,39
+1537,Puma,traveler,Puma poor experience,87,151,7
+1538,Nike,influencer,Nike okay product,291,41,113
+1539,Puma,athlete,Puma okay product,249,145,47
+1540,Puma,influencer,Puma average experience,207,131,133
+1541,Nike,athlete,Nike nothing special,212,68,139
+1542,Nike,influencer,Nike very comfortable,893,134,146
+1543,Nike,influencer,Nike bad quality,196,110,21
+1544,Nike,student,Nike very comfortable,1075,112,104
+1545,Nike,traveler,Nike okay product,405,24,23
+1546,Adidas,student,Adidas average experience,377,110,128
+1547,Adidas,traveler,Adidas very comfortable,778,147,46
+1548,Puma,influencer,Puma poor experience,54,197,79
+1549,Nike,influencer,Nike very comfortable,1063,18,52
+1550,Nike,student,Nike okay product,234,200,88
+1551,Nike,student,Nike bad quality,161,131,83
+1552,Puma,traveler,Puma average experience,513,106,69
+1553,Adidas,influencer,Adidas nothing special,600,84,121
+1554,Adidas,influencer,Adidas great quality,992,61,131
+1555,Nike,student,Nike nothing special,254,152,95
+1556,Adidas,athlete,Adidas average experience,415,49,20
+1557,Puma,student,Puma poor experience,184,197,60
+1558,Nike,influencer,Nike very comfortable,720,123,150
+1559,Nike,student,Nike very disappointing,251,32,150
+1560,Adidas,athlete,Adidas okay product,468,187,128
+1561,Adidas,athlete,Adidas love this brand,587,161,55
+1562,Nike,student,Nike average experience,551,152,39
+1563,Nike,athlete,Nike nothing special,323,95,95
+1564,Nike,influencer,Nike very disappointing,117,124,149
+1565,Puma,traveler,Puma bad quality,153,42,52
+1566,Adidas,traveler,Adidas average experience,533,188,109
+1567,Puma,athlete,Puma okay product,585,177,17
+1568,Puma,student,Puma very disappointing,254,120,117
+1569,Adidas,athlete,Adidas average experience,565,38,48
+1570,Nike,athlete,Nike average experience,367,18,122
+1571,Puma,student,Puma average experience,351,56,45
+1572,Adidas,athlete,Adidas love this brand,593,167,92
+1573,Adidas,student,Adidas not worth it,213,34,27
+1574,Puma,traveler,Puma amazing product,768,102,72
+1575,Adidas,influencer,Adidas average experience,238,16,80
+1576,Nike,traveler,Nike amazing product,658,123,18
+1577,Puma,athlete,Puma very disappointing,112,12,127
+1578,Nike,influencer,Nike average experience,260,54,107
+1579,Nike,influencer,Nike love this brand,652,58,128
+1580,Nike,traveler,Nike poor experience,268,174,115
+1581,Puma,student,Puma very disappointing,147,96,16
+1582,Nike,traveler,Nike very comfortable,838,89,35
+1583,Puma,influencer,Puma average experience,349,55,100
+1584,Nike,traveler,Nike bad quality,205,28,76
+1585,Adidas,student,Adidas love this brand,1157,137,41
+1586,Puma,influencer,Puma okay product,343,193,97
+1587,Adidas,student,Adidas nothing special,242,65,121
+1588,Puma,influencer,Puma poor experience,179,59,53
+1589,Adidas,athlete,Adidas okay product,513,187,145
+1590,Puma,influencer,Puma average experience,283,143,36
+1591,Adidas,influencer,Adidas very comfortable,770,182,64
+1592,Nike,athlete,Nike great quality,943,190,7
+1593,Nike,athlete,Nike bad quality,117,60,63
+1594,Puma,traveler,Puma very disappointing,161,149,85
+1595,Nike,student,Nike nothing special,306,116,16
+1596,Puma,student,Puma very disappointing,152,143,92
+1597,Puma,traveler,Puma poor experience,152,144,26
+1598,Nike,student,Nike okay product,318,187,86
+1599,Nike,athlete,Nike nothing special,339,51,145
+1600,Adidas,influencer,Adidas bad quality,121,163,148
+1601,Nike,traveler,Nike poor experience,89,198,63
+1602,Adidas,athlete,Adidas nothing special,291,136,9
+1603,Nike,traveler,Nike bad quality,132,139,14
+1604,Puma,athlete,Puma not worth it,184,43,111
+1605,Puma,athlete,Puma bad quality,69,44,19
+1606,Adidas,traveler,Adidas great quality,891,105,66
+1607,Puma,student,Puma love this brand,515,193,126
+1608,Nike,traveler,Nike bad quality,204,113,36
+1609,Puma,student,Puma bad quality,221,159,64
+1610,Adidas,traveler,Adidas average experience,216,132,63
+1611,Puma,athlete,Puma very comfortable,819,196,97
+1612,Nike,athlete,Nike average experience,565,115,49
+1613,Nike,influencer,Nike very comfortable,706,99,81
+1614,Puma,athlete,Puma bad quality,66,188,116
+1615,Adidas,student,Adidas okay product,477,182,38
+1616,Puma,athlete,Puma not worth it,219,137,129
+1617,Puma,influencer,Puma not worth it,135,193,123
+1618,Nike,influencer,Nike average experience,398,40,22
+1619,Puma,influencer,Puma bad quality,133,191,121
+1620,Puma,influencer,Puma very disappointing,144,111,106
+1621,Puma,traveler,Puma average experience,414,79,105
+1622,Puma,influencer,Puma average experience,576,119,28
+1623,Puma,athlete,Puma love this brand,1142,126,80
+1624,Nike,student,Nike nothing special,280,176,31
+1625,Nike,traveler,Nike poor experience,133,144,46
+1626,Adidas,traveler,Adidas not worth it,264,92,93
+1627,Nike,traveler,Nike amazing product,785,25,82
+1628,Nike,student,Nike nothing special,204,191,46
+1629,Adidas,athlete,Adidas bad quality,154,78,27
+1630,Adidas,influencer,Adidas amazing product,848,142,112
+1631,Adidas,influencer,Adidas amazing product,513,33,42
+1632,Adidas,influencer,Adidas not worth it,278,122,120
+1633,Adidas,athlete,Adidas average experience,226,188,73
+1634,Adidas,traveler,Adidas average experience,301,11,54
+1635,Nike,athlete,Nike great quality,548,124,11
+1636,Puma,influencer,Puma nothing special,533,139,122
+1637,Nike,influencer,Nike poor experience,274,144,31
+1638,Puma,influencer,Puma very disappointing,132,106,64
+1639,Nike,influencer,Nike okay product,493,22,30
+1640,Nike,traveler,Nike very comfortable,618,158,45
+1641,Nike,athlete,Nike okay product,594,114,125
+1642,Nike,traveler,Nike nothing special,536,192,34
+1643,Nike,student,Nike average experience,262,36,8
+1644,Puma,influencer,Puma average experience,296,116,92
+1645,Adidas,influencer,Adidas not worth it,91,120,6
+1646,Nike,athlete,Nike poor experience,123,62,40
+1647,Puma,athlete,Puma average experience,368,133,30
+1648,Nike,athlete,Nike bad quality,169,123,18
+1649,Adidas,traveler,Adidas okay product,436,123,56
+1650,Adidas,influencer,Adidas not worth it,51,57,66
+1651,Puma,traveler,Puma average experience,458,25,37
+1652,Adidas,student,Adidas okay product,404,136,114
+1653,Nike,student,Nike poor experience,248,81,82
+1654,Nike,influencer,Nike very comfortable,841,128,112
+1655,Nike,athlete,Nike great quality,835,80,96
+1656,Adidas,influencer,Adidas very comfortable,748,175,20
+1657,Nike,traveler,Nike bad quality,139,159,93
+1658,Adidas,athlete,Adidas not worth it,56,165,109
+1659,Puma,influencer,Puma very disappointing,131,144,66
+1660,Adidas,traveler,Adidas not worth it,250,42,150
+1661,Puma,influencer,Puma great quality,503,113,76
+1662,Adidas,traveler,Adidas amazing product,651,61,63
+1663,Nike,student,Nike bad quality,181,78,88
+1664,Puma,traveler,Puma nothing special,526,109,47
+1665,Adidas,athlete,Adidas nothing special,308,15,17
+1666,Puma,influencer,Puma bad quality,112,163,136
+1667,Puma,athlete,Puma nothing special,268,134,42
+1668,Puma,student,Puma okay product,514,31,125
+1669,Adidas,influencer,Adidas very comfortable,547,107,64
+1670,Nike,athlete,Nike amazing product,782,39,138
+1671,Adidas,influencer,Adidas love this brand,617,110,52
+1672,Adidas,traveler,Adidas amazing product,1059,60,67
+1673,Adidas,student,Adidas okay product,582,130,72
+1674,Puma,student,Puma very disappointing,99,96,45
+1675,Nike,influencer,Nike not worth it,217,80,12
+1676,Nike,athlete,Nike nothing special,250,46,41
+1677,Adidas,athlete,Adidas love this brand,684,136,50
+1678,Puma,traveler,Puma amazing product,856,102,57
+1679,Puma,athlete,Puma okay product,555,86,89
+1680,Adidas,traveler,Adidas average experience,437,188,138
+1681,Nike,student,Nike nothing special,484,123,110
+1682,Puma,student,Puma great quality,567,62,45
+1683,Nike,influencer,Nike amazing product,778,50,137
+1684,Puma,athlete,Puma love this brand,640,25,38
+1685,Nike,student,Nike poor experience,52,39,19
+1686,Adidas,influencer,Adidas great quality,543,66,9
+1687,Puma,athlete,Puma love this brand,765,126,132
+1688,Puma,traveler,Puma love this brand,923,76,71
+1689,Nike,traveler,Nike poor experience,184,67,86
+1690,Puma,student,Puma amazing product,1060,30,25
+1691,Adidas,athlete,Adidas not worth it,254,134,47
+1692,Nike,influencer,Nike not worth it,184,164,39
+1693,Adidas,student,Adidas nothing special,303,100,121
+1694,Puma,student,Puma bad quality,297,80,93
+1695,Puma,athlete,Puma nothing special,582,35,14
+1696,Nike,athlete,Nike bad quality,279,33,87
+1697,Puma,student,Puma okay product,329,55,23
+1698,Puma,student,Puma nothing special,592,12,136
+1699,Puma,athlete,Puma love this brand,1073,119,12
+1700,Adidas,athlete,Adidas nothing special,281,17,65
+1701,Nike,student,Nike very disappointing,291,37,117
+1702,Nike,influencer,Nike love this brand,728,51,8
+1703,Adidas,traveler,Adidas nothing special,600,199,118
+1704,Adidas,influencer,Adidas poor experience,248,138,24
+1705,Puma,influencer,Puma very disappointing,68,85,69
+1706,Puma,student,Puma amazing product,701,164,5
+1707,Adidas,athlete,Adidas love this brand,1180,142,115
+1708,Puma,student,Puma amazing product,879,84,24
+1709,Nike,traveler,Nike not worth it,127,170,89
+1710,Nike,influencer,Nike not worth it,58,137,63
+1711,Adidas,athlete,Adidas average experience,343,147,19
+1712,Adidas,traveler,Adidas average experience,202,138,59
+1713,Puma,athlete,Puma not worth it,132,112,100
+1714,Puma,traveler,Puma very comfortable,520,45,40
+1715,Adidas,athlete,Adidas very disappointing,173,186,10
+1716,Puma,student,Puma okay product,218,17,68
+1717,Nike,student,Nike very disappointing,196,27,92
+1718,Nike,traveler,Nike very comfortable,622,40,143
+1719,Nike,athlete,Nike amazing product,1059,31,32
+1720,Puma,student,Puma okay product,271,114,32
+1721,Puma,influencer,Puma average experience,402,150,46
+1722,Puma,student,Puma very disappointing,175,69,150
+1723,Adidas,athlete,Adidas very disappointing,277,16,65
+1724,Adidas,traveler,Adidas average experience,337,105,69
+1725,Puma,influencer,Puma very comfortable,872,89,129
+1726,Puma,student,Puma not worth it,173,153,41
+1727,Puma,student,Puma okay product,310,62,28
+1728,Nike,influencer,Nike okay product,320,17,13
+1729,Adidas,student,Adidas average experience,550,186,119
+1730,Adidas,student,Adidas love this brand,746,100,94
+1731,Nike,student,Nike very disappointing,119,45,129
+1732,Nike,influencer,Nike great quality,623,151,66
+1733,Nike,athlete,Nike average experience,279,90,137
+1734,Adidas,influencer,Adidas poor experience,122,91,12
+1735,Puma,athlete,Puma nothing special,503,168,30
+1736,Adidas,influencer,Adidas great quality,1083,100,27
+1737,Nike,influencer,Nike amazing product,602,111,108
+1738,Nike,traveler,Nike love this brand,716,41,88
+1739,Puma,student,Puma very disappointing,289,73,116
+1740,Adidas,athlete,Adidas very comfortable,1031,151,82
+1741,Puma,student,Puma average experience,313,155,116
+1742,Puma,student,Puma great quality,692,56,83
+1743,Nike,athlete,Nike nothing special,572,130,113
+1744,Adidas,traveler,Adidas nothing special,260,179,53
+1745,Puma,athlete,Puma very comfortable,944,49,60
+1746,Nike,influencer,Nike not worth it,129,58,77
+1747,Nike,traveler,Nike not worth it,131,100,133
+1748,Nike,traveler,Nike average experience,507,158,123
+1749,Adidas,influencer,Adidas nothing special,474,134,68
+1750,Nike,traveler,Nike very disappointing,278,91,29
+1751,Nike,traveler,Nike very comfortable,784,103,106
+1752,Puma,athlete,Puma bad quality,221,22,109
+1753,Puma,traveler,Puma very disappointing,73,96,32
+1754,Nike,traveler,Nike love this brand,1100,60,64
+1755,Nike,student,Nike bad quality,284,107,110
+1756,Adidas,student,Adidas bad quality,113,120,111
+1757,Puma,athlete,Puma nothing special,472,143,16
+1758,Puma,athlete,Puma amazing product,892,109,85
+1759,Adidas,student,Adidas nothing special,523,67,57
+1760,Puma,athlete,Puma very comfortable,978,69,140
+1761,Nike,traveler,Nike not worth it,78,12,25
+1762,Puma,athlete,Puma great quality,924,85,124
+1763,Nike,student,Nike love this brand,603,155,101
+1764,Puma,traveler,Puma average experience,299,122,87
+1765,Puma,influencer,Puma bad quality,293,73,116
+1766,Puma,traveler,Puma not worth it,180,111,29
+1767,Puma,traveler,Puma bad quality,285,164,126
+1768,Nike,student,Nike poor experience,249,88,78
+1769,Adidas,student,Adidas okay product,425,138,59
+1770,Puma,student,Puma bad quality,220,197,110
+1771,Adidas,influencer,Adidas very comfortable,638,20,59
+1772,Nike,influencer,Nike average experience,445,154,126
+1773,Adidas,traveler,Adidas very disappointing,210,87,32
+1774,Nike,influencer,Nike average experience,323,157,110
+1775,Adidas,athlete,Adidas average experience,355,80,118
+1776,Nike,traveler,Nike very disappointing,236,30,6
+1777,Nike,athlete,Nike very disappointing,195,94,15
+1778,Nike,influencer,Nike bad quality,66,178,11
+1779,Nike,influencer,Nike average experience,224,146,98
+1780,Puma,influencer,Puma nothing special,276,98,33
+1781,Nike,influencer,Nike bad quality,174,126,101
+1782,Puma,athlete,Puma bad quality,195,102,51
+1783,Puma,traveler,Puma amazing product,725,56,136
+1784,Puma,influencer,Puma poor experience,271,178,131
+1785,Puma,athlete,Puma not worth it,170,46,144
+1786,Adidas,student,Adidas amazing product,659,116,80
+1787,Adidas,influencer,Adidas average experience,584,127,86
+1788,Nike,athlete,Nike bad quality,217,116,79
+1789,Puma,traveler,Puma nothing special,425,189,40
+1790,Puma,student,Puma very comfortable,570,138,10
+1791,Puma,athlete,Puma nothing special,598,19,73
+1792,Nike,influencer,Nike okay product,592,187,33
+1793,Nike,student,Nike amazing product,1196,188,11
+1794,Adidas,student,Adidas nothing special,405,160,95
+1795,Puma,influencer,Puma love this brand,507,37,26
+1796,Nike,traveler,Nike okay product,487,119,28
+1797,Nike,athlete,Nike amazing product,632,134,37
+1798,Puma,student,Puma poor experience,255,15,37
+1799,Nike,student,Nike very comfortable,724,128,147
+1800,Puma,athlete,Puma amazing product,991,128,110
+1801,Adidas,traveler,Adidas okay product,253,45,34
+1802,Nike,traveler,Nike great quality,1133,127,55
+1803,Puma,influencer,Puma very disappointing,101,144,33
+1804,Adidas,traveler,Adidas bad quality,282,39,59
+1805,Puma,traveler,Puma great quality,500,166,141
+1806,Nike,student,Nike amazing product,708,192,144
+1807,Puma,traveler,Puma okay product,239,183,144
+1808,Adidas,influencer,Adidas great quality,1186,54,140
+1809,Puma,traveler,Puma bad quality,282,99,54
+1810,Puma,student,Puma poor experience,55,198,82
+1811,Adidas,student,Adidas okay product,228,15,69
+1812,Puma,athlete,Puma bad quality,299,67,85
+1813,Nike,student,Nike love this brand,724,160,18
+1814,Puma,athlete,Puma poor experience,172,62,58
+1815,Puma,athlete,Puma very comfortable,756,160,57
+1816,Nike,student,Nike love this brand,1149,98,52
+1817,Nike,student,Nike bad quality,75,126,65
+1818,Puma,student,Puma okay product,577,20,145
+1819,Nike,influencer,Nike poor experience,117,139,106
+1820,Nike,athlete,Nike average experience,264,172,130
+1821,Puma,athlete,Puma bad quality,262,80,41
+1822,Adidas,student,Adidas very comfortable,944,163,56
+1823,Adidas,traveler,Adidas amazing product,742,164,101
+1824,Nike,influencer,Nike okay product,308,191,6
+1825,Puma,influencer,Puma very disappointing,156,44,83
+1826,Puma,influencer,Puma nothing special,342,91,96
+1827,Nike,influencer,Nike great quality,977,111,119
+1828,Puma,influencer,Puma not worth it,273,13,130
+1829,Puma,traveler,Puma love this brand,800,94,14
+1830,Nike,traveler,Nike average experience,345,55,44
+1831,Adidas,traveler,Adidas okay product,286,75,59
+1832,Puma,student,Puma not worth it,115,63,64
+1833,Puma,traveler,Puma not worth it,190,188,102
+1834,Nike,traveler,Nike nothing special,588,102,129
+1835,Adidas,traveler,Adidas average experience,330,122,25
+1836,Puma,traveler,Puma nothing special,244,139,69
+1837,Adidas,athlete,Adidas average experience,511,152,109
+1838,Puma,traveler,Puma not worth it,202,43,49
+1839,Adidas,student,Adidas poor experience,71,189,27
+1840,Puma,athlete,Puma poor experience,274,133,145
+1841,Nike,traveler,Nike amazing product,1069,151,112
+1842,Adidas,influencer,Adidas okay product,509,47,59
+1843,Nike,influencer,Nike not worth it,253,171,76
+1844,Nike,athlete,Nike not worth it,248,20,136
+1845,Nike,traveler,Nike very comfortable,804,94,45
+1846,Puma,athlete,Puma average experience,242,44,46
+1847,Nike,athlete,Nike great quality,1100,35,75
+1848,Nike,student,Nike average experience,351,145,17
+1849,Puma,traveler,Puma nothing special,352,142,112
+1850,Adidas,student,Adidas average experience,231,167,72
+1851,Puma,student,Puma very comfortable,930,93,68
+1852,Nike,athlete,Nike nothing special,393,80,44
+1853,Puma,student,Puma poor experience,167,57,24
+1854,Puma,athlete,Puma poor experience,157,187,138
+1855,Adidas,student,Adidas very comfortable,804,121,73
+1856,Puma,athlete,Puma great quality,827,62,132
+1857,Adidas,traveler,Adidas poor experience,82,160,101
+1858,Adidas,traveler,Adidas not worth it,207,152,103
+1859,Puma,athlete,Puma not worth it,286,178,33
+1860,Adidas,student,Adidas very disappointing,64,86,118
+1861,Adidas,athlete,Adidas bad quality,177,188,78
+1862,Puma,athlete,Puma very comfortable,614,78,9
+1863,Adidas,traveler,Adidas very disappointing,156,71,129
+1864,Adidas,influencer,Adidas amazing product,589,126,109
+1865,Adidas,traveler,Adidas poor experience,242,156,139
+1866,Nike,influencer,Nike amazing product,1184,144,18
+1867,Nike,student,Nike very comfortable,731,198,22
+1868,Nike,athlete,Nike poor experience,220,68,12
+1869,Nike,student,Nike okay product,379,66,71
+1870,Adidas,student,Adidas not worth it,143,32,36
+1871,Puma,influencer,Puma love this brand,504,156,125
+1872,Nike,traveler,Nike love this brand,732,114,65
+1873,Adidas,traveler,Adidas nothing special,450,22,117
+1874,Adidas,athlete,Adidas love this brand,528,77,52
+1875,Puma,traveler,Puma okay product,409,114,130
+1876,Adidas,influencer,Adidas amazing product,513,193,21
+1877,Adidas,student,Adidas great quality,908,58,109
+1878,Adidas,traveler,Adidas bad quality,210,55,73
+1879,Adidas,student,Adidas very disappointing,84,189,104
+1880,Puma,athlete,Puma not worth it,141,63,62
+1881,Puma,student,Puma average experience,270,51,146
+1882,Puma,influencer,Puma poor experience,177,176,11
+1883,Puma,influencer,Puma nothing special,406,106,43
+1884,Adidas,student,Adidas average experience,224,167,146
+1885,Nike,athlete,Nike amazing product,874,124,51
+1886,Puma,traveler,Puma very comfortable,1072,192,80
+1887,Nike,athlete,Nike poor experience,200,158,43
+1888,Nike,student,Nike average experience,345,151,127
+1889,Nike,influencer,Nike average experience,200,122,34
+1890,Nike,student,Nike love this brand,1041,100,28
+1891,Nike,athlete,Nike bad quality,107,62,46
+1892,Adidas,influencer,Adidas very comfortable,1116,45,97
+1893,Adidas,athlete,Adidas average experience,474,61,127
+1894,Nike,student,Nike nothing special,220,36,143
+1895,Puma,traveler,Puma poor experience,249,147,79
+1896,Puma,influencer,Puma average experience,514,165,78
+1897,Adidas,influencer,Adidas love this brand,985,54,54
+1898,Adidas,student,Adidas great quality,675,53,47
+1899,Adidas,traveler,Adidas bad quality,236,78,137
+1900,Puma,influencer,Puma okay product,489,59,42
+1901,Adidas,influencer,Adidas very disappointing,254,10,66
+1902,Adidas,student,Adidas okay product,544,104,46
+1903,Puma,athlete,Puma great quality,1027,101,38
+1904,Nike,influencer,Nike not worth it,70,89,123
+1905,Nike,student,Nike okay product,513,60,126
+1906,Puma,student,Puma love this brand,780,104,84
+1907,Nike,influencer,Nike bad quality,129,81,127
+1908,Puma,athlete,Puma not worth it,250,62,141
+1909,Adidas,athlete,Adidas very comfortable,595,60,117
+1910,Nike,traveler,Nike love this brand,808,163,60
+1911,Puma,traveler,Puma average experience,473,29,141
+1912,Nike,traveler,Nike love this brand,1144,66,138
+1913,Nike,influencer,Nike bad quality,142,24,63
+1914,Adidas,student,Adidas very comfortable,534,153,53
+1915,Adidas,traveler,Adidas poor experience,57,165,134
+1916,Nike,athlete,Nike great quality,1024,190,124
+1917,Nike,athlete,Nike amazing product,653,74,125
+1918,Adidas,influencer,Adidas amazing product,846,167,118
+1919,Adidas,traveler,Adidas nothing special,531,80,125
+1920,Nike,influencer,Nike bad quality,217,122,113
+1921,Adidas,influencer,Adidas very disappointing,132,118,113
+1922,Adidas,athlete,Adidas okay product,291,95,63
+1923,Adidas,influencer,Adidas very disappointing,185,195,33
+1924,Puma,student,Puma amazing product,653,17,142
+1925,Nike,student,Nike bad quality,226,195,120
+1926,Adidas,student,Adidas love this brand,936,54,14
+1927,Adidas,student,Adidas bad quality,79,194,108
+1928,Puma,athlete,Puma average experience,340,172,130
+1929,Adidas,traveler,Adidas love this brand,972,30,46
+1930,Puma,student,Puma very comfortable,839,104,76
+1931,Nike,traveler,Nike love this brand,839,80,84
+1932,Puma,student,Puma bad quality,80,51,22
+1933,Nike,influencer,Nike great quality,698,160,19
+1934,Nike,student,Nike nothing special,327,88,129
+1935,Nike,student,Nike great quality,692,50,134
+1936,Nike,influencer,Nike great quality,984,98,28
+1937,Adidas,traveler,Adidas amazing product,583,144,81
+1938,Adidas,influencer,Adidas great quality,956,152,148
+1939,Puma,traveler,Puma very disappointing,198,62,79
+1940,Puma,influencer,Puma love this brand,957,134,128
+1941,Nike,traveler,Nike love this brand,814,18,102
+1942,Adidas,influencer,Adidas nothing special,498,94,9
+1943,Adidas,student,Adidas very comfortable,1096,58,145
+1944,Adidas,athlete,Adidas bad quality,83,160,91
+1945,Nike,influencer,Nike nothing special,431,145,14
+1946,Puma,influencer,Puma love this brand,886,138,31
+1947,Nike,athlete,Nike okay product,241,181,37
+1948,Adidas,traveler,Adidas bad quality,55,73,132
+1949,Nike,influencer,Nike poor experience,84,129,9
+1950,Adidas,traveler,Adidas nothing special,360,122,113
+1951,Puma,traveler,Puma poor experience,104,107,33
+1952,Adidas,athlete,Adidas poor experience,61,41,140
+1953,Adidas,influencer,Adidas nothing special,512,55,149
+1954,Adidas,student,Adidas bad quality,208,102,37
+1955,Adidas,influencer,Adidas amazing product,970,62,29
+1956,Puma,influencer,Puma not worth it,159,123,93
+1957,Puma,traveler,Puma bad quality,269,196,13
+1958,Nike,student,Nike average experience,528,16,96
+1959,Nike,athlete,Nike average experience,395,161,80
+1960,Nike,influencer,Nike amazing product,828,186,80
+1961,Puma,traveler,Puma nothing special,323,156,68
+1962,Puma,influencer,Puma average experience,453,104,19
+1963,Nike,athlete,Nike nothing special,234,157,66
+1964,Adidas,influencer,Adidas nothing special,365,191,46
+1965,Nike,athlete,Nike bad quality,287,108,110
+1966,Adidas,athlete,Adidas amazing product,689,29,95
+1967,Puma,influencer,Puma nothing special,441,14,147
+1968,Adidas,influencer,Adidas nothing special,272,74,126
+1969,Nike,student,Nike great quality,1038,23,98
+1970,Adidas,student,Adidas amazing product,760,131,41
+1971,Adidas,traveler,Adidas amazing product,948,62,48
+1972,Nike,student,Nike bad quality,264,187,61
+1973,Puma,influencer,Puma amazing product,701,94,20
+1974,Adidas,student,Adidas nothing special,244,68,30
+1975,Nike,influencer,Nike not worth it,127,113,136
+1976,Nike,student,Nike love this brand,626,165,90
+1977,Nike,student,Nike very comfortable,1019,48,131
+1978,Nike,influencer,Nike very disappointing,297,61,20
+1979,Adidas,traveler,Adidas love this brand,1054,102,35
+1980,Adidas,traveler,Adidas bad quality,197,33,71
+1981,Nike,influencer,Nike okay product,224,148,16
+1982,Nike,influencer,Nike nothing special,413,146,111
+1983,Adidas,athlete,Adidas average experience,541,91,31
+1984,Nike,traveler,Nike bad quality,231,115,131
+1985,Adidas,traveler,Adidas bad quality,138,131,30
+1986,Puma,athlete,Puma poor experience,242,116,83
+1987,Puma,student,Puma very comfortable,798,137,102
+1988,Nike,influencer,Nike poor experience,244,38,89
+1989,Adidas,student,Adidas poor experience,94,153,150
+1990,Nike,athlete,Nike average experience,595,98,60
+1991,Adidas,traveler,Adidas amazing product,1171,49,115
+1992,Nike,athlete,Nike average experience,302,180,6
+1993,Adidas,influencer,Adidas love this brand,595,158,54
+1994,Nike,influencer,Nike okay product,409,129,68
+1995,Puma,student,Puma amazing product,723,109,15
+1996,Nike,athlete,Nike great quality,806,26,42
+1997,Adidas,traveler,Adidas okay product,350,39,137
+1998,Adidas,traveler,Adidas nothing special,479,148,41
+1999,Puma,student,Puma poor experience,261,121,9
+2000,Adidas,athlete,Adidas nothing special,572,197,76
+2001,Nike,influencer,Nike poor experience,209,151,113
+2002,Adidas,influencer,Adidas poor experience,116,68,124
+2003,Adidas,student,Adidas very disappointing,90,58,31
+2004,Puma,student,Puma very comfortable,575,83,6
+2005,Puma,influencer,Puma poor experience,103,185,68
+2006,Nike,athlete,Nike okay product,382,181,104
+2007,Puma,traveler,Puma love this brand,574,43,90
+2008,Nike,traveler,Nike average experience,573,134,86
+2009,Adidas,traveler,Adidas poor experience,300,152,96
+2010,Adidas,influencer,Adidas not worth it,263,94,97
+2011,Nike,athlete,Nike nothing special,460,21,36
+2012,Puma,athlete,Puma amazing product,859,174,44
+2013,Adidas,student,Adidas bad quality,50,80,14
+2014,Nike,traveler,Nike bad quality,126,109,107
+2015,Adidas,student,Adidas okay product,503,69,95
+2016,Puma,athlete,Puma very comfortable,822,57,13
+2017,Adidas,influencer,Adidas love this brand,1051,30,146
+2018,Puma,traveler,Puma love this brand,895,40,39
+2019,Puma,traveler,Puma poor experience,186,44,25
+2020,Adidas,athlete,Adidas not worth it,72,178,142
+2021,Adidas,traveler,Adidas love this brand,988,89,82
+2022,Puma,influencer,Puma nothing special,405,185,86
+2023,Adidas,influencer,Adidas not worth it,197,52,22
+2024,Adidas,influencer,Adidas poor experience,105,99,37
+2025,Puma,athlete,Puma bad quality,86,167,120
+2026,Nike,influencer,Nike very comfortable,516,35,106
+2027,Adidas,influencer,Adidas love this brand,770,132,18
+2028,Puma,influencer,Puma nothing special,504,145,18
+2029,Nike,athlete,Nike great quality,799,62,48
+2030,Puma,traveler,Puma very disappointing,244,36,10
+2031,Nike,influencer,Nike great quality,1064,13,23
+2032,Adidas,influencer,Adidas not worth it,274,133,85
+2033,Nike,influencer,Nike great quality,608,11,35
+2034,Puma,student,Puma amazing product,705,147,67
+2035,Nike,student,Nike average experience,304,91,105
+2036,Puma,student,Puma bad quality,148,149,38
+2037,Adidas,traveler,Adidas love this brand,1179,123,86
+2038,Nike,influencer,Nike average experience,200,144,109
+2039,Adidas,influencer,Adidas nothing special,479,182,114
+2040,Adidas,traveler,Adidas nothing special,296,146,6
+2041,Nike,athlete,Nike amazing product,717,110,42
+2042,Puma,influencer,Puma amazing product,1186,135,119
+2043,Nike,athlete,Nike average experience,521,138,87
+2044,Nike,athlete,Nike average experience,266,179,69
+2045,Nike,athlete,Nike average experience,368,60,132
+2046,Puma,influencer,Puma very comfortable,1172,63,65
+2047,Puma,influencer,Puma average experience,571,192,17
+2048,Puma,traveler,Puma bad quality,242,153,87
+2049,Puma,athlete,Puma very disappointing,52,176,125
+2050,Puma,athlete,Puma bad quality,88,78,147
+2051,Nike,student,Nike not worth it,156,96,89
+2052,Adidas,student,Adidas nothing special,354,87,43
+2053,Adidas,traveler,Adidas poor experience,151,88,48
+2054,Adidas,student,Adidas okay product,470,59,132
+2055,Adidas,influencer,Adidas okay product,254,196,138
+2056,Puma,student,Puma very comfortable,1086,175,54
+2057,Puma,athlete,Puma nothing special,420,118,99
+2058,Nike,traveler,Nike love this brand,868,179,145
+2059,Nike,athlete,Nike not worth it,82,21,80
+2060,Puma,athlete,Puma okay product,218,81,97
+2061,Puma,influencer,Puma love this brand,820,159,111
+2062,Nike,athlete,Nike not worth it,88,71,138
+2063,Adidas,influencer,Adidas average experience,379,153,137
+2064,Adidas,influencer,Adidas bad quality,248,68,58
+2065,Nike,influencer,Nike amazing product,582,20,127
+2066,Nike,athlete,Nike okay product,544,155,96
+2067,Nike,influencer,Nike amazing product,793,162,138
+2068,Puma,athlete,Puma very comfortable,563,47,7
+2069,Puma,traveler,Puma not worth it,93,153,126
+2070,Nike,traveler,Nike not worth it,275,27,79
+2071,Adidas,traveler,Adidas bad quality,167,197,75
+2072,Nike,traveler,Nike love this brand,625,82,137
+2073,Puma,student,Puma poor experience,285,182,18
+2074,Puma,influencer,Puma very comfortable,517,62,109
+2075,Puma,athlete,Puma love this brand,1103,120,94
+2076,Nike,influencer,Nike bad quality,90,58,52
+2077,Adidas,influencer,Adidas okay product,562,62,65
+2078,Adidas,student,Adidas very disappointing,217,57,81
+2079,Puma,athlete,Puma amazing product,704,14,16
+2080,Puma,student,Puma very disappointing,293,193,46
+2081,Puma,athlete,Puma not worth it,241,114,120
+2082,Nike,traveler,Nike amazing product,1000,198,37
+2083,Adidas,traveler,Adidas not worth it,237,16,43
+2084,Puma,student,Puma very comfortable,848,140,133
+2085,Adidas,athlete,Adidas average experience,489,27,49
+2086,Nike,traveler,Nike not worth it,246,60,51
+2087,Puma,athlete,Puma average experience,550,158,124
+2088,Nike,traveler,Nike not worth it,287,23,66
+2089,Adidas,athlete,Adidas great quality,968,189,118
+2090,Adidas,influencer,Adidas okay product,245,124,58
+2091,Adidas,athlete,Adidas very comfortable,638,76,6
+2092,Nike,athlete,Nike love this brand,552,74,83
+2093,Nike,student,Nike very comfortable,1090,187,74
+2094,Adidas,influencer,Adidas very disappointing,163,178,17
+2095,Puma,traveler,Puma bad quality,248,199,49
+2096,Nike,athlete,Nike amazing product,546,124,90
+2097,Nike,student,Nike okay product,493,162,46
+2098,Nike,traveler,Nike amazing product,544,198,137
+2099,Nike,influencer,Nike average experience,227,108,28
+2100,Nike,athlete,Nike nothing special,508,50,88
+2101,Puma,athlete,Puma average experience,289,20,109
+2102,Nike,influencer,Nike okay product,447,187,18
+2103,Adidas,influencer,Adidas bad quality,163,121,141
+2104,Nike,influencer,Nike very disappointing,92,76,138
+2105,Nike,student,Nike not worth it,179,79,75
+2106,Adidas,athlete,Adidas amazing product,544,194,23
+2107,Puma,student,Puma poor experience,58,114,130
+2108,Nike,student,Nike great quality,895,25,94
+2109,Puma,athlete,Puma not worth it,136,32,98
+2110,Nike,influencer,Nike bad quality,144,115,148
+2111,Nike,athlete,Nike love this brand,1023,45,15
+2112,Puma,athlete,Puma amazing product,988,192,139
+2113,Nike,traveler,Nike okay product,331,188,56
+2114,Adidas,traveler,Adidas okay product,568,22,128
+2115,Puma,influencer,Puma very disappointing,199,63,49
+2116,Adidas,influencer,Adidas not worth it,136,32,41
+2117,Puma,athlete,Puma amazing product,825,12,86
+2118,Puma,influencer,Puma nothing special,227,96,150
+2119,Puma,influencer,Puma not worth it,65,141,85
+2120,Adidas,influencer,Adidas bad quality,88,38,33
+2121,Puma,traveler,Puma great quality,585,93,95
+2122,Nike,student,Nike not worth it,260,113,8
+2123,Adidas,traveler,Adidas average experience,311,73,91
+2124,Puma,student,Puma poor experience,186,171,125
+2125,Adidas,athlete,Adidas poor experience,281,47,87
+2126,Puma,student,Puma okay product,398,34,97
+2127,Nike,influencer,Nike okay product,336,137,122
+2128,Puma,student,Puma nothing special,459,89,10
+2129,Nike,traveler,Nike nothing special,230,102,119
+2130,Adidas,student,Adidas amazing product,1059,150,72
+2131,Nike,traveler,Nike love this brand,843,110,97
+2132,Puma,traveler,Puma okay product,345,189,81
+2133,Puma,athlete,Puma average experience,250,133,58
+2134,Puma,athlete,Puma bad quality,266,127,18
+2135,Nike,influencer,Nike bad quality,64,183,45
+2136,Puma,influencer,Puma not worth it,254,142,63
+2137,Puma,athlete,Puma amazing product,828,20,96
+2138,Adidas,influencer,Adidas amazing product,1070,120,101
+2139,Nike,influencer,Nike nothing special,251,178,131
+2140,Nike,athlete,Nike love this brand,1088,127,55
+2141,Adidas,student,Adidas not worth it,101,74,55
+2142,Adidas,influencer,Adidas nothing special,560,67,15
+2143,Adidas,athlete,Adidas nothing special,591,72,146
+2144,Nike,student,Nike very comfortable,675,166,143
+2145,Adidas,traveler,Adidas great quality,906,38,137
+2146,Nike,athlete,Nike amazing product,595,55,109
+2147,Puma,student,Puma okay product,418,50,39
+2148,Adidas,student,Adidas okay product,438,20,147
+2149,Adidas,traveler,Adidas okay product,578,44,8
+2150,Nike,traveler,Nike bad quality,206,149,50
+2151,Adidas,athlete,Adidas love this brand,953,131,24
+2152,Nike,student,Nike very comfortable,790,102,110
+2153,Adidas,athlete,Adidas very disappointing,162,70,136
+2154,Nike,athlete,Nike very comfortable,733,182,39
+2155,Adidas,influencer,Adidas not worth it,156,18,71
+2156,Adidas,traveler,Adidas average experience,266,50,88
+2157,Adidas,student,Adidas average experience,591,200,27
+2158,Adidas,traveler,Adidas nothing special,397,138,23
+2159,Nike,student,Nike okay product,588,140,40
+2160,Adidas,traveler,Adidas great quality,548,17,62
+2161,Adidas,student,Adidas love this brand,1157,143,133
+2162,Puma,student,Puma okay product,526,124,125
+2163,Nike,athlete,Nike average experience,321,124,98
+2164,Puma,influencer,Puma very disappointing,123,125,29
+2165,Adidas,traveler,Adidas great quality,994,52,104
+2166,Nike,student,Nike very disappointing,154,189,27
+2167,Adidas,influencer,Adidas very disappointing,72,24,97
+2168,Puma,athlete,Puma amazing product,676,89,120
+2169,Puma,student,Puma poor experience,85,193,66
+2170,Puma,athlete,Puma great quality,606,89,150
+2171,Puma,traveler,Puma very comfortable,1132,42,64
+2172,Puma,student,Puma amazing product,879,80,7
+2173,Adidas,student,Adidas nothing special,343,96,10
+2174,Nike,student,Nike love this brand,766,30,128
+2175,Nike,student,Nike average experience,296,74,33
+2176,Adidas,student,Adidas poor experience,85,20,79
+2177,Adidas,athlete,Adidas nothing special,496,190,53
+2178,Puma,athlete,Puma okay product,586,35,121
+2179,Puma,athlete,Puma not worth it,122,153,56
+2180,Adidas,student,Adidas okay product,597,179,25
+2181,Adidas,student,Adidas poor experience,264,147,48
+2182,Nike,traveler,Nike not worth it,248,35,55
+2183,Puma,athlete,Puma nothing special,299,111,104
+2184,Adidas,athlete,Adidas very disappointing,126,33,72
+2185,Nike,traveler,Nike very comfortable,503,62,140
+2186,Nike,influencer,Nike very comfortable,1111,184,56
+2187,Nike,student,Nike okay product,484,142,73
+2188,Adidas,influencer,Adidas bad quality,217,51,65
+2189,Puma,student,Puma great quality,772,129,139
+2190,Adidas,athlete,Adidas great quality,1118,162,141
+2191,Adidas,influencer,Adidas poor experience,86,112,20
+2192,Adidas,student,Adidas not worth it,280,129,104
+2193,Nike,student,Nike bad quality,109,20,27
+2194,Nike,athlete,Nike okay product,528,161,17
+2195,Puma,influencer,Puma poor experience,164,40,124
+2196,Adidas,student,Adidas amazing product,643,81,38
+2197,Nike,athlete,Nike average experience,477,118,97
+2198,Adidas,student,Adidas very disappointing,178,126,8
+2199,Puma,athlete,Puma very disappointing,178,148,20
+2200,Nike,influencer,Nike very disappointing,226,74,65
+2201,Adidas,influencer,Adidas amazing product,1116,154,108
+2202,Puma,athlete,Puma nothing special,565,25,102
+2203,Nike,student,Nike average experience,590,70,98
+2204,Puma,influencer,Puma average experience,239,104,9
+2205,Puma,student,Puma nothing special,317,17,68
+2206,Adidas,athlete,Adidas amazing product,977,66,10
+2207,Nike,student,Nike poor experience,195,190,43
+2208,Nike,student,Nike love this brand,525,106,86
+2209,Nike,traveler,Nike love this brand,971,100,101
+2210,Puma,athlete,Puma amazing product,1030,33,88
+2211,Nike,athlete,Nike nothing special,452,32,76
+2212,Puma,athlete,Puma average experience,201,149,91
+2213,Adidas,influencer,Adidas poor experience,81,62,7
+2214,Nike,athlete,Nike great quality,774,124,10
+2215,Nike,traveler,Nike great quality,662,100,145
+2216,Adidas,influencer,Adidas very disappointing,92,109,70
+2217,Nike,student,Nike nothing special,580,15,94
+2218,Puma,traveler,Puma very comfortable,1045,46,36
+2219,Nike,influencer,Nike average experience,473,97,77
+2220,Nike,influencer,Nike love this brand,850,70,40
+2221,Adidas,student,Adidas okay product,519,165,111
+2222,Adidas,student,Adidas great quality,519,37,41
+2223,Adidas,influencer,Adidas love this brand,610,106,15
+2224,Adidas,student,Adidas nothing special,441,88,68
+2225,Nike,student,Nike bad quality,281,75,134
+2226,Puma,influencer,Puma average experience,442,19,134
+2227,Puma,athlete,Puma very disappointing,260,134,128
+2228,Puma,traveler,Puma average experience,390,146,79
+2229,Nike,influencer,Nike poor experience,247,31,33
+2230,Adidas,athlete,Adidas great quality,1104,116,23
+2231,Adidas,student,Adidas okay product,326,55,86
+2232,Puma,influencer,Puma very comfortable,1128,80,44
+2233,Puma,athlete,Puma amazing product,1120,194,48
+2234,Nike,student,Nike okay product,564,118,12
+2235,Nike,traveler,Nike average experience,553,135,127
+2236,Adidas,athlete,Adidas okay product,373,32,91
+2237,Puma,traveler,Puma okay product,283,84,81
+2238,Puma,influencer,Puma not worth it,276,189,85
+2239,Adidas,student,Adidas not worth it,160,114,44
+2240,Nike,influencer,Nike love this brand,744,132,87
+2241,Nike,influencer,Nike great quality,1018,107,19
+2242,Nike,traveler,Nike great quality,959,163,140
+2243,Adidas,athlete,Adidas bad quality,127,175,36
+2244,Adidas,student,Adidas nothing special,580,44,19
+2245,Adidas,traveler,Adidas very comfortable,854,21,84
+2246,Nike,student,Nike nothing special,309,51,97
+2247,Puma,traveler,Puma great quality,789,78,133
+2248,Adidas,athlete,Adidas very disappointing,205,112,83
+2249,Nike,student,Nike bad quality,77,74,142
+2250,Nike,traveler,Nike bad quality,218,195,102
+2251,Adidas,student,Adidas nothing special,487,172,108
+2252,Puma,student,Puma amazing product,1116,180,70
+2253,Adidas,athlete,Adidas okay product,453,22,77
+2254,Nike,athlete,Nike nothing special,212,50,137
+2255,Puma,athlete,Puma very comfortable,556,63,104
+2256,Nike,athlete,Nike very disappointing,110,158,6
+2257,Puma,influencer,Puma average experience,221,108,10
+2258,Adidas,student,Adidas average experience,449,38,21
+2259,Nike,influencer,Nike nothing special,383,90,117
+2260,Puma,influencer,Puma bad quality,120,165,78
+2261,Nike,traveler,Nike love this brand,744,54,111
+2262,Puma,traveler,Puma amazing product,581,53,58
+2263,Nike,athlete,Nike nothing special,363,96,56
+2264,Adidas,influencer,Adidas very comfortable,805,44,38
+2265,Adidas,student,Adidas average experience,382,111,45
+2266,Adidas,athlete,Adidas very comfortable,1023,143,16
+2267,Puma,student,Puma amazing product,835,75,106
+2268,Nike,student,Nike bad quality,299,86,64
+2269,Puma,influencer,Puma great quality,535,181,135
+2270,Nike,student,Nike very disappointing,300,149,121
+2271,Adidas,traveler,Adidas love this brand,757,143,105
+2272,Nike,athlete,Nike very comfortable,1039,183,7
+2273,Puma,athlete,Puma average experience,375,149,82
+2274,Puma,influencer,Puma average experience,311,173,14
+2275,Adidas,traveler,Adidas not worth it,272,101,132
+2276,Puma,athlete,Puma poor experience,185,158,76
+2277,Puma,influencer,Puma great quality,529,57,67
+2278,Adidas,athlete,Adidas very disappointing,185,31,136
+2279,Adidas,athlete,Adidas not worth it,229,95,39
+2280,Puma,influencer,Puma poor experience,268,112,95
+2281,Adidas,traveler,Adidas average experience,297,112,76
+2282,Nike,traveler,Nike poor experience,233,78,83
+2283,Nike,student,Nike very comfortable,1000,100,76
+2284,Nike,traveler,Nike nothing special,501,139,64
+2285,Adidas,athlete,Adidas love this brand,502,28,133
+2286,Nike,influencer,Nike nothing special,527,26,115
+2287,Nike,student,Nike okay product,323,105,27
+2288,Nike,student,Nike nothing special,223,58,51
+2289,Nike,influencer,Nike nothing special,271,183,72
+2290,Adidas,influencer,Adidas average experience,257,148,102
+2291,Adidas,student,Adidas okay product,350,21,124
+2292,Adidas,traveler,Adidas very disappointing,120,37,72
+2293,Adidas,traveler,Adidas not worth it,228,68,115
+2294,Puma,athlete,Puma not worth it,273,128,100
+2295,Adidas,student,Adidas bad quality,280,104,18
+2296,Nike,influencer,Nike very comfortable,795,145,71
+2297,Puma,influencer,Puma amazing product,810,88,34
+2298,Puma,traveler,Puma okay product,249,37,63
+2299,Puma,student,Puma poor experience,61,140,42
+2300,Puma,traveler,Puma okay product,575,175,54
+2301,Adidas,athlete,Adidas very disappointing,213,186,84
+2302,Adidas,student,Adidas very disappointing,65,156,107
+2303,Puma,influencer,Puma not worth it,183,163,112
+2304,Nike,athlete,Nike very comfortable,913,61,38
+2305,Nike,traveler,Nike great quality,1178,165,76
+2306,Puma,traveler,Puma okay product,552,57,74
+2307,Nike,influencer,Nike poor experience,263,64,83
+2308,Nike,student,Nike love this brand,846,70,136
+2309,Puma,influencer,Puma nothing special,538,47,142
+2310,Nike,athlete,Nike very comfortable,1060,31,53
+2311,Puma,student,Puma love this brand,1155,200,45
+2312,Adidas,influencer,Adidas okay product,254,132,79
+2313,Adidas,student,Adidas poor experience,167,142,16
+2314,Adidas,influencer,Adidas okay product,545,173,129
+2315,Nike,traveler,Nike not worth it,265,164,82
+2316,Nike,traveler,Nike okay product,490,127,87
+2317,Adidas,student,Adidas nothing special,274,114,119
+2318,Puma,traveler,Puma great quality,1144,93,113
+2319,Puma,traveler,Puma amazing product,1004,22,15
+2320,Puma,traveler,Puma not worth it,174,110,97
+2321,Puma,influencer,Puma bad quality,87,145,67
+2322,Adidas,athlete,Adidas amazing product,800,98,25
+2323,Puma,traveler,Puma very comfortable,994,108,26
+2324,Adidas,athlete,Adidas great quality,790,103,63
+2325,Adidas,athlete,Adidas okay product,528,96,23
+2326,Puma,traveler,Puma okay product,240,158,52
+2327,Puma,influencer,Puma bad quality,114,143,120
+2328,Adidas,student,Adidas very disappointing,237,90,56
+2329,Puma,influencer,Puma amazing product,958,156,125
+2330,Puma,athlete,Puma nothing special,384,134,13
+2331,Puma,traveler,Puma not worth it,201,53,147
+2332,Nike,influencer,Nike nothing special,435,11,6
+2333,Adidas,influencer,Adidas very comfortable,691,133,94
+2334,Adidas,influencer,Adidas not worth it,192,73,41
+2335,Puma,student,Puma nothing special,368,47,28
+2336,Nike,traveler,Nike average experience,587,13,26
+2337,Nike,student,Nike average experience,223,115,25
+2338,Nike,student,Nike love this brand,843,20,147
+2339,Nike,student,Nike great quality,926,121,64
+2340,Puma,athlete,Puma nothing special,455,84,59
+2341,Puma,influencer,Puma amazing product,791,88,85
+2342,Puma,athlete,Puma not worth it,194,97,105
+2343,Adidas,influencer,Adidas bad quality,93,20,63
+2344,Adidas,student,Adidas poor experience,116,57,130
+2345,Nike,student,Nike bad quality,164,79,147
+2346,Adidas,athlete,Adidas amazing product,1058,44,12
+2347,Nike,athlete,Nike amazing product,975,18,99
+2348,Nike,student,Nike nothing special,288,119,60
+2349,Nike,athlete,Nike bad quality,211,177,120
+2350,Adidas,athlete,Adidas very disappointing,294,92,148
+2351,Adidas,traveler,Adidas great quality,812,30,118
+2352,Puma,influencer,Puma love this brand,850,184,123
+2353,Nike,student,Nike average experience,585,109,66
+2354,Nike,athlete,Nike not worth it,167,31,117
+2355,Puma,student,Puma average experience,424,162,107
+2356,Puma,influencer,Puma not worth it,236,19,69
+2357,Nike,athlete,Nike okay product,555,98,81
+2358,Puma,influencer,Puma love this brand,522,191,111
+2359,Adidas,student,Adidas bad quality,249,156,79
+2360,Adidas,traveler,Adidas very comfortable,1130,150,31
+2361,Puma,athlete,Puma bad quality,100,178,57
+2362,Puma,influencer,Puma great quality,585,162,35
+2363,Adidas,student,Adidas very disappointing,131,104,59
+2364,Adidas,influencer,Adidas great quality,1076,112,31
+2365,Nike,traveler,Nike nothing special,212,149,18
+2366,Puma,student,Puma very comfortable,721,187,55
+2367,Adidas,influencer,Adidas poor experience,245,183,16
+2368,Puma,athlete,Puma not worth it,275,41,126
+2369,Nike,influencer,Nike not worth it,51,133,56
+2370,Puma,traveler,Puma not worth it,159,150,131
+2371,Nike,traveler,Nike very comfortable,939,149,73
+2372,Adidas,traveler,Adidas love this brand,945,18,69
+2373,Nike,athlete,Nike great quality,979,26,75
+2374,Adidas,traveler,Adidas very disappointing,202,184,27
+2375,Puma,student,Puma nothing special,362,104,15
+2376,Nike,traveler,Nike okay product,262,187,150
+2377,Adidas,student,Adidas very comfortable,1125,15,115
+2378,Adidas,traveler,Adidas nothing special,211,199,24
+2379,Nike,student,Nike amazing product,753,153,7
+2380,Nike,athlete,Nike love this brand,889,100,23
+2381,Nike,student,Nike very disappointing,256,72,100
+2382,Adidas,traveler,Adidas love this brand,516,31,65
+2383,Puma,traveler,Puma very disappointing,72,184,128
+2384,Nike,athlete,Nike average experience,476,22,43
+2385,Puma,athlete,Puma poor experience,284,109,55
+2386,Nike,traveler,Nike okay product,483,124,48
+2387,Puma,influencer,Puma very disappointing,208,88,107
+2388,Adidas,traveler,Adidas very comfortable,1143,25,80
+2389,Puma,traveler,Puma okay product,440,146,60
+2390,Puma,athlete,Puma poor experience,103,34,53
+2391,Puma,student,Puma very disappointing,53,48,36
+2392,Puma,athlete,Puma great quality,690,64,32
+2393,Puma,athlete,Puma nothing special,258,63,70
+2394,Adidas,traveler,Adidas okay product,512,42,29
+2395,Puma,athlete,Puma very disappointing,137,88,27
+2396,Puma,traveler,Puma great quality,900,87,23
+2397,Adidas,influencer,Adidas average experience,289,19,101
+2398,Nike,athlete,Nike amazing product,1177,106,81
+2399,Adidas,athlete,Adidas average experience,372,18,33
+2400,Nike,traveler,Nike very comfortable,1144,148,6
+2401,Adidas,athlete,Adidas very disappointing,179,62,97
+2402,Puma,traveler,Puma nothing special,276,125,116
+2403,Puma,influencer,Puma nothing special,204,177,38
+2404,Adidas,influencer,Adidas bad quality,103,85,111
+2405,Puma,student,Puma not worth it,193,99,76
+2406,Puma,student,Puma very comfortable,790,166,136
+2407,Adidas,athlete,Adidas poor experience,125,77,42
+2408,Nike,athlete,Nike very disappointing,266,179,92
+2409,Puma,influencer,Puma nothing special,462,164,110
+2410,Puma,athlete,Puma nothing special,476,16,133
+2411,Adidas,student,Adidas not worth it,90,29,9
+2412,Nike,athlete,Nike great quality,629,81,40
+2413,Puma,student,Puma very disappointing,183,75,127
+2414,Puma,traveler,Puma not worth it,244,192,28
+2415,Nike,traveler,Nike great quality,765,68,37
+2416,Adidas,athlete,Adidas great quality,1016,146,140
+2417,Nike,athlete,Nike very comfortable,1190,117,145
+2418,Nike,traveler,Nike average experience,555,22,106
+2419,Adidas,student,Adidas love this brand,797,182,111
+2420,Puma,athlete,Puma nothing special,419,104,88
+2421,Puma,traveler,Puma very disappointing,117,57,85
+2422,Nike,traveler,Nike great quality,687,20,73
+2423,Adidas,athlete,Adidas love this brand,995,54,114
+2424,Nike,traveler,Nike very comfortable,542,159,23
+2425,Puma,athlete,Puma very disappointing,178,74,54
+2426,Adidas,athlete,Adidas not worth it,108,33,84
+2427,Adidas,athlete,Adidas nothing special,335,89,142
+2428,Nike,student,Nike nothing special,463,97,17
+2429,Adidas,traveler,Adidas poor experience,231,46,146
+2430,Adidas,student,Adidas amazing product,1167,45,120
+2431,Adidas,student,Adidas not worth it,237,191,64
+2432,Puma,athlete,Puma average experience,585,27,103
+2433,Adidas,student,Adidas love this brand,955,95,91
+2434,Nike,athlete,Nike average experience,441,30,114
+2435,Puma,student,Puma amazing product,570,174,10
+2436,Adidas,student,Adidas love this brand,502,111,42
+2437,Puma,influencer,Puma very comfortable,731,132,90
+2438,Puma,athlete,Puma average experience,313,46,75
+2439,Puma,athlete,Puma great quality,782,124,73
+2440,Nike,athlete,Nike poor experience,56,125,123
+2441,Adidas,influencer,Adidas bad quality,99,165,15
+2442,Nike,student,Nike very disappointing,165,174,131
+2443,Puma,athlete,Puma amazing product,792,173,121
+2444,Puma,influencer,Puma not worth it,266,130,94
+2445,Nike,student,Nike not worth it,249,54,39
+2446,Adidas,traveler,Adidas okay product,524,34,39
+2447,Nike,influencer,Nike average experience,524,105,101
+2448,Puma,traveler,Puma amazing product,862,72,131
+2449,Adidas,athlete,Adidas okay product,416,157,45
+2450,Puma,influencer,Puma love this brand,891,92,126
+2451,Nike,traveler,Nike bad quality,252,78,48
+2452,Puma,athlete,Puma very comfortable,556,52,146
+2453,Adidas,student,Adidas very comfortable,999,171,140
+2454,Puma,student,Puma bad quality,275,71,148
+2455,Puma,traveler,Puma bad quality,179,102,73
+2456,Puma,student,Puma average experience,461,177,114
+2457,Adidas,traveler,Adidas bad quality,122,180,61
+2458,Nike,traveler,Nike love this brand,941,149,97
+2459,Adidas,student,Adidas poor experience,180,67,16
+2460,Adidas,traveler,Adidas bad quality,228,37,50
+2461,Adidas,influencer,Adidas great quality,1021,23,77
+2462,Adidas,student,Adidas average experience,280,137,22
+2463,Puma,traveler,Puma okay product,335,14,6
+2464,Nike,athlete,Nike great quality,668,49,70
+2465,Puma,student,Puma very comfortable,1182,30,136
+2466,Puma,traveler,Puma very comfortable,1083,97,89
+2467,Puma,traveler,Puma okay product,571,22,93
+2468,Puma,athlete,Puma okay product,500,168,108
+2469,Nike,traveler,Nike very comfortable,815,49,89
+2470,Nike,student,Nike average experience,423,145,69
+2471,Puma,student,Puma not worth it,282,123,90
+2472,Nike,athlete,Nike average experience,426,68,105
+2473,Adidas,athlete,Adidas nothing special,496,117,117
+2474,Nike,influencer,Nike okay product,498,15,87
+2475,Adidas,influencer,Adidas not worth it,205,72,112
+2476,Nike,influencer,Nike okay product,450,177,61
+2477,Nike,influencer,Nike average experience,385,21,134
+2478,Adidas,traveler,Adidas love this brand,982,33,105
+2479,Puma,athlete,Puma average experience,501,61,118
+2480,Nike,influencer,Nike bad quality,191,130,52
+2481,Nike,traveler,Nike very comfortable,824,199,47
+2482,Adidas,traveler,Adidas poor experience,250,126,34
+2483,Adidas,influencer,Adidas bad quality,128,33,106
+2484,Nike,influencer,Nike okay product,474,117,52
+2485,Puma,influencer,Puma average experience,391,167,105
+2486,Nike,student,Nike love this brand,737,107,76
+2487,Adidas,athlete,Adidas bad quality,71,142,81
+2488,Nike,student,Nike great quality,1102,105,127
+2489,Puma,influencer,Puma nothing special,394,11,68
+2490,Nike,influencer,Nike nothing special,232,172,117
+2491,Puma,influencer,Puma not worth it,162,156,74
+2492,Puma,influencer,Puma okay product,429,199,26
+2493,Adidas,student,Adidas love this brand,963,197,110
+2494,Nike,student,Nike okay product,226,96,50
+2495,Adidas,athlete,Adidas love this brand,538,174,137
+2496,Puma,athlete,Puma okay product,217,105,54
+2497,Nike,traveler,Nike poor experience,239,62,38
+2498,Nike,traveler,Nike very disappointing,275,16,36
+2499,Puma,influencer,Puma amazing product,665,92,52
+2500,Adidas,student,Adidas very comfortable,968,38,83
+2501,Nike,athlete,Nike love this brand,531,97,20
+2502,Adidas,influencer,Adidas amazing product,1097,151,64
+2503,Adidas,traveler,Adidas not worth it,279,68,65
+2504,Adidas,student,Adidas very disappointing,164,65,86
+2505,Nike,influencer,Nike not worth it,213,186,14
+2506,Nike,traveler,Nike love this brand,1188,152,63
+2507,Adidas,student,Adidas poor experience,260,79,60
+2508,Nike,student,Nike bad quality,62,60,89
+2509,Adidas,athlete,Adidas great quality,1136,43,146
+2510,Adidas,athlete,Adidas nothing special,242,19,124
+2511,Adidas,student,Adidas very comfortable,703,178,25
+2512,Puma,athlete,Puma nothing special,305,84,110
+2513,Nike,traveler,Nike nothing special,398,72,34
+2514,Puma,athlete,Puma bad quality,186,150,21
+2515,Nike,traveler,Nike average experience,211,108,109
+2516,Puma,influencer,Puma very disappointing,120,107,65
+2517,Adidas,traveler,Adidas poor experience,260,187,51
+2518,Puma,student,Puma okay product,549,148,6
+2519,Nike,athlete,Nike nothing special,499,11,126
+2520,Puma,traveler,Puma okay product,374,86,79
+2521,Adidas,traveler,Adidas love this brand,942,19,146
+2522,Adidas,influencer,Adidas great quality,564,185,26
+2523,Puma,athlete,Puma not worth it,233,112,44
+2524,Adidas,student,Adidas nothing special,434,81,30
+2525,Adidas,influencer,Adidas average experience,324,87,54
+2526,Adidas,traveler,Adidas amazing product,864,122,31
+2527,Adidas,traveler,Adidas love this brand,594,95,7
+2528,Adidas,influencer,Adidas okay product,387,175,31
+2529,Nike,influencer,Nike amazing product,755,131,53
+2530,Adidas,student,Adidas amazing product,1131,46,58
+2531,Adidas,athlete,Adidas okay product,243,46,27
+2532,Adidas,athlete,Adidas very comfortable,1139,31,119
+2533,Adidas,influencer,Adidas very disappointing,139,183,16
+2534,Adidas,influencer,Adidas not worth it,177,152,112
+2535,Puma,influencer,Puma nothing special,458,157,14
+2536,Nike,influencer,Nike love this brand,890,75,121
+2537,Puma,influencer,Puma love this brand,511,121,68
+2538,Nike,influencer,Nike amazing product,1177,91,95
+2539,Adidas,athlete,Adidas love this brand,770,98,22
+2540,Puma,student,Puma very disappointing,201,108,149
+2541,Adidas,traveler,Adidas okay product,238,47,80
+2542,Nike,traveler,Nike okay product,555,135,116
+2543,Nike,athlete,Nike okay product,207,159,42
+2544,Puma,influencer,Puma nothing special,345,58,23
+2545,Adidas,student,Adidas very disappointing,121,133,123
+2546,Puma,athlete,Puma poor experience,150,155,150
+2547,Nike,athlete,Nike nothing special,230,67,104
+2548,Nike,influencer,Nike love this brand,1027,169,16
+2549,Adidas,student,Adidas poor experience,169,154,118
+2550,Puma,student,Puma not worth it,135,37,112
+2551,Nike,traveler,Nike average experience,230,91,84
+2552,Nike,influencer,Nike love this brand,770,144,73
+2553,Nike,influencer,Nike okay product,278,197,114
+2554,Adidas,athlete,Adidas nothing special,461,145,104
+2555,Puma,student,Puma great quality,680,115,57
+2556,Nike,influencer,Nike love this brand,1067,83,57
+2557,Nike,traveler,Nike amazing product,690,35,149
+2558,Puma,athlete,Puma love this brand,900,28,142
+2559,Adidas,influencer,Adidas very disappointing,289,27,123
+2560,Adidas,traveler,Adidas very comfortable,579,82,9
+2561,Puma,student,Puma very comfortable,1017,172,59
+2562,Nike,influencer,Nike okay product,561,24,12
+2563,Adidas,athlete,Adidas love this brand,704,59,23
+2564,Puma,athlete,Puma average experience,218,138,15
+2565,Nike,influencer,Nike average experience,412,84,139
+2566,Nike,traveler,Nike average experience,345,83,20
+2567,Nike,athlete,Nike very comfortable,854,129,143
+2568,Puma,influencer,Puma love this brand,962,105,51
+2569,Puma,traveler,Puma bad quality,230,67,49
+2570,Adidas,influencer,Adidas very comfortable,1139,181,106
+2571,Puma,influencer,Puma average experience,476,162,28
+2572,Nike,student,Nike poor experience,298,133,103
+2573,Nike,traveler,Nike bad quality,259,187,25
+2574,Adidas,student,Adidas average experience,215,104,97
+2575,Puma,student,Puma average experience,573,177,45
+2576,Puma,athlete,Puma not worth it,215,77,54
+2577,Puma,athlete,Puma nothing special,578,140,129
+2578,Puma,influencer,Puma poor experience,229,157,13
+2579,Adidas,athlete,Adidas not worth it,139,73,142
+2580,Adidas,student,Adidas okay product,338,26,129
+2581,Nike,influencer,Nike average experience,518,13,56
+2582,Nike,traveler,Nike amazing product,1161,56,95
+2583,Nike,influencer,Nike very disappointing,137,118,20
+2584,Adidas,influencer,Adidas okay product,211,180,140
+2585,Adidas,influencer,Adidas bad quality,167,47,67
+2586,Nike,student,Nike great quality,553,183,82
+2587,Adidas,traveler,Adidas bad quality,222,89,55
+2588,Adidas,traveler,Adidas nothing special,445,18,43
+2589,Puma,student,Puma not worth it,112,31,53
+2590,Adidas,student,Adidas very comfortable,659,93,107
+2591,Nike,athlete,Nike great quality,716,140,138
+2592,Nike,athlete,Nike love this brand,961,61,88
+2593,Puma,influencer,Puma average experience,439,76,113
+2594,Nike,influencer,Nike bad quality,240,64,9
+2595,Adidas,athlete,Adidas not worth it,218,109,84
+2596,Nike,traveler,Nike love this brand,638,101,108
+2597,Nike,traveler,Nike very comfortable,638,110,90
+2598,Nike,athlete,Nike poor experience,242,149,127
+2599,Nike,traveler,Nike nothing special,414,134,31
+2600,Adidas,athlete,Adidas amazing product,656,24,79
+2601,Adidas,student,Adidas amazing product,791,72,97
+2602,Puma,athlete,Puma great quality,987,81,62
+2603,Nike,athlete,Nike okay product,409,41,80
+2604,Adidas,influencer,Adidas poor experience,176,174,88
+2605,Adidas,student,Adidas great quality,742,90,101
+2606,Nike,athlete,Nike average experience,346,193,122
+2607,Puma,student,Puma amazing product,543,187,34
+2608,Nike,traveler,Nike bad quality,277,82,77
+2609,Puma,athlete,Puma nothing special,389,138,124
+2610,Puma,student,Puma nothing special,325,57,130
+2611,Nike,traveler,Nike great quality,995,88,92
+2612,Puma,student,Puma average experience,543,47,74
+2613,Puma,athlete,Puma average experience,445,158,125
+2614,Nike,student,Nike not worth it,145,90,19
+2615,Nike,student,Nike very comfortable,977,188,52
+2616,Nike,student,Nike bad quality,67,98,71
+2617,Puma,athlete,Puma poor experience,143,164,62
+2618,Adidas,influencer,Adidas okay product,392,25,128
+2619,Nike,athlete,Nike very disappointing,264,175,11
+2620,Puma,athlete,Puma average experience,442,11,89
+2621,Puma,student,Puma not worth it,102,99,13
+2622,Adidas,influencer,Adidas very comfortable,782,40,78
+2623,Puma,athlete,Puma very disappointing,113,91,79
+2624,Puma,student,Puma very comfortable,534,178,108
+2625,Puma,influencer,Puma poor experience,270,158,135
+2626,Adidas,athlete,Adidas okay product,565,198,112
+2627,Puma,student,Puma okay product,305,99,70
+2628,Puma,athlete,Puma not worth it,188,22,25
+2629,Puma,influencer,Puma great quality,811,123,108
+2630,Puma,athlete,Puma nothing special,268,135,86
+2631,Nike,student,Nike not worth it,116,35,45
+2632,Nike,influencer,Nike okay product,290,56,147
+2633,Puma,student,Puma love this brand,919,35,48
+2634,Adidas,student,Adidas average experience,443,127,119
+2635,Nike,student,Nike okay product,346,37,149
+2636,Adidas,traveler,Adidas very comfortable,656,74,11
+2637,Adidas,student,Adidas great quality,951,153,139
+2638,Adidas,traveler,Adidas not worth it,280,26,140
+2639,Adidas,athlete,Adidas average experience,317,124,28
+2640,Adidas,athlete,Adidas very disappointing,200,192,73
+2641,Nike,influencer,Nike very comfortable,1183,103,81
+2642,Adidas,student,Adidas very disappointing,221,42,97
+2643,Adidas,traveler,Adidas nothing special,327,169,65
+2644,Puma,student,Puma love this brand,907,184,124
+2645,Nike,athlete,Nike nothing special,469,100,114
+2646,Adidas,traveler,Adidas bad quality,138,87,102
+2647,Puma,traveler,Puma average experience,393,129,16
+2648,Adidas,influencer,Adidas nothing special,229,176,66
+2649,Puma,traveler,Puma amazing product,682,145,59
+2650,Puma,influencer,Puma amazing product,614,88,31
+2651,Nike,athlete,Nike very disappointing,112,103,92
+2652,Adidas,student,Adidas okay product,388,95,77
+2653,Nike,influencer,Nike great quality,704,123,79
+2654,Nike,traveler,Nike amazing product,1188,138,80
+2655,Adidas,influencer,Adidas not worth it,157,71,11
+2656,Adidas,traveler,Adidas very disappointing,257,145,58
+2657,Adidas,traveler,Adidas nothing special,269,63,103
+2658,Puma,athlete,Puma nothing special,380,43,65
+2659,Puma,athlete,Puma nothing special,489,56,38
+2660,Puma,athlete,Puma okay product,255,198,137
+2661,Nike,student,Nike nothing special,359,176,93
+2662,Adidas,influencer,Adidas bad quality,216,133,129
+2663,Nike,traveler,Nike average experience,529,76,141
+2664,Puma,influencer,Puma amazing product,787,190,135
+2665,Puma,traveler,Puma great quality,933,43,130
+2666,Puma,traveler,Puma very disappointing,236,78,102
+2667,Adidas,student,Adidas very disappointing,284,92,44
+2668,Nike,traveler,Nike love this brand,920,111,41
+2669,Puma,traveler,Puma very comfortable,889,68,68
+2670,Adidas,student,Adidas very comfortable,585,128,64
+2671,Puma,influencer,Puma great quality,624,11,16
+2672,Nike,influencer,Nike okay product,327,54,131
+2673,Puma,athlete,Puma nothing special,242,18,73
+2674,Adidas,traveler,Adidas great quality,1193,27,9
+2675,Puma,traveler,Puma poor experience,287,138,67
+2676,Puma,athlete,Puma nothing special,286,149,126
+2677,Adidas,student,Adidas bad quality,153,48,105
+2678,Puma,influencer,Puma great quality,1176,171,60
+2679,Nike,student,Nike poor experience,150,146,18
+2680,Nike,athlete,Nike okay product,287,172,80
+2681,Nike,traveler,Nike very comfortable,989,157,34
+2682,Puma,traveler,Puma okay product,497,119,119
+2683,Adidas,student,Adidas poor experience,223,13,138
+2684,Nike,traveler,Nike nothing special,436,95,45
+2685,Adidas,student,Adidas average experience,586,93,64
+2686,Adidas,traveler,Adidas not worth it,140,103,25
+2687,Puma,traveler,Puma very comfortable,640,152,122
+2688,Puma,influencer,Puma love this brand,543,23,31
+2689,Adidas,student,Adidas nothing special,203,145,104
+2690,Nike,traveler,Nike great quality,1026,92,14
+2691,Puma,student,Puma average experience,371,47,16
+2692,Adidas,influencer,Adidas amazing product,827,48,127
+2693,Adidas,influencer,Adidas very disappointing,240,149,117
+2694,Puma,influencer,Puma average experience,488,93,41
+2695,Adidas,traveler,Adidas average experience,236,198,145
+2696,Adidas,student,Adidas nothing special,458,173,86
+2697,Nike,athlete,Nike average experience,283,176,131
+2698,Nike,influencer,Nike bad quality,197,34,17
+2699,Adidas,traveler,Adidas average experience,280,140,114
+2700,Nike,athlete,Nike amazing product,1047,156,71
+2701,Adidas,athlete,Adidas poor experience,53,114,35
+2702,Puma,athlete,Puma okay product,445,145,34
+2703,Puma,influencer,Puma great quality,1098,176,115
+2704,Nike,athlete,Nike very comfortable,678,41,71
+2705,Puma,athlete,Puma very disappointing,205,178,12
+2706,Puma,athlete,Puma very disappointing,208,79,144
+2707,Adidas,traveler,Adidas nothing special,207,26,91
+2708,Puma,student,Puma amazing product,1140,119,69
+2709,Puma,athlete,Puma very disappointing,187,47,121
+2710,Nike,traveler,Nike bad quality,243,158,74
+2711,Puma,athlete,Puma not worth it,246,117,8
+2712,Puma,student,Puma great quality,670,197,26
+2713,Adidas,athlete,Adidas great quality,767,119,32
+2714,Adidas,athlete,Adidas okay product,331,56,12
+2715,Puma,student,Puma poor experience,219,114,53
+2716,Nike,traveler,Nike very disappointing,211,26,45
+2717,Adidas,influencer,Adidas very comfortable,655,132,123
+2718,Nike,athlete,Nike love this brand,769,90,42
+2719,Puma,influencer,Puma love this brand,556,120,52
+2720,Puma,student,Puma love this brand,741,121,126
+2721,Puma,student,Puma nothing special,432,101,107
+2722,Puma,student,Puma not worth it,288,113,99
+2723,Adidas,athlete,Adidas love this brand,902,37,142
+2724,Adidas,athlete,Adidas nothing special,580,46,34
+2725,Nike,influencer,Nike average experience,567,13,128
+2726,Puma,influencer,Puma bad quality,194,58,13
+2727,Puma,traveler,Puma amazing product,1158,193,73
+2728,Puma,influencer,Puma nothing special,428,57,111
+2729,Puma,traveler,Puma love this brand,677,176,6
+2730,Puma,traveler,Puma okay product,424,160,25
+2731,Nike,influencer,Nike great quality,552,166,85
+2732,Nike,influencer,Nike very comfortable,668,95,91
+2733,Puma,traveler,Puma bad quality,187,96,110
+2734,Adidas,traveler,Adidas not worth it,92,153,84
+2735,Adidas,student,Adidas amazing product,1023,118,14
+2736,Puma,influencer,Puma bad quality,245,170,124
+2737,Puma,influencer,Puma great quality,1089,170,120
+2738,Puma,influencer,Puma nothing special,408,38,71
+2739,Puma,athlete,Puma amazing product,1009,72,99
+2740,Adidas,athlete,Adidas nothing special,570,90,82
+2741,Adidas,athlete,Adidas poor experience,184,144,9
+2742,Adidas,student,Adidas very comfortable,1078,33,10
+2743,Puma,traveler,Puma poor experience,245,37,97
+2744,Puma,traveler,Puma very disappointing,147,144,73
+2745,Nike,traveler,Nike okay product,340,128,9
+2746,Puma,athlete,Puma nothing special,503,135,140
+2747,Nike,student,Nike bad quality,87,62,145
+2748,Puma,traveler,Puma not worth it,254,178,11
+2749,Puma,traveler,Puma great quality,870,49,21
+2750,Puma,traveler,Puma amazing product,1164,66,120
+2751,Adidas,influencer,Adidas love this brand,819,62,95
+2752,Adidas,student,Adidas average experience,600,190,98
+2753,Nike,influencer,Nike poor experience,197,155,31
+2754,Adidas,influencer,Adidas not worth it,237,27,148
+2755,Adidas,athlete,Adidas poor experience,107,167,117
+2756,Adidas,student,Adidas okay product,535,17,15
+2757,Puma,traveler,Puma not worth it,129,136,138
+2758,Puma,athlete,Puma bad quality,192,11,25
+2759,Nike,traveler,Nike nothing special,235,109,82
+2760,Adidas,traveler,Adidas okay product,282,157,93
+2761,Nike,athlete,Nike nothing special,235,95,72
+2762,Nike,influencer,Nike not worth it,255,180,124
+2763,Nike,student,Nike average experience,220,159,101
+2764,Nike,student,Nike average experience,205,167,99
+2765,Adidas,athlete,Adidas okay product,477,18,104
+2766,Puma,student,Puma love this brand,828,35,30
+2767,Puma,influencer,Puma bad quality,212,77,74
+2768,Puma,athlete,Puma nothing special,475,197,73
+2769,Adidas,athlete,Adidas nothing special,312,59,140
+2770,Adidas,traveler,Adidas not worth it,219,175,26
+2771,Puma,student,Puma amazing product,802,49,98
+2772,Nike,student,Nike love this brand,606,87,13
+2773,Nike,traveler,Nike love this brand,1146,163,16
+2774,Nike,traveler,Nike not worth it,258,116,69
+2775,Adidas,traveler,Adidas very disappointing,95,33,128
+2776,Adidas,influencer,Adidas great quality,956,182,39
+2777,Adidas,student,Adidas nothing special,332,74,132
+2778,Puma,influencer,Puma average experience,306,113,27
+2779,Nike,influencer,Nike poor experience,116,42,12
+2780,Adidas,student,Adidas nothing special,254,108,120
+2781,Nike,athlete,Nike love this brand,941,170,48
+2782,Nike,athlete,Nike very comfortable,987,199,128
+2783,Nike,student,Nike very comfortable,904,95,140
+2784,Puma,student,Puma poor experience,133,91,36
+2785,Adidas,athlete,Adidas bad quality,195,195,100
+2786,Nike,traveler,Nike great quality,786,34,32
+2787,Puma,traveler,Puma love this brand,1039,11,75
+2788,Puma,influencer,Puma very comfortable,991,115,102
+2789,Nike,influencer,Nike not worth it,174,122,138
+2790,Nike,traveler,Nike very comfortable,1044,75,145
+2791,Adidas,influencer,Adidas poor experience,89,159,106
+2792,Nike,student,Nike okay product,426,98,77
+2793,Adidas,influencer,Adidas not worth it,170,187,47
+2794,Adidas,athlete,Adidas poor experience,142,132,24
+2795,Nike,influencer,Nike nothing special,524,146,39
+2796,Nike,athlete,Nike amazing product,790,21,80
+2797,Adidas,influencer,Adidas okay product,531,148,52
+2798,Adidas,student,Adidas very disappointing,187,164,68
+2799,Adidas,traveler,Adidas nothing special,568,24,65
+2800,Puma,student,Puma okay product,438,177,106
+2801,Adidas,influencer,Adidas very disappointing,295,199,102
+2802,Adidas,influencer,Adidas very comfortable,588,177,14
+2803,Adidas,student,Adidas great quality,829,113,125
+2804,Adidas,traveler,Adidas very disappointing,275,116,108
+2805,Nike,student,Nike average experience,567,128,10
+2806,Nike,influencer,Nike bad quality,235,175,114
+2807,Puma,traveler,Puma very disappointing,249,157,34
+2808,Nike,student,Nike love this brand,765,91,46
+2809,Nike,influencer,Nike average experience,523,168,110
+2810,Nike,traveler,Nike amazing product,827,174,92
+2811,Puma,influencer,Puma nothing special,563,69,95
+2812,Nike,traveler,Nike poor experience,60,139,85
+2813,Puma,athlete,Puma nothing special,591,171,94
+2814,Nike,student,Nike love this brand,747,145,125
+2815,Nike,athlete,Nike love this brand,1121,197,116
+2816,Nike,athlete,Nike not worth it,208,108,45
+2817,Puma,athlete,Puma not worth it,212,98,64
+2818,Puma,athlete,Puma not worth it,79,170,59
+2819,Nike,influencer,Nike average experience,528,49,44
+2820,Puma,student,Puma poor experience,209,173,42
+2821,Adidas,traveler,Adidas nothing special,333,141,67
+2822,Adidas,student,Adidas okay product,439,45,96
+2823,Nike,traveler,Nike okay product,342,159,121
+2824,Puma,student,Puma amazing product,726,73,67
+2825,Puma,traveler,Puma very comfortable,1125,58,113
+2826,Nike,traveler,Nike average experience,548,153,125
+2827,Nike,athlete,Nike amazing product,734,34,103
+2828,Nike,athlete,Nike nothing special,396,197,43
+2829,Nike,athlete,Nike nothing special,443,48,18
+2830,Puma,traveler,Puma amazing product,510,58,52
+2831,Puma,traveler,Puma not worth it,172,62,93
+2832,Puma,athlete,Puma poor experience,76,151,95
+2833,Nike,student,Nike very disappointing,194,67,119
+2834,Puma,traveler,Puma very disappointing,104,125,39
+2835,Adidas,traveler,Adidas amazing product,824,77,88
+2836,Nike,student,Nike great quality,1146,17,88
+2837,Adidas,influencer,Adidas great quality,1178,200,67
+2838,Puma,athlete,Puma love this brand,806,142,130
+2839,Adidas,student,Adidas amazing product,1168,112,149
+2840,Puma,athlete,Puma amazing product,689,28,54
+2841,Adidas,student,Adidas bad quality,243,111,144
+2842,Puma,influencer,Puma very disappointing,88,49,115
+2843,Nike,influencer,Nike very comfortable,667,184,137
+2844,Nike,traveler,Nike amazing product,1168,79,115
+2845,Nike,traveler,Nike love this brand,908,145,125
+2846,Nike,student,Nike okay product,200,32,79
+2847,Nike,athlete,Nike okay product,530,54,6
+2848,Puma,student,Puma not worth it,76,91,78
+2849,Adidas,traveler,Adidas okay product,577,149,128
+2850,Puma,traveler,Puma very disappointing,56,128,71
+2851,Puma,student,Puma poor experience,71,63,73
+2852,Puma,traveler,Puma love this brand,754,10,96
+2853,Puma,influencer,Puma very disappointing,250,83,23
+2854,Nike,traveler,Nike poor experience,144,120,119
+2855,Adidas,traveler,Adidas bad quality,64,52,90
+2856,Adidas,athlete,Adidas okay product,464,197,36
+2857,Nike,influencer,Nike okay product,593,106,43
+2858,Adidas,student,Adidas great quality,820,98,140
+2859,Nike,traveler,Nike love this brand,653,154,129
+2860,Nike,influencer,Nike average experience,514,15,73
+2861,Adidas,athlete,Adidas amazing product,720,33,25
+2862,Nike,traveler,Nike very disappointing,63,161,87
+2863,Adidas,athlete,Adidas amazing product,772,196,74
+2864,Nike,influencer,Nike love this brand,500,85,69
+2865,Puma,student,Puma poor experience,207,29,51
+2866,Adidas,traveler,Adidas average experience,498,144,85
+2867,Nike,athlete,Nike great quality,940,159,56
+2868,Adidas,athlete,Adidas average experience,359,176,116
+2869,Nike,influencer,Nike okay product,438,186,131
+2870,Adidas,athlete,Adidas poor experience,126,144,73
+2871,Adidas,traveler,Adidas not worth it,103,114,56
+2872,Adidas,athlete,Adidas not worth it,157,45,93
+2873,Adidas,traveler,Adidas average experience,220,147,62
+2874,Puma,influencer,Puma average experience,585,66,135
+2875,Puma,influencer,Puma average experience,522,31,98
+2876,Puma,influencer,Puma very comfortable,747,53,47
+2877,Puma,athlete,Puma great quality,813,171,71
+2878,Puma,student,Puma amazing product,660,73,95
+2879,Adidas,student,Adidas love this brand,649,54,6
+2880,Nike,student,Nike amazing product,879,191,93
+2881,Nike,student,Nike okay product,578,56,10
+2882,Adidas,athlete,Adidas nothing special,254,111,96
+2883,Nike,influencer,Nike very disappointing,117,91,91
+2884,Puma,athlete,Puma very comfortable,982,29,32
+2885,Puma,influencer,Puma not worth it,108,136,149
+2886,Puma,student,Puma okay product,543,177,132
+2887,Nike,influencer,Nike not worth it,70,123,117
+2888,Nike,traveler,Nike bad quality,75,70,46
+2889,Nike,influencer,Nike okay product,576,71,118
+2890,Puma,athlete,Puma poor experience,75,93,61
+2891,Nike,influencer,Nike poor experience,266,23,42
+2892,Puma,athlete,Puma bad quality,58,194,67
+2893,Puma,influencer,Puma love this brand,700,10,107
+2894,Puma,traveler,Puma bad quality,291,98,130
+2895,Puma,traveler,Puma poor experience,276,143,24
+2896,Adidas,student,Adidas very comfortable,615,22,107
+2897,Adidas,student,Adidas nothing special,456,95,28
+2898,Adidas,athlete,Adidas not worth it,132,99,99
+2899,Adidas,traveler,Adidas very comfortable,829,127,39
+2900,Puma,traveler,Puma average experience,587,159,100
+2901,Nike,traveler,Nike bad quality,298,74,145
+2902,Nike,influencer,Nike bad quality,142,149,33
+2903,Puma,athlete,Puma nothing special,274,85,128
+2904,Nike,athlete,Nike very comfortable,1168,188,146
+2905,Adidas,influencer,Adidas bad quality,105,28,72
+2906,Puma,student,Puma great quality,616,103,112
+2907,Nike,athlete,Nike nothing special,209,16,40
+2908,Adidas,student,Adidas not worth it,57,38,23
+2909,Adidas,athlete,Adidas love this brand,911,149,17
+2910,Adidas,athlete,Adidas poor experience,243,29,10
+2911,Adidas,influencer,Adidas poor experience,239,83,60
+2912,Adidas,traveler,Adidas poor experience,79,184,77
+2913,Nike,athlete,Nike very comfortable,1010,103,57
+2914,Adidas,athlete,Adidas average experience,463,75,128
+2915,Nike,traveler,Nike very disappointing,249,31,121
+2916,Adidas,student,Adidas average experience,562,85,54
+2917,Nike,student,Nike average experience,446,188,87
+2918,Puma,traveler,Puma poor experience,98,184,35
+2919,Adidas,student,Adidas very disappointing,197,152,43
+2920,Adidas,athlete,Adidas very disappointing,88,24,18
+2921,Puma,traveler,Puma poor experience,82,29,43
+2922,Nike,athlete,Nike bad quality,81,53,105
+2923,Adidas,student,Adidas nothing special,243,94,108
+2924,Nike,student,Nike nothing special,272,77,77
+2925,Nike,student,Nike amazing product,694,145,141
+2926,Adidas,traveler,Adidas very comfortable,755,39,60
+2927,Puma,influencer,Puma great quality,966,169,24
+2928,Nike,influencer,Nike average experience,233,32,141
+2929,Adidas,athlete,Adidas amazing product,798,99,114
+2930,Adidas,student,Adidas nothing special,224,30,12
+2931,Nike,traveler,Nike average experience,399,112,98
+2932,Puma,influencer,Puma nothing special,530,85,139
+2933,Puma,student,Puma poor experience,76,38,44
+2934,Puma,athlete,Puma okay product,373,151,141
+2935,Nike,athlete,Nike nothing special,512,188,6
+2936,Adidas,influencer,Adidas very disappointing,194,143,86
+2937,Nike,student,Nike great quality,567,94,86
+2938,Adidas,traveler,Adidas not worth it,151,15,99
+2939,Adidas,athlete,Adidas very comfortable,616,179,48
+2940,Nike,student,Nike okay product,269,159,146
+2941,Puma,student,Puma okay product,579,121,24
+2942,Nike,traveler,Nike love this brand,1022,140,142
+2943,Adidas,athlete,Adidas okay product,579,44,116
+2944,Adidas,athlete,Adidas bad quality,243,183,88
+2945,Puma,influencer,Puma very comfortable,680,160,58
+2946,Adidas,traveler,Adidas bad quality,257,197,64
+2947,Nike,traveler,Nike very comfortable,842,91,74
+2948,Puma,student,Puma okay product,446,184,116
+2949,Nike,influencer,Nike average experience,304,15,105
+2950,Puma,traveler,Puma great quality,728,44,135
+2951,Puma,athlete,Puma bad quality,76,62,146
+2952,Puma,traveler,Puma amazing product,734,195,133
+2953,Puma,student,Puma poor experience,284,113,45
+2954,Puma,influencer,Puma poor experience,82,42,122
+2955,Nike,athlete,Nike amazing product,630,84,101
+2956,Nike,athlete,Nike nothing special,228,162,30
+2957,Adidas,student,Adidas nothing special,243,123,30
+2958,Puma,student,Puma nothing special,340,70,6
+2959,Nike,student,Nike average experience,272,52,140
+2960,Puma,influencer,Puma poor experience,121,177,11
+2961,Adidas,traveler,Adidas poor experience,97,131,80
+2962,Nike,student,Nike okay product,489,170,143
+2963,Adidas,athlete,Adidas very comfortable,671,58,43
+2964,Puma,influencer,Puma love this brand,977,67,84
+2965,Adidas,traveler,Adidas nothing special,219,181,36
+2966,Nike,influencer,Nike love this brand,657,189,139
+2967,Nike,athlete,Nike not worth it,241,43,120
+2968,Nike,influencer,Nike amazing product,1034,85,69
+2969,Adidas,athlete,Adidas very disappointing,134,107,73
+2970,Puma,traveler,Puma nothing special,450,64,113
+2971,Nike,influencer,Nike not worth it,122,49,118
+2972,Nike,athlete,Nike okay product,557,81,24
+2973,Adidas,student,Adidas nothing special,319,107,137
+2974,Nike,traveler,Nike very disappointing,97,57,24
+2975,Puma,influencer,Puma love this brand,565,90,44
+2976,Adidas,student,Adidas okay product,549,190,23
+2977,Nike,traveler,Nike okay product,334,186,65
+2978,Adidas,athlete,Adidas great quality,511,54,15
+2979,Nike,athlete,Nike amazing product,1042,37,32
+2980,Nike,influencer,Nike nothing special,249,51,58
+2981,Nike,traveler,Nike very disappointing,97,173,78
+2982,Nike,student,Nike poor experience,176,138,57
+2983,Puma,student,Puma amazing product,769,31,66
+2984,Puma,student,Puma very disappointing,251,99,112
+2985,Nike,influencer,Nike not worth it,230,80,70
+2986,Nike,influencer,Nike not worth it,50,138,149
+2987,Nike,student,Nike bad quality,163,166,68
+2988,Nike,athlete,Nike bad quality,90,58,77
+2989,Puma,traveler,Puma amazing product,878,180,123
+2990,Nike,influencer,Nike very comfortable,777,102,57
+2991,Adidas,traveler,Adidas very comfortable,584,117,54
+2992,Puma,athlete,Puma average experience,338,122,47
+2993,Adidas,student,Adidas nothing special,269,72,135
+2994,Nike,athlete,Nike very comfortable,1164,81,58
+2995,Nike,influencer,Nike okay product,521,11,17
+2996,Nike,influencer,Nike bad quality,275,162,113
+2997,Puma,influencer,Puma very comfortable,630,121,86
+2998,Puma,athlete,Puma great quality,741,93,137
+2999,Nike,influencer,Nike very comfortable,964,70,100
+3000,Nike,influencer,Nike average experience,477,106,16
